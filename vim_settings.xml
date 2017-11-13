@@ -63,8 +63,11 @@
       <file name="/Class.txt.ft" timestamp="1500082755703">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_kerberos2kafka/src/main/production-resources/application.properties" timestamp="1510553127312">
-        <mark key="[" line="0" column="7" />
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_kerberos2kafka/src/main/production-resources/application.properties" timestamp="1510553883374">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="5" column="14" />
       </file>
       <file name="C:/code/kafkaclient/src/main/java/Application.java" timestamp="1510553053301">
         <mark key="[" line="24" column="90" />
@@ -88,17 +91,17 @@
       <jump line="272" column="43" filename="C:/code/MDH_DATA/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LUR1c2VyLm5hbWU9c3VuemhpcWlhbmdAYWlvdXRlLmNvbQo=</text>
+      <register name="&quot;" type="4">
+        <text>group</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bXYg</text>
+        <text>group</text>
       </register>
       <register name="/" type="4">
         <text>type</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LUR1c2VyLm5hbWU9c3VuemhpcWlhbmdAYWlvdXRlLmNvbQo=</text>
+      <register name="0" type="4">
+        <text>data_mv_0001</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0cnkgcG9sbCIpOwo=</text>
