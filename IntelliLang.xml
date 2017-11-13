@@ -1,0 +1,24 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JSON" injector-id="java">
+      <display-name>PrintWriter.println (java.io)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("println").withParameters("java.lang.String").definedInClass("java.io.PrintWriter"))]]></place>
+    </injection>
+    <injection language="JSON" injector-id="java">
+      <display-name>WechatController.createOrder (com.dx.ucupay.wechat.controller)</display-name>
+      <place><![CDATA[psiMethod().withName("createOrder").withParameters("com.dx.ucupay.wechat.bean.CreateOrderRequestBean").definedInClass("com.dx.ucupay.wechat.controller.WechatController")]]></place>
+    </injection>
+    <injection language="Oracle" injector-id="xml">
+      <display-name>insert</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("insert")).withNamespace(string().equalTo("http://mybatis.org/dtd/mybatis-3-mapper.dtd"))]]></place>
+    </injection>
+    <injection language="Oracle" injector-id="xml">
+      <display-name>select</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("select")).withNamespace(string().equalTo("http://mybatis.org/dtd/mybatis-3-mapper.dtd"))]]></place>
+    </injection>
+    <injection language="Oracle" injector-id="xml">
+      <display-name>update</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("update")).withNamespace(string().equalTo("http://mybatis.org/dtd/mybatis-3-mapper.dtd"))]]></place>
+    </injection>
+  </component>
+</application>
