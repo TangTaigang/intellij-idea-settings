@@ -77,7 +77,7 @@
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510645111263">
+      <file name="/Dummy.txt" timestamp="1510646352234">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -128,10 +128,11 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
-      <file name="C:/code/MDHTrafficMapReduce/pom.xml" timestamp="1510643930537">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+      <file name="C:/code/MDHTrafficMapReduce/pom.xml" timestamp="1510646069529">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="37" />
+        <mark key="." line="9" column="37" />
+        <mark key="^" line="9" column="37" />
       </file>
       <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/web/ESController.java" timestamp="1510629051734">
         <mark key="[" line="229" column="70" />
@@ -175,8 +176,8 @@
       <jump line="54" column="12" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FootHoldByDayMR.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8ZmlsdGVycz48L2ZpbHRlcnM+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -188,31 +189,31 @@
         <text encoding="base64">IyBGb290SG9sZEJ5RGF5TVIKZm9vdEhvbGQuaGJhc2UudGFibGVOYW1lPWNhcl90cmF2ZWxfMjg4Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGF5SGlkZU5pZ2h0T3V0LmdldFBhc3NEYXRlKCkK</text>
+        <text encoding="base64">ICAgICAgICA8ZmlsdGVycz48L2ZpbHRlcnM+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGF5SGlkZU5pZ2h0T3V0LmdldFBhc3NEYXRlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2dnZXIgPSBMb2dnZXIuZ2V0TG9nZ2VyKERheUhpZGVOaWdodE91dEJ5RGF5LmNsYXNzKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuYXBhY2hlLmhhZG9vcC5tZXRyaWNzMi5pbXBsLk1zSW5mby5Db250ZXh0Owo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2dnZXIgPSBMb2dnZXIuZ2V0TG9nZ2VyKERheUhpZGVOaWdodE91dEJ5RGF5LmNsYXNzKTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuYXBhY2hlLmhhZG9vcC5tZXRyaWNzMi5pbXBsLk1zSW5mby5Db250ZXh0Owo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1dC5hZGRDb2x1bW4oQnl0ZXMudG9CeXRlcygiaW5mbyIpLCBCeXRlcy50b0J5dGVzKCJlbmRUaW1lIiksIEJ5dGVzLnRvQnl0ZXMoZmhiLmdldEVuZFRpbWUoKSkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuYXBhY2hlLmhhZG9vcC5tZXRyaWNzMi5pbXBsLk1zSW5mby5Db250ZXh0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1dC5hZGRDb2x1bW4oQnl0ZXMudG9CeXRlcygiaW5mbyIpLCBCeXRlcy50b0J5dGVzKCJlbmRDb2RlIiksIEJ5dGVzLnRvQnl0ZXMoZmhiLmdldEVuZENvZGUoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1dC5hZGRDb2x1bW4oQnl0ZXMudG9CeXRlcygiaW5mbyIpLCBCeXRlcy50b0J5dGVzKCJlbmRUaW1lIiksIEJ5dGVzLnRvQnl0ZXMoZmhiLmdldEVuZFRpbWUoKSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlSW5wdXRGb3JtYXQuYWRkSW5wdXRQYXRoKGpvYiwgbmV3IFBhdGgoYXJnc1swXSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1dC5hZGRDb2x1bW4oQnl0ZXMudG9CeXRlcygiaW5mbyIpLCBCeXRlcy50b0J5dGVzKCJlbmRDb2RlIiksIEJ5dGVzLnRvQnl0ZXMoZmhiLmdldEVuZENvZGUoKSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/begin/end/g</text>
