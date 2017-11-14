@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/dao/ESDao.java" timestamp="1510622381484" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_storm_bsc/src/main/java/com/miras/data/passinf/bolt/TravelPathBolt.java" timestamp="1510563506355">
         <mark key="'" line="53" column="8" />
         <mark key="[" line="61" column="9" />
@@ -23,6 +22,13 @@
         <mark key="^" line="103" column="20" />
         <mark key="." line="103" column="20" />
       </file>
+      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FootHoldByDayMR.java" timestamp="1510642090916">
+        <mark key="'" line="54" column="12" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="94" column="15" />
+      </file>
       <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/service/TravelService.java" timestamp="1510629288086">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -35,12 +41,11 @@
         <mark key="." line="56" column="35" />
         <mark key="^" line="56" column="35" />
       </file>
-      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarRouteCombineMR.java" timestamp="1510635369185">
+      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarRouteCombineMR.java" timestamp="1510641466937">
         <mark key="'" line="69" column="38" />
-        <mark key="[" line="54" column="115" />
-        <mark key="]" line="54" column="115" />
-        <mark key="." line="54" column="115" />
-        <mark key="^" line="54" column="115" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_kerberos2kafka/src/main/resources/application.properties" timestamp="1510553626753">
         <mark key="[" line="4" column="22" />
@@ -48,7 +53,7 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="15" column="68" />
       </file>
-      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarActivity288.java" timestamp="1510635322084" />
+      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarActivity288.java" timestamp="1510642069261" />
       <file name="/Catch Statement Body.txt.ft" timestamp="1500082761610">
         <mark key="[" line="0" column="0" />
       </file>
@@ -65,6 +70,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/entity/FootHoldByDay.java" timestamp="1510641894347">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/pom.xml" timestamp="1510545583001">
         <mark key="[" line="55" column="16" />
@@ -95,7 +105,6 @@
         <mark key="." line="36" column="33" />
         <mark key="^" line="36" column="33" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/stream/Stream.java" timestamp="1510631626643" />
       <file name="/Class.txt.ft" timestamp="1500082755703">
         <mark key="[" line="0" column="0" />
       </file>
@@ -128,8 +137,6 @@
         <mark key="^" line="25" column="8" />
         <mark key="." line="25" column="8" />
       </file>
-      <file name="C:/code/MDHTrafficDataJudgment/src/main/resources/htsite.properties" timestamp="1510624818708" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.1.3/hbase-client-1.1.3-sources.jar!/org/apache/hadoop/hbase/client/Increment.java" timestamp="1510635152667" />
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1510553803625">
         <mark key="[" line="13" column="34" />
         <mark key="]" line="14" column="20" />
@@ -154,56 +161,58 @@
       <jump line="44" column="8" filename="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_storm_bsc/src/main/java/com/miras/data/passinf/bolt/TravelPathBolt.java" />
       <jump line="82" column="15" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/CarActivity288.java" />
       <jump line="60" column="38" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarRouteCombineMR.java" />
+      <jump line="53" column="15" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FootHoldByDayMR.java" />
+      <jump line="54" column="12" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FootHoldByDayMR.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>put</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBqb2Iuc2V0VAo=</text>
       </register>
       <register name="-" type="4">
-        <text>put</text>
+        <text>conf</text>
       </register>
       <register name="/" type="4">
-        <text>prev</text>
+        <text>begin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChEQVRFX1BBVFRFUk4ubWF0Y2hlcihjb2xsZWN0RGF0ZSkubWF0Y2hlcygpKSB7CiAgICAgICAgICAgICAgICAgICAgbG9uZyB0aW1lID0gbmV3IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQgSEg6bW06c3MiKS5wYXJzZShjb2xsZWN0RGF0ZSkuZ2V0VGltZSgpOwogICAgICAgICAgICAgICAgICAgIGNvbnRleHQud3JpdGUobmV3IFRleHQoY2FyTnVtYmVyICsgIl8iICsgbGljZW5zZVR5cGUpLCBuZXcgVGV4dChTdHJpbmdVdGlscy5qb2luKEFycmF5cy5hc0xpc3QoYWRkcmVzc0NvZGUsIHRpbWUpLCAiLCIpKSk7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHV0LmFkZENvbHVtbihCeXRlcy50b0J5dGVzKCJpbmZvIiksIEJ5dGVzLnRvQnl0ZXMoImJlZ2luQ29kZSIpLCBCeXRlcy50b0J5dGVzKGZoYi5nZXRCZWdpbkNvZGUoKSkpOwogICAgICAgICAgICBwdXQuYWRkQ29sdW1uKEJ5dGVzLnRvQnl0ZXMoImluZm8iKSwgQnl0ZXMudG9CeXRlcygiYmVnaW5UaW1lIiksIEJ5dGVzLnRvQnl0ZXMoZmhiLmdldEJlZ2luVGltZSgpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dC53cml0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBqb2Iuc2V0VAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxTdHJpbmc+IHN0cmluZ3MgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGN1cnJDb2RlID0gb3JkZXJlZE1hcC5nZXQodHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJyZXN1bHQ6IiArIHJlc3VsdCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBsYXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJlc3VsdCA9IGdldFJlc3VsdChmaGIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC53cml0ZShuZXcgVGV4dChyZXN1bHQpLCBuZXcgVGV4dCgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEl0ZXJhdG9yPExvbmc+IGl0ZXJhdG9yID0gb3JkZXJlZE1hcC5rZXlTZXQoKS5pdGVyYXRvcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5jcmVtZW50LnNldAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmcgbGFzdFRpbWVzdGFtcCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIucmVkdWNlKGtleSwgdmFsdWVzLCBjb250ZXh0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgIHNiLmFwcGVuZChvdXQuZ2V0Q3JlYXRlVGltZSgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHNiLmFwcGVuZChvdXQuZ2V0SWQoKSArICIsIik7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/prev/curr/g</text>
+        <text>s/begin/end/g</text>
       </register>
     </registers>
     <search>
-      <last-search>prev</last-search>
-      <last-pattern>prev</last-pattern>
-      <last-replace>curr</last-replace>
-      <last-substitute>prev</last-substitute>
+      <last-search>begin</last-search>
+      <last-pattern>begin</last-pattern>
+      <last-replace>end</last-replace>
+      <last-substitute>begin</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
@@ -212,12 +221,14 @@
         <entry>length</entry>
         <entry>type</entry>
         <entry>prev</entry>
+        <entry>begin</entry>
       </history-search>
       <history-cmd>
         <entry>s/length/offset/g</entry>
         <entry>s/type/fileName/g</entry>
         <entry>wq</entry>
         <entry>s/prev/curr/g</entry>
+        <entry>s/begin/end/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
