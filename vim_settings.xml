@@ -35,12 +35,20 @@
         <mark key="." line="56" column="35" />
         <mark key="^" line="56" column="35" />
       </file>
+      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarRouteCombineMR.java" timestamp="1510629914934">
+        <mark key="'" line="60" column="38" />
+        <mark key="[" line="107" column="32" />
+        <mark key="]" line="107" column="32" />
+        <mark key="^" line="80" column="138" />
+        <mark key="." line="107" column="32" />
+      </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_kerberos2kafka/src/main/resources/application.properties" timestamp="1510553626753">
         <mark key="[" line="4" column="22" />
         <mark key="]" line="4" column="23" />
         <mark key="." line="4" column="23" />
         <mark key="^" line="15" column="68" />
       </file>
+      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarActivity288.java" timestamp="1510629707516" />
       <file name="/Catch Statement Body.txt.ft" timestamp="1500082761610">
         <mark key="[" line="0" column="0" />
       </file>
@@ -143,13 +151,14 @@
       <jump line="272" column="43" filename="C:/code/MDH_DATA/pom.xml" />
       <jump line="44" column="8" filename="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_storm_bsc/src/main/java/com/miras/data/passinf/bolt/TravelPathBolt.java" />
       <jump line="82" column="15" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/CarActivity288.java" />
+      <jump line="60" column="38" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarRouteCombineMR.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ImtleToiICsg</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>prev</text>
