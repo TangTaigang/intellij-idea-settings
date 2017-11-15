@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_storm_bsc/src/main/java/com/miras/data/passinf/bolt/TravelPathBolt.java" timestamp="1510563506355">
-        <mark key="'" line="53" column="8" />
-        <mark key="[" line="61" column="9" />
-        <mark key="]" line="62" column="41" />
-        <mark key="." line="62" column="41" />
-        <mark key="^" line="62" column="41" />
-      </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_storm_bsc/src/main/java/com/miras/data/passinf/bolt/VehiclePassFilterBolt.java" timestamp="1510562381356">
         <mark key="[" line="203" column="32" />
         <mark key="]" line="203" column="41" />
@@ -30,12 +23,6 @@
         <mark key="^" line="91" column="87" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.5.1/hadoop-mapreduce-client-core-2.5.1-sources.jar!/org/apache/hadoop/mapreduce/Job.java" timestamp="1510716795475" />
-      <file name="C:/code/MDHTrafficMapReduce/src/main/resources/application.properties" timestamp="1510730651728">
-        <mark key="[" line="16" column="35" />
-        <mark key="]" line="16" column="38" />
-        <mark key="." line="16" column="38" />
-        <mark key="^" line="16" column="38" />
-      </file>
       <file name="C:/code/MDHTrafficMapReduce/.gitignore" timestamp="1510723053580">
         <mark key="[" line="19" column="0" />
       </file>
@@ -51,7 +38,7 @@
         <mark key="." line="56" column="35" />
         <mark key="^" line="56" column="35" />
       </file>
-      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarRouteCombineMR.java" timestamp="1510643577347">
+      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarRouteCombineMR.java" timestamp="1510731917345">
         <mark key="'" line="69" column="38" />
         <mark key="[" line="112" column="77" />
         <mark key="]" line="112" column="85" />
@@ -83,13 +70,14 @@
         <mark key="^" line="10" column="20" />
         <mark key="." line="10" column="20" />
       </file>
+      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FirstTimeInCityMR.java" timestamp="1510731933481" />
       <file name="C:/code/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1510545411346">
         <mark key="[" line="9" column="39" />
         <mark key="]" line="9" column="38" />
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510730685488">
+      <file name="/Dummy.txt" timestamp="1510732490160">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -178,19 +166,11 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
       </file>
-      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/CarActivity288.java" timestamp="1510620692661">
-        <mark key="'" line="96" column="15" />
-        <mark key="[" line="109" column="28" />
-        <mark key="]" line="109" column="40" />
-        <mark key="^" line="109" column="40" />
-        <mark key="." line="109" column="40" />
-      </file>
-      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/DayHideNightOutByDay.java" timestamp="1510730662186">
-        <mark key="'" line="123" column="8" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="99" column="53" />
+      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/DayHideNightOutByDay.java" timestamp="1510732135202">
+        <mark key="[" line="71" column="59" />
+        <mark key="]" line="71" column="58" />
+        <mark key="." line="71" column="58" />
+        <mark key="^" line="71" column="58" />
       </file>
     </filemarks>
     <jumps>
@@ -210,10 +190,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>?</text>
+        <text>”</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>”</text>
       </register>
       <register name="/" type="4">
         <text>userName</text>
@@ -222,31 +202,31 @@
         <text encoding="base64">ZGF5SGlkZU5pZ2h0T3V0QnlEYXkuamRiYy51cmw9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGF5SGlkZU5pZ2h0T3V0QnlEYXkuamRiYy51cmw9Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlT3V0cHV0Rm9ybWF0LnNldE91dHB1dFBhdGgoam9iLCBuZXcgUGF0aChhcmdzWzFdKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGF5SGlkZU5pZ2h0T3V0QnlEYXkuamRiYy51cmw9Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlSW5wdXRGb3JtYXQuYWRkSW5wdXRQYXRoKGpvYiwgbmV3IFBhdGgoYXJnc1swXSkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDorr7nva7ovpPlh7rmoLzlvI8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGF5SGlkZU5pZ2h0T3V0QnlEYXkuaGJhc2UudGFibGVOYW1lPWNhcl90cmF2ZWxfMjg4Cg==</text>
+        <text encoding="base64">ZGF5SGlkZU5pZ2h0T3V0QnlEYXkuamRiYy51cmw9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwYXNzSW5mb1s5XSk7Cg==</text>
+        <text encoding="base64">ZGF5SGlkZU5pZ2h0T3V0QnlEYXkuamRiYy51cmw9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoQ2xhc3NOb3RGb3VuZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZGF5SGlkZU5pZ2h0T3V0QnlEYXkuaGJhc2UudGFibGVOYW1lPWNhcl90cmF2ZWxfMjg4Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwYXNzSW5mb1s5XSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25mLnNldChUYWJsZU91dHB1dEZvcm1hdC5PVVRQVVRfVEFCTEUsIHByb3BlcnRpZXMuZ2V0UHJvcGVydHkoImRheUhpZGVOaWdodE91dEJ5RGF5LmhiYXNlLnRhYmxlTmFtZSIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoQ2xhc3NOb3RGb3VuZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/userName/password/g</text>
