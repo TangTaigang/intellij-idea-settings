@@ -63,6 +63,9 @@
         <mark key="^" line="105" column="91" />
         <mark key="." line="105" column="91" />
       </file>
+      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/TravelRoute.java" timestamp="1510734567081">
+        <mark key="'" line="128" column="0" />
+      </file>
       <file name="C:/code/MDHTrafficDataSync/mdh_data_6in1_cdc_oracle/src/main/production-resources/application.properties" timestamp="1510727543346" />
       <file name="C:/code/MDHTrafficMapReduce/src/main/production-resources/application.properties" timestamp="1510721408905">
         <mark key="[" line="10" column="20" />
@@ -77,7 +80,7 @@
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510732490160">
+      <file name="/Dummy.txt" timestamp="1510734414979">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -187,13 +190,14 @@
       <jump line="38" column="86" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/DayHideNightOutByDay.java" />
       <jump line="105" column="8" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/DayHideNightOutByDay.java" />
       <jump line="106" column="8" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/DayHideNightOutByDay.java" />
+      <jump line="128" column="0" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/TravelRoute.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>”</text>
+        <text>昼伏夜出写入到 mysql 中</text>
       </register>
       <register name="-" type="4">
-        <text>”</text>
+        <text>昼伏夜出写入到 mysql 中</text>
       </register>
       <register name="/" type="4">
         <text>userName</text>
