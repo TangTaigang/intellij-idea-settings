@@ -22,18 +22,22 @@
         <mark key="^" line="103" column="20" />
         <mark key="." line="103" column="20" />
       </file>
-      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FootHoldByDayMR.java" timestamp="1510720710973">
-        <mark key="'" line="87" column="0" />
-        <mark key="[" line="86" column="43" />
-        <mark key="]" line="86" column="43" />
-        <mark key="." line="86" column="43" />
-        <mark key="^" line="86" column="43" />
+      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FootHoldByDayMR.java" timestamp="1510723466000">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="91" column="82" />
+        <mark key="]" line="91" column="87" />
+        <mark key="." line="91" column="87" />
+        <mark key="^" line="91" column="87" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.5.1/hadoop-mapreduce-client-core-2.5.1-sources.jar!/org/apache/hadoop/mapreduce/Job.java" timestamp="1510716795475" />
-      <file name="C:/code/MDHTrafficMapReduce/src/main/resources/application.properties" timestamp="1510720734628">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="9" column="26" />
-        <mark key="." line="9" column="26" />
+      <file name="C:/code/MDHTrafficMapReduce/src/main/resources/application.properties" timestamp="1510723484102">
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="10" column="52" />
+        <mark key="." line="10" column="52" />
+        <mark key="^" line="10" column="52" />
+      </file>
+      <file name="C:/code/MDHTrafficMapReduce/.gitignore" timestamp="1510723053580">
+        <mark key="[" line="19" column="0" />
       </file>
       <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/service/TravelService.java" timestamp="1510629288086">
         <mark key="[" line="62" column="0" />
@@ -71,7 +75,7 @@
         <mark key="^" line="105" column="91" />
         <mark key="." line="105" column="91" />
       </file>
-      <file name="C:/code/MDHTrafficMapReduce/src/main/production-resources/application.properties" timestamp="1510716017392">
+      <file name="C:/code/MDHTrafficMapReduce/src/main/production-resources/application.properties" timestamp="1510721408905">
         <mark key="[" line="10" column="20" />
         <mark key="]" line="10" column="20" />
         <mark key="^" line="10" column="20" />
@@ -83,7 +87,7 @@
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510720736456">
+      <file name="/Dummy.txt" timestamp="1510723062398">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -192,44 +196,44 @@
       <jump line="86" column="0" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FootHoldByDayMR.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>begin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Zm9vdEhvbGQuaGJhc2UudGFibGVOYW1lPWNhcl90cmF2ZWxfMjg4Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25mLnNldCgiZXMuaW5kZXguYXV0by5jcmVhdGUiLCAidHJ1ZSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">bm9kZTE6OTIwMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAsbm9kZTI6OTMwMCxub2RlMzo5MzAwLG5vZGU0OjkzMDAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBtYXN0ZXIxLG1hc3RlcjIsbm9kZS0xMgo=</text>
+        <text encoding="base64">ICAsbm9kZTI6OTMwMCxub2RlMzo5MzAwLG5vZGU0OjkzMDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25mLnNldE1hcE91dHB1dFZhbHVlQ2xhc3MoTWFwV3JpdGFibGUuY2xhc3MpOwo=</text>
+        <text encoding="base64">ICBtYXN0ZXIxLG1hc3RlcjIsbm9kZS0xMgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25mLnNldE91dHB1dEZvcm1hdChFc091dHB1dEZvcm1hdC5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25mLnNldE1hcE91dHB1dFZhbHVlQ2xhc3MoTWFwV3JpdGFibGUuY2xhc3MpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDb25maWd1cmF0aW9uIGNvbmYgPSBuZXcgQ29uZmlndXJhdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25mLnNldE91dHB1dEZvcm1hdChFc091dHB1dEZvcm1hdC5jbGFzcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBKb2JDb25mIGNvbmYgPSBuZXcgSm9iQ29uZigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBDb25maWd1cmF0aW9uIGNvbmYgPSBuZXcgQ29uZmlndXJhdGlvbigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBKb2JDb25mIGNvbmYgPSBuZXcgSm9iQ29uZigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/begin/end/g</text>
