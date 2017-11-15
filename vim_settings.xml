@@ -15,14 +15,13 @@
         <mark key="^" line="103" column="20" />
         <mark key="." line="103" column="20" />
       </file>
-      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FootHoldByDayMR.java" timestamp="1510723466000">
+      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FootHoldByDayMR.java" timestamp="1510736482694">
         <mark key="'" line="90" column="0" />
         <mark key="[" line="91" column="82" />
         <mark key="]" line="91" column="87" />
         <mark key="." line="91" column="87" />
         <mark key="^" line="91" column="87" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.5.1/hadoop-mapreduce-client-core-2.5.1-sources.jar!/org/apache/hadoop/mapreduce/Job.java" timestamp="1510716795475" />
       <file name="C:/code/MDHTrafficMapReduce/.gitignore" timestamp="1510723053580">
         <mark key="[" line="19" column="0" />
       </file>
@@ -56,7 +55,6 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="15" column="68" />
       </file>
-      <file name="C:/code/MDHTrafficDataSync/mdh_data_6in1_cdc_oracle/src/main/java/com/miras/data/cdc/oracle/OracleBolt.java" timestamp="1510727538209" />
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarActivity288.java" timestamp="1510643628815">
         <mark key="[" line="105" column="91" />
         <mark key="]" line="105" column="91" />
@@ -66,21 +64,19 @@
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/TravelRoute.java" timestamp="1510734567081">
         <mark key="'" line="128" column="0" />
       </file>
-      <file name="C:/code/MDHTrafficDataSync/mdh_data_6in1_cdc_oracle/src/main/production-resources/application.properties" timestamp="1510727543346" />
-      <file name="C:/code/MDHTrafficMapReduce/src/main/production-resources/application.properties" timestamp="1510721408905">
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="10" column="20" />
-        <mark key="^" line="10" column="20" />
-        <mark key="." line="10" column="20" />
+      <file name="C:/code/MDHTrafficMapReduce/src/main/production-resources/application.properties" timestamp="1510736867805">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="43" />
+        <mark key="." line="9" column="43" />
+        <mark key="^" line="9" column="43" />
       </file>
-      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FirstTimeInCityMR.java" timestamp="1510731933481" />
       <file name="C:/code/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1510545411346">
         <mark key="[" line="9" column="39" />
         <mark key="]" line="9" column="38" />
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510734414979">
+      <file name="/Dummy.txt" timestamp="1510737145506">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -102,20 +98,17 @@
         <mark key="." line="55" column="31" />
         <mark key="^" line="55" column="31" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch-hadoop/5.4.0/elasticsearch-hadoop-5.4.0.jar!/org/elasticsearch/hadoop/mr/EsOutputFormat.class" timestamp="1510715762611" />
       <file name="C:/code/kafkaclient/pom.xml" timestamp="1510552152479">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.7.3/hadoop-common-2.7.3.jar!/org/apache/hadoop/io/Text.class" timestamp="1510716355362" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_kerberos2kafka/pom.xml" timestamp="1510552008070">
         <mark key="[" line="61" column="13" />
         <mark key="]" line="61" column="16" />
         <mark key="." line="61" column="16" />
         <mark key="^" line="61" column="16" />
       </file>
-      <file name="C:/code/MDHTrafficDataSync/mdh_data_6in1_cdc_kafka/src/main/java/com/miras/data/ct2kafka/dao/RowIdDao.java" timestamp="1510727504017" />
       <file name="C:/code/MDHTrafficMapReduce/day_hide_night_out.sql" timestamp="1510729661431">
         <mark key="[" line="25" column="3" />
         <mark key="]" line="26" column="74" />
@@ -169,11 +162,11 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
       </file>
-      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/DayHideNightOutByDay.java" timestamp="1510732135202">
-        <mark key="[" line="71" column="59" />
-        <mark key="]" line="71" column="58" />
-        <mark key="." line="71" column="58" />
-        <mark key="^" line="71" column="58" />
+      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/DayHideNightOutByDay.java" timestamp="1510736929856">
+        <mark key="[" line="87" column="58" />
+        <mark key="]" line="87" column="59" />
+        <mark key="^" line="86" column="51" />
+        <mark key="." line="87" column="59" />
       </file>
     </filemarks>
     <jumps>
@@ -194,10 +187,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>昼伏夜出写入到 mysql 中</text>
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>昼伏夜出写入到 mysql 中</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>userName</text>
@@ -206,31 +199,31 @@
         <text encoding="base64">ZGF5SGlkZU5pZ2h0T3V0QnlEYXkuamRiYy51cmw9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlT3V0cHV0Rm9ybWF0LnNldE91dHB1dFBhdGgoam9iLCBuZXcgUGF0aChhcmdzWzFdKSk7Cg==</text>
+        <text encoding="base64">ICBub2RlMTo5MjAwLG5vZGUyOjkyMDAsbm9kZTM6OTIwMCxub2RlNDo5MjAwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlSW5wdXRGb3JtYXQuYWRkSW5wdXRQYXRoKGpvYiwgbmV3IFBhdGgoYXJnc1swXSkpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDorr7nva7ovpPlh7rmoLzlvI8K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZGF5SGlkZU5pZ2h0T3V0QnlEYXkuamRiYy51cmw9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZGF5SGlkZU5pZ2h0T3V0QnlEYXkuamRiYy51cmw9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBKREJDX1VSTCA9ICJkYXlIaWRlTmlnaHRPdXRCeURheS5qZGJjLnVybCI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgSkRCQ19EUklWRVIgPSAiZGF5SGlkZU5pZ2h0T3V0QnlEYXkuamRiYy5kcml2ZXJDbGFzc05hbWUiOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIEpEQkNfVVNFUk5BTUUgPSAiZGF5SGlkZU5pZ2h0T3V0QnlEYXkuamRiYy51c2VyTmFtZSI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgSkRCQ19QQVNTV09SRCA9ICJkYXlIaWRlTmlnaHRPdXRCeURheS5qZGJjLnBhc3N3b3JkIjsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBKREJDX1VSTCA9ICJkYXlIaWRlTmlnaHRPdXRCeURheS5qZGJjLnVybCI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgSkRCQ19EUklWRVIgPSAiZGF5SGlkZU5pZ2h0T3V0QnlEYXkuamRiYy5kcml2ZXJDbGFzc05hbWUiOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIEpEQkNfVVNFUk5BTUUgPSAiZGF5SGlkZU5pZ2h0T3V0QnlEYXkuamRiYy51c2VyTmFtZSI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgSkRCQ19QQVNTV09SRCA9ICJkYXlIaWRlTmlnaHRPdXRCeURheS5qZGJjLnBhc3N3b3JkIjsKCiAgICBwdWJsaWMgc3RhdGljIGNsYXNzIFRyYW5zUmVkdWNlciBleHRlbmRzIFJlZHVjZXI8VGV4dCwgVGV4dCwgTnVsbFdyaXRhYmxlLCBUZXh0PiB7CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHByb3RlY3RlZCB2b2lkIHJlZHVjZShUZXh0IGtleSwgSXRlcmFibGU8VGV4dD4gdmFsdWVzLCBDb250ZXh0IGNvbnRleHQpIHRocm93cyBJT0V4Y2VwdGlvbiwgSW50ZXJydXB0ZWRFeGNlcHRpb24gewogICAgICAgICAgICAvKgogICAgICAgICAgICAgKiDmmLzkvI/lpJzlh7rpgLvovpHjgIIKICAgICAgICAgICAgICogMeOAgeiuoeeul+i9pueZveWkqeWHuueOsOasoeaVsAogICAgICAgICAgICAgKiAy44CB6K6h566X6L2m5aSc6Ze05Ye6546w55qE5qyh5pWwCiAgICAgICAgICAgICAqIDPjgIHmr5Tlr7nlpoLmnpzlpJzpl7Tlh7rnjrDmrKHmlbDlpJrliKTlrprkuLrmmLzkvI/lpJzlh7rjgIIKICAgICAgICAgICAgICogNOOAgeS/neWtmOaYvOS8j+WknOWHuui9pui+huOAggogICAgICAgICAgICAgKi8KICAgICAgICAgICAgRGF5SGlkZU5pZ2h0T3V0IGRheUhpZGVOaWdodE91dCA9IG5ldyBEYXlIaWRlTmlnaHRPdXQoKTsKCiAgICAgICAgICAgIGZvciAoVGV4dCB0IDogdmFsdWVzKSB7CiAgICAgICAgICAgICAgICBTdHJpbmdbXSBwYXNzSW5mbyA9IHQudG9TdHJpbmcoKS5zcGxpdCgiLCIpOwogICAgICAgICAgICAgICAgU3RyaW5nIHBhc3NUaW1lOwogICAgICAgICAgICAgICAgZGF5SGlkZU5pZ2h0T3V0LnNldENhck51bWJlcihwYXNzSW5mb1sxXSk7CiAgICAgICAgICAgICAgICBkYXlIaWRlTmlnaHRPdXQuc2V0TGljZW5zZVR5cGUocGFzc0luZm9bMl0pOwogICAgICAgICAgICAgICAgZGF5SGlkZU5pZ2h0T3V0LnNldFBhc3NEYXRlKHBhc3NJbmZvWzldLnN1YnN0cmluZygwLCAxMCkpOwogICAgICAgICAgICAgICAgaWYgKHBhc3NJbmZvWzldLmxlbmd0aCgpID4gMTkpIHsKICAgICAgICAgICAgICAgICAgICBwYXNzVGltZSA9IHBhc3NJbmZvWzldLnN1YnN0cmluZygxMSwgMTkpOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBwYXNzVGltZSA9IHBhc3NJbmZvWzldLnN1YnN0cmluZygxMSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiAocGFzc1RpbWUuY29tcGFyZVRvKEJFR0lOX0RBWSkgPj0gMCAmJiBwYXNzVGltZS5jb21wYXJlVG8oRU5EX0RBWSkgPD0gMCkKICAgICAgICAgICAgICAgICAgICBkYXlIaWRlTmlnaHRPdXQuZGF5Q291bnQrKzsKICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgICAgICBkYXlIaWRlTmlnaHRPdXQubmlnaHRDb3VudCsrOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChkYXlIaWRlTmlnaHRPdXQuZ2V0RGF5Q291bnQoKSA8IGRheUhpZGVOaWdodE91dC5nZXROaWdodENvdW50KCkpIHsKICAgICAgICAgICAgICAgIGNvbnRleHQud3JpdGUoTnVsbFdyaXRhYmxlLmdldCgpLCBuZXcgVGV4dChkYXlIaWRlTmlnaHRPdXQuZ2V0UGFzc0RhdGUoKSArICIsIgogICAgICAgICAgICAgICAgICAgICAgICArIGRheUhpZGVOaWdodE91dC5nZXRDYXJOdW1iZXIoKSArICIsIgogICAgICAgICAgICAgICAgICAgICAgICArIGRheUhpZGVOaWdodE91dC5nZXRMaWNlbnNlVHlwZSgpICsgIiwiCiAgICAgICAgICAgICAgICAgICAgICAgICsgZGF5SGlkZU5pZ2h0T3V0LmdldERheUNvdW50KCkgKyAiLCIKICAgICAgICAgICAgICAgICAgICAgICAgKyBkYXlIaWRlTmlnaHRPdXQuZ2V0TmlnaHRDb3VudCgpKSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgfQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGF5SGlkZU5pZ2h0T3V0QnlEYXkuaGJhc2UudGFibGVOYW1lPWNhcl90cmF2ZWxfMjg4Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlT3V0cHV0Rm9ybWF0LnNldE91dHB1dFBhdGgoam9iLCBuZXcgUGF0aChhcmdzWzFdKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwYXNzSW5mb1s5XSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlSW5wdXRGb3JtYXQuYWRkSW5wdXRQYXRoKGpvYiwgbmV3IFBhdGgoYXJnc1swXSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoQ2xhc3NOb3RGb3VuZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDorr7nva7ovpPlh7rmoLzlvI8K</text>
       </register>
       <register name=":" type="4">
         <text>s/userName/password/g</text>
