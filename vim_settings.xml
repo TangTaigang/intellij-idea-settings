@@ -15,11 +15,11 @@
         <mark key="^" line="103" column="20" />
         <mark key="." line="103" column="20" />
       </file>
-      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FootHoldByDayMR.java" timestamp="1510736482694">
+      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FootHoldByDayMR.java" timestamp="1510739406609">
         <mark key="'" line="90" column="0" />
-        <mark key="[" line="91" column="82" />
-        <mark key="]" line="91" column="87" />
-        <mark key="." line="91" column="87" />
+        <mark key="[" line="99" column="51" />
+        <mark key="]" line="99" column="51" />
+        <mark key="." line="99" column="51" />
         <mark key="^" line="91" column="87" />
       </file>
       <file name="C:/code/MDHTrafficMapReduce/.gitignore" timestamp="1510723053580">
@@ -187,10 +187,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>userName</text>
