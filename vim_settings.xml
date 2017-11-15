@@ -22,12 +22,18 @@
         <mark key="^" line="103" column="20" />
         <mark key="." line="103" column="20" />
       </file>
-      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FootHoldByDayMR.java" timestamp="1510644718296">
-        <mark key="'" line="54" column="12" />
-        <mark key="[" line="50" column="120" />
-        <mark key="]" line="50" column="120" />
-        <mark key="." line="50" column="120" />
-        <mark key="^" line="50" column="120" />
+      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FootHoldByDayMR.java" timestamp="1510717368523">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="84" column="46" />
+        <mark key="]" line="84" column="62" />
+        <mark key="." line="84" column="62" />
+        <mark key="^" line="84" column="62" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.5.1/hadoop-mapreduce-client-core-2.5.1-sources.jar!/org/apache/hadoop/mapreduce/Job.java" timestamp="1510716795475" />
+      <file name="C:/code/MDHTrafficMapReduce/src/main/resources/application.properties" timestamp="1510718796011">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
       </file>
       <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/service/TravelService.java" timestamp="1510629288086">
         <mark key="[" line="62" column="0" />
@@ -65,11 +71,11 @@
         <mark key="^" line="105" column="91" />
         <mark key="." line="105" column="91" />
       </file>
-      <file name="C:/code/MDHTrafficMapReduce/src/main/production-resources/application.properties" timestamp="1510643677339">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="1" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="12" column="1" />
+      <file name="C:/code/MDHTrafficMapReduce/src/main/production-resources/application.properties" timestamp="1510716017392">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="20" />
+        <mark key="^" line="10" column="20" />
+        <mark key="." line="10" column="20" />
       </file>
       <file name="C:/code/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1510545411346">
         <mark key="[" line="9" column="39" />
@@ -77,7 +83,7 @@
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510706088321">
+      <file name="/Dummy.txt" timestamp="1510718797560">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -99,11 +105,13 @@
         <mark key="." line="55" column="31" />
         <mark key="^" line="55" column="31" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch-hadoop/5.4.0/elasticsearch-hadoop-5.4.0.jar!/org/elasticsearch/hadoop/mr/EsOutputFormat.class" timestamp="1510715762611" />
       <file name="C:/code/kafkaclient/pom.xml" timestamp="1510552152479">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.7.3/hadoop-common-2.7.3.jar!/org/apache/hadoop/io/Text.class" timestamp="1510716355362" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_kerberos2kafka/pom.xml" timestamp="1510552008070">
         <mark key="[" line="61" column="13" />
         <mark key="]" line="61" column="16" />
@@ -134,10 +142,11 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
-      <file name="C:/code/MDHTrafficMapReduce/pom.xml" timestamp="1510714631418">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="C:/code/MDHTrafficMapReduce/pom.xml" timestamp="1510717611385">
+        <mark key="[" line="30" column="29" />
+        <mark key="]" line="41" column="29" />
+        <mark key="." line="41" column="29" />
+        <mark key="^" line="41" column="29" />
       </file>
       <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/web/ESController.java" timestamp="1510629051734">
         <mark key="[" line="229" column="70" />
@@ -179,46 +188,48 @@
       <jump line="60" column="38" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarRouteCombineMR.java" />
       <jump line="53" column="15" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FootHoldByDayMR.java" />
       <jump line="54" column="12" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FootHoldByDayMR.java" />
+      <jump line="52" column="43" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FootHoldByDayMR.java" />
+      <jump line="86" column="0" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FootHoldByDayMR.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>begin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBGb290SG9sZEJ5RGF5TVIKZm9vdEhvbGQuaGJhc2UudGFibGVOYW1lPWNhcl90cmF2ZWxfMjg4Cg==</text>
+        <text encoding="base64">Zm9vdEhvbGQuaGJhc2UudGFibGVOYW1lPWNhcl90cmF2ZWxfMjg4Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAsbm9kZTI6OTMwMCxub2RlMzo5MzAwLG5vZGU0OjkzMDAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqZWRpcy5kZWwoa2V5KQo=</text>
+        <text encoding="base64">ICBtYXN0ZXIxLG1hc3RlcjIsbm9kZS0xMgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDliKDpmaTmjonpgqPmnaHmlbDmja4K</text>
+        <text encoding="base64">ICAgICAgICBjb25mLnNldE1hcE91dHB1dFZhbHVlQ2xhc3MoTWFwV3JpdGFibGUuY2xhc3MpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoYmEK</text>
+        <text encoding="base64">ICAgICAgICBjb25mLnNldE91dHB1dEZvcm1hdChFc091dHB1dEZvcm1hdC5jbGFzcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZmlsdGVycz48L2ZpbHRlcnM+Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb25maWd1cmF0aW9uIGNvbmYgPSBuZXcgQ29uZmlndXJhdGlvbigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGF5SGlkZU5pZ2h0T3V0LmdldFBhc3NEYXRlKCkK</text>
+        <text encoding="base64">ICAgICAgICBKb2JDb25mIGNvbmYgPSBuZXcgSm9iQ29uZigpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2dnZXIgPSBMb2dnZXIuZ2V0TG9nZ2VyKERheUhpZGVOaWdodE91dEJ5RGF5LmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuYXBhY2hlLmhhZG9vcC5tZXRyaWNzMi5pbXBsLk1zSW5mby5Db250ZXh0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWVzLmZvckVhY2hSZW1haW5pbmcodiAtPiB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/begin/end/g</text>
