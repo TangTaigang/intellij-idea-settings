@@ -3,7 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_storm_bsc/src/main/java/com/miras/data/passinf/bolt/VehiclePassFilterBolt.java" timestamp="1510562381356">
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/pom.xml" timestamp="1510818952536">
+        <mark key="'" line="187" column="27" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="204" column="0" />
+      </file>
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/java/com/miras/data/bolt/PhoenixBolt.java" timestamp="1510821679633">
+        <mark key="[" line="96" column="17" />
+        <mark key="]" line="97" column="7" />
+        <mark key="^" line="97" column="7" />
+        <mark key="." line="97" column="7" />
+      </file>
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/production-resources/application.properties" timestamp="1510819019300" />
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_storm_bsc/src/main/java/com/miras/data/passinf/bolt/VehiclePassFilterBolt.java" timestamp="1510821339979">
         <mark key="[" line="203" column="32" />
         <mark key="]" line="203" column="41" />
         <mark key="." line="203" column="41" />
@@ -14,13 +28,6 @@
         <mark key="]" line="103" column="20" />
         <mark key="^" line="103" column="20" />
         <mark key="." line="103" column="20" />
-      </file>
-      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FootHoldByDayMR.java" timestamp="1510739406609">
-        <mark key="'" line="90" column="0" />
-        <mark key="[" line="99" column="51" />
-        <mark key="]" line="99" column="51" />
-        <mark key="." line="99" column="51" />
-        <mark key="^" line="91" column="87" />
       </file>
       <file name="C:/code/MDHTrafficMapReduce/.gitignore" timestamp="1510723053580">
         <mark key="[" line="19" column="0" />
@@ -44,6 +51,7 @@
         <mark key="." line="112" column="85" />
         <mark key="^" line="112" column="85" />
       </file>
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/build-scripts/build-production.bat" timestamp="1510818966364" />
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/entity/DayHideNightOut.java" timestamp="1510642633547">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -55,21 +63,28 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="15" column="68" />
       </file>
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_phoenix/pom.xml" timestamp="1510818769741" />
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/build-scripts/build-production.sh" timestamp="1510818965093" />
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarActivity288.java" timestamp="1510643628815">
         <mark key="[" line="105" column="91" />
         <mark key="]" line="105" column="91" />
         <mark key="^" line="105" column="91" />
         <mark key="." line="105" column="91" />
       </file>
-      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/TravelRoute.java" timestamp="1510734567081">
-        <mark key="'" line="128" column="0" />
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/java/com/miras/data/bolt/FirstInCityChecker.java" timestamp="1510819171621">
+        <mark key="[" line="10" column="3" />
+        <mark key="]" line="11" column="6" />
+        <mark key="^" line="11" column="6" />
+        <mark key="." line="11" column="6" />
       </file>
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_common/src/main/java/com/miras/data/passinf/common/enums/PassinfDataField.java" timestamp="1510821554434" />
       <file name="C:/code/MDHTrafficMapReduce/src/main/production-resources/application.properties" timestamp="1510736867805">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="9" column="43" />
         <mark key="." line="9" column="43" />
         <mark key="^" line="9" column="43" />
       </file>
+      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FirstTimeInCityMR.java" timestamp="1510821826329" />
       <file name="C:/code/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1510545411346">
         <mark key="[" line="9" column="39" />
         <mark key="]" line="9" column="38" />
@@ -80,6 +95,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/dwd_first_in_city.sql" timestamp="1510821176794">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="7" column="23" />
       </file>
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/entity/FootHoldByDay.java" timestamp="1510642996812">
         <mark key="[" line="19" column="24" />
@@ -92,12 +113,20 @@
         <mark key="." line="48" column="19" />
         <mark key="^" line="48" column="19" />
       </file>
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/resources/application.properties" timestamp="1510819022876" />
       <file name="C:/code/MDH_PASSINF_DATA/pom.xml" timestamp="1510545583001">
         <mark key="[" line="55" column="16" />
         <mark key="]" line="55" column="31" />
         <mark key="." line="55" column="31" />
         <mark key="^" line="55" column="31" />
       </file>
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/java/com/miras/data/bolt/DataRoute.java" timestamp="1510819670067">
+        <mark key="[" line="36" column="70" />
+        <mark key="]" line="36" column="78" />
+        <mark key="." line="36" column="78" />
+        <mark key="^" line="36" column="78" />
+      </file>
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/build-scripts/build-test.bat" timestamp="1510818964101" />
       <file name="C:/code/kafkaclient/pom.xml" timestamp="1510552152479">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="22" column="0" />
@@ -139,6 +168,7 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/build-scripts/build-test.sh" timestamp="1510818962501" />
       <file name="C:/code/MDHTrafficMapReduce/pom.xml" timestamp="1510730564310">
         <mark key="[" line="90" column="21" />
         <mark key="]" line="94" column="26" />
@@ -167,6 +197,15 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="/fragment.java" timestamp="1510819074441">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/java/com/miras/data/Application.java" timestamp="1510820179051">
+        <mark key="[" line="29" column="95" />
+        <mark key="]" line="30" column="7" />
+        <mark key="." line="30" column="7" />
+        <mark key="^" line="30" column="7" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="75" column="26" filename="C:/code/MDH_DATA/mdh_data_kafka_storm_image/src/main/java/com/miras/data/storm/ImageToHBaseBolt.java" />
@@ -183,46 +222,47 @@
       <jump line="105" column="8" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/DayHideNightOutByDay.java" />
       <jump line="106" column="8" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/DayHideNightOutByDay.java" />
       <jump line="128" column="0" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/TravelRoute.java" />
+      <jump line="188" column="27" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRhYmxlLnB1dChwdXRCdWZmZXIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>userName</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRhYmxlLnB1dChwdXRCdWZmZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICBidWlsZGVyLnNldEJvbHQoInJvdXRlQm9sdCIsIG5ldyBEYXRhUm91dGUoKSwgMikuc2h1ZmZsZUdyb3VwaW5nKCJrYWZrYVNwb3V0Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlcGFyZWRTdGF0ZW1lbnQuc2V0U3RyaW5nKFBIT0VOSVhfRklFTERTLnNpemUoKSwgIiIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5LqU5Yy65ZOq5LiqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYXJlYUNvZGUg5omL5Yqo5o+SCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGFibGUucHV0KHRoaXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ0RJUkVDVElPTkNPREUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRENPTExFQ1RJT05EQVRFLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBub2RlMTo5MjAwLG5vZGUyOjkyMDAsbm9kZTM6OTIwMCxub2RlNDo5MjAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTUQ1S0VZCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRENPTExFQ1RJT05EQVRFLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBKREJDX1VSTCA9ICJkYXlIaWRlTmlnaHRPdXRCeURheS5qZGJjLnVybCI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgSkRCQ19EUklWRVIgPSAiZGF5SGlkZU5pZ2h0T3V0QnlEYXkuamRiYy5kcml2ZXJDbGFzc05hbWUiOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIEpEQkNfVVNFUk5BTUUgPSAiZGF5SGlkZU5pZ2h0T3V0QnlEYXkuamRiYy51c2VyTmFtZSI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgSkRCQ19QQVNTV09SRCA9ICJkYXlIaWRlTmlnaHRPdXRCeURheS5qZGJjLnBhc3N3b3JkIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ0RJUkVDVElPTkNPREUsCiAgICAgICAgICAgIE1ENUtFWQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTUFDSElORVZFUlNJT04sCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/userName/password/g</text>
