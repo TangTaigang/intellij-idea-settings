@@ -73,6 +73,12 @@
         <mark key="^" line="105" column="91" />
         <mark key="." line="105" column="91" />
       </file>
+      <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/dao/PhoenixDao.java" timestamp="1510987442447">
+        <mark key="[" line="237" column="56" />
+        <mark key="]" line="237" column="56" />
+        <mark key="." line="237" column="56" />
+        <mark key="^" line="237" column="43" />
+      </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/java/com/miras/data/bolt/FirstInCityChecker.java" timestamp="1510975549086">
         <mark key="[" line="79" column="9" />
         <mark key="]" line="80" column="36" />
@@ -107,7 +113,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510983732321">
+      <file name="/Dummy.txt" timestamp="1510987073818">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -269,11 +275,11 @@
       <jump line="97" column="18" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FootHoldByDayMR.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAxMC4yMzEuNDkuMTk4Cg==</text>
+      <register name="&quot;" type="4">
+        <text>%</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>%</text>
       </register>
       <register name="/" type="4">
         <text>userName</text>
