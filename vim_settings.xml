@@ -15,11 +15,11 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="17" column="26" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_storm_bsc/src/main/java/com/miras/data/passinf/bolt/VehiclePassFilterBolt.java" timestamp="1510821339979">
-        <mark key="[" line="203" column="32" />
-        <mark key="]" line="203" column="41" />
-        <mark key="." line="203" column="41" />
-        <mark key="^" line="203" column="41" />
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_storm_bsc/src/main/java/com/miras/data/passinf/bolt/VehiclePassFilterBolt.java" timestamp="1511074601861">
+        <mark key="[" line="119" column="53" />
+        <mark key="]" line="119" column="55" />
+        <mark key="." line="119" column="55" />
+        <mark key="^" line="119" column="55" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_storm_bsc/pom.xml" timestamp="1510562102352">
         <mark key="[" line="99" column="21" />
@@ -37,6 +37,7 @@
         <mark key="." line="97" column="41" />
         <mark key="^" line="97" column="41" />
       </file>
+      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FirstTimeInCityByDayMR.java" timestamp="1511074162817" />
       <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/web/DwScrcfxController.java" timestamp="1511056162517">
         <mark key="[" line="58" column="44" />
         <mark key="]" line="59" column="7" />
@@ -162,6 +163,13 @@
         <mark key="]" line="16" column="22" />
         <mark key="." line="16" column="22" />
       </file>
+      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarRouteCombineMR.java" timestamp="1511074546994">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+        <mark key="^" line="105" column="27" />
+      </file>
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/entity/DayHideNightOut.java" timestamp="1510642633547">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -247,7 +255,6 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="15" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/stream/Stream.java" timestamp="1511055529012" />
       <file name="C:/code/kafkaclient/src/main/java/Application.java" timestamp="1510553053301">
         <mark key="[" line="24" column="90" />
         <mark key="]" line="25" column="8" />
@@ -296,13 +303,15 @@
       <jump line="97" column="18" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FootHoldByDayMR.java" />
       <jump line="283" column="28" filename="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/dao/PhoenixDao.java" />
       <jump line="72" column="0" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/java/com/miras/data/bolt/FirstInCityChecker.java" />
+      <jump line="126" column="42" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarRouteCombineMR.java" />
+      <jump line="12" column="0" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarRouteCombineMR.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>800</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>800</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>userName</text>
@@ -311,32 +320,31 @@
         <text encoding="base64">ICAgIGFuZCBzdWJzdHJpbmcoY2Nhcm51bWJlciwwLDEpICE9ICcjJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LVhYOitVc2VDb25jTWFya1N3ZWVwR0MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICkgdDIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFkZHJlc3NOYW1lLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U0VMRUNUCiAgdDIucm93S2V5LAogIHQyLmNudApGUk9NICgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBjb2xsZWN0RGF0ZSA9IHNwbGl0WzldOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAsICdfJywgdDIuYXJlYWNvZGUpLAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZC5GaWxlT3V0cHV0Rm9ybWF0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25jYXQoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgYXJlYWNvZGUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoREFURV9QQVRURVJOX0ZVTEwubWF0Y2hlcihjb2xsZWN0RGF0ZSkubWF0Y2hlcygpKSB7CiAgICAgICAgICAgICAgICAgICAgbG9uZyB0aW1lID0gbmV3IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQgSEg6bW06c3MuU1NTIikucGFyc2UoY29sbGVjdERhdGUpLmdldFRpbWUoKTsKICAgICAgICAgICAgICAgICAgICBjb250ZXh0LndyaXRlKG5ldyBUZXh0KGNhck51bWJlciArICJfIiArIGxpY2Vuc2VUeXBlKSwgbmV3IFRleHQoU3RyaW5nVXRpbHMuam9pbihBcnJheXMuYXNMaXN0KGFkZHJlc3NDb2RlLCB0aW1lKSwgIiwiKSkpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>rowKey,
-         areacode,</text>
+      <register name="8" type="2">
+        <text encoding="base64">LVhYOitVc2VDb25jTWFya1N3ZWVwR0MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkgIGNhcm51bWJlciwK</text>
+        <text encoding="base64">ICAgICAgICkgdDIK</text>
       </register>
       <register name=":" type="4">
         <text>s/userName/password/g</text>
