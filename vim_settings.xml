@@ -61,11 +61,12 @@
         <mark key="^" line="26" column="3" />
         <mark key="." line="26" column="3" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/java/com/miras/data/bolt/FirstInCityChecker.java" timestamp="1510975549086">
-        <mark key="[" line="79" column="9" />
-        <mark key="]" line="80" column="36" />
-        <mark key="." line="80" column="36" />
-        <mark key="^" line="80" column="36" />
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/java/com/miras/data/bolt/FirstInCityChecker.java" timestamp="1511058057685">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="77" column="113" />
+        <mark key="]" line="77" column="113" />
+        <mark key="." line="77" column="113" />
+        <mark key="^" line="77" column="112" />
       </file>
       <file name="C:/code/MDHTrafficMapReduce/src/main/production-resources/application.properties" timestamp="1510736867805">
         <mark key="[" line="9" column="18" />
@@ -183,7 +184,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511057853060">
+      <file name="/Dummy.txt" timestamp="1511058284501">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -289,13 +290,14 @@
       <jump line="38" column="4" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/java/com/miras/data/bolt/FirstInCityChecker.java" />
       <jump line="97" column="18" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FootHoldByDayMR.java" />
       <jump line="283" column="28" filename="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/dao/PhoenixDao.java" />
+      <jump line="72" column="0" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/java/com/miras/data/bolt/FirstInCityChecker.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIENMQVNTX0ZPUk5BTUUgPSAib3JnLmFwYWNoZS5waG9lbml4LmpkYmMuUGhvZW5peERyaXZlciI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;&quot; + redisKey)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0TWlkZGxlICE9IG51bGwgJiYg</text>
+        <text>;&quot; + redisKey)</text>
       </register>
       <register name="/" type="4">
         <text>userName</text>
@@ -304,31 +306,31 @@
         <text>getScrcListTotal</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIENMQVNTX0ZPUk5BTUUgPSAib3JnLmFwYWNoZS5waG9lbml4LmpkYmMuUGhvZW5peERyaXZlciI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVzdWx0U2V0IHJldCA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIENMQVNTX0ZPUk5BTUUgPSAib3JnLmFwYWNoZS5waG9lbml4LmpkYmMuUGhvZW5peERyaXZlciI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJlcGFyZWRTdGF0ZW1lbnQgc3RtdCA9IG51bGw7CiAgICAgICAgICAgIFJlc3VsdFNldCByZXQgPSBudWxsOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubiA9IERyaXZlck1hbmFnZXIuZ2V0Q29ubmVjdGlvbihVUkwpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDb25uZWN0aW9uIGNvbm4gPSBudWxsOwogICAgICAgIFByZXBhcmVkU3RhdGVtZW50IHN0bXQgPSBudWxsOwogICAgICAgIFJlc3VsdFNldCByZXQgPSBudWxsOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICBjbG9zZShjb25uLCBzdG10LCByZXQpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUmVzdWx0U2V0IHJldCA9IG51bGw7Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUHJlcGFyZWRTdGF0ZW1lbnQgc3RtdCA9IG51bGw7CiAgICAgICAgICAgIFJlc3VsdFNldCByZXQgPSBudWxsOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29ubiA9IERyaXZlck1hbmFnZXIuZ2V0Q29ubmVjdGlvbihVUkwpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBDb25uZWN0aW9uIGNvbm4gPSBudWxsOwogICAgICAgIFByZXBhcmVkU3RhdGVtZW50IHN0bXQgPSBudWxsOwogICAgICAgIFJlc3VsdFNldCByZXQgPSBudWxsOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICBjbG9zZShjb25uLCBzdG10LCByZXQpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUmVzdWx0U2V0IHJldCA9IG51bGw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/userName/password/g</text>
