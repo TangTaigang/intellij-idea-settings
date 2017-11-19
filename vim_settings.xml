@@ -61,12 +61,12 @@
         <mark key="^" line="26" column="3" />
         <mark key="." line="26" column="3" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/java/com/miras/data/bolt/FirstInCityChecker.java" timestamp="1511058057685">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="77" column="113" />
-        <mark key="]" line="77" column="113" />
-        <mark key="." line="77" column="113" />
-        <mark key="^" line="77" column="112" />
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/java/com/miras/data/bolt/FirstInCityChecker.java" timestamp="1511059786140">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="61" column="29" />
+        <mark key="]" line="61" column="30" />
+        <mark key="^" line="61" column="31" />
+        <mark key="." line="61" column="30" />
       </file>
       <file name="C:/code/MDHTrafficMapReduce/src/main/production-resources/application.properties" timestamp="1510736867805">
         <mark key="[" line="9" column="18" />
@@ -184,7 +184,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511058284501">
+      <file name="/Dummy.txt" timestamp="1511059790062">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -294,10 +294,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;&quot; + redisKey)</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>;&quot; + redisKey)</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>userName</text>
@@ -306,28 +306,28 @@
         <text>getScrcListTotal</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMLmluZm8oInNjcmMgYXJlYUNvZGU6IiArIGFyZWFDb2RlICsgIixyZWRpc0tleToiICsgcmVkaXNLZXkgKyAiLCByZWRpc1ZhbHVlOiIgKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIENMQVNTX0ZPUk5BTUUgPSAib3JnLmFwYWNoZS5waG9lbml4LmpkYmMuUGhvZW5peERyaXZlciI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVzdWx0U2V0IHJldCA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJlcGFyZWRTdGF0ZW1lbnQgc3RtdCA9IG51bGw7CiAgICAgICAgICAgIFJlc3VsdFNldCByZXQgPSBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgIHsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubiA9IERyaXZlck1hbmFnZXIuZ2V0Q29ubmVjdGlvbihVUkwpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjYXJMb2dDYWNoZSA9IENhY2hlQnVpbGRlci5uZXdCdWlsZGVyKCkKICAgICAgICAgICAgICAgIC5leHBpcmVBZnRlcldyaXRlKDEwLCBUaW1lVW5pdC5NSU5VVEVTKQogICAgICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDb25uZWN0aW9uIGNvbm4gPSBudWxsOwogICAgICAgIFByZXBhcmVkU3RhdGVtZW50IHN0bXQgPSBudWxsOwogICAgICAgIFJlc3VsdFNldCByZXQgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICBjbG9zZShjb25uLCBzdG10LCByZXQpOwo=</text>
+        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIENMQVNTX0ZPUk5BTUUgPSAib3JnLmFwYWNoZS5waG9lbml4LmpkYmMuUGhvZW5peERyaXZlciI7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUmVzdWx0U2V0IHJldCA9IG51bGw7Cg==</text>
