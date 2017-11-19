@@ -62,11 +62,12 @@
         <mark key="^" line="105" column="91" />
         <mark key="." line="105" column="91" />
       </file>
-      <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/dao/PhoenixDao.java" timestamp="1511056946293">
-        <mark key="[" line="25" column="90" />
-        <mark key="]" line="26" column="3" />
-        <mark key="^" line="26" column="3" />
-        <mark key="." line="26" column="3" />
+      <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/dao/PhoenixDao.java" timestamp="1511078845694">
+        <mark key="'" line="23" column="13" />
+        <mark key="[" line="295" column="24" />
+        <mark key="]" line="295" column="24" />
+        <mark key="." line="295" column="24" />
+        <mark key="^" line="300" column="74" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/java/com/miras/data/bolt/FirstInCityChecker.java" timestamp="1511059786140">
         <mark key="'" line="88" column="0" />
@@ -154,11 +155,12 @@
       <file name="C:/code/MDHTrafficMapReduce/.gitignore" timestamp="1510723053580">
         <mark key="[" line="19" column="0" />
       </file>
-      <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/service/TravelService.java" timestamp="1510629288086">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="82" column="12" />
+      <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/service/TravelService.java" timestamp="1511078908623">
+        <mark key="'" line="56" column="34" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="56" column="61" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_kerberos2kafka/src/main/java/com/miras/data/passinf/Application.java" timestamp="1510553699434">
         <mark key="[" line="56" column="32" />
@@ -204,7 +206,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511078135932">
+      <file name="/Dummy.txt" timestamp="1511080023981">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -280,6 +282,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="13" column="29" />
       </file>
+      <file name="C:/code/mdh-travel-path/src/main/java/com/miras/data/CarRouteCombineMR.java" timestamp="1511080449289">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="67" column="115" />
+      </file>
       <file name="/fragment.java" timestamp="1511077856050">
         <mark key="[" line="0" column="0" />
       </file>
@@ -312,56 +320,58 @@
       <jump line="72" column="0" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/java/com/miras/data/bolt/FirstInCityChecker.java" />
       <jump line="126" column="42" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarRouteCombineMR.java" />
       <jump line="12" column="0" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarRouteCombineMR.java" />
+      <jump line="23" column="13" filename="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/dao/PhoenixDao.java" />
+      <jump line="58" column="34" filename="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/service/TravelService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>${hadoop.version}</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>userName</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTZXQ8U3RyaW5nPiBPTUlUX0NBUl9OVU1CRVJTID0gbmV3IEhhc2hTZXQ8PihBcnJheXMuYXNMaXN0KCIxNCIsICLml6DovabniYwiLCAi5pyq6K+G5YirIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc3RhcnRUaW1lc3RhbXAgIT0gbnVsbCkgewogICAgICAgICAgICBzcWxCdWlsZGVyLmFwcGVuZCgiIGFuZCB0cmF2ZWxEYXRlID49ID8gIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfHwgKGNhck51bWJlci5jaGFyQXQoMCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnByb2plY3Rsb21ib2s8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmxvbWJvazwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS4xNi4xNDwvdmVyc2lvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAqIOeUn+aIkCDovabniYzlj7df5Y+354mM57G75Z6LOiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZ0J1aWxkZXIK</text>
+        <text encoding="base64">ICAgICAqIOi3r+WPozEs6Lev5Y+jMiDmrKHmlbAK</text>
       </register>
       <register name=":" type="4">
-        <text>s/userName/password/g</text>
+        <text>s/,/\$/g</text>
       </register>
     </registers>
     <search>
-      <last-search>userName</last-search>
-      <last-pattern>userName</last-pattern>
-      <last-replace>password</last-replace>
-      <last-substitute>userName</last-substitute>
+      <last-search>,</last-search>
+      <last-pattern>,</last-pattern>
+      <last-replace>\$</last-replace>
+      <last-substitute>,</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
@@ -373,6 +383,7 @@
         <entry>begin</entry>
         <entry>url</entry>
         <entry>userName</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
         <entry>s/length/offset/g</entry>
@@ -382,6 +393,7 @@
         <entry>s/begin/end/g</entry>
         <entry>s/url/userName/g</entry>
         <entry>s/userName/password/g</entry>
+        <entry>s/,/\$/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
