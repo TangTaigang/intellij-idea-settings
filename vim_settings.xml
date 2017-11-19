@@ -164,11 +164,11 @@
         <mark key="]" line="16" column="22" />
         <mark key="." line="16" column="22" />
       </file>
-      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarRouteCombineMR.java" timestamp="1511074918115">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarRouteCombineMR.java" timestamp="1511076822371">
+        <mark key="[" line="40" column="89" />
+        <mark key="]" line="40" column="96" />
+        <mark key="." line="40" column="96" />
+        <mark key="^" line="40" column="96" />
       </file>
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/entity/DayHideNightOut.java" timestamp="1510642633547">
         <mark key="[" line="19" column="0" />
@@ -197,7 +197,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511071943962">
+      <file name="/Dummy.txt" timestamp="1511076851869">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -308,43 +308,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBmc3NqID0gc3BsaXREYXRhWzIwXTsgICAgICAgICAgICAgIC8vIOWPkemAgeaXtumXtAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>userName</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFuZCBzdWJzdHJpbmcoY2Nhcm51bWJlciwwLDEpICE9ICcjJwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTZXQ8U3RyaW5nPiBPTUlUX0NBUl9OVU1CRVJTID0gbmV3IEhhc2hTZXQ8PihBcnJheXMuYXNMaXN0KCIxNCIsICLml6DovabniYwiLCAi5pyq6K+G5YirIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBmc3NqID0gc3BsaXREYXRhWzIwXTsgICAgICAgICAgICAgIC8vIOWPkemAgeaXtumXtAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBwaWNQYXRoID0gc3BsaXREYXRhWzEyXTsgICAgICAgICAgIC8vIOi/h+i9puWbvueJhwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBjb2xsZWN0aW9uQWdlbmNpZXMgPSBzcGxpdERhdGFbMTBdOy8vIOmHh+mbhuacuuWFs+S7o+eggQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFkZHJlc3NOYW1lLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZ0J1aWxkZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBjb2xsZWN0RGF0ZSA9IHNwbGl0WzldOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZC5GaWxlT3V0cHV0Rm9ybWF0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMaXN0PFN0cmluZz4gc3RyaW5ncyA9IEFycmF5cy5hc0xpc3QoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/userName/password/g</text>
