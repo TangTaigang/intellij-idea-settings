@@ -38,6 +38,12 @@
         <mark key="^" line="97" column="41" />
       </file>
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FirstTimeInCityByDayMR.java" timestamp="1511074162817" />
+      <file name="C:/code/mdh-travel-path/pom.xml" timestamp="1511077939887">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="54" column="25" />
+        <mark key="." line="61" column="0" />
+      </file>
       <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/web/DwScrcfxController.java" timestamp="1511056162517">
         <mark key="[" line="58" column="44" />
         <mark key="]" line="59" column="7" />
@@ -127,6 +133,7 @@
         <mark key="]" line="229" column="70" />
         <mark key="." line="229" column="70" />
       </file>
+      <file name="C:/code/MDHTrafficMapReduce/pom.xml" timestamp="1511078132307" />
       <file name="C:/code/MDHTrafficMapReduce/mr-jobs/hdfs-only-mr-jobs/pom.xml" timestamp="1510881056219">
         <mark key="[" line="14" column="0" />
       </file>
@@ -197,7 +204,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511076851869">
+      <file name="/Dummy.txt" timestamp="1511077946137">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -273,7 +280,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="13" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1510896348595">
+      <file name="/fragment.java" timestamp="1511077856050">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/java/com/miras/data/Application.java" timestamp="1510830546040">
@@ -308,10 +315,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>${hadoop.version}</text>
       </register>
       <register name="/" type="4">
         <text>userName</text>
@@ -320,31 +327,31 @@
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTZXQ8U3RyaW5nPiBPTUlUX0NBUl9OVU1CRVJTID0gbmV3IEhhc2hTZXQ8PihBcnJheXMuYXNMaXN0KCIxNCIsICLml6DovabniYwiLCAi5pyq6K+G5YirIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnByb2plY3Rsb21ib2s8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmxvbWJvazwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS4xNi4xNDwvdmVyc2lvbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZ0J1aWxkZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMaXN0PFN0cmluZz4gc3RyaW5ncyA9IEFycmF5cy5hc0xpc3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZ0J1aWxkZXIK</text>
       </register>
       <register name=":" type="4">
         <text>s/userName/password/g</text>
