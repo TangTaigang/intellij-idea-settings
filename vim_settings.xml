@@ -198,11 +198,11 @@
         <mark key="." line="34" column="42" />
         <mark key="^" line="63" column="19" />
       </file>
-      <file name="C:/code/kafka-druid-stream/src/main/resources/application.properties" timestamp="1511252309216">
-        <mark key="[" line="5" column="43" />
-        <mark key="]" line="5" column="58" />
-        <mark key="." line="5" column="58" />
-        <mark key="^" line="5" column="58" />
+      <file name="C:/code/kafka-druid-stream/src/main/resources/application.properties" timestamp="1511252510240">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="1" column="53" />
+        <mark key="." line="1" column="53" />
+        <mark key="^" line="1" column="53" />
       </file>
       <file name="C:/code/kafka-druid-stream/src/main/kotlin/com/miras/data/Entity.kt" timestamp="1511244807873">
         <mark key="'" line="7" column="21" />
@@ -319,6 +319,7 @@
         <mark key="^" line="25" column="8" />
         <mark key="." line="25" column="8" />
       </file>
+      <file name="C:/code/MDHTrafficDataSync/mdh_data_6in1_cdc_oracle/src/main/resources/application.properties" timestamp="1511252512007" />
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1511072759361">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="6" />
