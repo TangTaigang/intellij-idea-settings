@@ -37,6 +37,7 @@
         <mark key="^" line="54" column="25" />
         <mark key="." line="61" column="0" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/ClassLoader.java" timestamp="1511252742281" />
       <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/web/DwScrcfxController.java" timestamp="1511056162517">
         <mark key="[" line="58" column="44" />
         <mark key="]" line="59" column="7" />
@@ -60,6 +61,12 @@
         <mark key="]" line="105" column="91" />
         <mark key="^" line="105" column="91" />
         <mark key="." line="105" column="91" />
+      </file>
+      <file name="C:/code/kafka-druid-stream/src/main/resources/log4j.properties" timestamp="1511253316758">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_common/src/main/java/com/miras/data/passinf/common/enums/PassinfDataField.java" timestamp="1511243845178" />
       <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_druidpassinfo/src/main/java/com/miras/data/dto/RoaditemDto.java" timestamp="1511241482269" />
@@ -93,6 +100,9 @@
         <mark key="]" line="48" column="19" />
         <mark key="." line="48" column="19" />
         <mark key="^" line="48" column="19" />
+      </file>
+      <file name="/fragment.kt" timestamp="1511252821228">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_druidpassinfo/src/main/java/com/miras/data/dto/VehicleDto.java" timestamp="1511241363669" />
       <file name="C:/code/kafkaclient/pom.xml" timestamp="1510552152479">
@@ -130,12 +140,13 @@
       <file name="/RegExp Fragment (Application.kt:359).regexp" timestamp="1510893940865">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/code/kafka-druid-stream/src/main/kotlin/com/miras/data/KafkaDruidStreamApplication.kt" timestamp="1511250852642">
-        <mark key="b" line="104" column="23" />
-        <mark key="'" line="101" column="19" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="60" />
+      <file name="C:/code/kafka-druid-stream/src/main/kotlin/com/miras/data/KafkaDruidStreamApplication.kt" timestamp="1511255602643">
+        <mark key="b" line="105" column="23" />
+        <mark key="'" line="102" column="19" />
+        <mark key="[" line="127" column="44" />
+        <mark key="]" line="127" column="55" />
+        <mark key="." line="127" column="55" />
+        <mark key="^" line="127" column="55" />
       </file>
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/DayHideNightOutByDay.java" timestamp="1511085699332">
         <mark key="[" line="52" column="58" />
@@ -149,6 +160,7 @@
         <mark key="." line="22" column="89" />
         <mark key="^" line="22" column="89" />
       </file>
+      <file name="C:/code/kafka-druid-stream/src/test/kotlin/com/miras/data/KafkaDruidStreamApplicationTests.kt" timestamp="1511252628168" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/production-resources/application.properties" timestamp="1511064121972">
         <mark key="[" line="17" column="14" />
         <mark key="]" line="17" column="15" />
@@ -198,11 +210,11 @@
         <mark key="." line="34" column="42" />
         <mark key="^" line="63" column="19" />
       </file>
-      <file name="C:/code/kafka-druid-stream/src/main/resources/application.properties" timestamp="1511252510240">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="1" column="53" />
-        <mark key="." line="1" column="53" />
-        <mark key="^" line="1" column="53" />
+      <file name="C:/code/kafka-druid-stream/src/main/resources/application.properties" timestamp="1511254081934">
+        <mark key="[" line="10" column="38" />
+        <mark key="]" line="11" column="34" />
+        <mark key="." line="11" column="34" />
+        <mark key="^" line="11" column="34" />
       </file>
       <file name="C:/code/kafka-druid-stream/src/main/kotlin/com/miras/data/Entity.kt" timestamp="1511244807873">
         <mark key="'" line="7" column="21" />
@@ -216,10 +228,11 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="C:/code/kafka-druid-stream/src/main/kotlin/com/miras/data/Utils.kt" timestamp="1511249088751">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="C:/code/kafka-druid-stream/src/main/kotlin/com/miras/data/Utils.kt" timestamp="1511253171295">
+        <mark key="[" line="26" column="18" />
+        <mark key="]" line="27" column="16" />
+        <mark key="." line="27" column="16" />
+        <mark key="^" line="27" column="16" />
       </file>
       <file name="C:/code/MDHTrafficMapReduce/hdfs_only_mr_jobs/pom.xml" timestamp="1510880558708">
         <mark key="[" line="13" column="0" />
@@ -242,11 +255,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="C:/code/kafka-druid-stream/pom.xml" timestamp="1511245700615">
-        <mark key="[" line="47" column="21" />
-        <mark key="]" line="45" column="30" />
-        <mark key="." line="45" column="30" />
-        <mark key="^" line="45" column="30" />
+      <file name="C:/code/kafka-druid-stream/pom.xml" timestamp="1511254242582">
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="19" column="31" />
+        <mark key="." line="19" column="31" />
+        <mark key="^" line="42" column="26" />
       </file>
       <file name="C:/code/hive-redis/pom.xml" timestamp="1510894256733">
         <mark key="[" line="34" column="19" />
@@ -382,43 +395,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>id</text>
+        <text>classLoader</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>classLoader</text>
       </register>
       <register name="/" type="4">
         <text>mysql</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">a2Fma2EuY29uc3VtZXIua2V5LnNlcmRlPW9yZy5hcGFjaGUua2Fma2EuY29tbW9uLnNlcmlhbGl6YXRpb24uU3RyaW5nRGVzZXJpYWxpemVyCmthZmthLmNvbnN1bWVyLnZhbHVlLnNlcmRlPW9yZy5hcGFjaGUua2Fma2EuY29tbW9uLnNlcmlhbGl6YXRpb24uU3RyaW5nRGVzZXJpYWxpemVyCg==</text>
+        <text encoding="base64">a2Fma2EuY2xpZW50LmlkPWthZmthLWRydWlkLXN0cmVhbQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vckVtcHR5KCkK</text>
+        <text encoding="base64">bG9nNGouYXBwZW5kZXIuc3Rkb3V0LkZpbGU9bG9ncy9pbWFnZUxvZy5sb2cK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vckVtcHR5KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIgeyBjbiAtPiBjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50YWtlSWYgeyBjbiAtPiBjbi5vckVtcHR5KCkubGVuZ3RoID4gNCB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIgeyBjbiAtPiBjCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIgeyAgaXQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50YWtlSWYgeyBjbiAtPiBjbi5vckVtcHR5KCkubGVuZ3RoID4gNCB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIgeyAgaXQuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIWNuLmlzTnVsbE9yQmxhbmsoKSAmJiBjbj4gNAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIWNuLmlzTnVsbE9yQmxhbmsoKSAmJiBjbj4gNAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">b3JhY2xlLnVybD0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/mysql/oracle/g</text>
