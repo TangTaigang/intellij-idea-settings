@@ -3,14 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.1.0/kafka-clients-0.10.1.0-sources.jar!/org/apache/kafka/common/serialization/Serdes.java" timestamp="1511276736740" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/java/com/miras/data/bolt/PhoenixBolt.java" timestamp="1510822542153">
         <mark key="[" line="71" column="55" />
         <mark key="]" line="72" column="18" />
         <mark key="." line="72" column="18" />
         <mark key="^" line="72" column="18" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-streams/0.10.1.0/kafka-streams-0.10.1.0-sources.jar!/org/apache/kafka/streams/StreamsConfig.java" timestamp="1511273864385" />
       <file name="C:/code/hivetest/src/main/kotlin/Application.kt" timestamp="1510897224911">
         <mark key="[" line="16" column="27" />
         <mark key="]" line="17" column="26" />
@@ -56,7 +54,6 @@
         <mark key="]" line="9" column="29" />
         <mark key="." line="9" column="29" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-streams/0.10.1.0/kafka-streams-0.10.1.0-sources.jar!/org/apache/kafka/streams/kstream/internals/KStreamMapValues.java" timestamp="1511273708983" />
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarActivity288.java" timestamp="1510643628815">
         <mark key="[" line="105" column="91" />
         <mark key="]" line="105" column="91" />
@@ -69,7 +66,7 @@
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="C:/code/kafka-druid-stream/src/main/kotlin/com/miras/data/Application.kt" timestamp="1511281035733">
+      <file name="C:/code/kafka-druid-stream/src/main/kotlin/com/miras/data/Application.kt" timestamp="1511310005417">
         <mark key="'" line="85" column="19" />
         <mark key="[" line="85" column="40" />
         <mark key="]" line="85" column="45" />
@@ -82,7 +79,6 @@
         <mark key="." line="9" column="43" />
         <mark key="^" line="9" column="43" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.1.0/kafka-clients-0.10.1.0-sources.jar!/org/apache/kafka/common/config/AbstractConfig.java" timestamp="1511275682168" />
       <file name="C:/code/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1510545411346">
         <mark key="[" line="9" column="39" />
         <mark key="]" line="9" column="38" />
@@ -140,7 +136,6 @@
       <file name="C:/code/MDHTrafficMapReduce/mr-jobs/hdfs-only-mr-jobs/pom.xml" timestamp="1510881056219">
         <mark key="[" line="14" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.1.0/kafka-clients-0.10.1.0-sources.jar!/org/apache/kafka/common/config/ConfigDef.java" timestamp="1511277050897" />
       <file name="/RegExp Fragment (Application.kt:359).regexp" timestamp="1510893940865">
         <mark key="[" line="0" column="0" />
       </file>
@@ -211,11 +206,11 @@
         <mark key="." line="34" column="42" />
         <mark key="^" line="63" column="19" />
       </file>
-      <file name="C:/code/kafka-druid-stream/src/main/resources/application.properties" timestamp="1511280233821">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="33" />
-        <mark key="." line="6" column="33" />
-        <mark key="^" line="6" column="33" />
+      <file name="C:/code/kafka-druid-stream/src/main/resources/application.properties" timestamp="1511309998388">
+        <mark key="[" line="24" column="18" />
+        <mark key="]" line="24" column="27" />
+        <mark key="." line="24" column="27" />
+        <mark key="^" line="24" column="27" />
       </file>
       <file name="C:/code/kafka-druid-stream/src/main/kotlin/com/miras/data/Entity.kt" timestamp="1511280564978">
         <mark key="'" line="7" column="21" />
@@ -252,10 +247,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="C:/code/kafka-druid-stream/pom.xml" timestamp="1511254242582">
-        <mark key="[" line="19" column="30" />
-        <mark key="]" line="19" column="31" />
-        <mark key="." line="19" column="31" />
+      <file name="C:/code/kafka-druid-stream/pom.xml" timestamp="1511310360725">
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="19" column="29" />
+        <mark key="." line="19" column="29" />
         <mark key="^" line="42" column="26" />
       </file>
       <file name="C:/code/hive-redis/pom.xml" timestamp="1510894256733">
@@ -389,16 +384,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mysql</text>
+        <text>from</text>
       </register>
       <register name="-" type="4">
-        <text>mysql</text>
+        <text>from</text>
       </register>
       <register name="/" type="4">
         <text>mysql</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">c3RyZWFtLnRvcGljLmZyb209Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
