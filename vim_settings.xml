@@ -156,6 +156,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Locale.java" timestamp="1511407671678" />
+      <file name="C:/code/druid-kafka/kafka-druid-stream/build.sh" timestamp="1511413798051">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+      </file>
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/DayHideNightOutByDay.java" timestamp="1511085699332">
         <mark key="[" line="52" column="58" />
         <mark key="]" line="53" column="30" />
@@ -228,12 +234,6 @@
         <mark key="." line="21" column="31" />
         <mark key="^" line="21" column="31" />
       </file>
-      <file name="C:/code/kafka-druid-stream/src/main/kotlin/com/miras/data/Entity.kt" timestamp="1511280564978">
-        <mark key="'" line="7" column="21" />
-        <mark key="[" line="70" column="31" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-      </file>
       <file name="C:/code/kafka-druid-stream/.gitignore" timestamp="1511322905485">
         <mark key="[" line="25" column="10" />
         <mark key="]" line="26" column="3" />
@@ -256,7 +256,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511406928465">
+      <file name="/Dummy.txt" timestamp="1511413814846">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -272,10 +272,10 @@
         <mark key="." line="19" column="29" />
         <mark key="^" line="42" column="26" />
       </file>
-      <file name="C:/code/druid-kafka/kafka-druid-stream/src/main/kotlin/com/miras/data/Application.kt" timestamp="1511406920871">
+      <file name="C:/code/druid-kafka/kafka-druid-stream/src/main/kotlin/com/miras/data/Application.kt" timestamp="1511413733443">
         <mark key="[" line="153" column="55" />
-        <mark key="]" line="153" column="91" />
-        <mark key="." line="153" column="91" />
+        <mark key="]" line="153" column="55" />
+        <mark key="." line="153" column="55" />
         <mark key="^" line="153" column="91" />
       </file>
       <file name="C:/code/hive-redis/pom.xml" timestamp="1510894256733">
@@ -416,10 +416,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>) - 8 * 3600</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>) - 8 * 3600</text>
       </register>
       <register name="/" type="4">
         <text>mysql</text>
