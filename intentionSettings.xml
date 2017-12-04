@@ -1,9 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Java/Modifiers/Make Package-Private" />
-    <ignoreAction name="Java/Modifiers/Make Private" />
-    <ignoreAction name="Java/Modifiers/Make Protected" />
-    <ignoreAction name="Java/Modifiers/Make Public" />
-    <ignoreAction name="Language Injection/Edit Injected Fragment" />
-  </component>
-</application>
