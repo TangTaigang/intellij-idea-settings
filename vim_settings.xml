@@ -341,11 +341,11 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="15" />
       </file>
-      <file name="C:/code/druid-kafka/kafka-druid-stream/pom.xml" timestamp="1511405854842">
-        <mark key="[" line="57" column="37" />
-        <mark key="]" line="57" column="37" />
-        <mark key="." line="57" column="37" />
-        <mark key="^" line="57" column="37" />
+      <file name="C:/code/druid-kafka/kafka-druid-stream/pom.xml" timestamp="1512445201856">
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="18" column="42" />
+        <mark key="." line="18" column="42" />
+        <mark key="^" line="18" column="42" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_graylist/src/main/java/com/miras/data/graylist/GrayListDao.java" timestamp="1511328933005">
         <mark key="[" line="6" column="3" />
@@ -421,11 +421,11 @@
       <jump line="216" column="53" filename="C:/code/druid-kafka/kafka-druid-stream/src/main/kotlin/com/miras/data/Application.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZUlucHV0U3RyZWFtCg==</text>
+      <register name="&quot;" type="4">
+        <text>.1.60</text>
       </register>
       <register name="-" type="4">
-        <text>stream.topic.to</text>
+        <text>.1.60</text>
       </register>
       <register name="/" type="4">
         <text>mysql</text>
