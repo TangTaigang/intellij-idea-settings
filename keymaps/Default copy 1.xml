@@ -6,9 +6,13 @@
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="ContextHelp" />
   <action id="EditorSelectWord" />
   <action id="QuickList.My Operations">
     <keyboard-shortcut first-keystroke="alt back_quote" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="Vcs.QuickListPopupAction" />
 </keymap>
