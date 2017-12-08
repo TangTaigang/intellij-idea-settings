@@ -37,6 +37,12 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
+      <file name="C:/code/start/src/main/kotlin/me/kischn/start/StartApplication.kt" timestamp="1512704779229">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="27" />
+        <mark key="^" line="10" column="27" />
+        <mark key="." line="10" column="27" />
+      </file>
       <file name="C:/code/mdh-travel-path/pom.xml" timestamp="1511077939887">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
@@ -71,13 +77,6 @@
         <mark key="]" line="3" column="53" />
         <mark key="." line="3" column="53" />
         <mark key="^" line="3" column="53" />
-      </file>
-      <file name="C:/code/kafka-druid-stream/src/main/kotlin/com/miras/data/Application.kt" timestamp="1511322328280">
-        <mark key="'" line="85" column="19" />
-        <mark key="[" line="209" column="27" />
-        <mark key="]" line="209" column="45" />
-        <mark key="." line="209" column="45" />
-        <mark key="^" line="209" column="45" />
       </file>
       <file name="C:/code/MDHTrafficMapReduce/src/main/production-resources/application.properties" timestamp="1510736867805">
         <mark key="[" line="9" column="18" />
@@ -257,6 +256,11 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="C:/code/start/src/main/resources/static/index.html" timestamp="1512704934264">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="C:/code/kafka-druid-stream/.gitignore" timestamp="1511322905485">
         <mark key="[" line="25" column="10" />
         <mark key="]" line="26" column="3" />
@@ -432,11 +436,11 @@
       <jump line="216" column="53" filename="C:/code/druid-kafka/kafka-druid-stream/src/main/kotlin/com/miras/data/Application.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>UseConcMarkSweepGC</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aGVsbG8sd29ybGQK</text>
       </register>
       <register name="-" type="4">
-        <text>UseConcMarkSweepGC</text>
+        <text>Title</text>
       </register>
       <register name="/" type="4">
         <text>mysql</text>
@@ -445,31 +449,31 @@
         <text encoding="base64">ICAgICAgICAgICAga2Fma2FDb25maWdNYXAucHV0KGsudG9TdHJpbmcoKS5zdWJzdHJpbmcoImthZmthLiIubGVuZ3RoKSwgdikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aGVsbG8sd29ybGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xvc2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xvc2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoKAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoKEZpbGUoZmlsZU5hbWUpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/mysql/oracle/g</text>
