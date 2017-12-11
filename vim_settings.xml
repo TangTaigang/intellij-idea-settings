@@ -374,6 +374,12 @@
         <mark key="^" line="25" column="8" />
         <mark key="." line="25" column="8" />
       </file>
+      <file name="C:/code/start/pom.xml" timestamp="1512970694512">
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="25" column="28" />
+        <mark key="." line="25" column="28" />
+        <mark key="^" line="25" column="28" />
+      </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_redis_hbase/pom.xml" timestamp="1510826828702">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -436,11 +442,11 @@
       <jump line="216" column="53" filename="C:/code/druid-kafka/kafka-druid-stream/src/main/kotlin/com/miras/data/Application.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aGVsbG8sd29ybGQK</text>
+      <register name="&quot;" type="4">
+        <text>1.61</text>
       </register>
       <register name="-" type="4">
-        <text>Title</text>
+        <text>1.61</text>
       </register>
       <register name="/" type="4">
         <text>mysql</text>
