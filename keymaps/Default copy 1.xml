@@ -6,8 +6,19 @@
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="Console.Execute" />
   <action id="ContextHelp" />
+  <action id="DirDiffMenu.SynchronizeDiff" />
+  <action id="EditorChooseLookupItem" />
+  <action id="EditorEnter" />
   <action id="EditorSelectWord" />
+  <action id="Images.Thumbnails.EnterAction" />
+  <action id="Maven.ExecuteGoal">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
   <action id="QuickList.My Operations">
     <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
