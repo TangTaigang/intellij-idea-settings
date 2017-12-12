@@ -55,6 +55,7 @@
         <mark key="." line="59" column="7" />
         <mark key="^" line="59" column="7" />
       </file>
+      <file name="C:/code/Lealone/lealone-db/src/main/java/org/lealone/db/Csv.java" timestamp="1513051040557" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_kerberos2kafka/src/main/resources/application.properties" timestamp="1510553626753">
         <mark key="[" line="4" column="22" />
         <mark key="]" line="4" column="23" />
@@ -90,9 +91,6 @@
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.0/kafka-clients-0.10.0.0-sources.jar!/org/apache/kafka/clients/producer/ProducerRecord.java" timestamp="1512350594062">
-        <mark key="'" line="38" column="19" />
-      </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/dist/run.sh" timestamp="1510975355119">
         <mark key="[" line="2" column="58" />
         <mark key="]" line="2" column="58" />
@@ -119,9 +117,6 @@
         <mark key="[" line="16" column="21" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-streams/0.10.0.0/kafka-streams-0.10.0.0-sources.jar!/org/apache/kafka/streams/processor/internals/SinkNode.java" timestamp="1512351092949">
-        <mark key="'" line="25" column="13" />
       </file>
       <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_es/src/main/java/com/miras/data/illegal/es/IllegalDataESBolt.java" timestamp="1510560427426">
         <mark key="[" line="35" column="0" />
@@ -152,9 +147,6 @@
         <mark key="]" line="3" column="16" />
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.0/kafka-clients-0.10.0.0-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java" timestamp="1512351641893">
-        <mark key="'" line="568" column="36" />
       </file>
       <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/web/ESController.java" timestamp="1510629051734">
         <mark key="[" line="229" column="70" />
@@ -284,9 +276,6 @@
         <mark key="]" line="19" column="29" />
         <mark key="." line="19" column="29" />
         <mark key="^" line="42" column="26" />
-      </file>
-      <file name="C:/code/druid-kafka/kafka-druid-stream/src/main/kotlin/com/miras/data/Application.kt" timestamp="1512370678835">
-        <mark key="'" line="209" column="53" />
       </file>
       <file name="C:/code/hive-redis/pom.xml" timestamp="1510894256733">
         <mark key="[" line="34" column="19" />
