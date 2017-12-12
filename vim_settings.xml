@@ -9,7 +9,6 @@
         <mark key="." line="72" column="18" />
         <mark key="^" line="72" column="18" />
       </file>
-      <file name="C:/code/MDHTrafficDataSync/mdh_data_6in1_cdc_hdfs/pom.xml" timestamp="1512971889716" />
       <file name="C:/code/hivetest/src/main/kotlin/Application.kt" timestamp="1510897224911">
         <mark key="[" line="16" column="27" />
         <mark key="]" line="17" column="26" />
@@ -62,7 +61,6 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="15" column="68" />
       </file>
-      <file name="C:/code/MDHTrafficDataSync/mdh_data_6in1_cdc_oracle/src/main/java/com/miras/data/cdc/oracle/OracleBolt.java" timestamp="1512971720165" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_graylist/src/main/production-resources/application.properties" timestamp="1511168408236">
         <mark key="[" line="9" column="29" />
         <mark key="]" line="9" column="29" />
@@ -117,7 +115,6 @@
         <mark key="." line="48" column="19" />
         <mark key="^" line="48" column="19" />
       </file>
-      <file name="C:/code/MDHTrafficDataSync/MDHTrafficCdc2Kafka/pom.xml" timestamp="1512971611290" />
       <file name="C:/code/kafkaclient/pom.xml" timestamp="1510552152479">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="22" column="0" />
@@ -126,7 +123,6 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-streams/0.10.0.0/kafka-streams-0.10.0.0-sources.jar!/org/apache/kafka/streams/processor/internals/SinkNode.java" timestamp="1512351092949">
         <mark key="'" line="25" column="13" />
       </file>
-      <file name="C:/code/MDHTrafficDataSync/mdh_data_6in1_cdc_kafka/src/main/java/com/miras/data/ct2kafka/dao/RowIdDao.java" timestamp="1512971637444" />
       <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_es/src/main/java/com/miras/data/illegal/es/IllegalDataESBolt.java" timestamp="1510560427426">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="36" column="33" />
@@ -183,7 +179,6 @@
         <mark key="." line="22" column="89" />
         <mark key="^" line="22" column="89" />
       </file>
-      <file name="C:/code/MDHTrafficDataSync/mdh_data_6in1_cdc_kafka/src/main/production-resources/application.yml" timestamp="1512972331982" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/production-resources/application.properties" timestamp="1511064121972">
         <mark key="[" line="17" column="14" />
         <mark key="]" line="17" column="15" />
@@ -262,7 +257,6 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="C:/code/MDHTrafficDataSync/MDHTrafficCdc2Kafka/src/main/production-resources/application.yml" timestamp="1512972999192" />
       <file name="C:/code/MDHTrafficMapReduce/hdfs_only_mr_jobs/pom.xml" timestamp="1510880558708">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -274,12 +268,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="C:/code/Lealone/README.md" timestamp="1513050191355" />
       <file name="/Dummy.txt" timestamp="1512459386666">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/code/MDHTrafficDataSync/MDHTrafficCdc2Kafka/src/main/java/com/miras/data/ct2kafka/RowIdDao.java" timestamp="1512971443913" />
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/entity/FootHoldByDay.java" timestamp="1510642996812">
         <mark key="[" line="19" column="24" />
         <mark key="]" line="13" column="0" />
@@ -336,7 +330,6 @@
         <mark key="." line="21" column="59" />
         <mark key="^" line="26" column="74" />
       </file>
-      <file name="C:/code/MDHTrafficDataSync/mdh_data_6in1_cdc_oracle/pom.xml" timestamp="1512971752209" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_kerberos2kafka/src/main/java/com/miras/data/passinf/Application2.java" timestamp="1510541339915">
         <mark key="[" line="23" column="22" />
         <mark key="]" line="23" column="36" />
@@ -383,6 +376,9 @@
         <mark key="[" line="103" column="55" />
         <mark key="]" line="103" column="55" />
         <mark key="." line="103" column="55" />
+      </file>
+      <file name="C:/code/Lealone/.gitignore" timestamp="1513050049409">
+        <mark key="[" line="7" column="10" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/java/com/miras/data/Application.java" timestamp="1510830546040">
         <mark key="[" line="28" column="72" />
