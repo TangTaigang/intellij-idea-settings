@@ -10,7 +10,6 @@
   <action id="ContextHelp" />
   <action id="DirDiffMenu.SynchronizeDiff" />
   <action id="EditorChooseLookupItem" />
-  <action id="EditorEnter" />
   <action id="EditorSelectWord" />
   <action id="Images.Thumbnails.EnterAction" />
   <action id="Maven.ExecuteGoal">
