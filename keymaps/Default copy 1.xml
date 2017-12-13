@@ -17,5 +17,8 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
   <action id="Vcs.QuickListPopupAction" />
 </keymap>
