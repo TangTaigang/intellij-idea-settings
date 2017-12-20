@@ -214,6 +214,12 @@
         <mark key="." line="40" column="96" />
         <mark key="^" line="40" column="96" />
       </file>
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/java/com/miras/data/passinf/image/PassinfImageBolt.java" timestamp="1513758786766">
+        <mark key="[" line="57" column="116" />
+        <mark key="]" line="57" column="116" />
+        <mark key="^" line="57" column="116" />
+        <mark key="." line="57" column="116" />
+      </file>
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/entity/DayHideNightOut.java" timestamp="1510642633547">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -426,11 +432,11 @@
       <jump line="216" column="53" filename="C:/code/druid-kafka/kafka-druid-stream/src/main/kotlin/com/miras/data/Application.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmV3IERhdGUoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>mysql</text>
@@ -439,31 +445,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZ2VDb3VudENhY2hlLnB1dChjYWNoZUtleSwgcGFnZUNvdW50KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmV3IERhdGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5Y+v5Lul5LiL6L295Zu+54mH55qE6YeH6ZuG5py65YWz5YiX6KGoLCDkv53lrZjliY0gNiDkvY0KICAgICAqLwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU2V0PFN0cmluZz4gQ09MTEVDVF9BR0VOQ0lFU19IQVZJTkdfUElDUyA9IG5ldyBIYXNoU2V0PD4oKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkIHRocmVhZCA9Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5Y+v5Lul5LiL6L295Zu+54mH55qE6YeH6ZuG5py65YWz5YiX6KGoLCDkv53lrZjliY0gNiDkvY0KICAgICAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFnZUNvdW50Q2FjaGUucHV0KGNhY2hlS2V5LCB0aHJlYWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIE1ENWtleSA9IChTdHJpbmcpIG9iamVjdEVudW1NYXAuZ2V0KE1ENUtFWSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0ID0gKEludGVnZXIpIGNvdW50Q2FjaGU7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBTdHJpbmcgZnNzaiA9IE9wdGlvbmFsLm9mTnVsbGFibGUob2JqZWN0RW51bU1hcC5nZXQoRlNTSikpCi8vICAgICAgICAgICAgICAgICAgICAubWFwKHYgLT4gc2ltcGxlRGF0ZUZvcm1hdC5mb3JtYXQoKERhdGUpIHYpKQovLyAgICAgICAgICAgICAgICAgICAgLm9yRWxzZSgiIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGNvdW50Q2FjaGUgaW5zdGFuY2VvZiBpbnQpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmV3IERhdGUoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFnZUNvdW50Q2FjaGUucHV0KGNhY2hlS2V5LCB0aHJlYWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkIHRocmVhZCA9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY291bnRDYWNoZSA9IHRocmVhZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFnZUNvdW50Q2FjaGUucHV0KGNhY2hlS2V5LCB0aHJlYWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0ID0gKEludGVnZXIpIGNvdW50Q2FjaGU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/mysql/oracle/g</text>
