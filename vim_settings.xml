@@ -9,11 +9,11 @@
         <mark key="." line="72" column="18" />
         <mark key="^" line="72" column="18" />
       </file>
-      <file name="C:/code/test/src/Main.java" timestamp="1513759103985">
-        <mark key="[" line="11" column="58" />
-        <mark key="]" line="11" column="60" />
-        <mark key="^" line="11" column="60" />
-        <mark key="." line="11" column="60" />
+      <file name="C:/code/test/src/Main.java" timestamp="1513774787249">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="C:/code/hivetest/src/main/kotlin/Application.kt" timestamp="1510897224911">
         <mark key="[" line="16" column="27" />
@@ -266,6 +266,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="C:/code/test/src/Main2.kt" timestamp="1513775369679">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="C:/code/kafka-druid-stream/.gitignore" timestamp="1511322905485">
         <mark key="[" line="25" column="10" />
         <mark key="]" line="26" column="3" />
@@ -442,13 +447,14 @@
       <jump line="25" column="13" filename="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-streams/0.10.0.0/kafka-streams-0.10.0.0-sources.jar!/org/apache/kafka/streams/processor/internals/SinkNode.java" />
       <jump line="568" column="36" filename="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.0/kafka-clients-0.10.0.0-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java" />
       <jump line="216" column="53" filename="C:/code/druid-kafka/kafka-druid-stream/src/main/kotlin/com/miras/data/Application.kt" />
+      <jump line="16" column="0" filename="C:/code/test/src/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRyaW1JbmRlbnQoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>map</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>mysql</text>
@@ -457,31 +463,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZ2VDb3VudENhY2hlLnB1dChjYWNoZUtleSwgcGFnZUNvdW50KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRyaW1JbmRlbnQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXh0cmFjdEltYWdlVXJsKG9iamVjdEVudW1NYXApOwo=</text>
+        <text encoding="base64">ICAgIGlmICh0cGwubGVuZ3RoID4gMTApIHsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGlmICh0cGwubGVuZ3RoID4gMTApIHsKICAgIH0KfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsgLy8gZmluYWxseSBibG9jayBpcyBhY2hpZXZhYmxlCg==</text>
+        <text encoding="base64">ICAgIGlmICh0cGwubGVuZ3RoID4gMTApIHsKICAgIH0KfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFjYW5Eb3dubG9hZFBpYykgewo=</text>
+        <text encoding="base64">ICAgIGlmICh0cGwubGVuZ3RoID4gMTApIHsKICAgIH0KfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAub3JFbHNlKGZhbHNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBjYW5Eb3dubG9hZFBpYyA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGZpbmFsbHkgYmxvY2sgaXMgYWNoaWV2YWJsZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZmluYWxseSBibG9jayBpcyBhY2hpZXZhYmxlCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>s/mysql/oracle/g</text>
