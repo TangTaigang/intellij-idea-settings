@@ -9,6 +9,12 @@
         <mark key="." line="72" column="18" />
         <mark key="^" line="72" column="18" />
       </file>
+      <file name="C:/code/test/src/Main.java" timestamp="1513759103985">
+        <mark key="[" line="11" column="58" />
+        <mark key="]" line="11" column="60" />
+        <mark key="^" line="11" column="60" />
+        <mark key="." line="11" column="60" />
+      </file>
       <file name="C:/code/hivetest/src/main/kotlin/Application.kt" timestamp="1510897224911">
         <mark key="[" line="16" column="27" />
         <mark key="]" line="17" column="26" />
@@ -197,6 +203,12 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/production-resources/application.properties" timestamp="1513759952750">
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="16" column="31" />
+        <mark key="^" line="16" column="31" />
+        <mark key="." line="16" column="31" />
+      </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_kerberos2kafka/src/main/java/com/miras/data/passinf/Application.java" timestamp="1510553699434">
         <mark key="[" line="56" column="32" />
         <mark key="]" line="56" column="35" />
@@ -214,11 +226,11 @@
         <mark key="." line="40" column="96" />
         <mark key="^" line="40" column="96" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/java/com/miras/data/passinf/image/PassinfImageBolt.java" timestamp="1513758786766">
-        <mark key="[" line="57" column="116" />
-        <mark key="]" line="57" column="116" />
-        <mark key="^" line="57" column="116" />
-        <mark key="." line="57" column="116" />
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/java/com/miras/data/passinf/image/PassinfImageBolt.java" timestamp="1513760598579">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="^" line="80" column="78" />
+        <mark key="." line="94" column="129" />
       </file>
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/entity/DayHideNightOut.java" timestamp="1510642633547">
         <mark key="[" line="19" column="0" />
@@ -276,7 +288,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513297982595">
+      <file name="/Dummy.txt" timestamp="1513760214888">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -432,11 +444,11 @@
       <jump line="216" column="53" filename="C:/code/druid-kafka/kafka-druid-stream/src/main/kotlin/com/miras/data/Application.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
         <text>mysql</text>
@@ -445,31 +457,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZ2VDb3VudENhY2hlLnB1dChjYWNoZUtleSwgcGFnZUNvdW50KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5Y+v5Lul5LiL6L295Zu+54mH55qE6YeH6ZuG5py65YWz5YiX6KGoLCDkv53lrZjliY0gNiDkvY0KICAgICAqLwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU2V0PFN0cmluZz4gQ09MTEVDVF9BR0VOQ0lFU19IQVZJTkdfUElDUyA9IG5ldyBIYXNoU2V0PD4oKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5Y+v5Lul5LiL6L295Zu+54mH55qE6YeH6ZuG5py65YWz5YiX6KGoLCDkv53lrZjliY0gNiDkvY0KICAgICAqLwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIE1ENWtleSA9IChTdHJpbmcpIG9iamVjdEVudW1NYXAuZ2V0KE1ENUtFWSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTdHJpbmcgZnNzaiA9IE9wdGlvbmFsLm9mTnVsbGFibGUob2JqZWN0RW51bU1hcC5nZXQoRlNTSikpCi8vICAgICAgICAgICAgICAgICAgICAubWFwKHYgLT4gc2ltcGxlRGF0ZUZvcm1hdC5mb3JtYXQoKERhdGUpIHYpKQovLyAgICAgICAgICAgICAgICAgICAgLm9yRWxzZSgiIik7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXh0cmFjdEltYWdlVXJsKG9iamVjdEVudW1NYXApOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsgLy8gZmluYWxseSBibG9jayBpcyBhY2hpZXZhYmxlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFjYW5Eb3dubG9hZFBpYykgewo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmV3IERhdGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAub3JFbHNlKGZhbHNlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkIHRocmVhZCA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBjYW5Eb3dubG9hZFBpYyA9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFnZUNvdW50Q2FjaGUucHV0KGNhY2hlS2V5LCB0aHJlYWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGZpbmFsbHkgYmxvY2sgaXMgYWNoaWV2YWJsZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0ID0gKEludGVnZXIpIGNvdW50Q2FjaGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZmluYWxseSBibG9jayBpcyBhY2hpZXZhYmxlCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/mysql/oracle/g</text>
