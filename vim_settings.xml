@@ -204,11 +204,12 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/production-resources/application.properties" timestamp="1513822693972">
-        <mark key="[" line="13" column="25" />
-        <mark key="]" line="13" column="25" />
-        <mark key="^" line="13" column="25" />
-        <mark key="." line="13" column="38" />
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/production-resources/application.properties" timestamp="1513823420364">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_kerberos2kafka/src/main/java/com/miras/data/passinf/Application.java" timestamp="1510553699434">
         <mark key="[" line="56" column="32" />
@@ -227,12 +228,12 @@
         <mark key="." line="40" column="96" />
         <mark key="^" line="40" column="96" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/java/com/miras/data/passinf/image/PassinfImageBolt.java" timestamp="1513822593278">
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/java/com/miras/data/passinf/image/PassinfImageBolt.java" timestamp="1513823240182">
         <mark key="'" line="55" column="43" />
-        <mark key="[" line="66" column="49" />
-        <mark key="]" line="66" column="66" />
-        <mark key="." line="66" column="66" />
-        <mark key="^" line="66" column="66" />
+        <mark key="[" line="66" column="93" />
+        <mark key="]" line="66" column="102" />
+        <mark key="." line="66" column="102" />
+        <mark key="^" line="66" column="102" />
       </file>
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/entity/DayHideNightOut.java" timestamp="1510642633547">
         <mark key="[" line="19" column="0" />
@@ -295,7 +296,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513821932167">
+      <file name="/Dummy.txt" timestamp="1513823616891">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -452,56 +453,57 @@
       <jump line="16" column="0" filename="C:/code/test/src/Main.java" />
       <jump line="108" column="31" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/java/com/miras/data/passinf/image/PassinfImageBolt.java" />
       <jump line="55" column="43" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/java/com/miras/data/passinf/image/PassinfImageBolt.java" />
+      <jump line="10" column="0" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/production-resources/application.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>--机场大队：</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>--机场大队：</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>mysql</text>
+        <text>\\</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Iy0t5oyH5oyl5Lit5b+D77yaMzcwNjAwMDAwMDAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wYXJhbGxlbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBMLmluZm8oImNvbGxlY3QgYWdlbmNpZXMgaGF2aW5nIHBpY3MxOiIsIGFnZW5jaWVzSGF2aW5nUGljcyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBNRDVrZXkgKyAiLCIgKyBwYXRoICsgIiwiICsgc2ltcGxlRGF0ZUZvcm1hdC5mb3JtYXQobmV3IERhdGUoKSkgKyAiLCIgKyBjb2xsZWN0RGF0ZSArICIscGFzc2luZiIpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wYXJhbGxlbCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJlYW0uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBNRDVrZXkgKyAiLCIgKyBwYXRoICsgIiwiICsgc2ltcGxlRGF0ZUZvcm1hdC5mb3JtYXQobmV3IERhdGUoKSkgKyAiLCIgKyBjb2xsZWN0RGF0ZSArICIscGFzc2luZiIpKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJlYW0uCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGljMXBhdGggPSBDUElDMVBBVEguZ2V0U3RyaW5nVmFsdWUob2JqZWN0RW51bU1hcCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNOb3RFbXB0eShwaWMzcGF0aCkgJiYgIUlORUZGRUNUSVZFX05BTUVTLmNvbnRhaW5zKHBpYzNwYXRoKSkgewogICAgICAgICAgICBrYWZrYVByb2R1Y2VyLnNlbmQobmV3IFByb2R1Y2VyUmVjb3JkPD4oVE9QSUMsIE1ENWtleSArICIsIiArIHBpYzNwYXRoICsgIiwiICsgc2ltcGxlRGF0ZUZvcm1hdC5mb3JtYXQobmV3IERhdGUoKSkgKyAiLCIgKyBjb2xsZWN0RGF0ZSArICIscGFzc2luZiIpKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGljMXBhdGggPSBDUElDMVBBVEguZ2V0U3RyaW5nVmFsdWUob2JqZWN0RW51bU1hcCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2Fma2FQcm9kdWNlci5zZW5kKG5ldyBQcm9kdWNlclJlY29yZDw+KFRPUElDLCBNRDVrZXkgKyAiLCIgKyBwaWMycGF0aCArICIsIiArIHNpbXBsZURhdGVGb3JtYXQuZm9ybWF0KG5ldyBEYXRlKCkpICsgIiwiICsgY29sbGVjdERhdGUgKyAiLHBhc3NpbmYiKSk7CiAgICAgICAgfQoKICAgICAgICBTdHJpbmcgcGljM3BhdGggPSBDUElDM1BBVEguZ2V0U3RyaW5nVmFsdWUob2JqZWN0RW51bU1hcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNOb3RFbXB0eShwaWMzcGF0aCkgJiYgIUlORUZGRUNUSVZFX05BTUVTLmNvbnRhaW5zKHBpYzNwYXRoKSkgewogICAgICAgICAgICBrYWZrYVByb2R1Y2VyLnNlbmQobmV3IFByb2R1Y2VyUmVjb3JkPD4oVE9QSUMsIE1ENWtleSArICIsIiArIHBpYzNwYXRoICsgIiwiICsgc2ltcGxlRGF0ZUZvcm1hdC5mb3JtYXQobmV3IERhdGUoKSkgKyAiLCIgKyBjb2xsZWN0RGF0ZSArICIscGFzc2luZiIpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNOb3RFbXB0eShwaWMxcGF0aCkgJiYgIUlORUZGRUNUSVZFX05BTUVTLmNvbnRhaW5zKHBpYzFwYXRoKSkgewogICAgICAgIH0KICAgICAgICBTdHJpbmcgcGljMnBhdGggPSBDUElDMlBBVEguZ2V0U3RyaW5nVmFsdWUob2JqZWN0RW51bU1hcCk7CiAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90RW1wdHkocGljMnBhdGgpICYmICFJTkVGRkVDVElWRV9OQU1FUy5jb250YWlucyhwaWMycGF0aCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAga2Fma2FQcm9kdWNlci5zZW5kKG5ldyBQcm9kdWNlclJlY29yZDw+KFRPUElDLCBNRDVrZXkgKyAiLCIgKyBwaWMycGF0aCArICIsIiArIHNpbXBsZURhdGVGb3JtYXQuZm9ybWF0KG5ldyBEYXRlKCkpICsgIiwiICsgY29sbGVjdERhdGUgKyAiLHBhc3NpbmYiKSk7CiAgICAgICAgfQoKICAgICAgICBTdHJpbmcgcGljM3BhdGggPSBDUElDM1BBVEguZ2V0U3RyaW5nVmFsdWUob2JqZWN0RW51bU1hcCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/mysql/oracle/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mysql</last-search>
-      <last-pattern>mysql</last-pattern>
-      <last-replace>oracle</last-replace>
-      <last-substitute>mysql</last-substitute>
+      <last-search>\\</last-search>
+      <last-pattern>\\</last-pattern>
+      <last-replace />
+      <last-substitute>\\</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
@@ -516,6 +518,8 @@
         <entry>,</entry>
         <entry>Name</entry>
         <entry>mysql</entry>
+        <entry encoding="base64">IA==</entry>
+        <entry>\\</entry>
       </history-search>
       <history-cmd>
         <entry>s/length/offset/g</entry>
@@ -528,6 +532,9 @@
         <entry>s/,/\$/g</entry>
         <entry>s/Name/Code/g</entry>
         <entry>s/mysql/oracle/g</entry>
+        <entry>s/ /,/g</entry>
+        <entry>s/\\//g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
