@@ -23,11 +23,22 @@
         <mark key="^" line="8" column="90" />
       </file>
       <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/src/main/production-resources/application.properties" timestamp="1513909801966" />
+      <file name="/a.dummy" timestamp="1513922444457">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
       <file name="C:/code/start/src/main/kotlin/me/kischn/start/StartApplication.kt" timestamp="1512704779229">
         <mark key="[" line="10" column="16" />
         <mark key="]" line="10" column="27" />
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="27" />
+      </file>
+      <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/src/test/java/Test.java" timestamp="1513923456080">
+        <mark key="[" line="4" column="103" />
+        <mark key="]" line="4" column="103" />
+        <mark key="." line="4" column="103" />
+        <mark key="^" line="4" column="103" />
       </file>
       <file name="C:/code/trafficCP/src/main/resources/mappings/modules/electroniclaw/IllegalDataDao.xml" timestamp="1513905145796" />
       <file name="C:/code/mdh-travel-path/pom.xml" timestamp="1511077939887">
@@ -42,11 +53,21 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="15" column="68" />
       </file>
-      <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/src/main/production-resources/application.yaml" timestamp="1513914770156">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="9" column="16" />
-        <mark key="." line="9" column="16" />
-        <mark key="^" line="9" column="16" />
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_graylist/src/main/production-resources/application.properties" timestamp="1511168408236">
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="29" />
+        <mark key="." line="9" column="29" />
+      </file>
+      <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/src/main/production-resources/application.yaml" timestamp="1513923935255">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="11" column="13" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/dao/PhoenixDao.java" timestamp="1513068496538">
+        <mark key="[" line="454" column="0" />
+        <mark key="]" line="454" column="0" />
+        <mark key="." line="454" column="0" />
       </file>
       <file name="C:/code/trafficCP/src/main/java/com/miras/data/modules/electroniclaw/service/IllegalDataService.java" timestamp="1513905272639" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_common/src/main/java/com/miras/data/passinf/common/enums/PassinfDataField.java" timestamp="1513820151738" />
@@ -56,6 +77,11 @@
         <mark key="]" line="8" column="17" />
         <mark key="." line="8" column="17" />
         <mark key="^" line="8" column="17" />
+      </file>
+      <file name="C:/code/kafkaclient/pom.xml" timestamp="1510552152479">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="C:/code/MDHTrafficDataSync/mdh_data_activemq_kafka/src/main/java/com/miras/activemq/Application.java" timestamp="1513910090787" />
       <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_es/src/main/java/com/miras/data/illegal/es/IllegalDataESBolt.java" timestamp="1510560427426">
@@ -69,6 +95,11 @@
         <mark key="]" line="3" column="16" />
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
+      </file>
+      <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/web/ESController.java" timestamp="1510629051734">
+        <mark key="[" line="229" column="70" />
+        <mark key="]" line="229" column="70" />
+        <mark key="." line="229" column="70" />
       </file>
       <file name="C:/code/druid-kafka/kafka-druid-stream/build.sh" timestamp="1511413798051">
         <mark key="[" line="0" column="0" />
@@ -88,6 +119,11 @@
         <mark key="." line="22" column="89" />
         <mark key="^" line="22" column="89" />
       </file>
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_storm_bsc/src/main/java/com/miras/data/passinf/bolt/TravelPathBolt.java" timestamp="1513297811541">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/production-resources/application.properties" timestamp="1511064121972">
         <mark key="[" line="17" column="14" />
         <mark key="]" line="17" column="15" />
@@ -106,10 +142,11 @@
         <mark key="." line="40" column="96" />
         <mark key="^" line="40" column="96" />
       </file>
-      <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/pom.xml" timestamp="1513911679585">
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
+      <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/pom.xml" timestamp="1513923962645">
+        <mark key="[" line="82" column="18" />
+        <mark key="]" line="85" column="11" />
+        <mark key="." line="85" column="11" />
+        <mark key="^" line="85" column="11" />
       </file>
       <file name="C:/code/MDHTrafficDataSync/mdh_data_activemq_kafka/src/main/production-resources/application.yaml" timestamp="1513909893700" />
       <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/service/PhoenixService.java" timestamp="1513084569334">
@@ -129,6 +166,16 @@
         <mark key="]" line="26" column="3" />
         <mark key="^" line="26" column="3" />
         <mark key="." line="26" column="3" />
+      </file>
+      <file name="C:/code/MDHTrafficMapReduce/mr-jobs/pom.xml" timestamp="1510881065186">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
+      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/entity/FootHoldByDay.java" timestamp="1510642996812">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="C:/code/kafka-druid-stream/pom.xml" timestamp="1511310360725">
         <mark key="[" line="19" column="28" />
@@ -181,6 +228,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="13" column="29" />
       </file>
+      <file name="C:/code/mdh-travel-path/src/main/java/com/miras/data/CarRouteCombineMR.java" timestamp="1511141529201">
+        <mark key="[" line="103" column="55" />
+        <mark key="]" line="103" column="55" />
+        <mark key="." line="103" column="55" />
+      </file>
       <file name="C:/code/Lealone/.gitignore" timestamp="1513050049409">
         <mark key="[" line="7" column="10" />
       </file>
@@ -203,11 +255,11 @@
         <mark key="^" line="103" column="20" />
         <mark key="." line="103" column="20" />
       </file>
-      <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/src/main/resources/application.yaml" timestamp="1513914773344">
+      <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/src/main/resources/application.yaml" timestamp="1513922247960">
         <mark key="[" line="7" column="0" />
-        <mark key="]" line="9" column="17" />
-        <mark key="." line="7" column="0" />
+        <mark key="]" line="7" column="0" />
         <mark key="^" line="4" column="5" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_image/src/main/production-resources/kafka2phoenix.properties" timestamp="1513824082142" />
       <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/web/DwScrcfxController.java" timestamp="1511056162517">
@@ -239,6 +291,16 @@
         <mark key="]" line="9" column="38" />
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
+      </file>
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/dist/run.sh" timestamp="1510975355119">
+        <mark key="[" line="2" column="58" />
+        <mark key="]" line="2" column="58" />
+        <mark key="." line="2" column="58" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled/src/Main.kt" timestamp="1512607035822">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_redis_hbase/src/main/java/com/miras/data/passinf/Application.kt" timestamp="1510797045231">
         <mark key="[" line="47" column="43" />
@@ -288,12 +350,27 @@
         <mark key="." line="53" column="30" />
         <mark key="^" line="53" column="30" />
       </file>
+      <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_druidpassinfo/src/main/java/com/miras/data/storm/DruidPassInfoNewBolt.java" timestamp="1511248626028">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="80" />
+        <mark key="." line="145" column="0" />
+      </file>
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_graylist/pom.xml" timestamp="1511167707061">
+        <mark key="[" line="64" column="21" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/production-resources/application.properties" timestamp="1513910790454">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/hive-sql-new.sql" timestamp="1511062243247">
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="16" column="22" />
+        <mark key="." line="16" column="22" />
       </file>
       <file name="$MAVEN_REPOSITORY$/commons-net/commons-net/3.6/commons-net-3.6-sources.jar!/org/apache/commons/net/ftp/FTP.java" timestamp="1513919808328">
         <mark key="'" line="1863" column="21" />
@@ -304,6 +381,11 @@
         <mark key="]" line="66" column="102" />
         <mark key="." line="66" column="102" />
         <mark key="^" line="66" column="102" />
+      </file>
+      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/entity/DayHideNightOut.java" timestamp="1510642633547">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/build-scripts/build-test.sh" timestamp="1513911694517" />
       <file name="C:/code/kafka-druid-stream/src/main/resources/application.properties" timestamp="1511322138818">
@@ -318,14 +400,29 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="C:/code/start/src/main/resources/static/index.html" timestamp="1512704934264">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="C:/code/test/src/Main2.kt" timestamp="1513775369679">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="C:/code/MDHTrafficMapReduce/hdfs_only_mr_jobs/pom.xml" timestamp="1510880558708">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="38" column="20" />
       </file>
+      <file name="C:/code/hivetest/pom.xml" timestamp="1510897276890">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/build-scripts/build-production.bat" timestamp="1513911686337" />
-      <file name="/Dummy.txt" timestamp="1513919731211">
+      <file name="/Dummy.txt" timestamp="1513924696184">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -372,11 +469,11 @@
         <mark key="^" line="7" column="20" />
         <mark key="." line="7" column="20" />
       </file>
-      <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/src/main/java/com/miras/data/Application.java" timestamp="1513919690302">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="56" column="26" />
-        <mark key="." line="56" column="26" />
-        <mark key="^" line="56" column="16" />
+      <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/src/main/java/com/miras/data/Application.java" timestamp="1513924691697">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="55" column="30" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/java/com/miras/data/Application.java" timestamp="1510830546040">
         <mark key="[" line="28" column="72" />
@@ -435,44 +532,44 @@
       <jump line="1863" column="21" filename="$MAVEN_REPOSITORY$/commons-net/commons-net/3.6/commons-net-3.6-sources.jar!/org/apache/commons/net/ftp/FTP.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZnRwQ2xpZW50LnNldENvbnRyb2xFbmNvZGluZygiR0JLIik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTcHJpbmdBcHBsaWNhdGlvbi5ydW4oQXBwbGljYXRpb24uY2xhc3MsIGFyZ3MpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZW5kVG9LYWZrYShwYXRoICsgIi8iICsgZnRwRmlsZS5nZXROYW1lKCksIGZ0cEZpbGUuZ2V0TmFtZSgpLnNwbGl0KCJfIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWIoOmZpOWKn+iDvQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnRwQ2xpZW50LnNldENvbnRyb2xFbmNvZGluZygiR0JLIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ0cENsaWVudC5kZWxlKCIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmdbXSBpbWFnZUluZm8gPSBmdHBGaWxlLmdldE5hbWUoKS5zcGxpdCgiXyIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ0cEZpbAo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3FsID0gImluc2VydCBpbnRvIGR3ZF9ub19wbGF0ZShhZGRyZXNzY29kZSx1cmwsdHMpIHZhbHVlcyg/LD8sPykiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ0cEZpbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXhpdCgwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJ1bihBcHBsaWNhdGlvbi5jbGFzcywgYXJncykK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBpbWFnZUluZm8gPSBmaWxlTmFtZS5zcGxpdCgiXyIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTcmluZ2EK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gcGF0aCArICIvIiArIGZpbGVOYW1lOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMLmluZm8oInJlY3Vyc2VEaWc6IiArIHBhdGgpOwo=</text>
+        <text encoding="base64">ICAgIGluaXRpYWxpemU6IHRydWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMLmluZm8oInJlY3Vyc2VEaWctY2hpbGQ6IiArIGZ0cEZpbGVzLmxlbmd0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5rYWZrYTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWpkYmM8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
