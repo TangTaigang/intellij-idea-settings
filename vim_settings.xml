@@ -591,10 +591,11 @@
     </registers>
     <search>
       <last-search>\\</last-search>
+      <last-offset>;]</last-offset>
       <last-pattern>\\</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
-      <last-dir>0</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
