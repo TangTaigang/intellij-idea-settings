@@ -393,7 +393,7 @@
         <mark key="^" line="7" column="50" />
         <mark key="." line="7" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515640043365">
+      <file name="/Dummy.txt" timestamp="1515649525696">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -481,11 +481,11 @@
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="C:/code/ftptest/src/main/java/Application.java" timestamp="1515567570713">
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="29" />
-        <mark key="." line="25" column="29" />
-        <mark key="^" line="25" column="29" />
+      <file name="C:/code/ftptest/src/main/java/Application.java" timestamp="1515649595004">
+        <mark key="[" line="28" column="28" />
+        <mark key="]" line="28" column="29" />
+        <mark key="." line="28" column="29" />
+        <mark key="^" line="27" column="17" />
       </file>
       <file name="/pom.xml" timestamp="1515636157912" />
       <file name="C:/code/kafkaclient/src/main/java/Application.java" timestamp="1510553053301">
@@ -580,44 +580,44 @@
       <jump line="85" column="0" filename="C:/code/kischn-data-flow/src/main/kotlin/me/kischn/dataflow/kischndataflow/DataFlowService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaSArKzsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aHJlYWRzID0gcmVzdWx0U2V0LmdldFN0cmluZygidGhyZWFkcyIpLAo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInVzZXI6IiArIHNwbGl0WzBdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGkgJSAxMDAgPT0gMCkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGkpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaSArKzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGkgJSAxMDAgPT0gMCkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmdHAuY29ubmVjdChzcGxpdFsyXSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaSAlIDEwMDAgPT0gMCkgewogICAgICAgICAgICBmdHAubWtkKHBhdGggKyBpKTsKICAgICAgICAgICAgZnRwLmNoYW5nZVdvcmtpbmdEaXJlY3RvcnkocGF0aCArIGkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBmdHAuY29ubmVjdChzcGxpdFsyXSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmdHAuc2V0cAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmdHAubWtkKHBhdGgpOwogICAgICAgIGZ0cC5jaGFuZ2VXb3JraW5nRGlyZWN0b3J5KHBhdGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGkgJSAxMDAgPT0gMCkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmdHAubWtkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGkgJSAxMDAgPT0gMCkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8bWF2ZW4uY29tcGllci52ZXJzaW9uPjEuODwvbWF2ZW4uY29tcGllci52ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaSAlIDEwMDAgPT0gMCkgewogICAgICAgICAgICBmdHAubWtkKHBhdGggKyBpKTsKICAgICAgICAgICAgZnRwLmNoYW5nZVdvcmtpbmdEaXJlY3RvcnkocGF0aCArIGkpOwogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGZ0cC5lbnRlckxvY2FsQWN0aXZlTW9kZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInN0YXJ0ICIgKyBhcmdzWzBdKTsK</text>
+        <text encoding="base64">ICAgICAgICBmdHAubWtkKHBhdGgpOwogICAgICAgIGZ0cC5jaGFuZ2VXb3JraW5nRGlyZWN0b3J5KHBhdGgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -649,7 +649,6 @@
       <history-cmd>
         <entry>s/length/offset/g</entry>
         <entry>s/type/fileName/g</entry>
-        <entry>wq</entry>
         <entry>s/prev/curr/g</entry>
         <entry>s/begin/end/g</entry>
         <entry>s/url/userName/g</entry>
@@ -659,6 +658,7 @@
         <entry>s/mysql/oracle/g</entry>
         <entry>s/ /,/g</entry>
         <entry>s/\\//g</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
