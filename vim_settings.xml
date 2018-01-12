@@ -125,12 +125,12 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
-      <file name="C:/code/hftp/src/main/java/com/miras/hftp/HBaseUtils.java" timestamp="1515725016898">
-        <mark key="'" line="54" column="12" />
-        <mark key="[" line="58" column="10" />
-        <mark key="]" line="58" column="16" />
-        <mark key="." line="58" column="16" />
-        <mark key="^" line="58" column="16" />
+      <file name="C:/code/hftp/src/main/java/com/miras/hftp/HBaseUtils.java" timestamp="1515730094648">
+        <mark key="'" line="63" column="12" />
+        <mark key="[" line="42" column="56" />
+        <mark key="]" line="42" column="60" />
+        <mark key="." line="42" column="60" />
+        <mark key="^" line="42" column="60" />
       </file>
       <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/web/ESController.java" timestamp="1510629051734">
         <mark key="[" line="229" column="70" />
@@ -303,11 +303,11 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="C:/code/hftp/pom.xml" timestamp="1515721896281">
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="17" column="30" />
-        <mark key="^" line="17" column="30" />
-        <mark key="." line="17" column="30" />
+      <file name="C:/code/hftp/pom.xml" timestamp="1515729658707">
+        <mark key="[" line="28" column="39" />
+        <mark key="]" line="38" column="37" />
+        <mark key="." line="38" column="37" />
+        <mark key="^" line="38" column="37" />
       </file>
       <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/web/DwScrcfxController.java" timestamp="1511056162517">
         <mark key="[" line="58" column="44" />
@@ -485,7 +485,7 @@
         <mark key="^" line="7" column="50" />
         <mark key="." line="7" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515682439773">
+      <file name="/Dummy.txt" timestamp="1515730095945">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -553,7 +553,7 @@
         <mark key="." line="28" column="73" />
         <mark key="^" line="28" column="73" />
       </file>
-      <file name="/fragment.java" timestamp="1513935698063">
+      <file name="/fragment.java" timestamp="1515728429033">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -616,10 +616,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new ByteArrayInputStream(file)</text>
+        <text>img</text>
       </register>
       <register name="-" type="4">
-        <text>new ByteArrayInputStream(file)</text>
+        <text>img</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
@@ -628,31 +628,31 @@
         <text encoding="base64">ICAgICAgICBUYWJsZU5hbWUgaGJhc2VUYWJsZU5hbWUgPSBnZXRUYWJsZU5hbWUodGFibGVOYW1lKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXRpZiAoZmlsZSAhPSBudWxsKSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxmaWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEZpbGVPdXRwdXRTdHJlYW0oIkM6L3Rlc3QvIiArIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpICsgIi5naWYiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyYW5zZm9ybWVyPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBCeXRlQXJyYXlPdXRwdXRTdHJlYW0gYnl0ZUFycmF5T3V0cHV0U3RyZWFtID0gbmV3IEJ5dGVBcnJheU91dHB1dFN0cmVhbSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dHJhbnNmb3JtZXIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uPSJvcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnMuc2hhZGUucmVzb3VyY2UuTWFuaWZlc3RSZXNvdXJjZVRyYW5zZm9ybWVyIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1haW5DbGFzcz5jb20uZnhjLnJwYy5pbXBsLm1lbWJlci5NZW1iZXJQcm92aWRlcjwvbWFpbkNsYXNzPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyYW5zZm9ybWVycz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBIQmFzZVV0aWxzLnNhdmVGaWxlKGRkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dHJhbnNmb3JtZXJzPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBIQmFzZVV0aWxzLnNhdmVGaWxlKGRkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90cmFuc2Zvcm1lcj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBIQmFzZVV0aWxzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRyYW5zZm9ybWVyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW1wbGVtZW50YXRpb249Im9yZy5hcGFjaGUubWF2ZW4ucGx1Z2lucy5zaGFkZS5yZXNvdXJjZS5BcHBlbmRpbmdUcmFuc2Zvcm1lciI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cmVzb3VyY2U+TUVUQS1JTkYvc3ByaW5nLmhhbmRsZXJzPC9yZXNvdXJjZT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBieXRlW10gaW1nQ29sID0gQnl0ZXMudG9CeXRlcygiaW1nIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90cmFuc2Zvcm1lcj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBieXRlW10gZmFtaWx5ID0gQnl0ZXMudG9CeXRlcygiaW5mbyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRyYW5zZm9ybWVyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW1wbGVtZW50YXRpb249Im9yZy5hcGFjaGUubWF2ZW4ucGx1Z2lucy5zaGFkZS5yZXNvdXJjZS5BcHBlbmRpbmdUcmFuc2Zvcm1lciI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cmVzb3VyY2U+TUVUQS1JTkYvc3ByaW5nLnNjaGVtYXM8L3Jlc291cmNlPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
