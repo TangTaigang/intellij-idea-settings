@@ -12,8 +12,16 @@
   </action>
   <action id="ContextHelp" />
   <action id="EditorSelectWord" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+  </action>
   <action id="Maven.ExecuteGoal">
     <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="alt back_slash" />
   </action>
   <action id="QuickList.My Operations">
     <keyboard-shortcut first-keystroke="alt back_quote" />
