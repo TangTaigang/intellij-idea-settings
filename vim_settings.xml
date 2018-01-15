@@ -384,7 +384,6 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/ftpserver/ftpserver-core/1.1.1/ftpserver-core-1.1.1-sources.jar!/org/apache/ftpserver/impl/DefaultConnectionConfig.java" timestamp="1515743254922" />
       <file name="C:/code/druid-kafka/kafka-druid-stream/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1512570935388">
         <mark key="[" line="252" column="47" />
         <mark key="]" line="253" column="7" />
@@ -488,7 +487,7 @@
         <mark key="^" line="7" column="50" />
         <mark key="." line="7" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515743553393">
+      <file name="/Dummy.txt" timestamp="1515978376997">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
