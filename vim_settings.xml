@@ -33,6 +33,7 @@
         <mark key="." line="8" column="90" />
         <mark key="^" line="8" column="90" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3.2.5.0.0-1245/hadoop-mapreduce-client-core-2.7.3.2.5.0.0-1245-sources.jar!/org/apache/hadoop/mapred/JobConf.java" timestamp="1515997402507" />
       <file name="/a.dummy" timestamp="1513922444457">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
@@ -90,6 +91,14 @@
         <mark key="]" line="454" column="0" />
         <mark key="." line="454" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/hbase/hbase-server/1.1.3/hbase-server-1.1.3.jar!/org/apache/hadoop/hbase/mapreduce/TableMapper.class" timestamp="1515995407246" />
+      <file name="C:/code/imagemr/src/main/java/Application.java" timestamp="1516002437559">
+        <mark key="'" line="27" column="18" />
+        <mark key="[" line="19" column="45" />
+        <mark key="]" line="19" column="65" />
+        <mark key="." line="19" column="65" />
+        <mark key="^" line="19" column="65" />
+      </file>
       <file name="C:/code/kischn-data-flow/src/main/kotlin/me/kischn/dataflow/kischndataflow/consumer/Consumers.kt" timestamp="1515399958950">
         <mark key="[" line="3" column="25" />
         <mark key="]" line="3" column="39" />
@@ -133,6 +142,12 @@
         <mark key="[" line="229" column="70" />
         <mark key="]" line="229" column="70" />
         <mark key="." line="229" column="70" />
+      </file>
+      <file name="C:/code/imagemr/src/main/resources/core-site.xml" timestamp="1515998281322">
+        <mark key="[" line="163" column="15" />
+        <mark key="]" line="173" column="16" />
+        <mark key="^" line="173" column="16" />
+        <mark key="." line="173" column="16" />
       </file>
       <file name="C:/code/druid-kafka/kafka-druid-stream/build.sh" timestamp="1511413798051">
         <mark key="[" line="0" column="0" />
@@ -192,6 +207,12 @@
         <mark key="." line="79" column="0" />
         <mark key="^" line="80" column="19" />
       </file>
+      <file name="C:/code/imagemr/src/main/java/UrlMapper.java" timestamp="1516000494486">
+        <mark key="[" line="14" column="62" />
+        <mark key="]" line="14" column="63" />
+        <mark key="." line="14" column="63" />
+        <mark key="^" line="14" column="63" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1512654869159">
         <mark key="[" line="11" column="21" />
         <mark key="]" line="12" column="22" />
@@ -209,6 +230,7 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/hbase/hbase-server/1.1.3/hbase-server-1.1.3-sources.jar!/org/apache/hadoop/hbase/mapreduce/TableMapReduceUtil.java" timestamp="1515999107100" />
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/entity/FootHoldByDay.java" timestamp="1510642996812">
         <mark key="[" line="19" column="24" />
         <mark key="]" line="13" column="0" />
@@ -220,6 +242,7 @@
         <mark key="." line="19" column="29" />
         <mark key="^" line="42" column="26" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3.2.5.0.0-1245/hadoop-mapreduce-client-core-2.7.3.2.5.0.0-1245-sources.jar!/org/apache/hadoop/mapreduce/lib/output/TextOutputFormat.java" timestamp="1515994961876" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_kerberos2kafka/pom.xml" timestamp="1510552008070">
         <mark key="[" line="61" column="13" />
         <mark key="]" line="61" column="16" />
@@ -276,6 +299,12 @@
       <file name="C:/code/Lealone/.gitignore" timestamp="1513050049409">
         <mark key="[" line="7" column="10" />
       </file>
+      <file name="C:/code/imagemr/src/main/java/KvReducer.java" timestamp="1516000360555">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="35" />
+        <mark key="^" line="9" column="35" />
+        <mark key="." line="9" column="35" />
+      </file>
       <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_image/src/main/java/com/miras/data/Application.java" timestamp="1513827938528">
         <mark key="[" line="49" column="71" />
         <mark key="]" line="49" column="72" />
@@ -305,6 +334,13 @@
         <mark key="]" line="85" column="34" />
         <mark key="." line="85" column="34" />
         <mark key="^" line="85" column="34" />
+      </file>
+      <file name="C:/code/imagemr/pom.xml" timestamp="1516000167604">
+        <mark key="'" line="49" column="12" />
+        <mark key="[" line="65" column="30" />
+        <mark key="]" line="65" column="35" />
+        <mark key="." line="65" column="35" />
+        <mark key="^" line="65" column="35" />
       </file>
       <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/web/DwScrcfxController.java" timestamp="1511056162517">
         <mark key="[" line="58" column="44" />
@@ -341,6 +377,12 @@
         <mark key="]" line="104" column="49" />
         <mark key="." line="104" column="49" />
         <mark key="^" line="104" column="49" />
+      </file>
+      <file name="C:/code/imagemr/src/main/resources/log4j.properties" timestamp="1516002505994">
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="17" column="21" />
+        <mark key="." line="17" column="21" />
+        <mark key="^" line="17" column="21" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/dist/run.sh" timestamp="1510975355119">
         <mark key="[" line="2" column="58" />
@@ -462,6 +504,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/hbase/hbase-server/1.1.3/hbase-server-1.1.3-sources.jar!/org/apache/hadoop/hbase/mapreduce/CellCounter.java" timestamp="1515996859158" />
       <file name="C:/code/MDHTrafficMapReduce/hdfs_only_mr_jobs/pom.xml" timestamp="1510880558708">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -485,7 +528,7 @@
         <mark key="^" line="7" column="50" />
         <mark key="." line="7" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515979570831">
+      <file name="/Dummy.txt" timestamp="1516002507699">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -614,46 +657,48 @@
       <jump line="287" column="8" filename="C:/code/hdfs-over-ftp/src/main/java/org/apache/hadoop/contrib/ftp/HdfsFileObject.java" />
       <jump line="46" column="12" filename="C:/code/hftp/src/main/java/com/miras/hftp/HBaseUtils.java" />
       <jump line="97" column="11" filename="$MAVEN_REPOSITORY$/org/apache/ftpserver/ftpserver-core/1.1.1/ftpserver-core-1.1.1-sources.jar!/org/apache/ftpserver/impl/DefaultFtpServerContext.java" />
+      <jump line="49" column="12" filename="C:/code/imagemr/pom.xml" />
+      <jump line="27" column="18" filename="C:/code/imagemr/src/main/java/Application.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZXIK</text>
+      <register name="&quot;" type="4">
+        <text>INFO</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>INFO</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGlvbi5zZXQoQ29ubmVjdGlvbkZhY3RvcnkuY3JlYXRlQ29ubmVjdGlvbihIQmFzZUNvbmZpZ3VyYXRpb24uY3JlYXRlKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5oYmFzZTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+aGJhc2UtY29tbW9uPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjEuMi4yLjUuMC4wLTEyNDU8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXIK</text>
+        <text encoding="base64">ICAgICAgICBVc2VyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUYWJsZU1hcFJlZHVjZVV0aWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0Q29sbGVjdG9yLmFjayhpbnB1dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5taW5hPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5taW5hLWNvcmU8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjIuMC4xNjwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUuZnRwc2VydmVyPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5mdHBzZXJ2ZXItY29yZTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS4xLjE8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2ZXJDb250ZXh0LmdldFRocmVhZFBvb2xFeGVjdXRvcigpLgo=</text>
+        <text encoding="base64">ICAgICAgICBqb2Iuc2V0TWFwcGVyQ2xhc3MoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmhiYXNlLm1hcHJlZHVjZS5UYWJsZVJlZHVjZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBUYWJsZU1hcFJlZHUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5mdHBzZXJ2ZXI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmZ0cHNlcnZlci1jb3JlPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjEuMTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29ubmVjdGlvbiBjb25uZWN0aW9uID0gSEJhc2VVdGlscy5USFJFQURfTE9DQUwuZ2V0KCk7CiAgICAgICAgICAgIGlmIChjb25uZWN0aW9uID09IG51bGwpIHsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgVEhSRUFEX0xPQ0FMLnNldChDb25uZWN0aW9uRmFjdG9yeS5jcmVhdGVDb25uZWN0aW9uKEhCYXNlQ29uZmlndXJhdGlvbi5jcmVhdGUoKSkpOwogICAgICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5taW5hPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5taW5hLWNvcmU8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjIuMC4xNjwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbm5lY3Rpb24gY29ubmVjdGlvbjEgPQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
