@@ -344,11 +344,11 @@
         <mark key="." line="59" column="7" />
         <mark key="^" line="59" column="7" />
       </file>
-      <file name="C:/code/zk-logger/src/main/java/com/miras/zklogger/Application.java" timestamp="1516152889162">
-        <mark key="[" line="20" column="75" />
-        <mark key="]" line="21" column="18" />
-        <mark key="." line="21" column="18" />
-        <mark key="^" line="21" column="18" />
+      <file name="C:/code/zk-logger/src/main/java/com/miras/zklogger/Application.java" timestamp="1516153792884">
+        <mark key="[" line="38" column="55" />
+        <mark key="]" line="38" column="56" />
+        <mark key="." line="38" column="56" />
+        <mark key="^" line="38" column="56" />
       </file>
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarActivity288.java" timestamp="1510643628815">
         <mark key="[" line="105" column="91" />
@@ -535,7 +535,7 @@
         <mark key="^" line="7" column="50" />
         <mark key="." line="7" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516152890589">
+      <file name="/Dummy.txt" timestamp="1516153975135">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -663,10 +663,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>args[0] == null</text>
+        <text>put</text>
       </register>
       <register name="-" type="4">
-        <text>args[0] == null</text>
+        <text>put</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
