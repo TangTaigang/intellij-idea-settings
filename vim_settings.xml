@@ -337,11 +337,11 @@
         <mark key="^" line="103" column="20" />
         <mark key="." line="103" column="20" />
       </file>
-      <file name="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs_retry/src/main/java/com/miras/data/image/hdfs/RetryBolt.java" timestamp="1516679253711">
-        <mark key="[" line="72" column="21" />
-        <mark key="]" line="72" column="24" />
-        <mark key="." line="72" column="24" />
-        <mark key="^" line="72" column="24" />
+      <file name="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs_retry/src/main/java/com/miras/data/image/hdfs/RetryBolt.java" timestamp="1516686686448">
+        <mark key="[" line="73" column="104" />
+        <mark key="]" line="73" column="107" />
+        <mark key="." line="73" column="107" />
+        <mark key="^" line="73" column="107" />
       </file>
       <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/src/main/resources/application.yaml" timestamp="1513922247960">
         <mark key="[" line="7" column="0" />
@@ -557,7 +557,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_image/src/main/java/com/miras/data/storm/ImageDownloadBolt.java" timestamp="1516674365839" />
+      <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_image/src/main/java/com/miras/data/storm/ImageDownloadBolt.java" timestamp="1516686417385" />
       <file name="C:/code/MDHTrafficMapReduce/hdfs_only_mr_jobs/pom.xml" timestamp="1510880558708">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -581,7 +581,7 @@
         <mark key="^" line="7" column="50" />
         <mark key="." line="7" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516675541456">
+      <file name="/Dummy.txt" timestamp="1516686979090">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -714,43 +714,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>delete</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>delete</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgKENvbm5lY3Rpb24gY29ubmVjdGlvbiA9IGRhdGFTb3VyY2UuZ2V0Q29ubmVjdGlvbigpOwogICAgICAgICAgICAgUHJlcGFyZWRTdGF0ZW1lbnQgcHJlcGFyZWRTdGF0ZW1lbnQgPSBjb25uZWN0aW9uLnByZXBhcmVTdGF0ZW1lbnQoc3FsKSkgewogICAgICAgICAgICBwcmVwYXJlZFN0YXRlbWVudC5zZXRTdHJpbmcoMSwgaW5wdXQuZ2V0U3RyaW5nKDApKTsKICAgICAgICAgICAgcHJlcGFyZWRTdGF0ZW1lbnQuc2V0VGltZXN0YW1wKDYsIG5ldyBUaW1lc3RhbXAoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgKyAxMDAwICogNjAgKiA2MCkpOwogICAgICAgICAgICBwcmVwYXJlZFN0YXRlbWVudC5leGVjdXRlVXBkYXRlKCk7CiAgICAgICAgfSBjYXRjaCAoU1FMRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMLmluZm8oInJlY29yZCAiICsgaWQgKyAiO2RhdGE9IiArIGRhdGEgKyAiOyByZXRyeUNvdW50OiIgKyByZXRyeUNvdW50ICsgIjsgZGVsZXRlIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBUT0RPIDE4LzAxLzIzIHN1bnpoaXFpYW5nIGRlbGV0ZQo=</text>
+        <text encoding="base64">ICAgICAgICBQcm9kdWNlclJlY29yZCBwcm9kdWNlclJlY29yZCA9IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBrYWZrYVByb2R1Y2VyLnNlbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgS2Fma2FQcm9kdWNlcjw+KAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHByZXBhcmVkU3RhdGVtZW50Lgo=</text>
+        <text encoding="base64">ICAgICAgICBrYWZrYVByb2R1Y2VyLnNlbmQoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBQcmVwYXJlZFN0YXRlbWVudCBwcmVwYXJlZFN0YXRlbWVudDEgPSBjb25uZWN0aW9uLnByZXBhcmVTdGF0ZW1lbnQoImRlbGV0ZSBmcm9tIGltYWdlX2NvdW50IHdoZXJlIGlkID0gPyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uZWN0aW9uLnByZXBhcmVTdGF0ZW1lbnQoImQiKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
