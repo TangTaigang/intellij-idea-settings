@@ -332,10 +332,10 @@
         <mark key="^" line="103" column="20" />
         <mark key="." line="103" column="20" />
       </file>
-      <file name="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs_retry/src/main/java/com/miras/data/image/hdfs/RetryBolt.java" timestamp="1516777973691">
-        <mark key="[" line="130" column="34" />
-        <mark key="]" line="130" column="39" />
-        <mark key="." line="130" column="39" />
+      <file name="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs_retry/src/main/java/com/miras/data/image/hdfs/RetryBolt.java" timestamp="1516779290125">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="50" />
+        <mark key="." line="132" column="0" />
         <mark key="^" line="130" column="39" />
       </file>
       <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/src/main/resources/application.yaml" timestamp="1513922247960">
@@ -705,8 +705,8 @@
       <jump line="116" column="0" filename="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_count</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIgcmV0cnlfY291bnQgPSByZXRyeV9jb3VudCArIDEiICsK</text>
       </register>
       <register name="-" type="4">
         <text>_count</text>
@@ -718,31 +718,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWxldGVSZWNvcmQoY29ubmVjdGlvbiwgaWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIgcmV0cnlfY291bnQgPSByZXRyeV9jb3VudCArIDEiICsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9LCAxLCAxLCBUaW1lVW5pdC5NSU5VVEVTKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIgbmV4dF9yZXRyeSA9IHRpbWVzdGFtcGFkZChIT1VSLCByZXRyeV9jb3VudCwgbmV4dF9yZXRyeSksIiArCg==</text>
+        <text encoding="base64">ICAgICAgICB9LCAxLCAxLCBUaW1lVW5pdC5NSU5VVEVTKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9kdWNlclJlY29yZCBwcm9kdWNlclJlY29yZCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIgbmV4dF9yZXRyeSA9IHRpbWVzdGFtcGFkZChIT1VSLCByZXRyeV9jb3VudCwgbmV4dF9yZXRyeSksIiArCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBQcm9kdWNlclJlY29yZCBwcm9kdWNlclJlY29yZCA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBrYWZrYVByb2R1Y2VyLnNlbmQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgS2Fma2FQcm9kdWNlcjw+KAo=</text>
+        <text encoding="base64">ICAgICAgICBrYWZrYVByb2R1Y2VyLnNlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBrYWZrYVByb2R1Y2VyLnNlbmQoCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgS2Fma2FQcm9kdWNlcjw+KAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICBrYWZrYVByb2R1Y2VyLnNlbmQoCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
