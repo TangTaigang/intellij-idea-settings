@@ -333,11 +333,11 @@
         <mark key="^" line="103" column="20" />
         <mark key="." line="103" column="20" />
       </file>
-      <file name="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs_retry/src/main/java/com/miras/data/image/hdfs/RetryBolt.java" timestamp="1516866575574">
-        <mark key="[" line="63" column="26" />
-        <mark key="]" line="64" column="37" />
-        <mark key="." line="64" column="37" />
-        <mark key="^" line="64" column="37" />
+      <file name="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs_retry/src/main/java/com/miras/data/image/hdfs/RetryBolt.java" timestamp="1516867513885">
+        <mark key="[" line="91" column="21" />
+        <mark key="]" line="91" column="21" />
+        <mark key="^" line="94" column="12" />
+        <mark key="." line="91" column="21" />
       </file>
       <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/src/main/resources/application.yaml" timestamp="1513922247960">
         <mark key="[" line="7" column="0" />
@@ -706,11 +706,11 @@
       <jump line="116" column="0" filename="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAsIDEsIDEwLCBUaW1lVW5pdC5TRUNPTkRTKTsK</text>
+      <register name="&quot;" type="4">
+        <text>L</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
@@ -719,31 +719,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWxldGVSZWNvcmQoY29ubmVjdGlvbiwgaWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAsIDEsIDEwLCBUaW1lVW5pdC5TRUNPTkRTKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBFeGVjdXRvcnMubmV3U2luZ2xlVGhyZWFkU2NoZWR1bGVkRXhlY3V0b3IoKS5zY2hlZHVsZVdpdGhGaXhlZERlbGF5KAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKHRydWUpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIgcmV0cnlfY291bnQgPSByZXRyeV9jb3VudCArIDEiICsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZmluYWxseSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9LCAxLCAxLCBUaW1lVW5pdC5NSU5VVEVTKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMDApOwogICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIgbmV4dF9yZXRyeSA9IHRpbWVzdGFtcGFkZChIT1VSLCByZXRyeV9jb3VudCwgbmV4dF9yZXRyeSksIiArCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgVGhyZWFkKCgpIC0+IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9kdWNlclJlY29yZCBwcm9kdWNlclJlY29yZCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoICggRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlMSkgewogICAgICAgICAgICBlMS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBrYWZrYVByb2R1Y2VyLnNlbmQK</text>
+        <text encoding="base64">ICAgICAgICBVUkxDb25uZWN0aW9uIHVybENvbm5lY3Rpb24gPSBudWxsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
