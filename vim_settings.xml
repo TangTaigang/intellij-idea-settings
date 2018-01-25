@@ -332,11 +332,11 @@
         <mark key="^" line="103" column="20" />
         <mark key="." line="103" column="20" />
       </file>
-      <file name="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs_retry/src/main/java/com/miras/data/image/hdfs/RetryBolt.java" timestamp="1516779290125">
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="50" />
-        <mark key="." line="132" column="0" />
-        <mark key="^" line="130" column="39" />
+      <file name="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs_retry/src/main/java/com/miras/data/image/hdfs/RetryBolt.java" timestamp="1516850024944">
+        <mark key="[" line="97" column="9" />
+        <mark key="]" line="97" column="32" />
+        <mark key="." line="97" column="32" />
+        <mark key="^" line="97" column="32" />
       </file>
       <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/src/main/resources/application.yaml" timestamp="1513922247960">
         <mark key="[" line="7" column="0" />
@@ -705,11 +705,11 @@
       <jump line="116" column="0" filename="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIgcmV0cnlfY291bnQgPSByZXRyeV9jb3VudCArIDEiICsK</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>_count</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
