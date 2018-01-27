@@ -38,6 +38,10 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
+      <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_phoenix/src/main/production-resources/application.properties" timestamp="1517018014747">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="58" />
+      </file>
       <file name="C:/code/start/src/main/kotlin/me/kischn/start/StartApplication.kt" timestamp="1512704779229">
         <mark key="[" line="10" column="16" />
         <mark key="]" line="10" column="27" />
@@ -49,6 +53,10 @@
         <mark key="]" line="4" column="103" />
         <mark key="." line="4" column="103" />
         <mark key="^" line="4" column="103" />
+      </file>
+      <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_es/src/main/production-resources/application.properties" timestamp="1517017937150">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="58" />
       </file>
       <file name="C:/code/mdh-travel-path/pom.xml" timestamp="1511077939887">
         <mark key="[" line="61" column="0" />
@@ -96,7 +104,13 @@
         <mark key="^" line="49" column="110" />
         <mark key="." line="49" column="110" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_common/src/main/java/com/miras/data/passinf/common/enums/PassinfDataField.java" timestamp="1517016879404">
+      <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_phoenix/src/main/java/com/miras/data/illegal/phoenix/PhoenixBolt.java" timestamp="1517018119811">
+        <mark key="[" line="175" column="99" />
+        <mark key="]" line="175" column="110" />
+        <mark key="^" line="175" column="110" />
+        <mark key="." line="175" column="110" />
+      </file>
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_common/src/main/java/com/miras/data/passinf/common/enums/PassinfDataField.java" timestamp="1517017683281">
         <mark key="'" line="123" column="8" />
         <mark key="[" line="108" column="99" />
         <mark key="]" line="108" column="99" />
@@ -108,13 +122,6 @@
         <mark key="]" line="3" column="39" />
         <mark key="." line="3" column="39" />
         <mark key="^" line="3" column="39" />
-      </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_adaptor/src/main/production-resources/application.properties" timestamp="1516975379767">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="7" />
-        <mark key="]" line="19" column="7" />
-        <mark key="^" line="19" column="7" />
-        <mark key="." line="19" column="7" />
       </file>
       <file name="C:/code/hftp/src/main/java/com/miras/hftp/Application.java" timestamp="1515980594376">
         <mark key="[" line="15" column="0" />
@@ -138,10 +145,11 @@
         <mark key="^" line="21" column="45" />
         <mark key="." line="21" column="45" />
       </file>
-      <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_es/src/main/java/com/miras/data/illegal/es/IllegalDataESBolt.java" timestamp="1515979523606">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_es/src/main/java/com/miras/data/illegal/es/IllegalDataESBolt.java" timestamp="1517017827583">
+        <mark key="[" line="33" column="94" />
+        <mark key="]" line="33" column="105" />
+        <mark key="." line="33" column="105" />
+        <mark key="^" line="33" column="105" />
       </file>
       <file name="C:/code/MDH_DATA/mdh_data_common/src/main/java/com/miras/data/utils/ImageUtils.java" timestamp="1516978690854">
         <mark key="[" line="60" column="46" />
@@ -178,6 +186,10 @@
         <mark key="." line="4" column="67" />
         <mark key="^" line="4" column="67" />
       </file>
+      <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_oracle/src/main/production-resources/application.properties" timestamp="1517018004557">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="17" column="58" />
+      </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_graylist/src/main/java/com/miras/data/Application.java" timestamp="1511167156377">
         <mark key="[" line="22" column="62" />
         <mark key="]" line="22" column="89" />
@@ -194,6 +206,9 @@
         <mark key="]" line="17" column="15" />
         <mark key="." line="17" column="15" />
         <mark key="^" line="16" column="25" />
+      </file>
+      <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_image/src/main/production-resources/application.properties" timestamp="1517017999921">
+        <mark key="[" line="8" column="58" />
       </file>
       <file name="C:/code/kischn-data-flow/src/main/kotlin/me/kischn/dataflow/kischndataflow/Entity.kt" timestamp="1515399052513">
         <mark key="[" line="5" column="0" />
@@ -252,6 +267,11 @@
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
+      </file>
+      <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_common/src/main/java/com/miras/data/utils/ImageUtils.java" timestamp="1517017539617">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_es/src/main/production-resources/application.properties" timestamp="1517017175228">
         <mark key="'" line="0" column="0" />
@@ -555,7 +575,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/production-resources/application.properties" timestamp="1517017188378">
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/production-resources/application.properties" timestamp="1517018185049">
         <mark key="'" line="10" column="70" />
         <mark key="[" line="17" column="32" />
         <mark key="]" line="18" column="0" />
@@ -583,6 +603,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_oracle/src/main/java/com/miras/data/illegal/oracle/OracleBolt.java" timestamp="1517018048048">
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="^" line="125" column="110" />
+        <mark key="." line="150" column="0" />
+      </file>
       <file name="C:/code/kafka-druid-stream/src/main/resources/application.properties" timestamp="1511322138818">
         <mark key="[" line="16" column="39" />
         <mark key="]" line="16" column="40" />
@@ -599,6 +625,12 @@
         <mark key="[" line="6" column="6" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_common/src/main/java/com/miras/data/illegal/common/enums/IllegalDataField.java" timestamp="1517017839144">
+        <mark key="[" line="130" column="15" />
+        <mark key="]" line="130" column="35" />
+        <mark key="." line="130" column="35" />
+        <mark key="^" line="130" column="35" />
       </file>
       <file name="C:/code/ftptest/pom.xml" timestamp="1515547560734">
         <mark key="[" line="26" column="40" />
@@ -640,17 +672,11 @@
         <mark key="^" line="7" column="50" />
         <mark key="." line="7" column="50" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_common/src/main/java/com/miras/data/passinf/common/utils/HostMappingUtil.java" timestamp="1516975499269">
-        <mark key="'" line="18" column="4" />
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="9" column="3" />
-        <mark key="^" line="9" column="3" />
-        <mark key="." line="9" column="3" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1517017468941">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_image/src/main/java/com/miras/data/illegal/image/IllegalImageBolt.java" timestamp="1517017745682">
+        <mark key="[" line="63" column="99" />
+        <mark key="]" line="63" column="110" />
+        <mark key="^" line="63" column="110" />
+        <mark key="." line="63" column="110" />
       </file>
       <file name="C:/code/hive-redis/pom.xml" timestamp="1510894256733">
         <mark key="[" line="34" column="19" />
@@ -712,7 +738,7 @@
         <mark key="." line="28" column="73" />
         <mark key="^" line="28" column="73" />
       </file>
-      <file name="/fragment.java" timestamp="1517016342837">
+      <file name="/fragment.java" timestamp="1517017531753">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -786,46 +812,49 @@
       <jump line="120" column="8" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_common/src/main/java/com/miras/data/passinf/common/enums/PassinfDataField.java" />
       <jump line="0" column="0" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_es/src/main/production-resources/application.properties" />
       <jump line="10" column="70" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/production-resources/application.properties" />
+      <jump line="0" column="0" filename="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_es/src/main/production-resources/application.properties" />
+      <jump line="0" column="0" filename="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_oracle/src/main/production-resources/application.properties" />
+      <jump line="0" column="0" filename="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_phoenix/src/main/production-resources/application.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBob3N0IG1hcAo=</text>
+      <register name="&quot;" type="4">
+        <text>oracle</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhyb3dzIA==</text>
+        <text>oracle</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhTWFwLnB1dChDUElDMlBBVEgsIEltYWdlVXRpbHMuY29udmVydFVybChTdHJpbmcudmFsdWVPZihkYXRhTWFwLmdldChDUElDMlBBVEgpKSkpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgRW51bU1hcDxJbGxlZ2FsRGF0YUZpZWxkLCBPYmplY3Q+IGNvbnZlcnQoU3RyaW5nIGNzdkxpbmUpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBob3N0IG1hcAo=</text>
+        <text encoding="base64">Ly8gICAgICAgaWYoQ0FSTlVNQkVSU0VULmNvbnRhaW5zKERpZ2VzdFV0aWxzLm1kNUhleChocGhtKSkmJiIwMiIuZXF1YWxzKGhwaG0pKXsKLy8gICAgICAgICAgIHNxbD1TQVZFX0RFTEVURV9TUUw7Ci8vICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIOWbvueJh+WkhOeQhuW3peWFt+exuwogKgogKi8K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmltYWdlVXRpbHMgPSBuZXcgSW1hZ2VVdGlscyhzdG9ybUNvbmYpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQGF1dGhvciBzdW5qaWFudGFvCiAqIEBkYXRlIDIwMTctMDgtMjEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgZGF0YU1hcC5wdXQoTUQ1S0VZLCBnZW5lcmF0ZU1kNShjc3ZMaW5lKSk7CiAgICAgICAgcmV0dXJuIGRhdGFNYXA7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBFbnVtTWFwPFBhc3NpbmZEYXRhRmllbGQsIE9iamVjdD4gZGF0YU1hcCA9IG5ldyBFbnVtTWFwPD4oUGFzc2luZkRhdGFGaWVsZC5jbGFzcyk7CiAgICAgICAgTGlzdDxTdHJpbmc+IHN0cmluZ3MgPSBBcnJheXMuYXNMaXN0KGNzdkxpbmUuc3BsaXQoIiwiKSk7CiAgICAgICAgUGFzc2luZkRhdGFGaWVsZFtdIFBhc3NpbmZEYXRhRmllbGRzID0gUGFzc2luZkRhdGFGaWVsZC52YWx1ZXMoKTsKICAgICAgICBmb3IgKFBhc3NpbmZEYXRhRmllbGQgZmllbGQgOiBQYXNzaW5mRGF0YUZpZWxkcykgewogICAgICAgICAgICBTdHJpbmcgdiA9IHN0cmluZ3Muc2l6ZSgpID4gZmllbGQub3JkaW5hbCgpID8gc3RyaW5ncy5nZXQoZmllbGQub3JkaW5hbCgpKSA6IG51bGw7CiAgICAgICAgICAgIGlmIChNQUNISU5FVkVSU0lPTi5lcXVhbHMoZmllbGQpKSB7CiAgICAgICAgICAgICAgICBkYXRhTWFwLnB1dChmaWVsZCwgKFN0cmluZ1V0aWxzLmlzRW1wdHkodikgfHwgIm51bGwiLmVxdWFscyh2KSkgPyAxIDogZmllbGQuZmllbGRUeXBlLmNvbnZlcnQodikpOwogICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZGF0YU1hcC5wdXQoZmllbGQsIGZpZWxkLmZpZWxkVHlwZS5jb252ZXJ0KHYpKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoaW1hZ2VVdGlscyAhPSBudWxsKSB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YU1hcC5wdXQoQ1BJQzFQQVRILCkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW1hZ2VVdGlscyAhPSBudWxsKSB7CiAgICAgICAgICAgIGRhdGFNYXAucHV0KENQSUMxUEFUSCwgaW1hZ2VVdGlscy5jb252ZXJ0VXJsKFN0cmluZy52YWx1ZU9mKGRhdGFNYXAuZ2V0KENQSUMxUEFUSCkpKSk7CiAgICAgICAgICAgIGRhdGFNYXAucHV0KENQSUMyUEFUSCwgaW1hZ2VVdGlscy5jb252ZXJ0VXJsKFN0cmluZy52YWx1ZU9mKGRhdGFNYXAuZ2V0KENQSUMyUEFUSCkpKSk7CiAgICAgICAgICAgIGRhdGFNYXAucHV0KENQSUMzUEFUSCwgaW1hZ2VVdGlscy5jb252ZXJ0VXJsKFN0cmluZy52YWx1ZU9mKGRhdGFNYXAuZ2V0KENQSUMzUEFUSCkpKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nLlN0cmluZ1V0aWxzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">IyBob3N0IG1hcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">LyoqCiAqIOWbvueJh+WkhOeQhuW3peWFt+exuwogKgogKi8K</text>
       </register>
       <register name=":" type="4">
         <text>s/2/3/g</text>
