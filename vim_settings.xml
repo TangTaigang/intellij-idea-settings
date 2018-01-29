@@ -279,7 +279,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/producer/KafkaProducer.java" timestamp="1517214512078" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/producer/KafkaProducer.java" timestamp="1517216668142" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_es/src/main/production-resources/application.properties" timestamp="1517017175228">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="0" />
@@ -543,10 +543,11 @@
         <mark key="^" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="C:/code/kafkatest/src/main/java/Main.java" timestamp="1517215175393">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="C:/code/kafkatest/src/main/java/Main.java" timestamp="1517216769576">
+        <mark key="[" line="19" column="122" />
+        <mark key="]" line="19" column="122" />
+        <mark key="." line="19" column="122" />
+        <mark key="^" line="22" column="48" />
       </file>
       <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/dist/run.sh" timestamp="1513911737487">
         <mark key="[" line="0" column="19" />
@@ -852,11 +853,11 @@
       <jump line="0" column="0" filename="C:/code/kafkatest/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>newHashMap</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
@@ -865,31 +866,31 @@
         <text encoding="base64">ICAgICAgICBrYWZrYUNvbmZpZy5wdXQoImtleS5zZXJpYWxpemVyIiwgU3RyaW5nU2VyaWFsaXplci5jbGFzcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc01hcCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwOyBpKyspIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBNYXBzLm5ldwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5tYXAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG1kaF90ZXN0LmdldCgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bG9nNGouYXBwZW5kZXIubG9nZmlsZT1vcmcuYXBhY2hlLmxvZzRqLkZpbGVBcHBlbmRlcgpsb2c0ai5hcHBlbmRlci5sb2dmaWxlLkZpbGU9dGFyZ2V0L3NwcmluZy5sb2cKbG9nNGouYXBwZW5kZXIubG9nZmlsZS5sYXlvdXQ9b3JnLmFwYWNoZS5sb2c0ai5QYXR0ZXJuTGF5b3V0CmxvZzRqLmFwcGVuZGVyLmxvZ2ZpbGUubGF5b3V0LkNvbnZlcnNpb25QYXR0ZXJuPSVkICVwIFslY10gLSAlbSVuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBrYWZrYUNvbmZpZwo=</text>
+        <text encoding="base64">ICAgICAgICBrYWZrYVByb2R1Y2VyLnNlbmQobmV3IFByb2R1Y2VyUmVjb3JkPFN0cmluZywgU3RyaW5nPigiTURIX1RFU1QiLCAiSEVMTE8sV09STEQiKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDliKDpmaTkuKTkuKrml6DnlKjkuJTljaDnlKjnqbrpl7TnmoTliJcKICAgICAgICAgICAgICAgICAgICByZXN1bHRNYXAucmVtb3ZlKCJzb3VyY2VfY29sbWFwJCIpOwogICAgICAgICAgICAgICAgICAgIHJlc3VsdE1hcC5yZW1vdmUoInRhcmdldF9jb2xtYXAkIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBhc01hcCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd9JzsK</text>
+        <text encoding="base64">ICAgICAgICBNYXBzLm5ldwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
