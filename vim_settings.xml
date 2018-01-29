@@ -542,12 +542,12 @@
         <mark key="^" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="C:/code/kafkatest/src/main/java/Main.java" timestamp="1517219637781">
-        <mark key="'" line="14" column="63" />
-        <mark key="[" line="14" column="55" />
-        <mark key="]" line="27" column="8" />
-        <mark key="." line="27" column="8" />
-        <mark key="^" line="27" column="8" />
+      <file name="C:/code/kafkatest/src/main/java/Main.java" timestamp="1517220958387">
+        <mark key="'" line="20" column="23" />
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="20" column="22" />
+        <mark key="." line="20" column="22" />
+        <mark key="^" line="20" column="24" />
       </file>
       <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/dist/run.sh" timestamp="1513911737487">
         <mark key="[" line="0" column="19" />
@@ -852,13 +852,14 @@
       <jump line="0" column="0" filename="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_phoenix/src/main/production-resources/application.properties" />
       <jump line="0" column="0" filename="C:/code/kafkatest/pom.xml" />
       <jump line="14" column="63" filename="C:/code/kafkatest/src/main/java/Main.java" />
+      <jump line="20" column="23" filename="C:/code/kafkatest/src/main/java/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>.get()</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>.get()</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
@@ -867,31 +868,31 @@
         <text encoding="base64">ICAgICAgICBrYWZrYUNvbmZpZy5wdXQoImtleS5zZXJpYWxpemVyIiwgU3RyaW5nU2VyaWFsaXplci5jbGFzcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBtZGhfdGVzdC5nZXQoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwOyBpKyspIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWRoX3Rlc3QuZ2V0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsuCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG1kaF90ZXN0LmdldCgpKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBrYWZrYVByb2R1Y2VyLnNlbmQobmV3IFByb2R1Y2VyUmVjb3JkPFN0cmluZywgU3RyaW5nPigiTURIX1RFU1QiLCAiSEVMTE8sV09STEQiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBSZWNvcmRNZXRhZGF0YSByZWNvcmRNZXRhZGF0YSA9IG1kaF90ZXN0LmdldCgpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVjb3JkTWV0YWRhdGEpOwogICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGNhdGNoIChFeGVjdXRpb25FeGNlcHRpb24gZSkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc01hcCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBNYXBzLm5ldwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
