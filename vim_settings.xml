@@ -422,12 +422,12 @@
         <mark key="." line="48" column="54" />
         <mark key="^" line="48" column="54" />
       </file>
-      <file name="C:/code/kafkatest/pom.xml" timestamp="1517214479219">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="27" column="24" />
-        <mark key="]" line="27" column="25" />
-        <mark key="^" line="27" column="28" />
-        <mark key="." line="27" column="25" />
+      <file name="C:/code/kafkatest/pom.xml" timestamp="1517295317803">
+        <mark key="'" line="25" column="27" />
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="10" column="28" />
+        <mark key="^" line="10" column="28" />
+        <mark key="." line="10" column="28" />
       </file>
       <file name="C:/code/hftp/pom.xml" timestamp="1515736814323">
         <mark key="[" line="85" column="31" />
@@ -542,12 +542,12 @@
         <mark key="^" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="C:/code/kafkatest/src/main/java/Main.java" timestamp="1517220958387">
+      <file name="C:/code/kafkatest/src/main/java/Main.java" timestamp="1517295406930">
         <mark key="'" line="20" column="23" />
-        <mark key="[" line="20" column="21" />
-        <mark key="]" line="20" column="22" />
-        <mark key="." line="20" column="22" />
-        <mark key="^" line="20" column="24" />
+        <mark key="[" line="17" column="50" />
+        <mark key="]" line="17" column="59" />
+        <mark key="." line="17" column="59" />
+        <mark key="^" line="17" column="59" />
       </file>
       <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/dist/run.sh" timestamp="1513911737487">
         <mark key="[" line="0" column="19" />
@@ -710,7 +710,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517204909151">
+      <file name="/Dummy.txt" timestamp="1517295455696">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/hive-redis/pom.xml" timestamp="1510894256733">
@@ -853,13 +853,14 @@
       <jump line="0" column="0" filename="C:/code/kafkatest/pom.xml" />
       <jump line="14" column="63" filename="C:/code/kafkatest/src/main/java/Main.java" />
       <jump line="20" column="23" filename="C:/code/kafkatest/src/main/java/Main.java" />
+      <jump line="24" column="27" filename="C:/code/kafkatest/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.get()</text>
+        <text>currentTimeMillis</text>
       </register>
       <register name="-" type="4">
-        <text>.get()</text>
+        <text>currentTimeMillis</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
@@ -868,31 +869,31 @@
         <text encoding="base64">ICAgICAgICBrYWZrYUNvbmZpZy5wdXQoImtleS5zZXJpYWxpemVyIiwgU3RyaW5nU2VyaWFsaXplci5jbGFzcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtZGhfdGVzdC5nZXQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWRoX3Rlc3QuZ2V0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBSZWNvcmRNZXRhZGF0YSByZWNvcmRNZXRhZGF0YSA9IG1kaF90ZXN0LmdldCgpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVjb3JkTWV0YWRhdGEpOwogICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGNhdGNoIChFeGVjdXRpb25FeGNlcHRpb24gZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwOyBpKyspIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBtZGhfdGVzdC5nZXQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWRoX3Rlc3QuZ2V0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
