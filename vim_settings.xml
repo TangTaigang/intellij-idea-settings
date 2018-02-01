@@ -144,6 +144,12 @@
         <mark key="^" line="21" column="45" />
         <mark key="." line="21" column="45" />
       </file>
+      <file name="C:/code/MDHTrafficDataSync/mdh_data_6in1_cdc_kafka/src/main/java/com/miras/data/ct2kafka/dao/RowIdDao.java" timestamp="1517450937906">
+        <mark key="[" line="52" column="74" />
+        <mark key="]" line="53" column="71" />
+        <mark key="^" line="53" column="71" />
+        <mark key="." line="53" column="71" />
+      </file>
       <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_es/src/main/java/com/miras/data/illegal/es/IllegalDataESBolt.java" timestamp="1517017827583">
         <mark key="[" line="33" column="94" />
         <mark key="]" line="33" column="105" />
@@ -709,8 +715,10 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517381165897">
+      <file name="/Dummy.txt" timestamp="1517451630843">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/code/hive-redis/pom.xml" timestamp="1510894256733">
         <mark key="[" line="34" column="19" />
@@ -855,11 +863,11 @@
       <jump line="24" column="27" filename="C:/code/kafkatest/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRhdGFNYXAucHV0KE1ENUtFWSwgZ2VuZXJhdGVNZDUoY3N2TGluZSkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>修改 cdc 查询语句,添加自主 cdc sql 查询支持</text>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text>修改 cdc 查询语句,添加自主 cdc sql 查询支持</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
