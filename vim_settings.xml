@@ -547,12 +547,12 @@
         <mark key="^" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="C:/code/kafkatest/src/main/java/Main.java" timestamp="1517295406930">
-        <mark key="'" line="20" column="23" />
-        <mark key="[" line="17" column="50" />
-        <mark key="]" line="17" column="59" />
-        <mark key="." line="17" column="59" />
-        <mark key="^" line="17" column="59" />
+      <file name="C:/code/kafkatest/src/main/java/Main.java" timestamp="1517537030033">
+        <mark key="'" line="22" column="23" />
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="22" />
+        <mark key="." line="18" column="22" />
+        <mark key="^" line="18" column="22" />
       </file>
       <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/dist/run.sh" timestamp="1513911737487">
         <mark key="[" line="0" column="19" />
@@ -864,10 +864,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>修改 cdc 查询语句,添加自主 cdc sql 查询支持</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>修改 cdc 查询语句,添加自主 cdc sql 查询支持</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
