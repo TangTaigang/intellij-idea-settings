@@ -538,11 +538,11 @@
         <mark key="^" line="28" column="34" />
         <mark key="." line="28" column="34" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_common/src/main/java/com/miras/data/utils/ImageUtils.java" timestamp="1517017060581">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="17" column="20" />
-        <mark key="." line="13" column="0" />
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_common/src/main/java/com/miras/data/utils/ImageUtils.java" timestamp="1517639122785">
+        <mark key="[" line="70" column="45" />
+        <mark key="]" line="70" column="46" />
+        <mark key="^" line="70" column="46" />
+        <mark key="." line="70" column="46" />
       </file>
       <file name="C:/code/covering-plate-image-uploader/src/main/kotlin/com/miras/data/coveringplateimageuploader/CoveringPlateImageUploaderApplication.kt" timestamp="1513909580192">
         <mark key="[" line="21" column="41" />
@@ -877,8 +877,8 @@
       <jump line="24" column="27" filename="C:/code/kafkatest/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bWRoX2RhdGFfaWxsZWdhbF9lcy50YXIuZ3oK</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="-" type="4">
         <text>null</text>
