@@ -220,7 +220,6 @@
         <mark key="." line="17" column="15" />
         <mark key="^" line="16" column="25" />
       </file>
-      <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_image/pom.xml" timestamp="1517638331206" />
       <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_image/src/main/production-resources/application.properties" timestamp="1517638962057">
         <mark key="[" line="15" column="92" />
         <mark key="]" line="21" column="72" />
@@ -280,7 +279,6 @@
         <mark key="^" line="12" column="22" />
         <mark key="." line="12" column="22" />
       </file>
-      <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_image/build-scripts/build-production.bat" timestamp="1517638324687" />
       <file name="C:/code/kafka-druid-stream/.gitignore" timestamp="1511322905485">
         <mark key="[" line="25" column="10" />
         <mark key="]" line="26" column="3" />
@@ -460,7 +458,6 @@
         <mark key="." line="2" column="59" />
         <mark key="^" line="2" column="59" />
       </file>
-      <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_image/src/main/production-resources/kafka2phoenix.properties" timestamp="1517637802787" />
       <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/web/DwScrcfxController.java" timestamp="1511056162517">
         <mark key="[" line="58" column="44" />
         <mark key="]" line="59" column="7" />
@@ -491,7 +488,6 @@
         <mark key="^" line="41" column="64" />
         <mark key="." line="41" column="64" />
       </file>
-      <file name="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs/dist/assembly.xml" timestamp="1517638364315" />
       <file name="C:/code/MDHTrafficMapReduce/src/main/production-resources/application.properties" timestamp="1510736867805">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="9" column="43" />
@@ -723,7 +719,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517645759287">
+      <file name="/Dummy.txt" timestamp="1517794251655">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -764,7 +760,6 @@
         <mark key="." line="23" column="36" />
         <mark key="^" line="23" column="36" />
       </file>
-      <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_image/src/main/production-resources/hbase-site.xml" timestamp="1517639861936" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_graylist/src/main/java/com/miras/data/graylist/GrayListDao.java" timestamp="1511328933005">
         <mark key="[" line="6" column="3" />
         <mark key="]" line="7" column="20" />
