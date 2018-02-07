@@ -81,6 +81,12 @@
         <mark key="." line="3" column="56" />
         <mark key="^" line="3" column="56" />
       </file>
+      <file name="C:/code/test/src/NumberConvert.java" timestamp="1517999736256">
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="26" column="14" />
+        <mark key="." line="26" column="14" />
+        <mark key="^" line="26" column="14" />
+      </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_graylist/src/main/production-resources/application.properties" timestamp="1511168408236">
         <mark key="[" line="9" column="29" />
         <mark key="]" line="9" column="29" />
@@ -893,57 +899,60 @@
       <jump line="20" column="23" filename="C:/code/kafkatest/src/main/java/Main.java" />
       <jump line="24" column="27" filename="C:/code/kafkatest/pom.xml" />
       <jump line="25" column="20" filename="C:/code/daily-calc/pom.xml" />
+      <jump line="7" column="67" filename="C:/code/test/src/NumberConvert.java" />
+      <jump line="12" column="27" filename="C:/code/test/src/NumberConvert.java" />
+      <jump line="42" column="8" filename="C:/code/test/src/NumberConvert.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">X2RhdGUgPSBEYXRlIAo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY29udmVydEFsbCgxKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>2</text>
+        <text>8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlci53cml0ZShuZXh0TGluZSkK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY29udmVydEFsbCgxKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">X2RhdGUgPSBEYXRlIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEBSZXNvdXJjZQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RyVmFsdWUubGVuZ3RoKCkgPiA0Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDpjb252ZXJ0KHN0clZhbHVlKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHN0clZhbHVlID0gU3RyaW5nLnZhbHVlT2YobnVtYmVyKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyVmFsdWUgPSBTdHJpbmcudmFsdWVPZihudW1iZXIpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgID8gY29udmVydChzdHJWYWx1ZS5zdWJzdHJpbmcoMCwgc3RyVmFsdWUubGVuZ3RoKCkgLSA0KSkgKyAi5LiHIiArIGNvbnZlcnQoc3RyVmFsdWUuc3Vic3RyaW5nKDQsIHN0clZhbHVlLmxlbmd0aCgpKSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY29udmVydEFsbCgxMDAwMDAwMCkpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY29udmVydEFsbCgxMDAwODAwOCkpOwo=</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>s/8/0/g</text>
       </register>
     </registers>
     <search>
-      <last-search>2</last-search>
+      <last-search>8</last-search>
       <last-offset>;]</last-offset>
-      <last-pattern>2</last-pattern>
-      <last-replace>3</last-replace>
-      <last-substitute>2</last-substitute>
+      <last-pattern>8</last-pattern>
+      <last-replace>0</last-replace>
+      <last-substitute>8</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -959,10 +968,11 @@
         <entry>Name</entry>
         <entry>mysql</entry>
         <entry encoding="base64">IA==</entry>
-        <entry>\\</entry>
         <entry>116</entry>
         <entry>1</entry>
         <entry>2</entry>
+        <entry>\\</entry>
+        <entry>8</entry>
       </history-search>
       <history-cmd>
         <entry>s/length/offset/g</entry>
@@ -975,7 +985,6 @@
         <entry>s/Name/Code/g</entry>
         <entry>s/mysql/oracle/g</entry>
         <entry>s/ /,/g</entry>
-        <entry>s/\\//g</entry>
         <entry>wq</entry>
         <entry>s/116/117/g</entry>
         <entry>s/116/170/g</entry>
@@ -983,6 +992,8 @@
         <entry>s/1/2/g</entry>
         <entry>s/2/3/g</entry>
         <entry>w</entry>
+        <entry>s/\\//g</entry>
+        <entry>s/8/0/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
