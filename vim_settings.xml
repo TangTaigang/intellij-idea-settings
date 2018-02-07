@@ -86,11 +86,11 @@
         <mark key="]" line="9" column="29" />
         <mark key="." line="9" column="29" />
       </file>
-      <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/src/main/production-resources/application.yaml" timestamp="1514172243203">
-        <mark key="[" line="9" column="53" />
-        <mark key="]" line="9" column="53" />
-        <mark key="." line="9" column="53" />
-        <mark key="^" line="11" column="24" />
+      <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/src/main/production-resources/application.yaml" timestamp="1517993717926">
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="15" column="11" />
+        <mark key="." line="15" column="11" />
+        <mark key="^" line="15" column="11" />
       </file>
       <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/dao/PhoenixDao.java" timestamp="1513068496538">
         <mark key="[" line="454" column="0" />
@@ -563,11 +563,11 @@
         <mark key="^" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/dist/run.sh" timestamp="1513911737487">
+      <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/dist/run.sh" timestamp="1517994223632">
         <mark key="[" line="0" column="19" />
-        <mark key="]" line="1" column="27" />
-        <mark key="^" line="1" column="27" />
-        <mark key="." line="1" column="27" />
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="27" />
       </file>
       <file name="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs/src/main/java/com/miras/data/image/Application.java" timestamp="1516262792779">
         <mark key="[" line="45" column="76" />
@@ -593,7 +593,6 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/daily-calc/MainKt.class" timestamp="1517900792966" />
       <file name="C:/code/daily-calc/pom.xml" timestamp="1517901008353">
         <mark key="'" line="30" column="20" />
         <mark key="[" line="14" column="18" />
@@ -735,7 +734,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517810575476">
+      <file name="/Dummy.txt" timestamp="1517994050379">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -781,6 +780,12 @@
         <mark key="]" line="7" column="20" />
         <mark key="^" line="7" column="20" />
         <mark key="." line="7" column="20" />
+      </file>
+      <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/src/main/java/com/miras/data/Application.java" timestamp="1517993806440">
+        <mark key="[" line="58" column="84" />
+        <mark key="]" line="58" column="84" />
+        <mark key="." line="58" column="84" />
+        <mark key="^" line="58" column="84" />
       </file>
       <file name="C:/code/hftp/src/main/java/com/miras/hftp/HBaseOutputStream.java" timestamp="1515739767211">
         <mark key="[" line="14" column="37" />
@@ -890,11 +895,11 @@
       <jump line="25" column="20" filename="C:/code/daily-calc/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>”</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
@@ -903,31 +908,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlci53cml0ZShuZXh0TGluZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIEBSZXNvdXJjZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIDIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBmaWxlV3JpdGVyID0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKEZUUEZpbGUgZnRwRmlsZSA6IGZ0cC5saXN0RGlyZWN0b3JpZXMoKSkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZnRwRmlsZS5nZXROYW1lKCkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGZ0cC5lbnRlckxvY2FsUGFzc2l2ZU1vZGUoKTsK</text>
+        <text encoding="base64">ICAgIHZhbCBmaWxlV3JpdGVyID0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
