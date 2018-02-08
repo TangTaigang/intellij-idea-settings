@@ -33,7 +33,7 @@
         <mark key="." line="8" column="90" />
         <mark key="^" line="8" column="90" />
       </file>
-      <file name="/a.dummy" timestamp="1516007623160">
+      <file name="/a.dummy" timestamp="1518055047754">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -617,6 +617,11 @@
         <mark key="]" line="145" column="80" />
         <mark key="." line="145" column="0" />
       </file>
+      <file name="C:/code/scala-hellworld/src/main/scala/Test1.scala" timestamp="1518055769331">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_graylist/pom.xml" timestamp="1511167707061">
         <mark key="[" line="64" column="21" />
         <mark key="]" line="73" column="0" />
@@ -740,7 +745,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517995511071">
+      <file name="/Dummy.txt" timestamp="1518055630027">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -787,11 +792,16 @@
         <mark key="^" line="7" column="20" />
         <mark key="." line="7" column="20" />
       </file>
-      <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/src/main/java/com/miras/data/Application.java" timestamp="1517995326829">
-        <mark key="[" line="45" column="26" />
-        <mark key="]" line="45" column="26" />
-        <mark key="." line="45" column="26" />
-        <mark key="^" line="45" column="26" />
+      <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/src/main/java/com/miras/data/Application.java" timestamp="1518055610490">
+        <mark key="[" line="63" column="31" />
+        <mark key="]" line="63" column="30" />
+        <mark key="." line="63" column="30" />
+        <mark key="^" line="63" column="30" />
+      </file>
+      <file name="C:/code/scala-hellworld/src/main/scala/Test2.sc" timestamp="1518054854242">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="C:/code/hftp/src/main/java/com/miras/hftp/HBaseOutputStream.java" timestamp="1515739767211">
         <mark key="[" line="14" column="37" />
@@ -905,43 +915,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY29udmVydEFsbCgxKSk7Cg==</text>
+        <text encoding="base64">ZGVmIHNheUhlbGxvKCk6IFVuaXQgPSB7CiAgcHJpbnQoImhlbGxvLHdvcmxkISIpCn0K</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY29udmVydEFsbCgxKSk7Cg==</text>
+        <text encoding="base64">ICBwcmludCgiaGVsbG8sd29ybGQiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHNheUhlbGxvKCk6IFVuaXQgPSB7CiAgcHJpbnQoImhlbGxvLHdvcmxkISIpCn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RyVmFsdWUubGVuZ3RoKCkgPiA0Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDpjb252ZXJ0KHN0clZhbHVlKTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHN0clZhbHVlID0gU3RyaW5nLnZhbHVlT2YobnVtYmVyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyVmFsdWUgPSBTdHJpbmcudmFsdWVPZihudW1iZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChGVFBGaWxlIGZ0cEZpbGUgOiBmdHBGaWxlcykgewogICAgICAgICAgICAgICAgaWYgKGZ0cEZpbGUuaXNGaWxlKCkpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgID8gY29udmVydChzdHJWYWx1ZS5zdWJzdHJpbmcoMCwgc3RyVmFsdWUubGVuZ3RoKCkgLSA0KSkgKyAi5LiHIiArIGNvbnZlcnQoc3RyVmFsdWUuc3Vic3RyaW5nKDQsIHN0clZhbHVlLmxlbmd0aCgpKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTC5pbmZvKCJzY2FuIHBhdGggIiArIHN1YlBhdGgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY29udmVydEFsbCgxMDAwMDAwMCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY29udmVydEFsbCgxMDAwODAwOCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/8/0/g</text>
