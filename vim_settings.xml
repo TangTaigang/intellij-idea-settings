@@ -575,6 +575,12 @@
         <mark key="^" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="C:/code/clojure-test/src/Application.clj" timestamp="1518069559669">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="4" column="2" />
+        <mark key="." line="4" column="2" />
+        <mark key="^" line="4" column="2" />
+      </file>
       <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/dist/run.sh" timestamp="1517995048420">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -921,8 +927,8 @@
       <jump line="42" column="8" filename="C:/code/test/src/NumberConvert.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>zkMaster</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBhcmdzCg==</text>
       </register>
       <register name="-" type="4">
         <text>zkMaster</text>
@@ -934,31 +940,31 @@
         <text encoding="base64">ICBwcmludCgiaGVsbG8sd29ybGQiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoImhlbGxvLHdvcmxkIikK</text>
+        <text encoding="base64">ICBhcmdzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGhlbGxvKCk6IFVuaXQgPSB7CiAgcHJpbnQoImhlbGxvLHdvcmxkIikKfQo=</text>
+        <text encoding="base64">cHJpbnQoImhlbGxvLHdvcmxkIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ZGVmIGhlbGxvKCk6IFVuaXQgPSB7CiAgcHJpbnQoImhlbGxvLHdvcmxkIikKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIG1haW4oYXJnczogQXJyYXlbU3RyaW5nXSk6IFVuaXQgPSB7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBwcmludCgiaGVsbG8sd29ybGQhIikK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ZGVmIG1haW4oYXJnczogQXJyYXlbU3RyaW5nXSk6IFVuaXQgPSB7Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBwcmludCgiaGVsbG8sd29ybGQhIikK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">fQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZGVmIG1haW4oYXJnczogQXJyYXlbU3RyaW5nXSk6IFVuaXQgPSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/8/0/g</text>
