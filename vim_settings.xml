@@ -798,10 +798,11 @@
         <mark key="." line="63" column="30" />
         <mark key="^" line="63" column="30" />
       </file>
-      <file name="C:/code/scala-hellworld/src/main/scala/Test2.sc" timestamp="1518054854242">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="C:/code/scala-hellworld/src/main/scala/Test2.sc" timestamp="1518058335531">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+        <mark key="^" line="3" column="16" />
       </file>
       <file name="C:/code/hftp/src/main/java/com/miras/hftp/HBaseOutputStream.java" timestamp="1515739767211">
         <mark key="[" line="14" column="37" />
@@ -915,10 +916,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoImhlbGxvLHdvcmxkIikK</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>world</text>
       </register>
       <register name="/" type="4">
         <text>8</text>
@@ -927,10 +928,10 @@
         <text encoding="base64">ICBwcmludCgiaGVsbG8sd29ybGQiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoImhlbGxvLHdvcmxkIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcmludCgiaGVsbG8sd29ybGQhIikK</text>
+        <text encoding="base64">ZGVmIGhlbGxvKCk6IFVuaXQgPSB7CiAgcHJpbnQoImhlbGxvLHdvcmxkIikKfQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">fQo=</text>
@@ -939,19 +940,19 @@
         <text encoding="base64">ZGVmIG1haW4oYXJnczogQXJyYXlbU3RyaW5nXSk6IFVuaXQgPSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgbWFpbihhcmdzOiBBcnJheVtTdHJpbmddKTogVW5pdCA9IHsKICAgIHByaW50KCJoZWxsbyx3b3JsZCEiKQogIH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZGVmIHNheUhlbGxvKCk6IFVuaXQgPSB7CiAgcHJpbnQoImhlbGxvLHdvcmxkISIpCn0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwcmludCgiaGVsbG8sd29ybGQhIikK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZGVmIG1haW4oYXJnczogQXJyYXlbU3RyaW5nXSk6IFVuaXQgPSB7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/8/0/g</text>
