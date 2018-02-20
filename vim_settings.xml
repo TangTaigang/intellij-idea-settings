@@ -285,6 +285,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="18" column="31" />
       </file>
+      <file name="C:/code/test/src/Dog.java" timestamp="1519136596438">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="11" column="18" />
+        <mark key="." line="11" column="18" />
+        <mark key="^" line="11" column="18" />
+      </file>
       <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/service/PhoenixService.java" timestamp="1513084569334">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
@@ -337,6 +343,12 @@
         <mark key="]" line="19" column="29" />
         <mark key="." line="19" column="29" />
         <mark key="^" line="42" column="26" />
+      </file>
+      <file name="C:/code/test/src/Animal.java" timestamp="1519136553592">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="4" column="17" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_kerberos2kafka/pom.xml" timestamp="1510552008070">
         <mark key="[" line="61" column="13" />
@@ -480,6 +492,12 @@
         <mark key="]" line="2" column="59" />
         <mark key="." line="2" column="59" />
         <mark key="^" line="2" column="59" />
+      </file>
+      <file name="C:/code/test/src/Student.java" timestamp="1519137011691">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+        <mark key="^" line="1" column="7" />
       </file>
       <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/web/DwScrcfxController.java" timestamp="1511056162517">
         <mark key="[" line="58" column="44" />
@@ -927,44 +945,44 @@
       <jump line="42" column="8" filename="C:/code/test/src/NumberConvert.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBhcmdzCg==</text>
+      <register name="&quot;" type="4">
+        <text>笏</text>
       </register>
       <register name="-" type="4">
-        <text>zkMaster</text>
+        <text>笏</text>
       </register>
       <register name="/" type="4">
         <text>8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcmludCgiaGVsbG8sd29ybGQiKQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInNheSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhcmdzCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoImhlbGxvLHdvcmxkIikK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZGVmIGhlbGxvKCk6IFVuaXQgPSB7CiAgcHJpbnQoImhlbGxvLHdvcmxkIikKfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZGVmIG1haW4oYXJnczogQXJyYXlbU3RyaW5nXSk6IFVuaXQgPSB7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjYXQuc2F5KCk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcmludCgiaGVsbG8sd29ybGQhIikK</text>
+        <text encoding="base64">ICAgICAgICBDYXQgY2F0ID0gbmV3IENhdCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Y2xhc3MgQ2F0IHsKCn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIG1haW4oYXJnczogQXJyYXlbU3RyaW5nXSk6IFVuaXQgPSB7Cg==</text>
+        <text encoding="base64">ICAgIHZvaWQgc2F5KCkgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi5Za1Iik7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/8/0/g</text>
