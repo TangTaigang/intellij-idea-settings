@@ -38,6 +38,7 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
+      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FootHoldByDayMR.java" timestamp="1520492314872" />
       <file name="C:/code/start/src/main/kotlin/me/kischn/start/StartApplication.kt" timestamp="1512704779229">
         <mark key="[" line="10" column="16" />
         <mark key="]" line="10" column="27" />
@@ -49,13 +50,6 @@
         <mark key="]" line="4" column="103" />
         <mark key="." line="4" column="103" />
         <mark key="^" line="4" column="103" />
-      </file>
-      <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_es/src/main/production-resources/application.properties" timestamp="1517638999800">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="22" column="72" />
-        <mark key="^" line="22" column="72" />
-        <mark key="." line="22" column="72" />
       </file>
       <file name="C:/code/mdh-travel-path/pom.xml" timestamp="1511077939887">
         <mark key="[" line="61" column="0" />
@@ -220,13 +214,6 @@
         <mark key="." line="4" column="67" />
         <mark key="^" line="4" column="67" />
       </file>
-      <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_oracle/src/main/production-resources/application.properties" timestamp="1517639001237">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="92" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="32" column="25" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_graylist/src/main/java/com/miras/data/Application.java" timestamp="1511167156377">
         <mark key="[" line="22" column="62" />
         <mark key="]" line="22" column="89" />
@@ -340,13 +327,6 @@
         <mark key="]" line="7" column="13" />
         <mark key="." line="7" column="13" />
         <mark key="^" line="12" column="73" />
-      </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_es/src/main/production-resources/application.properties" timestamp="1517639182120">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="21" column="73" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/entity/FootHoldByDay.java" timestamp="1510642996812">
         <mark key="[" line="19" column="24" />
@@ -489,13 +469,6 @@
         <mark key="." line="48" column="54" />
         <mark key="^" line="48" column="54" />
       </file>
-      <file name="C:/code/kafkatest/pom.xml" timestamp="1517295317803">
-        <mark key="'" line="25" column="27" />
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="10" column="28" />
-        <mark key="^" line="10" column="28" />
-        <mark key="." line="10" column="28" />
-      </file>
       <file name="C:/code/hftp/pom.xml" timestamp="1515736814323">
         <mark key="[" line="85" column="31" />
         <mark key="]" line="85" column="34" />
@@ -614,6 +587,7 @@
         <mark key="." line="4" column="2" />
         <mark key="^" line="4" column="2" />
       </file>
+      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/BscMR.java" timestamp="1520492541294" />
       <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/dist/run.sh" timestamp="1517995048420">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -644,13 +618,6 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="C:/code/daily-calc/pom.xml" timestamp="1517901008353">
-        <mark key="'" line="30" column="20" />
-        <mark key="[" line="14" column="18" />
-        <mark key="]" line="18" column="23" />
-        <mark key="^" line="18" column="23" />
-        <mark key="." line="18" column="23" />
-      </file>
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/DayHideNightOutByDay.java" timestamp="1511085699332">
         <mark key="[" line="52" column="58" />
         <mark key="]" line="53" column="30" />
@@ -677,13 +644,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="9" column="21" />
-      </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/production-resources/application.properties" timestamp="1517639193511">
-        <mark key="'" line="10" column="70" />
-        <mark key="[" line="24" column="75" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="31" column="0" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/hive-sql-new.sql" timestamp="1511062243247">
         <mark key="[" line="16" column="22" />
