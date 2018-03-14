@@ -156,6 +156,7 @@
         <mark key="." line="12" column="37" />
         <mark key="^" line="12" column="37" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/Runtime.java" timestamp="1521015480568" />
       <file name="C:/code/kafkaclient/pom.xml" timestamp="1510552152479">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="22" column="0" />
@@ -595,11 +596,11 @@
         <mark key="." line="17" column="21" />
         <mark key="^" line="17" column="21" />
       </file>
-      <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/service/DeviceService.java" timestamp="1520998609941">
-        <mark key="[" line="60" column="86" />
-        <mark key="]" line="60" column="86" />
-        <mark key="." line="60" column="86" />
-        <mark key="^" line="54" column="82" />
+      <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/service/DeviceService.java" timestamp="1521017036054">
+        <mark key="[" line="75" column="34" />
+        <mark key="]" line="75" column="39" />
+        <mark key="." line="75" column="39" />
+        <mark key="^" line="75" column="39" />
       </file>
       <file name="C:/code/ezviz/src/test/java/com/miras/monitor/ezviz/service/DeviceServiceTest.java" timestamp="1521007591158">
         <mark key="[" line="20" column="0" />
@@ -677,11 +678,11 @@
         <mark key="^" line="63" column="19" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="C:/code/ezviz/pom.xml" timestamp="1520995598057">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="43" column="0" />
+      <file name="C:/code/ezviz/pom.xml" timestamp="1521015936109">
+        <mark key="[" line="52" column="11" />
+        <mark key="]" line="53" column="23" />
+        <mark key="." line="53" column="23" />
+        <mark key="^" line="53" column="23" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_kerberos2kafka/src/main/production-resources/application.properties" timestamp="1510553883374">
         <mark key="[" line="5" column="9" />
@@ -689,8 +690,11 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/EzvizApplication.java" timestamp="1520994569407">
-        <mark key="[" line="6" column="31" />
+      <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/EzvizApplication.java" timestamp="1521014649897">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="6" column="16" />
       </file>
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/DayHideNightOutByDay.java" timestamp="1511085699332">
         <mark key="[" line="52" column="58" />
@@ -837,10 +841,16 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520901783832">
+      <file name="/Dummy.txt" timestamp="1521017230955">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/controller/DeviceController.java" timestamp="1521016658690">
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="23" column="14" />
+        <mark key="." line="23" column="14" />
+        <mark key="^" line="23" column="14" />
       </file>
       <file name="C:/code/hive-redis/pom.xml" timestamp="1510894256733">
         <mark key="[" line="34" column="19" />
@@ -915,10 +925,10 @@
         <mark key="^" line="20" column="101" />
         <mark key="." line="20" column="101" />
       </file>
-      <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/service/TokenService.java" timestamp="1521007585715">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/service/TokenService.java" timestamp="1521014639561">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="C:/code/hftp/src/main/java/com/miras/hftp/HBaseFileSystemView.java" timestamp="1515720325084">
         <mark key="[" line="34" column="59" />
@@ -1019,11 +1029,11 @@
       <jump line="42" column="8" filename="C:/code/test/src/NumberConvert.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoNTAwMCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>8</text>
@@ -1032,31 +1042,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b2tlblNlcnZpY2UuZ2V0QWNjZXNzVG9rZW4oKSwgZGV2aWNlU2VyaWFsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoNTAwMCk7Cg==</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiY2FwdHVyZVZpZGVvIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBsID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3luY2hyb25pemVkIChhY2Nlc3NUb2tlbikgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBQcmludFdyaXRlciBwcmludFdyaXRlciA9IG5ldyBQcmludFdyaXRlcihleGVjLmdldE91dHB1dFN0cmVhbSgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJpbnRXcml0ZXIgcHJpbnRXcml0ZXIgPSBuZXcgUHJpbnRXcml0ZXIoZXhlYy5nZXRPdXRwdXRTdHJlYW0oKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzeW5jaHJvbml6ZWQgKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhlYy5nZXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiYXQuN282Ym96aDQ5cTE2bnZvMDE2d2s3bWdxNGpxZnpwM2ktOTlxcDF3dXU3eC0xcDd3eDd2LTFtZXJlNWl4YyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIuY2xvc2UoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiYXQuN282Ym96aDQ5cTE2bnZvMDE2d2s3bWdxNGpxZnpwM2ktOTlxcDF3dXU3eC0xcDd3eDd2LTFtZXJlNWl4YyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIuZmx1c2goKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiYXQuN282Ym96aDQ5cTE2bnZvMDE2d2s3bWdxNGpxZnpwM2ktOTlxcDF3dXU3eC0xcDd3eDd2LTFtZXJlNWl4YyIsIGRldmljZVNlcmlhbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIuYXBwZW5kKCJxIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
