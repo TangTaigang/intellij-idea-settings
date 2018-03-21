@@ -103,6 +103,7 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/sql/DriverManager.java" timestamp="1521616540880" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_graylist/src/main/production-resources/application.properties" timestamp="1511168408236">
         <mark key="[" line="9" column="29" />
         <mark key="]" line="9" column="29" />
@@ -332,9 +333,6 @@
         <mark key="^" line="12" column="22" />
         <mark key="." line="12" column="22" />
       </file>
-      <file name="C:/code/111/MDH_PASSINF_DATA/helloworld" timestamp="1519805308040">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/code/kafka-druid-stream/.gitignore" timestamp="1511322905485">
         <mark key="[" line="25" column="10" />
         <mark key="]" line="26" column="3" />
@@ -488,9 +486,6 @@
         <mark key="^" line="9" column="35" />
         <mark key="." line="9" column="35" />
       </file>
-      <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/service/ImageService.java" timestamp="1520996688872">
-        <mark key="[" line="5" column="13" />
-      </file>
       <file name="C:/code/MDHTrafficDataSync/mdh_data_6in1_cdc_kafka/src/main/java/com/miras/data/ct2kafka/bean/CdcOffset.java" timestamp="1517204789768">
         <mark key="[" line="42" column="5" />
         <mark key="]" line="43" column="0" />
@@ -562,6 +557,7 @@
         <mark key="." line="28" column="58" />
         <mark key="^" line="28" column="58" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.30/mysql-connector-java-5.1.30.jar!/com/mysql/jdbc/NonRegisteringDriver.class" timestamp="1521616496328" />
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarActivity288.java" timestamp="1510643628815">
         <mark key="[" line="105" column="91" />
         <mark key="]" line="105" column="91" />
@@ -785,9 +781,6 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
-      <file name="C:/code/ftptest/src/main/resources/test.txt" timestamp="1517815069307">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/code/kafka-druid-stream/src/main/resources/application.properties" timestamp="1511322138818">
         <mark key="[" line="16" column="39" />
         <mark key="]" line="16" column="40" />
@@ -963,14 +956,12 @@
         <mark key="." line="34" column="63" />
         <mark key="^" line="34" column="63" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.18/druid-1.0.18-sources.jar!/com/alibaba/druid/proxy/DruidDriver.java" timestamp="1521616397167" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/java/com/miras/data/Application.java" timestamp="1510830546040">
         <mark key="[" line="28" column="72" />
         <mark key="]" line="28" column="73" />
         <mark key="." line="28" column="73" />
         <mark key="^" line="28" column="73" />
-      </file>
-      <file name="/fragment.java" timestamp="1520997665333">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
