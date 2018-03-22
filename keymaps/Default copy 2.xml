@@ -1,6 +1,0 @@
-<keymap version="1" name="Default copy 2" parent="$default">
-  <action id="EditorSelectWord" />
-  <action id="VimFileSaveClose">
-    <keyboard-shortcut first-keystroke="ctrl w" />
-  </action>
-</keymap>
