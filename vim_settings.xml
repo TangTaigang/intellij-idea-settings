@@ -396,6 +396,11 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
       </file>
+      <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/bean/Device.java" timestamp="1522130180201">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_kerberos2kafka/pom.xml" timestamp="1510552008070">
         <mark key="[" line="61" column="13" />
         <mark key="]" line="61" column="16" />
@@ -644,7 +649,7 @@
         <mark key="." line="17" column="21" />
         <mark key="^" line="17" column="21" />
       </file>
-      <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/service/DeviceService.java" timestamp="1522129129068">
+      <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/service/DeviceService.java" timestamp="1522130163099">
         <mark key="[" line="23" column="38" />
         <mark key="]" line="75" column="69" />
         <mark key="." line="75" column="69" />
@@ -1103,8 +1108,8 @@
       <jump line="8" column="3" filename="C:/code/mdh_data_6in1api/src/main/java/com/miras/data/api/mdh_data_6in1api/entity/ApiResponse.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>知</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIAo=</text>
       </register>
       <register name="-" type="4">
         <text>知</text>
@@ -1116,31 +1121,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEpzb25SZXNwb25zZS5mYWlsKGUuZ2V0TWVzc2FnZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0U3VjY2VzcygpIHsKICAgICAgICByZXR1cm4gc3VjY2VzczsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRTdWNjZXNzKFN0cmluZyBzdWNjZXNzKSB7CiAgICAgICAgdGhpcy5zdWNjZXNzID0gc3VjY2VzczsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0U3VjY2VzcygpIHsKICAgICAgICByZXR1cm4gc3VjY2VzczsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRTdWNjZXNzKFN0cmluZyBzdWNjZXNzKSB7CiAgICAgICAgdGhpcy5zdWNjZXNzID0gc3VjY2VzczsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvZGUgPSBjb2RlOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
