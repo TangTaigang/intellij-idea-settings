@@ -643,14 +643,14 @@
         <mark key="." line="17" column="21" />
         <mark key="^" line="17" column="21" />
       </file>
-      <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/service/DeviceService.java" timestamp="1522134474941">
-        <mark key="'" line="153" column="48" />
-        <mark key="[" line="133" column="30" />
-        <mark key="]" line="133" column="32" />
-        <mark key="." line="133" column="32" />
-        <mark key="^" line="133" column="32" />
+      <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/service/DeviceService.java" timestamp="1522199911220">
+        <mark key="'" line="155" column="48" />
+        <mark key="[" line="74" column="41" />
+        <mark key="]" line="74" column="62" />
+        <mark key="." line="74" column="62" />
+        <mark key="^" line="74" column="62" />
       </file>
-      <file name="C:/code/ezviz/src/test/java/com/miras/monitor/ezviz/service/DeviceServiceTest.java" timestamp="1521007591158">
+      <file name="C:/code/ezviz/src/test/java/com/miras/monitor/ezviz/service/DeviceServiceTest.java" timestamp="1522199813279">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
@@ -912,7 +912,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522141753060">
+      <file name="/Dummy.txt" timestamp="1522199966404">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1117,10 +1117,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Map</text>
