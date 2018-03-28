@@ -2,6 +2,10 @@
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="ContextHelp" />
   <action id="EditorSelectWord" />
   <action id="Gsonformat" />
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
 </keymap>
