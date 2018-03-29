@@ -148,11 +148,12 @@
         <mark key="^" line="130" column="7" />
         <mark key="." line="131" column="0" />
       </file>
-      <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/resources/application.properties" timestamp="1522305826749">
+      <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/resources/application.properties" timestamp="1522308368652">
+        <mark key="'" line="8" column="21" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
+        <mark key="^" line="8" column="21" />
         <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="50" />
       </file>
       <file name="C:/code/kischn-data-flow/src/main/kotlin/me/kischn/dataflow/kischndataflow/consumer/Consumers.kt" timestamp="1515399958950">
         <mark key="[" line="3" column="25" />
@@ -449,10 +450,11 @@
         <mark key="^" line="109" column="25" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/Application.java" timestamp="1522305965497">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/Application.java" timestamp="1522314378169">
+        <mark key="[" line="33" column="30" />
+        <mark key="]" line="33" column="28" />
+        <mark key="." line="33" column="28" />
+        <mark key="^" line="33" column="28" />
       </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/bean/EzvizResponse.java" timestamp="1522130724148">
         <mark key="[" line="31" column="0" />
@@ -638,8 +640,11 @@
         <mark key="." line="3" column="53" />
         <mark key="^" line="3" column="53" />
       </file>
-      <file name="C:/code/OnlineVehicle/OnlineVehicleHub/.gitignore" timestamp="1522207096294">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/code/OnlineVehicle/OnlineVehicleHub/.gitignore" timestamp="1522313996132">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="2" column="5" />
+        <mark key="." line="2" column="5" />
+        <mark key="^" line="2" column="5" />
       </file>
       <file name="C:/code/zk-logger/pom.xml" timestamp="1516152826009">
         <mark key="[" line="41" column="57" />
@@ -722,6 +727,12 @@
         <mark key="^" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/FtpUtils.java" timestamp="1522307932356">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="4" column="7" />
+        <mark key="^" line="4" column="7" />
+        <mark key="." line="4" column="7" />
+      </file>
       <file name="C:/code/clojure-test/src/Application.clj" timestamp="1518069559669">
         <mark key="[" line="4" column="3" />
         <mark key="]" line="4" column="2" />
@@ -739,6 +750,13 @@
         <mark key="]" line="45" column="77" />
         <mark key="." line="45" column="77" />
         <mark key="^" line="40" column="90" />
+      </file>
+      <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/FtpCopier.java" timestamp="1522312948917">
+        <mark key="'" line="49" column="18" />
+        <mark key="[" line="78" column="104" />
+        <mark key="]" line="78" column="113" />
+        <mark key="." line="78" column="113" />
+        <mark key="^" line="78" column="113" />
       </file>
       <file name="C:/code/druid-kafka/kafka-druid-stream/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1512570935388">
         <mark key="[" line="252" column="47" />
@@ -933,7 +951,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522290193350">
+      <file name="/Dummy.txt" timestamp="1522314011824">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1046,7 +1064,7 @@
         <mark key="." line="28" column="73" />
         <mark key="^" line="28" column="73" />
       </file>
-      <file name="/fragment.java" timestamp="1522305350462">
+      <file name="/fragment.java" timestamp="1522311115040">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -1138,58 +1156,60 @@
       <jump line="120" column="53" filename="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/service/DeviceService.java" />
       <jump line="37" column="47" filename="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/service/DeviceService.java" />
       <jump line="146" column="48" filename="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/service/DeviceService.java" />
+      <jump line="11" column="21" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/resources/application.properties" />
+      <jump line="49" column="18" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/FtpCopier.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I2Z0cC5pbj1mdHA6Ly9mdHA6aHVpdG9uZzEyM0AxOTIuMTY4LjEwMS4xNzIvCg==</text>
+      <register name="&quot;" type="4">
+        <text>ORACLE 数据导出成 json 以及 互联网 FTP 到 摆渡FTP 的程序写好</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>ORACLE 数据导出成 json 以及 互联网 FTP 到 摆渡FTP 的程序写好</text>
       </register>
       <register name="/" type="4">
-        <text>Map</text>
+        <text>from.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnRwLmluPWZ0cDovL2Z0cDpodWl0b25nMTIzQDE5Mi4xNjguMTAxLjE3Mi8/YmluYXJ5PXRydWUmcmVjdXJzaXZlPXRydWUK</text>
+        <text encoding="base64">ICAgICAgICBzcmNGdHAuc2V0Q29udHJvbEVuY29kaW5nKCJVVEYtOCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2Z0cC5pbj1mdHA6Ly9mdHA6aHVpdG9uZzEyM0AxOTIuMTY4LjEwMS4xNzIvCg==</text>
+        <text encoding="base64">T25saW5lVmVoaWNsZUh1Yi5pbWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA/YXV0b0NyZWF0ZT10cnVlCg==</text>
+        <text encoding="base64">LmlkZWEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA/YmluYXJ5PXRydWUmcmVjdXJzaXZlPXRydWUK</text>
+        <text encoding="base64">ICAgICAgICAvLyDG9LavIG9yYWNsZSDK/b7dtbyz9s/fs8wK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnJvdXRlUG9saWN5KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZnRwQ29waWVyLmNvcHlEaXIoIlZFSElDTEUvSlNPTiIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0LnNldFRyYWNpbmcodHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmdHBDb3BpZXIuY29weURpcigiVkVISUNMRS9KU09OIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGRvIG5vdGhpbmcK</text>
+        <text encoding="base64">ICAgICAgICBGdHBDb3BpZXIgZnRwQ29waWVyID0gbmV3IEZ0cENvcGllcihwcm9wZXJ0aWVzKTsKICAgICAgICBmdHBDb3BpZXIuY29weURpcigiVkVISUNMRS9KU09OIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ0cC5jaGFuZ2VXb3JraW5nRGlyZWN0b3J5KCIvVkVISUNMRS9KU09OLyIpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIG5ldyBTY2FubmVyKFN5c3RlbS5pbikubmV4dExpbmUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGdHBDb3BpZXIgZnRwQ29waWVyID0gbmV3IEZ0cENvcGllcihwcm9wZXJ0aWVzKTsKICAgICAgICBmdHBDb3BpZXIuY29weURpcigiVkVISUNMRS9KU09OIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ0cC5ta2QoIi9WRUhJQ0xFL0pTT04iKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyDG9LavIGZ0cCDK/b7dx6jSxgo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/Map/List/g</text>
+        <text>s/from./to./g</text>
       </register>
     </registers>
     <search>
-      <last-search>Map</last-search>
-      <last-offset>;]</last-offset>
-      <last-pattern>Map</last-pattern>
-      <last-replace>List</last-replace>
-      <last-substitute>Map</last-substitute>
-      <last-dir>1</last-dir>
+      <last-search>from.</last-search>
+      <last-offset />
+      <last-pattern>from.</last-pattern>
+      <last-replace>to.</last-replace>
+      <last-substitute>from.</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1211,9 +1231,10 @@
         <entry>8</entry>
         <entry>List</entry>
         <entry>Map</entry>
+        <entry>s/to/from/g</entry>
+        <entry>from.</entry>
       </history-search>
       <history-cmd>
-        <entry>s/prev/curr/g</entry>
         <entry>s/begin/end/g</entry>
         <entry>s/url/userName/g</entry>
         <entry>s/userName/password/g</entry>
@@ -1233,6 +1254,7 @@
         <entry>q</entry>
         <entry>s/List/Map/g</entry>
         <entry>s/Map/List/g</entry>
+        <entry>s/from./to./g</entry>
       </history-cmd>
       <history-expr />
       <history-input />

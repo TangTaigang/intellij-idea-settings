@@ -1,5 +1,6 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateMessagesToolWindow" />
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
@@ -11,7 +12,14 @@
   </action>
   <action id="ContextHelp" />
   <action id="EditorSelectWord" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+  </action>
   <action id="Gsonformat" />
+  <action id="Maven.ExecuteGoal">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
   <action id="QuickList.My Operations">
     <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
