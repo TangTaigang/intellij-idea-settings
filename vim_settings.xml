@@ -184,12 +184,12 @@
         <mark key="." line="14" column="63" />
         <mark key="^" line="14" column="63" />
       </file>
-      <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-in/src/main/java/com/miras/ftp/in/Application.java" timestamp="1522390080718">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="54" column="30" />
+      <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-in/src/main/java/com/miras/ftp/in/Application.java" timestamp="1522392296422">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="88" column="71" />
+        <mark key="]" line="88" column="73" />
+        <mark key="." line="88" column="73" />
+        <mark key="^" line="88" column="73" />
       </file>
       <file name="C:/code/kafka-druid-stream/.gitignore" timestamp="1511322905485">
         <mark key="[" line="25" column="10" />
@@ -537,7 +537,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522389194728">
+      <file name="/Dummy.txt" timestamp="1522392327209">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1212,11 +1212,11 @@
       <jump line="42" column="0" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-in/src/main/java/com/miras/ftp/in/Application.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>添加 oracle 写入实现</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>添加 oracle 写入实现</text>
       </register>
       <register name="/" type="4">
         <text>from.</text>
@@ -1228,28 +1228,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDUtCBGVFAKICAgICAgICBGVFBDbGllbnQgc291cmNlRnRwID0gY3JlYXRlRnRwQ2xpZW50KCk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVBY2tGaWxlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBCYXNpY0RhdGFTb3VyY2UgYmFzaWNEYXRhU291cmNlID0gbmV3IEJhc2ljRGF0YVNvdXJjZSgpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2ZWhpY2xlCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyDUtCBGVFAKICAgICAgICBGVFBDbGllbnQgc291cmNlRnRwID0gY3JlYXRlRnRwQ2xpZW50KCk7Cgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjcmVhdGVBY2tGaWxlKCk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyB2ZWhpY2xlSW5zZXJ0U1FMID0gIiI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgdmVoaWNsZVZlcmlmeUluc2VydFNRTCA9ICIiOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIHZlaGljbGVEZWFsSW5zZXJ0U1FMID0gIiI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tbW9ucy1iZWFudXRpbHM8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtYmVhbnV0aWxzPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjkuMzwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBCYXNpY0RhdGFTb3VyY2UgYmFzaWNEYXRhU291cmNlID0gbmV3IEJhc2ljRGF0YVNvdXJjZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/from./to./g</text>
