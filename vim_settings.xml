@@ -378,10 +378,10 @@
         <mark key="." line="14" column="63" />
         <mark key="^" line="14" column="63" />
       </file>
-      <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-in/src/main/java/com/miras/ftp/in/Application.java" timestamp="1522378390222">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="27" />
-        <mark key="." line="58" column="0" />
+      <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-in/src/main/java/com/miras/ftp/in/Application.java" timestamp="1522379856013">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="C:/code/kafka-druid-stream/.gitignore" timestamp="1511322905485">
         <mark key="[" line="25" column="10" />
@@ -412,6 +412,12 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="48" column="55" />
       </file>
+      <file name="C:/code/camera-capture/src/main/java/com/miras/onlinevehile/Application.java" timestamp="1522380200661">
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="7" column="46" />
+        <mark key="^" line="7" column="46" />
+        <mark key="." line="7" column="46" />
+      </file>
       <file name="C:/code/test/src/CsvTool.java" timestamp="1519972332566">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="13" />
@@ -441,7 +447,7 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-in/pom.xml" timestamp="1522373374432">
+      <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-in/pom.xml" timestamp="1522380031432">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="^" line="55" column="18" />
@@ -772,6 +778,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="2" column="52" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="C:/code/camera-capture/pom.xml" timestamp="1522380047003">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="32" />
+        <mark key="^" line="11" column="32" />
+        <mark key="." line="11" column="32" />
       </file>
       <file name="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs/src/main/java/com/miras/data/image/Application.java" timestamp="1516262792779">
         <mark key="[" line="45" column="76" />
@@ -1194,11 +1206,11 @@
       <jump line="127" column="39" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/Application.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVBY2tGaWxlKHZpbik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>online-vehicle-in</text>
       </register>
       <register name="-" type="4">
-        <text>(String) vehicle.get(&quot;CLSBDH&quot;))</text>
+        <text>online-vehicle-in</text>
       </register>
       <register name="/" type="4">
         <text>from.</text>
@@ -1207,31 +1219,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNyZWF0ZUFja0ZpbGUoKFN0cmluZykgdmVoaWNsZS5nZXQoIkNMU0JESCIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVBY2tGaWxlKHZpbik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGNyZWF0ZUFja0ZpbGUodmluKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVBY2tGaWxlKHZpbik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vILS0vaggIGFjayDOxLz+CiAgICAgICAgICAgICAgICBjcmVhdGVBY2tGaWxlKChTdHJpbmcpIHZlaGljbGUuZ2V0KCJDTFNCREgiKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gMTgvMDMvMzAgREVMTCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vILS6u9TJz7Srwfm6z9K7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vILS0vaggIGFjayDOxLz+CiAgICAgICAgICAgICAgICBjcmVhdGVBY2tGaWxlKChTdHJpbmcpIHZlaGljbGUuZ2V0KCJDTFNCREgiKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRvZG8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gMTgvMDMvMzAgREVMTCAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vILS6u9TJz7Srwfm6z9K7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRvZG8K</text>
       </register>
       <register name=":" type="4">
         <text>s/from./to./g</text>
