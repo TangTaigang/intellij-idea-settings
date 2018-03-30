@@ -378,11 +378,10 @@
         <mark key="." line="14" column="63" />
         <mark key="^" line="14" column="63" />
       </file>
-      <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-in/src/main/java/com/miras/ftp/in/Application.java" timestamp="1522376747921">
-        <mark key="[" line="49" column="38" />
-        <mark key="]" line="49" column="46" />
-        <mark key="." line="49" column="46" />
-        <mark key="^" line="49" column="46" />
+      <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-in/src/main/java/com/miras/ftp/in/Application.java" timestamp="1522378390222">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="27" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="C:/code/kafka-druid-stream/.gitignore" timestamp="1511322905485">
         <mark key="[" line="25" column="10" />
@@ -1196,43 +1195,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gMTgvMDMvMzAgREVMTCAK</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVBY2tGaWxlKHZpbik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(String) vehicle.get(&quot;CLSBDH&quot;))</text>
       </register>
       <register name="/" type="4">
         <text>from.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcCB2ZWhpY2xlVmVyaWZ5PSAoTWFwKSBtYXAuZ2V0KCJWRUhJQ0xFX1ZFUklGWSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNyZWF0ZUFja0ZpbGUoKFN0cmluZykgdmVoaWNsZS5nZXQoIkNMU0JESCIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gMTgvMDMvMzAgREVMTCAK</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVBY2tGaWxlKHZpbik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vILS6u9TJz7Srwfm6z9K7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRvZG8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vILS0vaggIGFjayDOxLz+CiAgICAgICAgICAgICAgICBjcmVhdGVBY2tGaWxlKChTdHJpbmcpIHZlaGljbGUuZ2V0KCJDTFNCREgiKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gMTgvMDMvMzAgREVMTCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBGdHBGaQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vILS6u9TJz7Srwfm6z9K7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigis7W83LrFIiArIHZlaGljbGUuZ2V0KCJDTFNCREgiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRvZG8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBqc29uIHVwbG9hZCBmdHAK</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBmdHAgZnJvbW0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/from./to./g</text>
