@@ -378,10 +378,11 @@
         <mark key="." line="14" column="63" />
         <mark key="^" line="14" column="63" />
       </file>
-      <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-in/src/main/java/com/miras/ftp/in/Application.java" timestamp="1522374474046">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-in/src/main/java/com/miras/ftp/in/Application.java" timestamp="1522376747921">
+        <mark key="[" line="49" column="38" />
+        <mark key="]" line="49" column="46" />
+        <mark key="." line="49" column="46" />
+        <mark key="^" line="49" column="46" />
       </file>
       <file name="C:/code/kafka-druid-stream/.gitignore" timestamp="1511322905485">
         <mark key="[" line="25" column="10" />
@@ -1080,6 +1081,11 @@
         <mark key="." line="49" column="19" />
         <mark key="^" line="49" column="19" />
       </file>
+      <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-common/src/main/java/com/miras/ftp/common/FtpCopier.java" timestamp="1522376516645">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="C:/code/hftp/src/main/java/com/miras/hftp/HBaseFileSystemView.java" timestamp="1515720325084">
         <mark key="[" line="34" column="59" />
         <mark key="]" line="34" column="63" />
@@ -1190,10 +1196,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gMTgvMDMvMzAgREVMTCAK</text>
       </register>
       <register name="-" type="4">
-        <text>ftp, null</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>from.</text>
@@ -1202,31 +1208,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcCB2ZWhpY2xlVmVyaWZ5PSAoTWFwKSBtYXAuZ2V0KCJWRUhJQ0xFX1ZFUklGWSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gMTgvMDMvMzAgREVMTCAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBGdHBGaQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vILS6u9TJz7Srwfm6z9K7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigis7W83LrFIiArIHZlaGljbGUuZ2V0KCJDTFNCREgiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRvZG8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBqc29uIHVwbG9hZCBmdHAK</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBmdHAgZnJvbW0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBGdHBGaQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigis7W83LrFIiArIHZlaGljbGUuZ2V0KCJDTFNCREgiKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmdHAK</text>
+        <text encoding="base64">IyBqc29uIHVwbG9hZCBmdHAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">IyBmdHAgZnJvbW0K</text>
       </register>
       <register name=":" type="4">
         <text>s/from./to./g</text>
