@@ -409,13 +409,6 @@
         <mark key="^" line="2" column="52" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/FtpCopier.java" timestamp="1522312948917">
-        <mark key="'" line="49" column="18" />
-        <mark key="[" line="78" column="104" />
-        <mark key="]" line="78" column="113" />
-        <mark key="." line="78" column="113" />
-        <mark key="^" line="78" column="113" />
-      </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_graylist/src/main/java/com/miras/data/graylist/GrayListBolt.java" timestamp="1511329109014">
         <mark key="[" line="85" column="46" />
         <mark key="]" line="87" column="0" />
@@ -440,11 +433,11 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
-      <file name="C:/code/mdh_data_6in1api/src/main/java/com/miras/data/api/mdh_data_6in1api/controller/ApiInterfaceController.java" timestamp="1522460907200">
-        <mark key="[" line="35" column="40" />
-        <mark key="]" line="35" column="39" />
-        <mark key="." line="35" column="39" />
-        <mark key="^" line="35" column="39" />
+      <file name="C:/code/mdh_data_6in1api/src/main/java/com/miras/data/api/mdh_data_6in1api/controller/ApiInterfaceController.java" timestamp="1522478394723">
+        <mark key="[" line="63" column="9" />
+        <mark key="]" line="65" column="16" />
+        <mark key="." line="65" column="16" />
+        <mark key="^" line="65" column="16" />
       </file>
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/DayHideNightOutByDay.java" timestamp="1511085699332">
         <mark key="[" line="52" column="58" />
@@ -538,7 +531,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522464985594">
+      <file name="/Dummy.txt" timestamp="1522478499254">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -659,13 +652,6 @@
         <mark key="]" line="131" column="0" />
         <mark key="^" line="130" column="7" />
         <mark key="." line="131" column="0" />
-      </file>
-      <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/resources/application.properties" timestamp="1522308368652">
-        <mark key="'" line="8" column="21" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="8" column="21" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/code/OnlineVehicle/OnlineVehicleHub/mdh_data_onlinevehicle_out_oracle_ftp/mdh_data_onlinevehicle_out_oracle_ftp.iml" timestamp="1522213480719">
         <mark key="[" line="2" column="0" />
@@ -825,6 +811,12 @@
         <mark key="[" line="19" column="24" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="C:/code/mdh_data_6in1api/src/main/resources/mapper/datadb61/VioSurveilDao.xml" timestamp="1522478180623">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="35" />
+        <mark key="." line="7" column="35" />
+        <mark key="^" line="7" column="35" />
       </file>
       <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-in/pom.xml" timestamp="1522380580435">
         <mark key="[" line="45" column="0" />
@@ -998,6 +990,11 @@
         <mark key="]" line="6" column="69" />
         <mark key="." line="6" column="69" />
         <mark key="^" line="6" column="69" />
+      </file>
+      <file name="C:/code/mdh_data_6in1api/src/main/java/com/miras/data/api/mdh_data_6in1api/mapper/datadb61/VioSurveilMapper.java" timestamp="1522478202833">
+        <mark key="[" line="12" column="89" />
+        <mark key="]" line="12" column="89" />
+        <mark key="." line="12" column="89" />
       </file>
       <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/dao/PhoenixTest.java" timestamp="1521620035774">
         <mark key="[" line="30" column="77" />
@@ -1214,43 +1211,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTC5pbmZvOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhyb3dzIElPRXhjZXB0aW9uIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>from.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgZXhwb3J0T3JhY2xlRGF0YShQcm9wZXJ0aWVzIHByb3BlcnRpZXMsIEJhc2ljRGF0YVNvdXJjZSBiYXNpY0RhdGFTb3VyY2UpIHsK</text>
+        <text encoding="base64">ICAgIEBSZXNvdXJjZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTC5pbmZvOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNOb25lRW1wdHkoanN6aCkpIHsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAodmlvVmlvbGF0aW9uTGlzdC5zaXplKCkgIT0gMCkgewogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJldHVybiBBcGlSZXNwb25zZS5uZXdJbnN0YW5jZSgwLCA5MDAwLCAis8m5pqOhIiwgIrLp0a+94bn7zqq/1SIpOwogICAgICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEFwaVJlc3BvbnNlLm5ld0luc3RhbmNlKDAsIDIwMCwgIrPJuaajoSIsIHZpb1Zpb2xhdGlvbkxpc3QpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLyoKICAgICAgICAgICAgc3RyID0gIntcInN0YXR1c1wiOlwiMFwiLFwibWVzc2FnZVwiOlwiyqew3KOhXCIsXCJjb2RlXCI6XCI5MDAwXCIsXCJyZXN1bHRcIjpcIrLp0a+94bn7zqq/1VwifSI7CiAgICAgICAgICAgIEpTT05PYmplY3QganNvbiA9IEpTT05PYmplY3QucGFyc2VPYmplY3Qoc3RyKTsKICAgICAgICAgICAgcmV0dXJuIGpzb24udG9TdHJpbmcoKTsKICAgICAgICAgICAgICovCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLyoKICAgICAgICAgICAgc3RyID0gIntcInN0YXR1c1wiOlwiMVwiLFwibWVzc2FnZVwiOlwis8m5pqOhXCIsXCJjb2RlXCI6XCIyMDBcIixcInJlc3VsdFwiOlwiIiArIHZpb1Zpb2xhdGlvbkxpc3QgKyAiXCJ9IjsKICAgICAgICAgICAgSlNPTk9iamVjdCBqc29uID0gSlNPTk9iamVjdC5wYXJzZU9iamVjdChzdHIpOwogICAgICAgICAgICByZXR1cm4ganNvbi50b1N0cmluZygpOwogICAgICAgICAgICAqLwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLyoKICAgICAgICAgICAgc3RyID0gIntcInN0YXR1c1wiOlwiMFwiLFwibWVzc2FnZVwiOlwiyqew3KOhXCIsXCJjb2RlXCI6XCI5MDAwXCIsXCJyZXN1bHRcIjpcIrLOyv06anN6aM6qv9VcIn0iOwogICAgICAgICAgICBKU09OT2JqZWN0IGpzb24gPSBKU09OT2JqZWN0LnBhcnNlT2JqZWN0KHN0cik7CiAgICAgICAgICAgIHJldHVybiBqc29uLnRvU3RyaW5nKCk7CiAgICAgICAgICAgICovCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobnVsbCAhPSBqc3poICYmIGpzemggIT0gIiIgJiYgISIiLmVxdWFscyhqc3poKSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoanN6aCA9PSBudWxsIHx8IGpzemggPT0gIiIpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>s/from./to./g</text>
