@@ -481,12 +481,12 @@
         <mark key="." line="61" column="16" />
         <mark key="^" line="61" column="16" />
       </file>
-      <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/Application.java" timestamp="1522464974404">
-        <mark key="'" line="186" column="39" />
-        <mark key="[" line="96" column="54" />
-        <mark key="]" line="96" column="56" />
-        <mark key="." line="96" column="56" />
-        <mark key="^" line="96" column="56" />
+      <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/Application.java" timestamp="1522632918115">
+        <mark key="'" line="150" column="58" />
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="25" column="27" />
+        <mark key="^" line="25" column="27" />
+        <mark key="." line="25" column="27" />
       </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/bean/EzvizResponse.java" timestamp="1522130724148">
         <mark key="[" line="31" column="0" />
@@ -994,7 +994,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522631626667">
+      <file name="/Dummy.txt" timestamp="1522632954016">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1112,7 +1112,7 @@
         <mark key="." line="28" column="73" />
         <mark key="^" line="28" column="73" />
       </file>
-      <file name="/fragment.java" timestamp="1522374287151">
+      <file name="/fragment.java" timestamp="1522632928976">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -1208,13 +1208,14 @@
       <jump line="49" column="18" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/FtpCopier.java" />
       <jump line="127" column="39" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/Application.java" />
       <jump line="42" column="0" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-in/src/main/java/com/miras/ftp/in/Application.java" />
+      <jump line="150" column="58" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/Application.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>使用全局变量代替局部变量传递</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>使用全局变量代替局部变量传递</text>
       </register>
       <register name="/" type="4">
         <text>from.</text>
@@ -1223,31 +1224,31 @@
         <text encoding="base64">ICAgIEBSZXNvdXJjZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNOb25lRW1wdHkoanN6aCkpIHsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEZUUENsaWVudCBjcmVhdGVGdHBDbGllbnQoKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIAogICAgICAgIHJldHVybiBzb3VyY2VGdHA7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodmlvVmlvbGF0aW9uTGlzdC5zaXplKCkgIT0gMCkgewogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJldHVybiBBcGlSZXNwb25zZS5uZXdJbnN0YW5jZSgwLCA5MDAwLCAis8m5pqOhIiwgIrLp0a+94bn7zqq/1SIpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgRlRQQ2xpZW50IGZ0cENsaWVudCA9IGNyZWF0ZUZ0cENsaWVudCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEFwaVJlc3BvbnNlLm5ld0luc3RhbmNlKDAsIDIwMCwgIrPJuaajoSIsIHZpb1Zpb2xhdGlvbkxpc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEwuaW5mbygiuPzQwrO1vNy6xSAiICk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoKICAgICAgICAgICAgc3RyID0gIntcInN0YXR1c1wiOlwiMFwiLFwibWVzc2FnZVwiOlwiyqew3KOhXCIsXCJjb2RlXCI6XCI5MDAwXCIsXCJyZXN1bHRcIjpcIrLp0a+94bn7zqq/1VwifSI7CiAgICAgICAgICAgIEpTT05PYmplY3QganNvbiA9IEpTT05PYmplY3QucGFyc2VPYmplY3Qoc3RyKTsKICAgICAgICAgICAgcmV0dXJuIGpzb24udG9TdHJpbmcoKTsKICAgICAgICAgICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoKICAgICAgICAgICAgc3RyID0gIntcInN0YXR1c1wiOlwiMVwiLFwibWVzc2FnZVwiOlwis8m5pqOhXCIsXCJjb2RlXCI6XCIyMDBcIixcInJlc3VsdFwiOlwiIiArIHZpb1Zpb2xhdGlvbkxpc3QgKyAiXCJ9IjsKICAgICAgICAgICAgSlNPTk9iamVjdCBqc29uID0gSlNPTk9iamVjdC5wYXJzZU9iamVjdChzdHIpOwogICAgICAgICAgICByZXR1cm4ganNvbi50b1N0cmluZygpOwogICAgICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoKICAgICAgICAgICAgc3RyID0gIntcInN0YXR1c1wiOlwiMFwiLFwibWVzc2FnZVwiOlwiyqew3KOhXCIsXCJjb2RlXCI6XCI5MDAwXCIsXCJyZXN1bHRcIjpcIrLOyv06anN6aM6qv9VcIn0iOwogICAgICAgICAgICBKU09OT2JqZWN0IGpzb24gPSBKU09OT2JqZWN0LnBhcnNlT2JqZWN0KHN0cik7CiAgICAgICAgICAgIHJldHVybiBqc29uLnRvU3RyaW5nKCk7CiAgICAgICAgICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNOb25lRW1wdHkoanN6aCkpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobnVsbCAhPSBqc3poICYmIGpzemggIT0gIiIgJiYgISIiLmVxdWFscyhqc3poKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodmlvVmlvbGF0aW9uTGlzdC5zaXplKCkgIT0gMCkgewogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJldHVybiBBcGlSZXNwb25zZS5uZXdJbnN0YW5jZSgwLCA5MDAwLCAis8m5pqOhIiwgIrLp0a+94bn7zqq/1SIpOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoanN6aCA9PSBudWxsIHx8IGpzemggPT0gIiIpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEFwaVJlc3BvbnNlLm5ld0luc3RhbmNlKDAsIDIwMCwgIrPJuaajoSIsIHZpb1Zpb2xhdGlvbkxpc3QpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/from./to./g</text>
