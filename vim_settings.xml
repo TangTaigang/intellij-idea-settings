@@ -214,6 +214,12 @@
         <mark key="." line="7" column="13" />
         <mark key="^" line="12" column="73" />
       </file>
+      <file name="C:/code/test/src/CharToBin.java" timestamp="1522741962479">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="32" />
+        <mark key="." line="10" column="32" />
+        <mark key="^" line="10" column="32" />
+      </file>
       <file name="C:/code/kafka-druid-stream/pom.xml" timestamp="1511310360725">
         <mark key="[" line="19" column="28" />
         <mark key="]" line="19" column="29" />
@@ -1223,43 +1229,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hashCode</text>
+        <text>close</text>
       </register>
       <register name="-" type="4">
-        <text>hashCode</text>
+        <text>close</text>
       </register>
       <register name="/" type="4">
         <text>from.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBXbHRMaWIuaW5zdGFuY2UuQ1ZfSW5pdGlhbGl6ZShuZXcgV1N0cmluZygiMTIzIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmaWxlT3V0cHV0U3RyZWFtLmNsb3NlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQnl0ZS52YWx1ZU9mKGMgKyAiIiwgMTYpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlci50bwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEZUUENsaWVudCBjcmVhdGVGdHBDbGllbnQoKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIAogICAgICAgIHJldHVybiBzb3VyY2VGdHA7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHN0ci5sZW5ndGgoKTsgaSsrKSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRlRQQ2xpZW50IGZ0cENsaWVudCA9IGNyZWF0ZUZ0cENsaWVudCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEwuaW5mbygiuPzQwrO1vNy6xSAiICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/from./to./g</text>
