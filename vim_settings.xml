@@ -550,7 +550,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522822049402">
+      <file name="/Dummy.txt" timestamp="1522824512418">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -734,11 +734,11 @@
         <mark key="^" line="60" column="62" />
         <mark key="." line="62" column="38" />
       </file>
-      <file name="C:/code/car-route/src/main/java/com/miras/mapreduce/car/CarRouteCombineMR.java" timestamp="1522822047622">
-        <mark key="[" line="41" column="62" />
-        <mark key="]" line="41" column="62" />
-        <mark key="^" line="41" column="62" />
-        <mark key="." line="41" column="62" />
+      <file name="C:/code/car-route/src/main/java/com/miras/mapreduce/car/CarRouteCombineMR.java" timestamp="1522824669026">
+        <mark key="[" line="68" column="91" />
+        <mark key="]" line="68" column="92" />
+        <mark key="^" line="68" column="92" />
+        <mark key="." line="68" column="92" />
       </file>
       <file name="C:/code/OnlineVehicle/OnlineVehicleHub/mdh_data_onlinevehicle_in_ftp/pom.xml" timestamp="1522323425457">
         <mark key="[" line="46" column="0" />
@@ -1242,10 +1242,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>备</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>备</text>
       </register>
       <register name="/" type="4">
         <text>from.</text>
