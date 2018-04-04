@@ -138,7 +138,6 @@
         <mark key="]" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="C:/code/MDHTrafficMapReduce/pom.xml" timestamp="1522809136272" />
       <file name="C:/code/druid-kafka/kafka-druid-stream/build.sh" timestamp="1511413798051">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
@@ -209,6 +208,12 @@
         <mark key="]" line="26" column="3" />
         <mark key="^" line="26" column="3" />
         <mark key="." line="26" column="3" />
+      </file>
+      <file name="C:/code/OnlineVehicle/VideoCapture/README.md" timestamp="1522828815998">
+        <mark key="[" line="13" column="72" />
+        <mark key="]" line="15" column="3" />
+        <mark key="^" line="15" column="3" />
+        <mark key="." line="15" column="3" />
       </file>
       <file name="C:/code/MDHTrafficMapReduce/mr-jobs/pom.xml" timestamp="1510881065186">
         <mark key="[" line="54" column="0" />
@@ -556,7 +561,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522824512418">
+      <file name="/Dummy.txt" timestamp="1522828566147">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1248,43 +1253,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IGxpbWl0IDEwOwo=</text>
+        <text encoding="base64">fCDP7sS/IHwgy7XD93wKfDotLS0tfDotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tfAo=</text>
       </register>
       <register name="-" type="4">
-        <text>备</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>from.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGFyZ2V0Pjg8L3RhcmdldD4K</text>
+        <text encoding="base64">fCDP7sS/IHwgy7XD93wKfDotLS0tfDotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tfAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IGxpbWl0IDEwOwo=</text>
+        <text encoding="base64">YykJCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">YikJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBjdXJyOwo=</text>
+        <text encoding="base64">YSkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">IGxpbWl0IDEwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJlZE1hcC52YWx1ZXMoKS5zdHJlYW0oKS5yZWR1Y2UoKHByZXYsIGN1cnIpIC0+IHsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiB8IEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0LndyaXRlKE51bGxXcml0YWJsZS5nZXQoKSwgbmV3IFRleHQoU3RyaW5nVXRpbHMuam9pbihBcnJheXMuYXNMaXN0KAogICAgICAgICAgICAgICAgICAgICAgICAgICAga2V5LCAgICAvLyCztcXGX7rFxcbA4NDNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcmV2LCAgIC8vIMnosbgxCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjdXJyICAgIC8vIMnosbgyCiAgICAgICAgICAgICAgICAgICAgKSwgJywnKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBjdXJyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlcmF0b3IuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJlZE1hcC52YWx1ZXMoKS5zdHJlYW0oKS5yZWR1Y2UoKHByZXYsIGN1cnIpIC0+IHsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiB8IEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0LndyaXRlKE51bGxXcml0YWJsZS5nZXQoKSwgbmV3IFRleHQoU3RyaW5nVXRpbHMuam9pbihBcnJheXMuYXNMaXN0KAogICAgICAgICAgICAgICAgICAgICAgICAgICAga2V5LCAgICAvLyCztcXGX7rFxcbA4NDNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcmV2LCAgIC8vIMnosbgxCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjdXJyICAgIC8vIMnosbgyCiAgICAgICAgICAgICAgICAgICAgKSwgJywnKSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/from./to./g</text>
