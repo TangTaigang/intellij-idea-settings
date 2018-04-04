@@ -214,11 +214,11 @@
         <mark key="." line="7" column="13" />
         <mark key="^" line="12" column="73" />
       </file>
-      <file name="C:/code/test/src/CharToBin.java" timestamp="1522741962479">
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="10" column="32" />
-        <mark key="." line="10" column="32" />
-        <mark key="^" line="10" column="32" />
+      <file name="C:/code/test/src/CharToBin.java" timestamp="1522805090250">
+        <mark key="[" line="9" column="49" />
+        <mark key="]" line="9" column="55" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="9" column="55" />
       </file>
       <file name="C:/code/kafka-druid-stream/pom.xml" timestamp="1511310360725">
         <mark key="[" line="19" column="28" />
@@ -780,12 +780,6 @@
         <mark key="." line="56" column="35" />
         <mark key="^" line="56" column="35" />
       </file>
-      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarRouteCombineMR.java" timestamp="1511076822371">
-        <mark key="[" line="40" column="89" />
-        <mark key="]" line="40" column="96" />
-        <mark key="." line="40" column="96" />
-        <mark key="^" line="40" column="96" />
-      </file>
       <file name="C:/code/daily-calc/src/main/java/Application.kt" timestamp="1517901563487">
         <mark key="[" line="19" column="13" />
         <mark key="]" line="19" column="0" />
@@ -1228,11 +1222,11 @@
       <jump line="150" column="58" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/Application.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>close</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>close</text>
+        <text>args</text>
       </register>
       <register name="/" type="4">
         <text>from.</text>
@@ -1244,28 +1238,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQnl0ZS52YWx1ZU9mKGMgKyAiIiwgMTYpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhcnJzLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlci50bwo=</text>
+        <text encoding="base64">ICAgICAgICBhcmdzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHN0ci5sZW5ndGgoKTsgaSsrKSB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE9iamVjdFtdIGlkT2ZPcmRlcmVkRGV2aWNlcyA9IG9yZGVyZWRNYXAudmFsdWVzKCkudG9BcnJheSgpOwogICAgICAgICAgICAgICAgU3RyaW5nIGxhc3REZXZpY2VJZCA9IChTdHJpbmcpIGlkT2ZPcmRlcmVkRGV2aWNlc1swXTsKICAgICAgICAgICAgICAgIGZvciAoaW50IGkgPSAxOyBpIDwgaWRPZk9yZGVyZWREZXZpY2VzLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGN1cnJlbnREZXZpY2UgPSAoU3RyaW5nKSBpZE9mT3JkZXJlZERldmljZXNbaV07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/from./to./g</text>
