@@ -780,6 +780,12 @@
         <mark key="." line="56" column="35" />
         <mark key="^" line="56" column="35" />
       </file>
+      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarRouteCombineMR.java" timestamp="1522805188397">
+        <mark key="[" line="43" column="79" />
+        <mark key="]" line="43" column="99" />
+        <mark key="." line="43" column="99" />
+        <mark key="^" line="43" column="99" />
+      </file>
       <file name="C:/code/daily-calc/src/main/java/Application.kt" timestamp="1517901563487">
         <mark key="[" line="19" column="13" />
         <mark key="]" line="19" column="0" />
@@ -1222,11 +1228,11 @@
       <jump line="150" column="58" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/Application.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>args</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>from.</text>
