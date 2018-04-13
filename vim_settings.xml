@@ -1085,6 +1085,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/hybrid-assistant/src/priusfan/info/bthsd10/scanner.java" timestamp="1523595291493">
+        <mark key="[" line="2163" column="24" />
+        <mark key="]" line="2163" column="31" />
+        <mark key="." line="2163" column="31" />
+        <mark key="^" line="2163" column="31" />
+      </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/bean/EzvizListResponse.java" timestamp="1522131273581">
         <mark key="[" line="4" column="57" />
         <mark key="]" line="4" column="63" />
@@ -1252,11 +1258,11 @@
       <jump line="150" column="58" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/Application.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fCDP7sS/IHwgy7XD93wKfDotLS0tfDotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tfAo=</text>
+      <register name="&quot;" type="4">
+        <text>vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv</text>
       </register>
       <register name="/" type="4">
         <text>from.</text>
