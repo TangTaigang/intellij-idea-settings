@@ -105,13 +105,12 @@
         <mark key="]" line="734" column="24" />
         <mark key="." line="734" column="24" />
       </file>
-      <file name="$USER_HOME$/Desktop/hybrid-assistant/src/priusfan/info/bthsd10/preferences.java" timestamp="1523599954599" />
       <file name="C:/code/kafkaclient/pom.xml" timestamp="1510552152479">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/scanner.java" timestamp="1523708020748">
+      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/scanner.java" timestamp="1523708545859">
         <mark key="[" line="672" column="13" />
         <mark key="]" line="672" column="19" />
         <mark key="." line="672" column="19" />
@@ -232,11 +231,11 @@
         <mark key="." line="7" column="13" />
         <mark key="^" line="12" column="73" />
       </file>
-      <file name="C:/code/test/src/CharToBin.java" timestamp="1523703601526">
-        <mark key="[" line="13" column="65" />
-        <mark key="]" line="13" column="69" />
-        <mark key="." line="13" column="69" />
-        <mark key="^" line="13" column="69" />
+      <file name="C:/code/test/src/CharToBin.java" timestamp="1523708522459">
+        <mark key="[" line="13" column="49" />
+        <mark key="]" line="13" column="65" />
+        <mark key="." line="13" column="65" />
+        <mark key="^" line="13" column="65" />
       </file>
       <file name="C:/code/kafka-druid-stream/pom.xml" timestamp="1511310360725">
         <mark key="[" line="19" column="28" />
@@ -522,7 +521,6 @@
         <mark key="." line="23" column="73" />
         <mark key="^" line="19" column="72" />
       </file>
-      <file name="$USER_HOME$/Desktop/hybrid-assistant/src/priusfan/info/bthsd10/statcollection.java" timestamp="1523599033795" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/java/com/miras/data/passinf/image/PassinfImageBolt.java" timestamp="1517017164360">
         <mark key="[" line="78" column="105" />
         <mark key="]" line="78" column="116" />
@@ -861,7 +859,6 @@
         <mark key="^" line="142" column="11" />
         <mark key="." line="142" column="11" />
       </file>
-      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/preferences.java" timestamp="1523703793046" />
       <file name="C:/code/OnlineVehicle/OnlineVehicleHub/README.md" timestamp="1522213839447">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="2" column="15" />
@@ -943,7 +940,6 @@
         <mark key="^" line="9" column="35" />
         <mark key="." line="9" column="35" />
       </file>
-      <file name="$USER_HOME$/Desktop/classes-dex2jar/priusfan/info/bthsd10/cartype.class" timestamp="1523690376613" />
       <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_image/src/main/java/com/miras/data/Application.java" timestamp="1513827938528">
         <mark key="[" line="49" column="71" />
         <mark key="]" line="49" column="72" />
@@ -998,7 +994,6 @@
         <mark key="^" line="41" column="64" />
         <mark key="." line="41" column="64" />
       </file>
-      <file name="$USER_HOME$/Desktop/hybrid-assistant/src/priusfan/info/bthsd10/carstate.java" timestamp="1523599613779" />
       <file name="C:/code/ezviz/src/test/java/com/miras/monitor/ezviz/TokenUtilTest.java" timestamp="1520995899306">
         <mark key="[" line="21" column="48" />
         <mark key="]" line="21" column="49" />
@@ -1117,7 +1112,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/interpolationtable.java" timestamp="1523690261539" />
       <file name="$USER_HOME$/Desktop/hybrid-assistant/src/priusfan/info/bthsd10/scanner.java" timestamp="1523685600130">
         <mark key="'" line="2856" column="0" />
         <mark key="[" line="2163" column="24" />
@@ -1295,10 +1289,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>7</text>
+        <text>-40, -64, 94}, &quot;UTF-8&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>-40, -64, 94}, &quot;UTF-8&quot;</text>
       </register>
       <register name="/" type="4">
         <text>from.</text>
