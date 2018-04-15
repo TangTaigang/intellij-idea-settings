@@ -384,6 +384,12 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="5" column="4" />
       </file>
+      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/main.java" timestamp="1523799916778">
+        <mark key="[" line="4067" column="138" />
+        <mark key="]" line="4067" column="137" />
+        <mark key="." line="4067" column="137" />
+        <mark key="^" line="4067" column="137" />
+      </file>
       <file name="C:/code/zk-logger/src/main/java/com/miras/zklogger/Application.java" timestamp="1518067559141">
         <mark key="[" line="28" column="49" />
         <mark key="]" line="28" column="58" />
@@ -453,6 +459,12 @@
         <mark key="]" line="4" column="2" />
         <mark key="." line="4" column="2" />
         <mark key="^" line="4" column="2" />
+      </file>
+      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/statecollection.java" timestamp="1523799848273">
+        <mark key="[" line="172" column="29" />
+        <mark key="]" line="172" column="28" />
+        <mark key="." line="172" column="28" />
+        <mark key="^" line="172" column="28" />
       </file>
       <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/dist/run.sh" timestamp="1517995048420">
         <mark key="[" line="1" column="0" />
@@ -546,11 +558,8 @@
         <mark key="." line="130" column="35" />
         <mark key="^" line="130" column="35" />
       </file>
-      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/carstate.java" timestamp="1523752097884">
-        <mark key="[" line="494" column="10" />
-        <mark key="]" line="494" column="23" />
-        <mark key="." line="494" column="23" />
-        <mark key="^" line="494" column="23" />
+      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/carstate.java" timestamp="1523799499319">
+        <mark key="." line="12" column="51" />
       </file>
       <file name="C:/code/test/src/Test10.java" timestamp="1521290739286">
         <mark key="[" line="34" column="49" />
@@ -746,6 +755,12 @@
         <mark key="]" line="70" column="19" />
         <mark key="^" line="70" column="19" />
         <mark key="." line="70" column="19" />
+      </file>
+      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/stateelement.java" timestamp="1523799749013">
+        <mark key="[" line="90" column="24" />
+        <mark key="]" line="90" column="18" />
+        <mark key="." line="90" column="18" />
+        <mark key="^" line="90" column="18" />
       </file>
       <file name="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs_retry/src/main/production-resources/application.properties" timestamp="1516978729372">
         <mark key="[" line="17" column="25" />
@@ -1077,6 +1092,7 @@
         <mark key="]" line="30" column="77" />
         <mark key="." line="30" column="77" />
       </file>
+      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/db.java" timestamp="1523799608998" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/hive-sql-new.sql" timestamp="1511062243247">
         <mark key="[" line="16" column="22" />
         <mark key="]" line="16" column="22" />
@@ -1299,10 +1315,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>from.</text>
