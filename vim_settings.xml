@@ -110,11 +110,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/scanner.java" timestamp="1523786675182">
-        <mark key="[" line="1989" column="32" />
-        <mark key="]" line="1990" column="12" />
-        <mark key="." line="1990" column="12" />
-        <mark key="^" line="1990" column="12" />
+      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/scanner.java" timestamp="1523794710538">
+        <mark key="[" line="859" column="29" />
+        <mark key="]" line="859" column="34" />
+        <mark key="." line="859" column="34" />
+        <mark key="^" line="859" column="34" />
       </file>
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/CarRouteCombineMR.java" timestamp="1510620369262">
         <mark key="[" line="2" column="3" />
@@ -1299,10 +1299,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv</text>
       </register>
       <register name="/" type="4">
         <text>from.</text>
