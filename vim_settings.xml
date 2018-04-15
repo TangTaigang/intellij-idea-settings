@@ -110,11 +110,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/scanner.java" timestamp="1523708545859">
-        <mark key="[" line="672" column="13" />
-        <mark key="]" line="672" column="19" />
-        <mark key="." line="672" column="19" />
-        <mark key="^" line="672" column="19" />
+      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/scanner.java" timestamp="1523784892704">
+        <mark key="[" line="1696" column="17" />
+        <mark key="]" line="1702" column="25" />
+        <mark key="." line="1702" column="25" />
+        <mark key="^" line="1702" column="25" />
       </file>
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/CarRouteCombineMR.java" timestamp="1510620369262">
         <mark key="[" line="2" column="3" />
@@ -156,6 +156,7 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
       </file>
+      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/sharedvar.java" timestamp="1523784076916" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_storm_bsc/src/main/java/com/miras/data/passinf/bolt/TravelPathBolt.java" timestamp="1513297811541">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -231,11 +232,11 @@
         <mark key="." line="7" column="13" />
         <mark key="^" line="12" column="73" />
       </file>
-      <file name="C:/code/test/src/CharToBin.java" timestamp="1523708522459">
-        <mark key="[" line="13" column="49" />
-        <mark key="]" line="13" column="65" />
-        <mark key="." line="13" column="65" />
-        <mark key="^" line="13" column="65" />
+      <file name="C:/code/test/src/CharToBin.java" timestamp="1523784068588">
+        <mark key="[" line="14" column="124" />
+        <mark key="]" line="14" column="128" />
+        <mark key="." line="14" column="128" />
+        <mark key="^" line="14" column="128" />
       </file>
       <file name="C:/code/kafka-druid-stream/pom.xml" timestamp="1511310360725">
         <mark key="[" line="19" column="28" />
@@ -402,6 +403,11 @@
         <mark key="^" line="3" column="53" />
       </file>
       <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/statcollection.java" timestamp="1523709865220" />
+      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/timedtrend.java" timestamp="1523784557632">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="50" />
+      </file>
       <file name="C:/code/MDHTrafficMapReduce/src/main/production-resources/application.properties" timestamp="1510736867805">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="9" column="43" />
@@ -1289,13 +1295,14 @@
       <jump line="2856" column="0" filename="$USER_HOME$/Desktop/hybrid-assistant/src/priusfan/info/bthsd10/scanner.java" />
       <jump line="83" column="55" filename="$USER_HOME$/Desktop/hybrid-assistant/src/priusfan/info/bthsd10/starter.java" />
       <jump line="2162" column="37" filename="C:/code/ha-assitant/src/priusfan/info/bthsd10/cartype.java" />
+      <jump line="4195" column="37" filename="C:/code/ha-assitant/src/priusfan/info/bthsd10/main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>from.</text>
@@ -1304,31 +1311,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmV3IFN0cmluZyhuZXcgYnl0ZVtdIHsgLTQ5LCAtNTcgfSwgIkdCSyIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBleHRlbmRzIEI0QUNsYXNzLkltcGxCNEFDbGFzcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgdGhpcy5iYS5yYWlzZUV2ZW50MihudWxsLCB0cnVlLCAiY2xhc3NfZ2xvYmFscyIsIGZhbHNlLCBuZXcgT2JqZWN0WzBdKTsK</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbE9iamVjdDEgPSBuZXcgQ29sb3JEcmF3YWJsZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5iYSA9PSBudWxsKSB7CiAgICAgICAgICAgIHRoaXMuYmEgPSBuZXcgQkEocGFyYW1CQSwgdGhpcywgaHRTdWJzLCAicHJpdXNmYW4uaW5mby5idGhzZDEwLmNhcnR5cGUiKTsKICAgICAgICAgICAgaWYgKGh0U3VicyA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICB0aGlzLmJhLmxvYWRIdFN1YnMoZ2V0Q2xhc3MoKSk7CiAgICAgICAgICAgICAgICBodFN1YnMgPSB0aGlzLmJhLmh0U3ViczsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBpZiAoQkEuaXNTaGVsbE1vZGVSdW50aW1lQ2hlY2sodGhpcy5iYSkpIHsKICAgICAgICAgICAgZ2V0Q2xhc3MoKS5nZXRNZXRob2QoIl9jbGFzc19nbG9iYWxzIiwgbmV3IENsYXNzW117Y2FydHlwZS5jbGFzc30pLmludm9rZSh0aGlzLCBuZXcgT2JqZWN0W117bnVsbH0pOwogICAgICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbE9iamVjdDMgPSBDb21tb24uQ29sb3JzOwogICAgICAgIGxvY2FsT2JqZWN0MyA9IENvbW1vbi5Db2xvcnM7CiAgICAgICAgbG9jYWxPYmplY3QzID0gQ29tbW9uLkNvbG9yczsKICAgICAgICBsb2NhbE9iamVjdDMgPSBDb21tb24uQ29sb3JzOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBfc3RyX2NyID0gIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbE9iamVjdDMgPSBDb21tb24uQ29sb3JzOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBfdGFiID0gIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbE9iamVjdDMgPSBDb21tb24uQ29sb3JzOwogICAgICAgIGxvY2FsT2JqZWN0MyA9IENvbW1vbi5Db2xvcnM7CiAgICAgICAgbG9jYWxPYmplY3QzID0gQ29tbW9uLkNvbG9yczsKICAgICAgICBsb2NhbE9iamVjdDMgPSBDb21tb24uQ29sb3JzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuSUJpbmRlcjsK</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbE9iamVjdDMgPSBDb21tb24uQ29sb3JzOwogICAgICAgIGxvY2FsT2JqZWN0MyA9IENvbW1vbi5Db2xvcnM7CiAgICAgICAgbG9jYWxPYmplY3QzID0gQ29tbW9uLkNvbG9yczsKICAgICAgICBsb2NhbE9iamVjdDMgPSBDb21tb24uQ29sb3JzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYXBwLkFwcGxpY2F0aW9uOwppbXBvcnQgYW5kcm9pZC5hcHAuTm90aWZpY2F0aW9uOwppbXBvcnQgYW5kcm9pZC5hcHAuU2VydmljZTsKaW1wb3J0IGFuZHJvaWQuY29udGVudC5Ccm9hZGNhc3RSZWNlaXZlcjsKaW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZXh0OwppbXBvcnQgYW5kcm9pZC5jb250ZW50LkludGVudDsKCg==</text>
+        <text encoding="base64">ICAgICAgICBtb3N0Q3VycmVudC5fYWN0aXZpdHkuX2tlZXBhc3BlY3RyYXRpbyhmYWxzZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YykJCg==</text>
+        <text encoding="base64">ICBleHRlbmRzIEFjdGl2aXR5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YikJCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>s/from./to./g</text>
