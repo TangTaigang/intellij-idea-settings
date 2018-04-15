@@ -44,7 +44,7 @@
         <mark key="." line="8" column="90" />
         <mark key="^" line="8" column="90" />
       </file>
-      <file name="/a.dummy" timestamp="1523599322950">
+      <file name="/a.dummy" timestamp="1523752058538">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -540,11 +540,11 @@
         <mark key="." line="130" column="35" />
         <mark key="^" line="130" column="35" />
       </file>
-      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/carstate.java" timestamp="1523689581302">
-        <mark key="[" line="2022" column="21" />
-        <mark key="]" line="2022" column="21" />
-        <mark key="." line="2022" column="21" />
-        <mark key="^" line="2022" column="21" />
+      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/carstate.java" timestamp="1523752097884">
+        <mark key="[" line="494" column="10" />
+        <mark key="]" line="494" column="23" />
+        <mark key="." line="494" column="23" />
+        <mark key="^" line="494" column="23" />
       </file>
       <file name="C:/code/test/src/Test10.java" timestamp="1521290739286">
         <mark key="[" line="34" column="49" />
@@ -777,11 +777,12 @@
         <mark key="^" line="68" column="92" />
         <mark key="." line="68" column="92" />
       </file>
-      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/cartype.java" timestamp="1523690717207">
-        <mark key="[" line="1812" column="20" />
-        <mark key="]" line="1812" column="22" />
-        <mark key="^" line="1812" column="22" />
-        <mark key="." line="1812" column="22" />
+      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/cartype.java" timestamp="1523751921383">
+        <mark key="'" line="2162" column="37" />
+        <mark key="[" line="2127" column="16" />
+        <mark key="]" line="2127" column="28" />
+        <mark key="." line="2127" column="28" />
+        <mark key="^" line="2127" column="28" />
       </file>
       <file name="C:/code/OnlineVehicle/OnlineVehicleHub/mdh_data_onlinevehicle_in_ftp/pom.xml" timestamp="1522323425457">
         <mark key="[" line="46" column="0" />
@@ -1287,13 +1288,14 @@
       <jump line="150" column="58" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/Application.java" />
       <jump line="2856" column="0" filename="$USER_HOME$/Desktop/hybrid-assistant/src/priusfan/info/bthsd10/scanner.java" />
       <jump line="83" column="55" filename="$USER_HOME$/Desktop/hybrid-assistant/src/priusfan/info/bthsd10/starter.java" />
+      <jump line="2162" column="37" filename="C:/code/ha-assitant/src/priusfan/info/bthsd10/cartype.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-40, -64, 94}, &quot;UTF-8&quot;</text>
+        <text>vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv</text>
       </register>
       <register name="-" type="4">
-        <text>-40, -64, 94}, &quot;UTF-8&quot;</text>
+        <text>vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv</text>
       </register>
       <register name="/" type="4">
         <text>from.</text>
@@ -1302,31 +1304,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmV3IFN0cmluZyhuZXcgYnl0ZVtdIHsgLTQ5LCAtNTcgfSwgIkdCSyIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBfc3RyX2NyID0gIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBfdGFiID0gIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgdGhpcy5iYS5yYWlzZUV2ZW50MihudWxsLCB0cnVlLCAiY2xhc3NfZ2xvYmFscyIsIGZhbHNlLCBuZXcgT2JqZWN0WzBdKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuSUJpbmRlcjsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5iYSA9PSBudWxsKSB7CiAgICAgICAgICAgIHRoaXMuYmEgPSBuZXcgQkEocGFyYW1CQSwgdGhpcywgaHRTdWJzLCAicHJpdXNmYW4uaW5mby5idGhzZDEwLmNhcnR5cGUiKTsKICAgICAgICAgICAgaWYgKGh0U3VicyA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICB0aGlzLmJhLmxvYWRIdFN1YnMoZ2V0Q2xhc3MoKSk7CiAgICAgICAgICAgICAgICBodFN1YnMgPSB0aGlzLmJhLmh0U3ViczsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBpZiAoQkEuaXNTaGVsbE1vZGVSdW50aW1lQ2hlY2sodGhpcy5iYSkpIHsKICAgICAgICAgICAgZ2V0Q2xhc3MoKS5nZXRNZXRob2QoIl9jbGFzc19nbG9iYWxzIiwgbmV3IENsYXNzW117Y2FydHlwZS5jbGFzc30pLmludm9rZSh0aGlzLCBuZXcgT2JqZWN0W117bnVsbH0pOwogICAgICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYXBwLkFwcGxpY2F0aW9uOwppbXBvcnQgYW5kcm9pZC5hcHAuTm90aWZpY2F0aW9uOwppbXBvcnQgYW5kcm9pZC5hcHAuU2VydmljZTsKaW1wb3J0IGFuZHJvaWQuY29udGVudC5Ccm9hZGNhc3RSZWNlaXZlcjsKaW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZXh0OwppbXBvcnQgYW5kcm9pZC5jb250ZW50LkludGVudDsKCg==</text>
+        <text encoding="base64">ICAgICAgICBfc3RyX2NyID0gIiI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YykJCg==</text>
+        <text encoding="base64">ICAgICAgICBfdGFiID0gIiI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YikJCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuSUJpbmRlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YSkJCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYXBwLkFwcGxpY2F0aW9uOwppbXBvcnQgYW5kcm9pZC5hcHAuTm90aWZpY2F0aW9uOwppbXBvcnQgYW5kcm9pZC5hcHAuU2VydmljZTsKaW1wb3J0IGFuZHJvaWQuY29udGVudC5Ccm9hZGNhc3RSZWNlaXZlcjsKaW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZXh0OwppbXBvcnQgYW5kcm9pZC5jb250ZW50LkludGVudDsKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IGxpbWl0IDEwOwo=</text>
+        <text encoding="base64">YykJCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">YikJCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/from./to./g</text>
