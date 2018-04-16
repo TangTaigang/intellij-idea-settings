@@ -110,7 +110,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/scanner.java" timestamp="1523861077075">
+      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/scanner.java" timestamp="1523863259373">
         <mark key="[" line="1399" column="33" />
         <mark key="]" line="1400" column="7" />
         <mark key="." line="1400" column="7" />
@@ -156,7 +156,6 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/sharedvar.java" timestamp="1523784076916" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_storm_bsc/src/main/java/com/miras/data/passinf/bolt/TravelPathBolt.java" timestamp="1513297811541">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -384,6 +383,9 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="5" column="4" />
       </file>
+      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/circulararray.java" timestamp="1523881024383">
+        <mark key="." line="9" column="56" />
+      </file>
       <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/main.java" timestamp="1523800031120">
         <mark key="[" line="4085" column="131" />
         <mark key="]" line="4085" column="133" />
@@ -408,7 +410,6 @@
         <mark key="." line="3" column="53" />
         <mark key="^" line="3" column="53" />
       </file>
-      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/statcollection.java" timestamp="1523709865220" />
       <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/timedtrend.java" timestamp="1523784557632">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -905,6 +906,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/disclaimer.java" timestamp="1523881132650">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="46" />
+      </file>
       <file name="C:/code/mdh_data_6in1api/src/main/resources/mapper/datadb61/VioSurveilDao.xml" timestamp="1522478180623">
         <mark key="[" line="7" column="31" />
         <mark key="]" line="7" column="35" />
@@ -1092,7 +1098,6 @@
         <mark key="]" line="30" column="77" />
         <mark key="." line="30" column="77" />
       </file>
-      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/db.java" timestamp="1523799608998" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/hive-sql-new.sql" timestamp="1511062243247">
         <mark key="[" line="16" column="22" />
         <mark key="]" line="16" column="22" />
@@ -1315,7 +1320,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBleHRlbmRzIEFjdGl2aXR5Cg==</text>
       </register>
       <register name="-" type="4">
         <text>6</text>
@@ -1327,28 +1332,28 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmV3IFN0cmluZyhuZXcgYnl0ZVtdIHsgLTQ5LCAtNTcgfSwgIkdCSyIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBleHRlbmRzIEFjdGl2aXR5Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvbwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBleHRlbmRzIEI0QUNsYXNzLkltcGxCNEFDbGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBvbwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhbE9iamVjdDEgPSBuZXcgQ29sb3JEcmF3YWJsZSgpOwo=</text>
+        <text encoding="base64">ICBleHRlbmRzIEI0QUNsYXNzLkltcGxCNEFDbGFzcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhbE9iamVjdDMgPSBDb21tb24uQ29sb3JzOwogICAgICAgIGxvY2FsT2JqZWN0MyA9IENvbW1vbi5Db2xvcnM7CiAgICAgICAgbG9jYWxPYmplY3QzID0gQ29tbW9uLkNvbG9yczsKICAgICAgICBsb2NhbE9iamVjdDMgPSBDb21tb24uQ29sb3JzOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbE9iamVjdDEgPSBuZXcgQ29sb3JEcmF3YWJsZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhbE9iamVjdDMgPSBDb21tb24uQ29sb3JzOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbE9iamVjdDMgPSBDb21tb24uQ29sb3JzOwogICAgICAgIGxvY2FsT2JqZWN0MyA9IENvbW1vbi5Db2xvcnM7CiAgICAgICAgbG9jYWxPYmplY3QzID0gQ29tbW9uLkNvbG9yczsKICAgICAgICBsb2NhbE9iamVjdDMgPSBDb21tb24uQ29sb3JzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhbE9iamVjdDMgPSBDb21tb24uQ29sb3JzOwogICAgICAgIGxvY2FsT2JqZWN0MyA9IENvbW1vbi5Db2xvcnM7CiAgICAgICAgbG9jYWxPYmplY3QzID0gQ29tbW9uLkNvbG9yczsKICAgICAgICBsb2NhbE9iamVjdDMgPSBDb21tb24uQ29sb3JzOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbE9iamVjdDMgPSBDb21tb24uQ29sb3JzOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBsb2NhbE9iamVjdDMgPSBDb21tb24uQ29sb3JzOwogICAgICAgIGxvY2FsT2JqZWN0MyA9IENvbW1vbi5Db2xvcnM7CiAgICAgICAgbG9jYWxPYmplY3QzID0gQ29tbW9uLkNvbG9yczsKICAgICAgICBsb2NhbE9iamVjdDMgPSBDb21tb24uQ29sb3JzOwo=</text>
