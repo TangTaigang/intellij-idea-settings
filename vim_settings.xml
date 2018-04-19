@@ -615,7 +615,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524104455354">
+      <file name="/Dummy.txt" timestamp="1524105995605">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -971,11 +971,12 @@
         <mark key="." line="36" column="28" />
         <mark key="^" line="36" column="28" />
       </file>
-      <file name="C:/code/MDHTrafficMapReduce/huagonglu/src/main/java/com/miras/mapreduce/Huagonglu.java" timestamp="1524104440639">
+      <file name="C:/code/MDHTrafficMapReduce/huagonglu/src/main/java/com/miras/mapreduce/Huagonglu.java" timestamp="1524105949355">
         <mark key="'" line="22" column="27" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+        <mark key="[" line="86" column="103" />
+        <mark key="]" line="86" column="103" />
+        <mark key="." line="86" column="103" />
+        <mark key="^" line="86" column="103" />
       </file>
       <file name="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs_retry/src/main/java/com/miras/data/image/hdfs/DateHdfsPartitioner.java" timestamp="1516859891023">
         <mark key="[" line="42" column="14" />
