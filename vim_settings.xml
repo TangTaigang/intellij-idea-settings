@@ -683,11 +683,10 @@
         <mark key="." line="17" column="20" />
         <mark key="^" line="17" column="20" />
       </file>
-      <file name="C:/code/web/pom.xml" timestamp="1524202920173">
-        <mark key="[" line="16" column="28" />
-        <mark key="]" line="16" column="29" />
-        <mark key="^" line="21" column="26" />
-        <mark key="." line="16" column="29" />
+      <file name="C:/code/web/pom.xml" timestamp="1524203115730">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="C:/code/mdh-travel-path/pom.xml" timestamp="1511077939887">
         <mark key="[" line="61" column="0" />
@@ -1378,8 +1377,8 @@
       <jump line="22" column="27" filename="C:/code/MDHTrafficMapReduce/huagonglu/src/main/java/com/miras/mapreduce/Huagonglu.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -1394,28 +1393,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5kb0dldChyZXEsIHJlc3ApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5kb0dldChyZXEsIHJlc3ApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBQYXR0ZXJuIHRvIG91dHB1dCB0aGUgY2FsbGVyJ3MgZmlsZSBuYW1lIGFuZCBsaW5lIG51bWJlci4K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
       </register>
       <register name=":" type="4">
         <text>s/,/,\r/g</text>
