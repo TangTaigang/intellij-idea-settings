@@ -683,6 +683,12 @@
         <mark key="." line="17" column="20" />
         <mark key="^" line="17" column="20" />
       </file>
+      <file name="C:/code/druid-kafka/kafka-druid-seg-stream/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1524466807017">
+        <mark key="[" line="123" column="39" />
+        <mark key="]" line="123" column="46" />
+        <mark key="." line="123" column="46" />
+        <mark key="^" line="123" column="46" />
+      </file>
       <file name="C:/code/web/pom.xml" timestamp="1524203476107">
         <mark key="[" line="8" column="26" />
         <mark key="]" line="9" column="17" />
@@ -1384,10 +1390,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
