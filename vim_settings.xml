@@ -109,6 +109,18 @@
         <mark key="." line="3" column="39" />
         <mark key="^" line="3" column="39" />
       </file>
+      <file name="C:/code/MDHTrafficMapReduce/car-route-timerange/dest/run.sh" timestamp="1524626534428">
+        <mark key="[" line="4" column="206" />
+        <mark key="]" line="4" column="206" />
+        <mark key="^" line="4" column="206" />
+        <mark key="." line="4" column="206" />
+      </file>
+      <file name="C:/code/MDHTrafficMapReduce/car-route-timerange/dest/car_route.sql" timestamp="1524626440606">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="^" line="17" column="30" />
+        <mark key="." line="5" column="13" />
+      </file>
       <file name="C:/code/MDHTrafficDataJudgment/pom.xml" timestamp="1521619600356">
         <mark key="[" line="734" column="23" />
         <mark key="]" line="734" column="24" />
@@ -124,6 +136,12 @@
         <mark key="]" line="1400" column="7" />
         <mark key="." line="1400" column="7" />
         <mark key="^" line="1400" column="7" />
+      </file>
+      <file name="C:/code/MDHTrafficMapReduce/car-route-timerange/pom.xml" timestamp="1524626452309">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="37" />
+        <mark key="^" line="12" column="37" />
+        <mark key="." line="12" column="37" />
       </file>
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/CarRouteCombineMR.java" timestamp="1510620369262">
         <mark key="[" line="2" column="3" />
@@ -517,6 +535,13 @@
         <mark key="." line="53" column="30" />
         <mark key="^" line="53" column="30" />
       </file>
+      <file name="C:/code/MDHTrafficMapReduce/car-route-timerange/src/main/java/com/miras/mapreduce/car/CarRouteCombineMR.java" timestamp="1524626307262">
+        <mark key="'" line="43" column="12" />
+        <mark key="[" line="132" column="145" />
+        <mark key="]" line="132" column="150" />
+        <mark key="." line="132" column="150" />
+        <mark key="^" line="132" column="150" />
+      </file>
       <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_druidpassinfo/src/main/java/com/miras/data/storm/DruidPassInfoNewBolt.java" timestamp="1511248626028">
         <mark key="[" line="145" column="0" />
         <mark key="]" line="145" column="80" />
@@ -609,7 +634,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524205887163">
+      <file name="/Dummy.txt" timestamp="1524626547439">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1393,57 +1418,58 @@
       <jump line="2162" column="37" filename="C:/code/ha-assitant/src/priusfan/info/bthsd10/cartype.java" />
       <jump line="4195" column="37" filename="C:/code/ha-assitant/src/priusfan/info/bthsd10/main.java" />
       <jump line="22" column="27" filename="C:/code/MDHTrafficMapReduce/huagonglu/src/main/java/com/miras/mapreduce/Huagonglu.java" />
+      <jump line="43" column="12" filename="C:/code/MDHTrafficMapReduce/car-route-timerange/src/main/java/com/miras/mapreduce/car/CarRouteCombineMR.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtleSwgICAgLy8gs7XFxl+6xcXGwODQzQo=</text>
+      <register name="&quot;" type="4">
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>Start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVyLnByaW50bG4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGVuZGFyLnNldFRpbWVJbk1pbGxpcyhsb25nU3RyaW5nRW50cnkuZ2V0S2V5KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtleSwgICAgLy8gs7XFxl+6xcXGwODQzQo=</text>
+        <text encoding="base64">IHdoZXJlIHIucHRfZGF5ID0gJyR5ZXN0ZXJkYXknIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW5wdXRTdHJlYW0gaW5wdXRTdHJlYW0gPSBuZXcgVVJMKCJodHRwOi8vaHR0cDovLzIwMi4xOTQuMTMzLjUvIikub3BlblN0cmVhbSgpOwo=</text>
+        <text encoding="base64">IGlubmVyIGpvaW4gb2RzX3RyYWZmaWMub2RzX2Jhc2VfbW9uaXRvcl9wb2ludCBwMiBvbiBwMi5wb2ludGNvZGUgPSByLnBvaW50VG8gYW5kIHAyLmxvbmdpdHVkZSBpcyBub3QgbnVsbCBhbmQgcDIubG9uZ2l0dWRlID4gMCBhbmQgcDIubGF0aXR1ZGUgaXMgbm90IG51bGwgYW5kIHAyLmxhdGl0dWRlID4gMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKGlucHV0U3RyZWFtLikK</text>
+        <text encoding="base64">IGlubmVyIGpvaW4gb2RzX3RyYWZmaWMub2RzX2Jhc2VfbW9uaXRvcl9wb2ludCBwMSBvbiBwMS5wb2ludGNvZGUgPSByLnBvaW50RnJvbSBhbmQgcDEubG9uZ2l0dWRlIGlzIG5vdCBudWxsIGFuZCBwMS5sb25naXR1ZGUgPiAwIGFuZCBwMS5sYXRpdHVkZSBpcyBub3QgbnVsbCBhbmQgcDEubGF0aXR1ZGUgPiAwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVVJMIHVybCA9Cg==</text>
+        <text encoding="base64">aGl2ZSAtZSAidXNlIGR3ZF90cmFmZmljOyBpbnNlcnQgaW50byBEV0RfQ0FSX0RJU1RBTkNFIHNlbGVjdCBjb25jYXQoci5jYXJOdW1iZXIsJ18keWVzdGVyZGF5JyksIHIuY2FyTnVtYmVyLCBzcXJ0KHBvdygocDIubG9uZ2l0dWRlIC0gcDEubG9uZ2l0dWRlKS8wLjAwMDAxMTQxLDIpICsgcG93KChwMi5sYXRpdHVkZSAtIHAxLmxhdGl0dWRlKS8wLjAwMDAwODk5LDIpKSBmcm9tIGR3ZF9jYXJfcm91dGUgcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aGl2ZSAtZSAidXNlIGR3ZF90cmFmZmljO2FsdGVyIHRhYmxlIGR3ZF9jYXJfcm91dGUgYWRkIHBhcnRpdGlvbihwdF9kYXk9JyR5ZXN0ZXJkYXknKSBsb2NhdGlvbiAnL21hcHJlZHVjZS9kd2RfY2FyX3JvdXRlLyR5ZXN0ZXJkYXknOyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVyLnByaW50KCJsb2FkIGRyaXZlciA6IiApOwo=</text>
+        <text encoding="base64">IyMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2xhc3M8Pz4gYUNsYXNzID0gQ2xhc3MuZm9yTmFtZShwLmdldFByb3BlcnR5KCJqZGJjLmRyaXZlckNsYXNzTmFtZSIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKGN1cnIuZ2V0S2V5KCkgLSBwcmV2LmdldEtleSgpKSAvIDEwMDAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDbGFzcy5mb3JOYW1lKHAuZ2V0UHJvcGVydHkoImpkYmMuZHJpdmVyQ2xhc3NOYW1lIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoY3Vyci5nZXRLZXkoKSAtIHByZXYuZ2V0S2V5KCkpIC8gMTAwMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlci5mbHVzaCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/,/,\r/g</text>
+        <text>s/Start/End/g</text>
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>Start</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
-      <last-replace>,\r</last-replace>
-      <last-substitute>,</last-substitute>
+      <last-pattern>Start</last-pattern>
+      <last-replace>End</last-replace>
+      <last-substitute>Start</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1468,9 +1494,9 @@
         <entry>s/to/from/g</entry>
         <entry>from.</entry>
         <entry>,</entry>
+        <entry>Start</entry>
       </history-search>
       <history-cmd>
-        <entry>s/userName/password/g</entry>
         <entry>s/,/\$/g</entry>
         <entry>s/Name/Code/g</entry>
         <entry>s/mysql/oracle/g</entry>
@@ -1490,6 +1516,7 @@
         <entry>s/from./to./g</entry>
         <entry>s/,/\r\n/g</entry>
         <entry>s/,/,\r/g</entry>
+        <entry>s/Start/End/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
