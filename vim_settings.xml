@@ -1021,6 +1021,12 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="29" />
       </file>
+      <file name="C:/code/MDHTrafficMapReduce/road-timeuse/src/main/java/com/miras/mapreduce/CarRouteCombineMR.java" timestamp="1524620605828">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="25" column="27" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_image/src/main/java/com/miras/data/Application.java" timestamp="1524186277075">
         <mark key="[" line="49" column="71" />
         <mark key="]" line="49" column="71" />
@@ -1389,8 +1395,8 @@
       <jump line="22" column="27" filename="C:/code/MDHTrafficMapReduce/huagonglu/src/main/java/com/miras/mapreduce/Huagonglu.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>?</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtleSwgICAgLy8gs7XFxl+6xcXGwODQzQo=</text>
       </register>
       <register name="-" type="4">
         <text>?</text>
@@ -1402,31 +1408,31 @@
         <text encoding="base64">ICAgICAgICAgICAgd3JpdGVyLnByaW50bG4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW5wdXRTdHJlYW0gaW5wdXRTdHJlYW0gPSBuZXcgVVJMKCJodHRwOi8vaHR0cDovLzIwMi4xOTQuMTMzLjUvIikub3BlblN0cmVhbSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtleSwgICAgLy8gs7XFxl+6xcXGwODQzQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKGlucHV0U3RyZWFtLikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW5wdXRTdHJlYW0gaW5wdXRTdHJlYW0gPSBuZXcgVVJMKCJodHRwOi8vaHR0cDovLzIwMi4xOTQuMTMzLjUvIikub3BlblN0cmVhbSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVVJMIHVybCA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKGlucHV0U3RyZWFtLikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVVJMIHVybCA9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVyLnByaW50KCJsb2FkIGRyaXZlciA6IiApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2xhc3M8Pz4gYUNsYXNzID0gQ2xhc3MuZm9yTmFtZShwLmdldFByb3BlcnR5KCJqZGJjLmRyaXZlckNsYXNzTmFtZSIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVyLnByaW50KCJsb2FkIGRyaXZlciA6IiApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDbGFzcy5mb3JOYW1lKHAuZ2V0UHJvcGVydHkoImpkYmMuZHJpdmVyQ2xhc3NOYW1lIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2xhc3M8Pz4gYUNsYXNzID0gQ2xhc3MuZm9yTmFtZShwLmdldFByb3BlcnR5KCJqZGJjLmRyaXZlckNsYXNzTmFtZSIpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlci5mbHVzaCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDbGFzcy5mb3JOYW1lKHAuZ2V0UHJvcGVydHkoImpkYmMuZHJpdmVyQ2xhc3NOYW1lIikpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlci53cml0ZShlLmdldE1lc3NhZ2UoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlci5mbHVzaCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/,/,\r/g</text>
