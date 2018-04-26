@@ -535,12 +535,12 @@
         <mark key="." line="53" column="30" />
         <mark key="^" line="53" column="30" />
       </file>
-      <file name="C:/code/MDHTrafficMapReduce/car-route-timerange/src/main/java/com/miras/mapreduce/car/CarRouteCombineMR.java" timestamp="1524644799080">
+      <file name="C:/code/MDHTrafficMapReduce/car-route-timerange/src/main/java/com/miras/mapreduce/car/CarRouteCombineMR.java" timestamp="1524726864977">
         <mark key="'" line="43" column="12" />
-        <mark key="[" line="69" column="72" />
-        <mark key="]" line="69" column="72" />
-        <mark key="." line="69" column="72" />
-        <mark key="^" line="69" column="46" />
+        <mark key="[" line="64" column="57" />
+        <mark key="]" line="64" column="63" />
+        <mark key="." line="64" column="63" />
+        <mark key="^" line="64" column="63" />
       </file>
       <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_druidpassinfo/src/main/java/com/miras/data/storm/DruidPassInfoNewBolt.java" timestamp="1511248626028">
         <mark key="[" line="145" column="0" />
@@ -634,7 +634,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524644813663">
+      <file name="/Dummy.txt" timestamp="1524726876583">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1422,10 +1422,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Start</text>
