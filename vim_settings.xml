@@ -555,11 +555,11 @@
         <mark key="." line="64" column="63" />
         <mark key="^" line="64" column="63" />
       </file>
-      <file name="C:/code/video-capture/dist/assembly.xml" timestamp="1525503655653">
-        <mark key="[" line="18" column="25" />
-        <mark key="]" line="18" column="43" />
-        <mark key="." line="18" column="43" />
-        <mark key="^" line="18" column="43" />
+      <file name="C:/code/video-capture/dist/assembly.xml" timestamp="1525509718957">
+        <mark key="[" line="18" column="39" />
+        <mark key="]" line="18" column="40" />
+        <mark key="." line="18" column="40" />
+        <mark key="^" line="18" column="41" />
       </file>
       <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_druidpassinfo/src/main/java/com/miras/data/storm/DruidPassInfoNewBolt.java" timestamp="1511248626028">
         <mark key="[" line="145" column="0" />
@@ -659,7 +659,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525504844512">
+      <file name="/Dummy.txt" timestamp="1525512343124">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1067,10 +1067,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="C:/code/video-capture/src/main/java/Application.java" timestamp="1525505423677">
-        <mark key="[" line="9" column="30" />
-        <mark key="]" line="9" column="30" />
-        <mark key="." line="9" column="30" />
+      <file name="C:/code/video-capture/src/main/java/Application.java" timestamp="1525512322897">
+        <mark key="[" line="48" column="29" />
+        <mark key="]" line="48" column="30" />
+        <mark key="^" line="50" column="32" />
+        <mark key="." line="48" column="30" />
       </file>
       <file name="C:/code/mdh-travel-path/src/main/java/com/miras/data/CarRouteCombineMR.java" timestamp="1511141529201">
         <mark key="[" line="103" column="55" />
@@ -1470,44 +1471,44 @@
       <jump line="43" column="12" filename="C:/code/MDHTrafficMapReduce/car-route-timerange/src/main/java/com/miras/mapreduce/car/CarRouteCombineMR.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxMDAwKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>mkv</text>
       </register>
       <register name="/" type="4">
         <text>Start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4xLjE8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCg1MDAwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxMDAwKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9jZXNzIGV4ZWMgPSBmaW5hbENvbW1hbmQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIud3JpdGUoIlxyXG4iKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIud3JpdGUoInEiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8WC1Db21waWxlLVRhcmdldC1KREs+JHttYXZlbi5jb21waWxlLnRhcmdldH08L1gtQ29tcGlsZS1UYXJnZXQtSkRLPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmZtcGVnLmRlc3Ryb3koKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8WC1Db21waWxlLVNvdXJjZS1KREs+JHttYXZlbi5jb21waWxlLnNvdXJjZX08L1gtQ29tcGlsZS1Tb3VyY2UtSkRLPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIud3JpdGUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIucHJpbnRsbigicSIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbnM+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIucHJpbnRsbigiNCIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9wbHVnaW5zPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIucHJpbnRsbigiMyIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIucHJpbnRsbigiMiIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/Start/End/g</text>
