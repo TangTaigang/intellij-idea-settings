@@ -530,6 +530,11 @@
         <mark key="]" line="193" column="24" />
         <mark key="." line="193" column="24" />
       </file>
+      <file name="C:/code/video-capture-web/src/main/java/com/miras/vehicle/VideoServlet.java" timestamp="1525653552881">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/EzvizApplication.java" timestamp="1521014649897">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="16" />
@@ -736,11 +741,11 @@
         <mark key="." line="123" column="46" />
         <mark key="^" line="123" column="46" />
       </file>
-      <file name="C:/code/video-capture-web/pom.xml" timestamp="1525653185811">
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="7" column="32" />
-        <mark key="^" line="7" column="32" />
-        <mark key="." line="7" column="32" />
+      <file name="C:/code/video-capture-web/pom.xml" timestamp="1525653499140">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="6" column="23" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="6" column="23" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_hdfs/src/main/java/com/miras/data/passinf/Application.java" timestamp="1525327685294">
         <mark key="[" line="46" column="76" />
@@ -1478,10 +1483,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxMDAwKTsK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5kb0dldChyZXEsIHJlc3ApOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>mkv</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>Start</text>
@@ -1490,31 +1495,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCg1MDAwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxMDAwKTsK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5kb0dldChyZXEsIHJlc3ApOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIud3JpdGUoIlxyXG4iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIud3JpdGUoInEiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxMDAwKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmZtcGVnLmRlc3Ryb3koKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIud3JpdGUoIlxyXG4iKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIud3JpdGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIud3JpdGUoInEiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIucHJpbnRsbigicSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmZtcGVnLmRlc3Ryb3koKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIucHJpbnRsbigiNCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIud3JpdGUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIucHJpbnRsbigiMyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIucHJpbnRsbigicSIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIucHJpbnRsbigiMiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIucHJpbnRsbigiNCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/Start/End/g</text>
