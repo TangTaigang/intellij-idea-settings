@@ -664,7 +664,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525512343124">
+      <file name="/Dummy.txt" timestamp="1525766456053">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -823,7 +823,7 @@
         <mark key="." line="33" column="49" />
         <mark key="^" line="33" column="49" />
       </file>
-      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/kotlin/com/miras/data/Entity.kt" timestamp="1525763241470">
+      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/kotlin/com/miras/data/Entity.kt" timestamp="1525764757094">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="3" column="20" />
         <mark key="." line="3" column="20" />
@@ -833,6 +833,12 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/resources/application.properties" timestamp="1525766006500">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="39" />
+        <mark key="." line="11" column="39" />
+        <mark key="^" line="11" column="39" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/dwd_first_in_city.sql" timestamp="1510821910353">
         <mark key="[" line="8" column="17" />
@@ -1208,7 +1214,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/pom.xml" timestamp="1525751408101">
+      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/pom.xml" timestamp="1525766013389">
         <mark key="[" line="18" column="28" />
         <mark key="]" line="18" column="29" />
         <mark key="." line="18" column="29" />
@@ -1339,10 +1345,11 @@
         <mark key="^" line="2" column="45" />
         <mark key="." line="2" column="45" />
       </file>
-      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1525764127090">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1525766433418">
+        <mark key="[" line="133" column="19" />
+        <mark key="]" line="133" column="22" />
+        <mark key="." line="133" column="22" />
+        <mark key="^" line="133" column="22" />
       </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/exception/DeviceBusyException.java" timestamp="1522131690010">
         <mark key="[" line="7" column="15" />
@@ -1500,10 +1507,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>Start</text>
@@ -1512,31 +1519,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxhc3RDYXJBcHBlYXIucmVtb3ZlKGNhcktleSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPy5sZXQgeyBzdHJDb2xsZWN0aW9uRGF0ZSAtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJyb2FkX3RpbWVfdXNlOiIgKyBwb2ludEZyb20gKyAiXyIgKyBwb2ludFRvICspCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUT0RPIHJlcGxhY2UgZGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgbGFzdENhckFwcGVhci5yZW1vdmUoY2FyS2V5KQogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhc3RDYXJBcHBlYXJbY2FyS2V5XSA9IFBhaXIoYWRkcmVzc0NvZGUsIHRzKSAvLyBUT0RPIHJlcGxhY2UgZGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb2xsZWN0aW9uRGF0ZSAhPSBudWxsKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBzZW5kIGthZmthIGRhdGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBzdHJDb2xsZWN0aW9uRGF0ZSA9IGNvbGxlY3Rpb25EYXRlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGF0YU1hcFtQYXNzSW5mb0ZpZWxkLkRDT0xMRUNUSU9OREFURV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFNYXBbUGFzc0luZm9GaWVsZC5DTElDRU5TRVRZUEVdCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/Start/End/g</text>
