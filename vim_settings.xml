@@ -1201,6 +1201,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/pom.xml" timestamp="1525751408101">
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="18" column="29" />
+        <mark key="." line="18" column="29" />
+      </file>
       <file name="C:/code/hftp/src/main/resources/users.properties" timestamp="1515682402654">
         <mark key="[" line="26" column="35" />
         <mark key="]" line="28" column="34" />
@@ -1326,6 +1331,12 @@
         <mark key="]" line="2" column="45" />
         <mark key="^" line="2" column="45" />
         <mark key="." line="2" column="45" />
+      </file>
+      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1525752080171">
+        <mark key="[" line="24" column="63" />
+        <mark key="]" line="25" column="3" />
+        <mark key="." line="25" column="3" />
+        <mark key="^" line="25" column="3" />
       </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/exception/DeviceBusyException.java" timestamp="1522131690010">
         <mark key="[" line="7" column="15" />
@@ -1483,10 +1494,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>置</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>置</text>
       </register>
       <register name="/" type="4">
         <text>Start</text>
@@ -1495,31 +1506,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCg1MDAwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5kb0dldChyZXEsIHJlc3ApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIM2o0NDKsbzkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5kb0dldChyZXEsIHJlc3ApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxMDAwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIud3JpdGUoIlxyXG4iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxMDAwKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIud3JpdGUoInEiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIud3JpdGUoIlxyXG4iKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmZtcGVnLmRlc3Ryb3koKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIud3JpdGUoInEiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIud3JpdGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmZtcGVnLmRlc3Ryb3koKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIucHJpbnRsbigicSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIud3JpdGUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIucHJpbnRsbigiNCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIucHJpbnRsbigicSIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/Start/End/g</text>
