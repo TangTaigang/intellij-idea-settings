@@ -735,11 +735,11 @@
         <mark key="." line="17" column="20" />
         <mark key="^" line="17" column="20" />
       </file>
-      <file name="C:/code/druid-kafka/kafka-druid-seg-stream/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1524466807017">
-        <mark key="[" line="123" column="39" />
-        <mark key="]" line="123" column="46" />
-        <mark key="." line="123" column="46" />
-        <mark key="^" line="123" column="46" />
+      <file name="C:/code/druid-kafka/kafka-druid-seg-stream/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1525750471797">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="18" />
+        <mark key="." line="29" column="18" />
+        <mark key="^" line="29" column="18" />
       </file>
       <file name="C:/code/video-capture-web/pom.xml" timestamp="1525653499140">
         <mark key="[" line="22" column="0" />
@@ -1482,11 +1482,11 @@
       <jump line="43" column="12" filename="C:/code/MDHTrafficMapReduce/car-route-timerange/src/main/java/com/miras/mapreduce/car/CarRouteCombineMR.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5kb0dldChyZXEsIHJlc3ApOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Start</text>
