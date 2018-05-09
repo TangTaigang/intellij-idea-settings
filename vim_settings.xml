@@ -638,8 +638,8 @@
         <mark key="^" line="34" column="49" />
         <mark key="." line="34" column="49" />
       </file>
-      <file name="C:/code/druid-kafka/road-time-use-query/.gitignore" timestamp="1525848313004">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/code/druid-kafka/road-time-use-query/.gitignore" timestamp="1525857131881">
+        <mark key="[" line="1" column="5" />
       </file>
       <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_image/src/main/java/com/miras/data/storm/ImageDownloadBolt.java" timestamp="1524121910675">
         <mark key="[" line="86" column="58" />
@@ -676,7 +676,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525856433105">
+      <file name="/Dummy.txt" timestamp="1525857450928">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -858,11 +858,11 @@
         <mark key="." line="8" column="17" />
         <mark key="^" line="8" column="17" />
       </file>
-      <file name="C:/code/druid-kafka/road-time-use-query/src/main/java/Application.kt" timestamp="1525856414234">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="43" />
-        <mark key="." line="107" column="0" />
-        <mark key="^" line="166" column="129" />
+      <file name="C:/code/druid-kafka/road-time-use-query/src/main/java/Application.kt" timestamp="1525857443461">
+        <mark key="[" line="166" column="171" />
+        <mark key="]" line="166" column="181" />
+        <mark key="." line="166" column="181" />
+        <mark key="^" line="166" column="181" />
       </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/EzvizResponse.java" timestamp="1520997839770">
         <mark key="[" line="34" column="15" />
