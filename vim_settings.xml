@@ -405,6 +405,12 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="C:/code/druid-kafka/road-time-use-query/src/main/resources/application.properties" timestamp="1525856330332">
+        <mark key="[" line="2" column="98" />
+        <mark key="]" line="2" column="110" />
+        <mark key="^" line="2" column="110" />
+        <mark key="." line="2" column="110" />
+      </file>
       <file name="C:/code/hftp/pom.xml" timestamp="1515736814323">
         <mark key="[" line="85" column="31" />
         <mark key="]" line="85" column="34" />
@@ -452,11 +458,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="50" />
       </file>
-      <file name="C:/code/druid-kafka/road-time-use-query/pom.xml" timestamp="1525849692339">
-        <mark key="[" line="63" column="39" />
-        <mark key="]" line="63" column="51" />
-        <mark key="." line="63" column="51" />
-        <mark key="^" line="63" column="51" />
+      <file name="C:/code/druid-kafka/road-time-use-query/pom.xml" timestamp="1525854055100">
+        <mark key="[" line="90" column="26" />
+        <mark key="]" line="91" column="26" />
+        <mark key="." line="91" column="26" />
+        <mark key="^" line="91" column="26" />
       </file>
       <file name="C:/code/MDHTrafficMapReduce/src/main/production-resources/application.properties" timestamp="1510736867805">
         <mark key="[" line="9" column="18" />
@@ -492,6 +498,7 @@
         <mark key="^" line="70" column="46" />
         <mark key="." line="70" column="46" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.4/jackson-databind-2.9.4-sources.jar!/com/fasterxml/jackson/databind/type/ArrayType.java" timestamp="1525851373945" />
       <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/FtpUtils.java" timestamp="1522307932356">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="4" column="7" />
@@ -669,7 +676,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525849709141">
+      <file name="/Dummy.txt" timestamp="1525856433105">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -851,11 +858,11 @@
         <mark key="." line="8" column="17" />
         <mark key="^" line="8" column="17" />
       </file>
-      <file name="C:/code/druid-kafka/road-time-use-query/src/main/java/Application.kt" timestamp="1525849560401">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="46" column="17" />
+      <file name="C:/code/druid-kafka/road-time-use-query/src/main/java/Application.kt" timestamp="1525856414234">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="43" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="166" column="129" />
       </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/EzvizResponse.java" timestamp="1520997839770">
         <mark key="[" line="34" column="15" />
@@ -1499,50 +1506,47 @@
       <jump line="4195" column="37" filename="C:/code/ha-assitant/src/priusfan/info/bthsd10/main.java" />
       <jump line="22" column="27" filename="C:/code/MDHTrafficMapReduce/huagonglu/src/main/java/com/miras/mapreduce/Huagonglu.java" />
       <jump line="43" column="12" filename="C:/code/MDHTrafficMapReduce/car-route-timerange/src/main/java/com/miras/mapreduce/car/CarRouteCombineMR.java" />
+      <jump line="31" column="19" filename="C:/code/druid-kafka/road-time-use-query/src/main/java/Application.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>com.miras.data.DruidPassinfoKt</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICB2YWwgcG9pbnRUbzogU3RyaW5nLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>com.miras.data.DruidPassinfoKt</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAidHlwZSI6ICJsb25nU3VtIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvaW50VG8sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBvYmplY3RNYXBwZXIgPSBPYmplY3RNYXBwZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICB2YWwgcG9pbnRUbzogU3RyaW5nLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB0b1N0cmluZygpOiBTdHJpbmcgewogICAgICAgIHJldHVybiAiUm9hZFRpbWVVc2UocG9pbnRGcm9tPSckcG9pbnRGcm9tJywgcG9pbnRUbz0nJHBvaW50VG8nLCBwb2ludEZyb21OYW1lPSckcG9pbnRGcm9tTmFtZScsIHBvaW50VG9OYW1lPSckcG9pbnRUb05hbWUnLCBzdGRUaW1lVXNhZ2U9JHN0ZFRpbWVVc2FnZSwgc2lnbmFsQ3ljbGU9JHNpZ25hbEN5Y2xlLCBtYXhUaHJlc2hvbGQ9JG1heFRocmVzaG9sZCkiCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNvcHlUbyhTeXN0ZW0ub3V0LCBidWZmZXJTaXplID0gMTAyNCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>&quot;{\&quot;queryType\&quot;:\&quot;groupBy\&quot;,\n&quot; +
-            &quot;  \&quot;dataSource\&quot;:\&quot;dw_road_time_use\&quot;,\n&quot; +
-            &quot;  \&quot;granularity\&quot;:{\&quot;type\&quot;:\&quot;duration\&quot;,\&quot;duration\&quot;:\&quot;300000\&quot;},\n&quot; +
-            &quot;  \&quot;aggregations\&quot;:[{\&quot;type\&quot;:\&quot;count\&quot;,\&quot;name\&quot;:\&quot;count\&quot;}, {\&quot;type\&quot;:\&quot;count\&quot;,\&quot;name\&quot;:\&quot;count\&quot;} ],\n&quot; +
-            &quot;  \&quot;intervals\&quot;:[\&quot;%s/%s\&quot;]}&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZ1biAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QEp2bVN0YXRpYwo=</text>
+        <text encoding="base64">ICAgICAgICAqIDEuMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b2JqZWN0IEFwcGxpY2F0aW9uIHsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBUaHJvd3MoRXhjZXB0aW9uOjpjbGFzcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9hZFN0ZFRpbWVVc2UoKS5tYXAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmbGF0TWFwIHsgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/Start/End/g</text>
