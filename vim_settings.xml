@@ -553,13 +553,6 @@
         <mark key="." line="53" column="30" />
         <mark key="^" line="53" column="30" />
       </file>
-      <file name="C:/code/MDHTrafficMapReduce/car-route-timerange/src/main/java/com/miras/mapreduce/car/CarRouteCombineMR.java" timestamp="1524726864977">
-        <mark key="'" line="43" column="12" />
-        <mark key="[" line="64" column="57" />
-        <mark key="]" line="64" column="63" />
-        <mark key="." line="64" column="63" />
-        <mark key="^" line="64" column="63" />
-      </file>
       <file name="C:/code/video-capture/dist/assembly.xml" timestamp="1525509718957">
         <mark key="[" line="18" column="39" />
         <mark key="]" line="18" column="40" />
@@ -664,7 +657,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525772820326">
+      <file name="/Dummy.txt" timestamp="1525837192140">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -912,13 +905,6 @@
         <mark key="^" line="68" column="92" />
         <mark key="." line="68" column="92" />
       </file>
-      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/cartype.java" timestamp="1523860648971">
-        <mark key="'" line="2162" column="37" />
-        <mark key="[" line="2127" column="16" />
-        <mark key="]" line="2127" column="28" />
-        <mark key="." line="2127" column="28" />
-        <mark key="^" line="2127" column="28" />
-      </file>
       <file name="C:/code/OnlineVehicle/OnlineVehicleHub/mdh_data_onlinevehicle_in_ftp/pom.xml" timestamp="1522323425457">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -1072,13 +1058,6 @@
         <mark key="." line="36" column="28" />
         <mark key="^" line="36" column="28" />
       </file>
-      <file name="C:/code/MDHTrafficMapReduce/huagonglu/src/main/java/com/miras/mapreduce/Huagonglu.java" timestamp="1524105949355">
-        <mark key="'" line="22" column="27" />
-        <mark key="[" line="86" column="103" />
-        <mark key="]" line="86" column="103" />
-        <mark key="." line="86" column="103" />
-        <mark key="^" line="86" column="103" />
-      </file>
       <file name="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs_retry/src/main/java/com/miras/data/image/hdfs/DateHdfsPartitioner.java" timestamp="1516859891023">
         <mark key="[" line="42" column="14" />
         <mark key="]" line="42" column="19" />
@@ -1172,6 +1151,11 @@
         <mark key="]" line="42" column="47" />
         <mark key="." line="42" column="47" />
       </file>
+      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/resources/log4j.properties" timestamp="1525836953852">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1522031994641">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="7" />
@@ -1190,7 +1174,6 @@
         <mark key="^" line="41" column="64" />
         <mark key="." line="41" column="64" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-streams/0.10.0.0/kafka-streams-0.10.0.0-sources.jar!/org/apache/kafka/streams/kstream/ValueMapper.java" timestamp="1525762155345" />
       <file name="C:/code/ezviz/src/test/java/com/miras/monitor/ezviz/TokenUtilTest.java" timestamp="1520995899306">
         <mark key="[" line="21" column="48" />
         <mark key="]" line="21" column="49" />
@@ -1214,10 +1197,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/pom.xml" timestamp="1525766013389">
-        <mark key="[" line="18" column="28" />
-        <mark key="]" line="18" column="29" />
-        <mark key="." line="18" column="29" />
+      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/pom.xml" timestamp="1525835590806">
+        <mark key="[" line="47" column="21" />
+        <mark key="]" line="56" column="37" />
+        <mark key="." line="56" column="37" />
+        <mark key="^" line="56" column="37" />
       </file>
       <file name="C:/code/hftp/src/main/resources/users.properties" timestamp="1515682402654">
         <mark key="[" line="26" column="35" />
@@ -1314,13 +1298,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/hybrid-assistant/src/priusfan/info/bthsd10/scanner.java" timestamp="1523685600130">
-        <mark key="'" line="2856" column="0" />
-        <mark key="[" line="2163" column="24" />
-        <mark key="]" line="2163" column="31" />
-        <mark key="." line="2163" column="31" />
-        <mark key="^" line="2163" column="31" />
-      </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/bean/EzvizListResponse.java" timestamp="1522131273581">
         <mark key="[" line="4" column="57" />
         <mark key="]" line="4" column="63" />
@@ -1345,11 +1322,11 @@
         <mark key="^" line="2" column="45" />
         <mark key="." line="2" column="45" />
       </file>
-      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1525772816998">
-        <mark key="[" line="52" column="69" />
-        <mark key="]" line="52" column="70" />
-        <mark key="." line="52" column="70" />
-        <mark key="^" line="92" column="118" />
+      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1525837111392">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="105" column="55" />
       </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/exception/DeviceBusyException.java" timestamp="1522131690010">
         <mark key="[" line="7" column="15" />
@@ -1506,44 +1483,44 @@
       <jump line="43" column="12" filename="C:/code/MDHTrafficMapReduce/car-route-timerange/src/main/java/com/miras/mapreduce/car/CarRouteCombineMR.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIm1hdGNoICRhZGRyZXNzQ29kZSAkY2FyS2V5ICRjb2xsZWN0aW9uRGF0ZSIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Start</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhc3RDYXJBcHBlYXIucmVtb3ZlKGNhcktleSkK</text>
+      <register name="0" type="4">
+        <text>DruidRoadTimeUse</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIm1hdGNoICRhZGRyZXNzQ29kZSAkY2FyS2V5ICRjb2xsZWN0aW9uRGF0ZSIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZygpCg==</text>
+        <text encoding="base64">bG9nNGouYXBwZW5kZXIuc3Rkb3V0PW9yZy5hcGFjaGUubG9nNGouQ29uc29sZUFwcGVuZGVyCmxvZzRqLmFwcGVuZGVyLnN0ZG91dC5sYXlvdXQ9b3JnLmFwYWNoZS5sb2c0ai5QYXR0ZXJuTGF5b3V0CmxvZzRqLmFwcGVuZGVyLnN0ZG91dC5sYXlvdXQuQ29udmVyc2lvblBhdHRlcm49WyVkXSAlbCAlcCAlbSAoJWMpJW4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJyb2FkX3RpbWVfdXNlOiIgKyBwb2ludEZyb20gKyAiXyIgKyBwb2ludFRvICspCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKCIka2V5LCAkdmFsdWUiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgbGFzdENhckFwcGVhci5yZW1vdmUoY2FyS2V5KQogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb2xsZWN0aW9uRGF0ZSAhPSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhc3RDYXJBcHBlYXIucHV0KGNhcktleSwgUGFpcihhZGRyZXNzQ29kZSwgdHMpKSAvLyC4/NDCyc+0zrzHwrwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBzdHJDb2xsZWN0aW9uRGF0ZSA9IGNvbGxlY3Rpb25EYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCIiInNlbmQgJHtrYWZrYURhdGEudG9TdHJpbmcoKX0iIiIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGF0YU1hcFtQYXNzSW5mb0ZpZWxkLkRDT0xMRUNUSU9OREFURV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBvYmplY3RNYXBwZXIud3JpdGVWYWx1ZUFzU3RyaW5nKGthZmthRGF0YSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFNYXBbUGFzc0luZm9GaWVsZC5DTElDRU5TRVRZUEVdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBrYWZrYURhdGE6IERydWlkUm9hZFRpbWVVc2UgPSBudWxsCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/Start/End/g</text>
