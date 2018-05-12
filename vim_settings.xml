@@ -680,7 +680,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526022233240">
+      <file name="/Dummy.txt" timestamp="1526130661542">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -856,11 +856,11 @@
         <mark key="." line="8" column="17" />
         <mark key="^" line="8" column="17" />
       </file>
-      <file name="C:/code/druid-kafka/road-time-use-query/src/main/java/Application.kt" timestamp="1526128583315">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="4" />
-        <mark key="." line="39" column="4" />
-        <mark key="^" line="188" column="21" />
+      <file name="C:/code/druid-kafka/road-time-use-query/src/main/java/Application.kt" timestamp="1526130644390">
+        <mark key="[" line="181" column="109" />
+        <mark key="]" line="181" column="109" />
+        <mark key="." line="181" column="109" />
+        <mark key="^" line="181" column="24" />
       </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/EzvizResponse.java" timestamp="1520997839770">
         <mark key="[" line="34" column="15" />
@@ -1406,7 +1406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="26" filename="C:/code/MDH_DATA/mdh_data_kafka_storm_image/src/main/java/com/miras/data/storm/ImageToHBaseBolt.java" />
       <jump line="74" column="15" filename="C:/code/MDH_DATA/mdh_data_kafka_storm_image/src/main/java/com/miras/data/storm/ImageToHBaseBolt.java" />
       <jump line="272" column="43" filename="C:/code/MDH_DATA/pom.xml" />
       <jump line="44" column="8" filename="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_storm_bsc/src/main/java/com/miras/data/passinf/bolt/TravelPathBolt.java" />
@@ -1506,64 +1505,63 @@
       <jump line="43" column="12" filename="C:/code/MDHTrafficMapReduce/car-route-timerange/src/main/java/com/miras/mapreduce/car/CarRouteCombineMR.java" />
       <jump line="31" column="19" filename="C:/code/druid-kafka/road-time-use-query/src/main/java/Application.kt" />
       <jump line="112" column="26" filename="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/kotlin/com/miras/data/DruidPassinfo.kt" />
+      <jump line="183" column="59" filename="C:/code/druid-kafka/road-time-use-query/src/main/java/Application.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot; + &quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot; + &quot;</text>
       </register>
       <register name="/" type="4">
-        <text>Start</text>
+        <text>\?</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oImRhdGEgbG9hZCBzdWNjZXNzLCBwb2ludHNOZWVkTG9nOiAke3BvaW50c05lZWRMb2cuc2l6ZX0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oInNraXAgJGNhck51bWJlciAkbGljZW5zZVR5cGUgJGFkZHJlc3NDb2RlIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0ZFRpbWUgLT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4obWVzc2FnZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oImRhdGEgbG9hZCBzdWNjZXNzLCBwb2ludHNOZWVkTG9nOiAke3BvaW50c05lZWRMb2cufSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihtZXNzYWdlID0gbWVzc2FnZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1lc3NhZ2UgPSAiJGtleSwke3N0ZFRpbWU/LnBvaW50RnJvbU5hbWV9XyR7c3RkVGltZT8ucG9pbnRUb05hbWV9LHN0ZD0ke3N0ZFRpbWU/LnN0ZFRpbWVVc2FnZX0sYXZnPSRhdmdUaW1lVXNlLHNpZ25hbF9jeWNsZT0ke3N0ZFRpbWU/LnNpZ25hbEN5Y2xlfSxjbnQ9JGNvdW50LHJlc3VsdD0kcmVzdWx0Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHN0ZFRpbWUgPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdhcm5Sb2FkTGlzdC5mb3JFYWNoKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIixhdmc9JGF2Z1RpbWVVc2Usc2lnbmFsX2N5Y2xlPSRzaWduYWxDeWNsZSxjbnQ9JGNvdW50LHJlc3VsdD0kcmVzdWx0Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoYXZnVGltZVVzZSAtIChzdGRUaW1lPy5zdGRUaW1lVXNhZ2UgPzogNjApKSAqIDEuMCAvIChzdGRUaW1lPy5zaWduYWxDeWNsZSA/OiA2MCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHJlc3VsdCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHN0ZFRpbWUgPSAK</text>
       </register>
       <register name=":" type="4">
-        <text>s/Start/End/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Start</last-search>
+      <last-search>\?</last-search>
       <last-offset />
-      <last-pattern>Start</last-pattern>
-      <last-replace>End</last-replace>
-      <last-substitute>Start</last-substitute>
+      <last-pattern>\?</last-pattern>
+      <last-replace />
+      <last-substitute>\?</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>length</entry>
-        <entry>type</entry>
         <entry>prev</entry>
         <entry>begin</entry>
         <entry>url</entry>
@@ -1582,10 +1580,10 @@
         <entry>from.</entry>
         <entry>,</entry>
         <entry>Start</entry>
+        <entry>stdTime</entry>
+        <entry>\?</entry>
       </history-search>
       <history-cmd>
-        <entry>s/,/\$/g</entry>
-        <entry>s/Name/Code/g</entry>
         <entry>s/mysql/oracle/g</entry>
         <entry>s/ /,/g</entry>
         <entry>s/116/117/g</entry>
@@ -1595,7 +1593,6 @@
         <entry>s/2/3/g</entry>
         <entry>s/\\//g</entry>
         <entry>s/8/0/g</entry>
-        <entry>w</entry>
         <entry>wq</entry>
         <entry>q</entry>
         <entry>s/List/Map/g</entry>
@@ -1604,6 +1601,9 @@
         <entry>s/,/\r\n/g</entry>
         <entry>s/,/,\r/g</entry>
         <entry>s/Start/End/g</entry>
+        <entry>s/stdTime//g</entry>
+        <entry>s/\?//g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
