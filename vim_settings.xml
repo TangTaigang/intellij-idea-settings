@@ -567,6 +567,7 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
+      <file name="C:/code/MDHTrafficRealtimeMonitor/src/main/webapp/WEB-INF/views/traffic_monitor/jtts/testmap.jsp" timestamp="1526280064498" />
       <file name="C:/code/mdh_data_6in1api/src/main/java/com/miras/data/api/mdh_data_6in1api/controller/ApiInterfaceController.java" timestamp="1524039180533">
         <mark key="[" line="63" column="9" />
         <mark key="]" line="65" column="16" />
@@ -838,6 +839,11 @@
         <mark key="^" line="130" column="7" />
         <mark key="." line="131" column="0" />
       </file>
+      <file name="/JSON Fragment (JttsService.java:9504).json" timestamp="1526280744170">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="2" />
+        <mark key="." line="9" column="2" />
+      </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_mq_hdfs/src/main/java/com/miras/data/passinf/Application.java" timestamp="1525233779244">
         <mark key="[" line="33" column="36" />
         <mark key="]" line="33" column="49" />
@@ -867,13 +873,14 @@
         <mark key="." line="11" column="39" />
         <mark key="^" line="11" column="39" />
       </file>
+      <file name="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" timestamp="1526280699231" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/dwd_first_in_city.sql" timestamp="1510821910353">
         <mark key="[" line="8" column="17" />
         <mark key="]" line="8" column="17" />
         <mark key="." line="8" column="17" />
         <mark key="^" line="8" column="17" />
       </file>
-      <file name="C:/code/druid-kafka/road-time-use-query/src/main/java/Application.kt" timestamp="1526264339575">
+      <file name="C:/code/druid-kafka/road-time-use-query/src/main/java/Application.kt" timestamp="1526280806011">
         <mark key="[" line="190" column="20" />
         <mark key="]" line="190" column="39" />
         <mark key="." line="190" column="39" />
@@ -1122,6 +1129,13 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/web/JttsController.java" timestamp="1526280049558">
+        <mark key="'" line="553" column="48" />
+        <mark key="[" line="580" column="12" />
+        <mark key="]" line="580" column="13" />
+        <mark key="^" line="580" column="13" />
+        <mark key="." line="580" column="13" />
       </file>
       <file name="C:/code/video-capture/src/main/java/Application.java" timestamp="1525512322897">
         <mark key="[" line="48" column="29" />
@@ -1438,7 +1452,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="15" filename="C:/code/MDH_DATA/mdh_data_kafka_storm_image/src/main/java/com/miras/data/storm/ImageToHBaseBolt.java" />
       <jump line="272" column="43" filename="C:/code/MDH_DATA/pom.xml" />
       <jump line="44" column="8" filename="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_storm_bsc/src/main/java/com/miras/data/passinf/bolt/TravelPathBolt.java" />
       <jump line="82" column="15" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/CarActivity288.java" />
@@ -1538,13 +1551,15 @@
       <jump line="31" column="19" filename="C:/code/druid-kafka/road-time-use-query/src/main/java/Application.kt" />
       <jump line="112" column="26" filename="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/kotlin/com/miras/data/DruidPassinfo.kt" />
       <jump line="183" column="59" filename="C:/code/druid-kafka/road-time-use-query/src/main/java/Application.kt" />
+      <jump line="553" column="48" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/web/JttsController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvY3JlYXRlRGVwZW5kZW5jeVJlZHVjZWRQb21mPgo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;metric&quot;: &quot;sum__ongduSum&quot;,
+  &quot;</text>
       </register>
       <register name="-" type="4">
-        <text>fasel</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>\?</text>
@@ -1552,32 +1567,41 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGMyID0gY2xpZW50TWFwLmdldChmcmVlQ2xpZW50cy5nZXQoaSArIDEpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvY3JlYXRlRGVwZW5kZW5jeVJlZHVjZWRQb21mPgo=</text>
+      <register name="1" type="4">
+        <text>&quot;metric&quot;: &quot;sum__ongduSum&quot;,
+  &quot;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>{
+      &quot;type&quot;: &quot;longSum&quot;,
+      &quot;fieldName&quot;: &quot;yongduSum&quot;,
+      &quot;name&quot;: &quot;sum__yongduSum&quot;
+    },
+    {
+      &quot;type&quot;: &quot;count&quot;,
+      &quot;name&quot;: &quot;count&quot;
+    }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHNlbmQgZ2FtZSBpbmZvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvY3JlYXRlRGVwZW5kZW5jeVJlZHVjZWRQb21mPgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsaWVudENvbm5lY3Rpb24uZ2V0UHJpbnRXcml0ZXIoKS53cml0ZSgieW91ciBncm91cCBpZDoiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHNlbmQgZ2FtZSBpbmZvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbGllbnRDb25uZWN0aW9uLmdldFByaW50V3JpdGVyKCkud3JpdGUoInlvdXIgZ3JvdXAgaWQ6Iik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdhbWVHcm91cC5zZXRJZChVVUlELnJhbmRvbVVVSUQoKS50b1N0cmluZygpKTsKICAgICAgICAgICAgICAgIGdhbWVHcm91cC5zZXRDbGllbnRzKGNsaWVudExpc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsaWVudENvbm5lY3Rpb24uZ2V0UHJpbnRXcml0ZXIoKS53cml0ZSgieW91ciBncm91cCBpZDoiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldENsaWVudHMoTGlzdDxDbGllbnRDb25uZWN0aW9uPiBjbGllbnRzKSB7CiAgICAgICAgdGhpcy5jbGllbnRzID0gY2xpZW50czsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbGllbnRDb25uZWN0aW9uLmdldFByaW50V3JpdGVyKCkud3JpdGUoInlvdXIgZ3JvdXAgaWQ6Iik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldElkKFN0cmluZyBpZCkgewogICAgICAgIHRoaXMuaWQgPSBpZDsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdhbWVHcm91cC5zZXRJZChVVUlELnJhbmRvbVVVSUQoKS50b1N0cmluZygpKTsKICAgICAgICAgICAgICAgIGdhbWVHcm91cC5zZXRDbGllbnRzKGNsaWVudExpc3QpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
