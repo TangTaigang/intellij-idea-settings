@@ -88,7 +88,12 @@
         <mark key="." line="45" column="30" />
         <mark key="^" line="45" column="30" />
       </file>
-      <file name="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/web/InductionController.java" timestamp="1526287222632" />
+      <file name="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/web/InductionController.java" timestamp="1526289081661">
+        <mark key="[" line="45" column="11" />
+        <mark key="]" line="45" column="25" />
+        <mark key="." line="45" column="25" />
+        <mark key="^" line="45" column="25" />
+      </file>
       <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_phoenix/src/main/java/com/miras/data/illegal/phoenix/PhoenixBolt.java" timestamp="1517018119811">
         <mark key="[" line="175" column="99" />
         <mark key="]" line="175" column="110" />
@@ -885,11 +890,12 @@
         <mark key="." line="11" column="39" />
         <mark key="^" line="11" column="39" />
       </file>
-      <file name="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" timestamp="1526285097819">
-        <mark key="'" line="79" column="20" />
-        <mark key="[" line="364" column="64" />
-        <mark key="]" line="364" column="64" />
-        <mark key="." line="364" column="64" />
+      <file name="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" timestamp="1526288466815">
+        <mark key="'" line="368" column="64" />
+        <mark key="[" line="55" column="52" />
+        <mark key="]" line="57" column="56" />
+        <mark key="." line="57" column="56" />
+        <mark key="^" line="57" column="56" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/dwd_first_in_city.sql" timestamp="1510821910353">
         <mark key="[" line="8" column="17" />
@@ -1317,7 +1323,7 @@
         <mark key="." line="45" column="77" />
         <mark key="^" line="40" column="90" />
       </file>
-      <file name="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/InductionService.java" timestamp="1526268556085" />
+      <file name="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/InductionService.java" timestamp="1526288596930" />
       <file name="C:/code/druid-kafka/kafka-druid-stream/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1512570935388">
         <mark key="[" line="252" column="47" />
         <mark key="]" line="253" column="7" />
@@ -1477,7 +1483,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="15" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/CarActivity288.java" />
       <jump line="60" column="38" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarRouteCombineMR.java" />
       <jump line="53" column="15" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FootHoldByDayMR.java" />
       <jump line="54" column="12" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FootHoldByDayMR.java" />
@@ -1577,46 +1582,47 @@
       <jump line="553" column="48" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/web/JttsController.java" />
       <jump line="78" column="20" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
       <jump line="79" column="20" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
+      <jump line="364" column="64" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0PE1hcDxTdHJpbmcsIE9iamVjdD4+IHJlc3VsdCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>result.add</text>
       </register>
       <register name="/" type="4">
         <text>From</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0TWFwLnB1dChwb2ludEZyb20gKyAiXyIgKyBwb2ludFRvLCAtMUQpOwo=</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9IHsiL2dldENyb3dkSW5kZXgifSwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5HRVQpCiAgICBAUmVzcG9uc2VCb2R5CiAgICBwdWJsaWMgTGlzdDxNYXA+IGZpbmRMaXN0KEBSZXF1ZXN0UGFyYW0gU3RyaW5nIHN0YXJ0Q29kZSwgQFJlcXVlc3RQYXJhbSBTdHJpbmcgZW5kQ29kZSwgQFJlcXVlc3RQYXJhbSBTdHJpbmcgdGltZUFyZWEpIHsKICAgICAgICByZXR1cm4gc2VydmljZS5nZXRDcm93ZEluZGV4KHN0YXJ0Q29kZSwgZW5kQ29kZSwgdGltZUFyZWEpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PE1hcDxTdHJpbmcsIE9iamVjdD4+IHJlc3VsdCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHRNYXAucHV0KHBvaW50RnJvbSArICJfIiArIHBvaW50VG8sIHJvYWRUaW1ldXNlID09IG51bGwgPyAtOTlEIDogKGF2ZyAtIHJvYWRUaW1ldXNlLmdldFN0ZFRpbWVVc2FnZSgpKSAvIHJvYWRUaW1ldXNlLmdldFNpZ25hbEN5Y2xlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IG1hcCA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuYWRkKAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoYXZnID49IDApIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHJvYWRUaW1ldXNlICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBtYXAucHV0KAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRvdWJsZSByYXRpbyA9IChhdmcgLSByb2FkVGltZXVzZS5nZXRTdGRUaW1lVXNhZ2UoKSkgLyByb2FkVGltZXVzZS5nZXRTaWduYWxDeWNsZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtYXAucHV0KCJzdGFydF9hZGRyZXNzX2NvZGUiLCBzdGFydENvZGUpOwogICAgICAgIG1hcC5wdXQoImVuZF9hZGRyZXNzX2NvZGUiLCBlbmRDb2RlKTsKICAgICAgICBtYXAucHV0KCJjcm93ZF9pbmRleCIsIHJvYWRQYXNzVGltZVRlbXAuZ2V0KHN0YXJ0Q29kZSArICJfIiArIGVuZENvZGUpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldENyb3dkSW5kZXgoU3RyaW5nLnZhbHVlT2YobWFwTGlzdC5nZXQoaSkuZ2V0KCJjb3VudCIpKSwgU3RyaW5nLnZhbHVlT2YobWFwTGlzdC5nZXQoaSkuZ2V0KCJzdW1fX3lvbmdkdVN1bSIpKSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/From/To/g</text>
