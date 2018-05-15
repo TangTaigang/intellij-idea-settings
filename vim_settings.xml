@@ -129,6 +129,12 @@
         <mark key="]" line="734" column="24" />
         <mark key="." line="734" column="24" />
       </file>
+      <file name="C:/code/ht-encrypt/src/main/java/com/miras/webencrypt/TestServlet.java" timestamp="1526368408965">
+        <mark key="[" line="16" column="42" />
+        <mark key="]" line="16" column="43" />
+        <mark key="." line="16" column="43" />
+        <mark key="^" line="16" column="43" />
+      </file>
       <file name="C:/code/kafkaclient/pom.xml" timestamp="1510552152479">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="22" column="0" />
@@ -318,6 +324,7 @@
         <mark key="^" line="3" column="12" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar!/javax/servlet/http/HttpServletResponseWrapper.java" timestamp="1526365740667" />
       <file name="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs/src/main/java/com/miras/data/image/hdfs/DateHdfsPartitioner.java" timestamp="1516260934879">
         <mark key="[" line="42" column="30" />
         <mark key="]" line="42" column="33" />
@@ -709,7 +716,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526356577205">
+      <file name="/Dummy.txt" timestamp="1526368228855">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -774,6 +781,9 @@
         <mark key="." line="28" column="73" />
         <mark key="^" line="28" column="73" />
       </file>
+      <file name="/fragment.java" timestamp="1526365705308">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/code/hftp/src/main/resources/log4j.properties" timestamp="1515735448047">
         <mark key="[" line="17" column="17" />
         <mark key="]" line="17" column="20" />
@@ -797,6 +807,7 @@
         <mark key="]" line="46" column="77" />
         <mark key="." line="46" column="77" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar!/javax/servlet/ServletOutputStream.java" timestamp="1526366332043" />
       <file name="C:/code/web/pom.xml" timestamp="1524203476107">
         <mark key="[" line="8" column="26" />
         <mark key="]" line="9" column="17" />
@@ -974,6 +985,13 @@
         <mark key="^" line="60" column="62" />
         <mark key="." line="62" column="38" />
       </file>
+      <file name="C:/code/ht-encrypt/src/main/java/com/miras/webencrypt/HtResponse.java" timestamp="1526367355043">
+        <mark key="'" line="10" column="24" />
+        <mark key="[" line="33" column="92" />
+        <mark key="]" line="34" column="70" />
+        <mark key="." line="34" column="70" />
+        <mark key="^" line="34" column="70" />
+      </file>
       <file name="C:/code/car-route/src/main/java/com/miras/mapreduce/car/CarRouteCombineMR.java" timestamp="1522824669026">
         <mark key="[" line="68" column="91" />
         <mark key="]" line="68" column="92" />
@@ -1093,9 +1111,6 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="48" column="55" />
       </file>
-      <file name="C:/code/game/game-server/src/main/java/com/kischn/game/server/ClientConnection.java" timestamp="1526132057567">
-        <mark key="^" line="10" column="21" />
-      </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_es/src/main/production-resources/application.properties" timestamp="1520901768549">
         <mark key="[" line="14" column="71" />
         <mark key="]" line="14" column="72" />
@@ -1130,6 +1145,7 @@
         <mark key="." line="61" column="16" />
         <mark key="^" line="61" column="16" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar!/javax/servlet/http/HttpServlet.java" timestamp="1526367141754" />
       <file name="C:/code/hive-redis/src/main/kotlin/Application.kt" timestamp="1510895227554">
         <mark key="[" line="13" column="20" />
         <mark key="]" line="13" column="21" />
@@ -1158,13 +1174,6 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
-      </file>
-      <file name="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/web/JttsController.java" timestamp="1526280049558">
-        <mark key="'" line="553" column="48" />
-        <mark key="[" line="580" column="12" />
-        <mark key="]" line="580" column="13" />
-        <mark key="^" line="580" column="13" />
-        <mark key="." line="580" column="13" />
       </file>
       <file name="C:/code/video-capture/src/main/java/Application.java" timestamp="1525512322897">
         <mark key="[" line="48" column="29" />
@@ -1324,6 +1333,12 @@
         <mark key="." line="45" column="77" />
         <mark key="^" line="40" column="90" />
       </file>
+      <file name="C:/code/ht-encrypt/src/main/java/com/miras/webencrypt/EncryptFilter.java" timestamp="1526368135020">
+        <mark key="[" line="29" column="67" />
+        <mark key="]" line="29" column="67" />
+        <mark key="." line="29" column="67" />
+        <mark key="^" line="29" column="58" />
+      </file>
       <file name="C:/code/druid-kafka/kafka-druid-stream/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1512570935388">
         <mark key="[" line="252" column="47" />
         <mark key="]" line="253" column="7" />
@@ -1335,6 +1350,12 @@
         <mark key="]" line="6" column="69" />
         <mark key="." line="6" column="69" />
         <mark key="^" line="6" column="69" />
+      </file>
+      <file name="C:/code/ht-encrypt/src/main/java/com/miras/webencrypt/HtServletOutputStream.java" timestamp="1526367012705">
+        <mark key="[" line="9" column="56" />
+        <mark key="]" line="11" column="78" />
+        <mark key="." line="11" column="78" />
+        <mark key="^" line="11" column="78" />
       </file>
       <file name="C:/code/mdh_data_6in1api/src/main/java/com/miras/data/api/mdh_data_6in1api/mapper/datadb61/VioSurveilMapper.java" timestamp="1522478202833">
         <mark key="[" line="12" column="89" />
@@ -1358,6 +1379,12 @@
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
+      </file>
+      <file name="C:/code/ht-encrypt/pom.xml" timestamp="1526367532373">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="20" column="24" />
+        <mark key="." line="20" column="24" />
+        <mark key="^" line="20" column="24" />
       </file>
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/entity/DayHideNightOut.java" timestamp="1510642633547">
         <mark key="[" line="19" column="0" />
@@ -1434,6 +1461,7 @@
         <mark key="^" line="3" column="6" />
         <mark key="." line="7" column="15" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar!/javax/servlet/ServletResponseWrapper.java" timestamp="1526367117420" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_kerberos2kafka/src/main/java/com/miras/data/passinf/Application2.java" timestamp="1510541339915">
         <mark key="[" line="23" column="22" />
         <mark key="]" line="23" column="36" />
@@ -1483,7 +1511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="38" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarRouteCombineMR.java" />
       <jump line="53" column="15" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FootHoldByDayMR.java" />
       <jump line="54" column="12" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FootHoldByDayMR.java" />
       <jump line="52" column="43" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FootHoldByDayMR.java" />
@@ -1583,46 +1610,47 @@
       <jump line="78" column="20" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
       <jump line="79" column="20" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
       <jump line="364" column="64" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
+      <jump line="9" column="24" filename="C:/code/ht-encrypt/src/main/java/com/miras/webencrypt/HtResponse.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ratio</text>
+        <text>application/json</text>
       </register>
       <register name="-" type="4">
-        <text>ratio</text>
+        <text>application/json</text>
       </register>
       <register name="/" type="4">
         <text>From</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcF9yLnB1dCgicG9pbnRGcm9tIiwgbWFwLmdldCgic3RhcnRfYWRkcmVzc19jb2RlIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIucHJpbnQoImhlbGxvLHdvcmxkIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZW5kVGltZSA9IERhdGVVdGlscy5nZXRUaW1lKCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbWludXRlcyA9IEludGVnZXIucGFyc2VJbnQodGltZUFyZWEpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbWludXRlcyA9IEludGVnZXIucGFyc2VJbnQodGltZUFyZWEpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXNwb25zZQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2VPdXRwdXRTdHJlYW0ucHJpbnRsbihEaWdlc3RVdGlscy5tZDUpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5jb21tb25zLWU8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByb2FkUGFzc1RpbWVUZW1wLmZvckVhY2goKGssIHYpIC0+IEwuaW5mbygicm9hZFBhc3NUaW1lVGVtcE1hcCA+ICIgKyBrICsgIj0iICsgdikpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXBfcgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5jb21tb25zLTwvYXJ0aWZhY3RJZD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImdldCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/From/To/g</text>
