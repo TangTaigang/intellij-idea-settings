@@ -574,10 +574,10 @@
         <mark key="]" line="193" column="24" />
         <mark key="." line="193" column="24" />
       </file>
-      <file name="C:/code/video-capture-web/src/main/java/com/miras/vehicle/VideoServlet.java" timestamp="1526435524886">
-        <mark key="[" line="41" column="35" />
-        <mark key="]" line="41" column="47" />
-        <mark key="." line="41" column="47" />
+      <file name="C:/code/video-capture-web/src/main/java/com/miras/vehicle/VideoServlet.java" timestamp="1526436608192">
+        <mark key="[" line="44" column="39" />
+        <mark key="]" line="44" column="40" />
+        <mark key="." line="44" column="40" />
         <mark key="^" line="41" column="47" />
       </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/EzvizApplication.java" timestamp="1521014649897">
@@ -717,7 +717,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526435533584">
+      <file name="/Dummy.txt" timestamp="1526436630410">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -751,6 +751,12 @@
         <mark key="]" line="26" column="74" />
         <mark key="." line="21" column="59" />
         <mark key="^" line="26" column="74" />
+      </file>
+      <file name="C:/code/video-capture-web/src/main/resources/log4j.properties" timestamp="1526436134837">
+        <mark key="[" line="24" column="31" />
+        <mark key="]" line="24" column="31" />
+        <mark key="." line="24" column="31" />
+        <mark key="^" line="24" column="31" />
       </file>
       <file name="C:/code/hftp/src/main/java/com/miras/hftp/HBaseOutputStream.java" timestamp="1515739767211">
         <mark key="[" line="14" column="37" />
@@ -797,11 +803,11 @@
         <mark key="." line="29" column="18" />
         <mark key="^" line="29" column="18" />
       </file>
-      <file name="C:/code/video-capture-web/pom.xml" timestamp="1526433770277">
-        <mark key="[" line="43" column="21" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="22" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="C:/code/video-capture-web/pom.xml" timestamp="1526436486848">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="37" column="26" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_hdfs/src/main/java/com/miras/data/passinf/Application.java" timestamp="1525327685294">
         <mark key="[" line="46" column="76" />
@@ -1616,11 +1622,11 @@
       <jump line="64" column="28" filename="C:/code/video-capture-web/src/main/java/com/miras/vehicle/VideoServlet.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>slf</text>
       </register>
       <register name="/" type="4">
         <text>From</text>
@@ -1629,31 +1635,31 @@
         <text encoding="base64">ICAgICAgICAgICAgd3JpdGVKc29uUmVzcG9uc2UoSW1tdXRhYmxlTWFwLm9mKAogICAgICAgICAgICAgICAgICAgICJzdWNjZXNzIiwgZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgIm1zZyIsICJkZXZpY2UgY2FuIG5vdCBiZSBudWxsIgogICAgICAgICAgICApLCByZXNwKTsKICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib29sZWFuCg==</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNsZjRqPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5sb2c0ai1vdmVyLXNsZjRqPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjcuMjU8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib29sZWFuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi44LjI8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi44LjI8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYWN0aW9uID0gcGF0aFBhcmFtc1syXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcXVlcnlTdHJpbmcgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5kb0dldChyZXEsIHJlc3ApOwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNsZjRqPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zbGY0ai08L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuNy4yNTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib29sZWFuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>s/From/To/g</text>
