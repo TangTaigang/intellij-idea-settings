@@ -574,11 +574,11 @@
         <mark key="]" line="193" column="24" />
         <mark key="." line="193" column="24" />
       </file>
-      <file name="C:/code/video-capture-web/src/main/java/com/miras/vehicle/VideoServlet.java" timestamp="1526436608192">
-        <mark key="[" line="44" column="39" />
-        <mark key="]" line="44" column="40" />
-        <mark key="." line="44" column="40" />
-        <mark key="^" line="41" column="47" />
+      <file name="C:/code/video-capture-web/src/main/java/com/miras/vehicle/VideoServlet.java" timestamp="1526438082226">
+        <mark key="[" line="170" column="24" />
+        <mark key="]" line="170" column="26" />
+        <mark key="." line="170" column="26" />
+        <mark key="^" line="170" column="26" />
       </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/EzvizApplication.java" timestamp="1521014649897">
         <mark key="[" line="5" column="0" />
@@ -717,7 +717,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526436630410">
+      <file name="/Dummy.txt" timestamp="1526438174366">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -752,11 +752,11 @@
         <mark key="." line="21" column="59" />
         <mark key="^" line="26" column="74" />
       </file>
-      <file name="C:/code/video-capture-web/src/main/resources/log4j.properties" timestamp="1526436134837">
-        <mark key="[" line="24" column="31" />
-        <mark key="]" line="24" column="31" />
-        <mark key="." line="24" column="31" />
-        <mark key="^" line="24" column="31" />
+      <file name="C:/code/video-capture-web/src/main/resources/log4j.properties" timestamp="1526438159202">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="17" column="8" />
+        <mark key="." line="17" column="8" />
+        <mark key="^" line="17" column="8" />
       </file>
       <file name="C:/code/hftp/src/main/java/com/miras/hftp/HBaseOutputStream.java" timestamp="1515739767211">
         <mark key="[" line="14" column="37" />
@@ -1371,6 +1371,12 @@
         <mark key="]" line="30" column="77" />
         <mark key="." line="30" column="77" />
       </file>
+      <file name="C:/code/video-capture-web/src/main/java/com/miras/vehicle/CrossDomainFilter.java" timestamp="1526438417426">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="23" column="51" />
+      </file>
       <file name="/JSON Fragment (JttsService.java:12579).json" timestamp="1526283069955">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1495,11 +1501,11 @@
         <mark key="^" line="104" column="25" />
         <mark key="." line="104" column="25" />
       </file>
-      <file name="C:/code/video-capture-web/src/main/java/com/miras/vehicle/Capture.java" timestamp="1526434332929">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="9" column="27" />
-        <mark key="." line="9" column="27" />
-        <mark key="^" line="9" column="27" />
+      <file name="C:/code/video-capture-web/src/main/java/com/miras/vehicle/Capture.java" timestamp="1526438044918">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="10" column="27" />
+        <mark key="." line="10" column="27" />
+        <mark key="^" line="10" column="27" />
       </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/service/TokenService.java" timestamp="1522136248053">
         <mark key="[" line="49" column="17" />
@@ -1623,10 +1629,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXMuc2V0Q29udGVudFR5cGUoInRleHQvaHRtbDtjaGFyc2V0PVVURi04Iik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>slf</text>
+        <text>, OPTIONS, DELETE</text>
       </register>
       <register name="/" type="4">
         <text>From</text>
@@ -1635,31 +1641,31 @@
         <text encoding="base64">ICAgICAgICAgICAgd3JpdGVKc29uUmVzcG9uc2UoSW1tdXRhYmxlTWFwLm9mKAogICAgICAgICAgICAgICAgICAgICJzdWNjZXNzIiwgZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgIm1zZyIsICJkZXZpY2UgY2FuIG5vdCBiZSBudWxsIgogICAgICAgICAgICApLCByZXNwKTsKICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXMuc2V0Q29udGVudFR5cGUoInRleHQvaHRtbDtjaGFyc2V0PVVURi04Iik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNsZjRqPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5sb2c0ai1vdmVyLXNsZjRqPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjcuMjU8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGFpbi5kb0ZpbHRlcihyZXF1ZXN0LCByZXNwb25zZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi44LjI8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi44LjI8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNsZjRqPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zbGY0ai08L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuNy4yNTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib29sZWFuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/From/To/g</text>
