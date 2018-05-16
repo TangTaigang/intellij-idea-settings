@@ -574,11 +574,11 @@
         <mark key="]" line="193" column="24" />
         <mark key="." line="193" column="24" />
       </file>
-      <file name="C:/code/video-capture-web/src/main/java/com/miras/vehicle/VideoServlet.java" timestamp="1526438082226">
-        <mark key="[" line="170" column="24" />
-        <mark key="]" line="170" column="26" />
-        <mark key="." line="170" column="26" />
-        <mark key="^" line="170" column="26" />
+      <file name="C:/code/video-capture-web/src/main/java/com/miras/vehicle/VideoServlet.java" timestamp="1526439170708">
+        <mark key="[" line="158" column="9" />
+        <mark key="]" line="159" column="7" />
+        <mark key="." line="159" column="7" />
+        <mark key="^" line="159" column="7" />
       </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/EzvizApplication.java" timestamp="1521014649897">
         <mark key="[" line="5" column="0" />
@@ -717,7 +717,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526438174366">
+      <file name="/Dummy.txt" timestamp="1526439442388">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1628,11 +1628,11 @@
       <jump line="64" column="28" filename="C:/code/video-capture-web/src/main/java/com/miras/vehicle/VideoServlet.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXMuc2V0Q29udGVudFR5cGUoInRleHQvaHRtbDtjaGFyc2V0PVVURi04Iik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Capture</text>
       </register>
       <register name="-" type="4">
-        <text>, OPTIONS, DELETE</text>
+        <text>Capture</text>
       </register>
       <register name="/" type="4">
         <text>From</text>
