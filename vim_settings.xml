@@ -574,11 +574,11 @@
         <mark key="]" line="193" column="24" />
         <mark key="." line="193" column="24" />
       </file>
-      <file name="C:/code/video-capture-web/src/main/java/com/miras/vehicle/VideoServlet.java" timestamp="1526439170708">
-        <mark key="[" line="158" column="9" />
-        <mark key="]" line="159" column="7" />
-        <mark key="." line="159" column="7" />
-        <mark key="^" line="159" column="7" />
+      <file name="C:/code/video-capture-web/src/main/java/com/miras/vehicle/VideoServlet.java" timestamp="1526443431600">
+        <mark key="[" line="85" column="9" />
+        <mark key="]" line="86" column="35" />
+        <mark key="^" line="86" column="35" />
+        <mark key="." line="86" column="35" />
       </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/EzvizApplication.java" timestamp="1521014649897">
         <mark key="[" line="5" column="0" />
@@ -1371,11 +1371,11 @@
         <mark key="]" line="30" column="77" />
         <mark key="." line="30" column="77" />
       </file>
-      <file name="C:/code/video-capture-web/src/main/java/com/miras/vehicle/CrossDomainFilter.java" timestamp="1526438417426">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="23" column="51" />
+      <file name="C:/code/video-capture-web/src/main/java/com/miras/vehicle/CrossDomainFilter.java" timestamp="1526443085180">
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="26" column="10" />
+        <mark key="." line="26" column="10" />
+        <mark key="^" line="26" column="10" />
       </file>
       <file name="/JSON Fragment (JttsService.java:12579).json" timestamp="1526283069955">
         <mark key="[" line="0" column="0" />
@@ -1629,43 +1629,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Capture</text>
+        <text>fileName can not be null</text>
       </register>
       <register name="-" type="4">
-        <text>Capture</text>
+        <text>fileName can not be null</text>
       </register>
       <register name="/" type="4">
         <text>From</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVKc29uUmVzcG9uc2UoSW1tdXRhYmxlTWFwLm9mKAogICAgICAgICAgICAgICAgICAgICJzdWNjZXNzIiwgZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgIm1zZyIsICJkZXZpY2UgY2FuIG5vdCBiZSBudWxsIgogICAgICAgICAgICApLCByZXNwKTsKICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVKc29uUmVzcG9uc2UoSW1tdXRhYmxlTWFwLm9mKAogICAgICAgICAgICAgICAgICAgICJzdWNjZXNzIiwgZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgImNvZGUiLCA0MDUsCiAgICAgICAgICAgICAgICAgICAgIm1zZyIsICJmaWxlTmFtZSBjYW4gbm90IGJlIG51bGwiCiAgICAgICAgICAgICksIHJlc3ApOwogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXMuc2V0Q29udGVudFR5cGUoInRleHQvaHRtbDtjaGFyc2V0PVVURi04Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFpbi5kb0ZpbHRlcihyZXF1ZXN0LCByZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlTmFtZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZmlsZU5hbWUgPT0gKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/From/To/g</text>
