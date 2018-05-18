@@ -727,7 +727,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526439442388">
+      <file name="/Dummy.txt" timestamp="1526609526779">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -926,12 +926,11 @@
         <mark key="." line="11" column="39" />
         <mark key="^" line="11" column="39" />
       </file>
-      <file name="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" timestamp="1526355060424">
-        <mark key="'" line="368" column="64" />
-        <mark key="[" line="427" column="46" />
-        <mark key="]" line="427" column="48" />
-        <mark key="." line="427" column="48" />
-        <mark key="^" line="427" column="48" />
+      <file name="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" timestamp="1526609519491">
+        <mark key="[" line="397" column="0" />
+        <mark key="]" line="397" column="0" />
+        <mark key="." line="397" column="0" />
+        <mark key="^" line="395" column="27" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/dwd_first_in_city.sql" timestamp="1510821910353">
         <mark key="[" line="8" column="17" />
@@ -1648,10 +1647,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAocm9hZFRpbWV1c2UgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHJlc3VsdE1hcC5wdXQocG9pbnRGcm9tICsgIl8iICsgcG9pbnRUbywgLTFEKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>From</text>
@@ -1660,31 +1659,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5mdHBVc2VyID0gcHJvcGVydGllcy5nZXRQcm9wZXJ0eSgiZnRwLnVzZXIiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAocm9hZFRpbWV1c2UgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHJlc3VsdE1hcC5wdXQocG9pbnRGcm9tICsgIl8iICsgcG9pbnRUbywgLTFEKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLmFwYWNoZS5zcGFyay9zcGFyay1zdHJlYW1pbmcgLS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBidWZmZXJlZElucHV0U3RyZWFtLgo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLmFwYWNoZS5zcGFyay9zcGFyay1zdHJlYW1pbmcgLS0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmdHBDbGllbnQuc2V0VQo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmdHBDbGllbnQuCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9wZXJ0aWVzIHByb3BlcnRpZXMgPSBuZXcgUHJvcGVydGllcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBidWZmZXJlZElucHV0U3RyZWFtLgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/From/To/g</text>
