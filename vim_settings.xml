@@ -727,7 +727,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526610124521">
+      <file name="/Dummy.txt" timestamp="1526625056038">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1483,7 +1483,12 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="3" column="7" />
       </file>
-      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1526615434862" />
+      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1526624973482">
+        <mark key="[" line="64" column="50" />
+        <mark key="]" line="64" column="50" />
+        <mark key="." line="64" column="50" />
+        <mark key="^" line="64" column="25" />
+      </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/exception/DeviceBusyException.java" timestamp="1522131690010">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="15" />
@@ -1647,44 +1652,44 @@
       <jump line="64" column="28" filename="C:/code/video-capture-web/src/main/java/com/miras/vehicle/VideoServlet.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAocm9hZFRpbWV1c2UgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHJlc3VsdE1hcC5wdXQocG9pbnRGcm9tICsgIl8iICsgcG9pbnRUbywgLTFEKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>From</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5mdHBVc2VyID0gcHJvcGVydGllcy5nZXRQcm9wZXJ0eSgiZnRwLnVzZXIiKTsK</text>
+      <register name="0" type="4">
+        <text>max_threshold</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAocm9hZFRpbWV1c2UgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHJlc3VsdE1hcC5wdXQocG9pbnRGcm9tICsgIl8iICsgcG9pbnRUbywgLTFEKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID86IDYwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID86IDEwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID86MAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICIgICBhbmQgdGltZV91c2UgaXMgbm90IG51bGwiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiIHdoZXJlIGFkZHJlc3NfY29kZSBpcyBub3QgbnVsbCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLmFwYWNoZS5zcGFyay9zcGFyay1zdHJlYW1pbmcgLS0+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSksIDBMLCAzTCwgVGltZVVuaXQuTUlOVVRFUykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBidWZmZXJlZElucHV0U3RyZWFtLgo=</text>
+        <text encoding="base64">ICAgICAgICBsb2FkUHJvcGVydGllcygiYXBwbGljYXRpb24ucHJvcGVydGllcyIpLmxldCB7IHByb3BlcnRpZXMgLT4K</text>
       </register>
       <register name=":" type="4">
         <text>s/From/To/g</text>
