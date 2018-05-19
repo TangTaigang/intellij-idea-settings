@@ -186,6 +186,7 @@
         <mark key="]" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
+      <file name="C:/code/MDHTrafficRealtimeMonitor/src/main/resources/spring-context.xml" timestamp="1526716266548" />
       <file name="C:/code/druid-kafka/kafka-druid-stream/build.sh" timestamp="1511413798051">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
@@ -356,7 +357,7 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="C:/code/MDHTrafficRealtimeMonitor/src/main/production-resources/htsite.properties" timestamp="1526282048814">
+      <file name="C:/code/MDHTrafficRealtimeMonitor/src/main/production-resources/htsite.properties" timestamp="1526716285302">
         <mark key="[" line="23" column="4" />
         <mark key="]" line="23" column="5" />
         <mark key="^" line="23" column="5" />
@@ -520,6 +521,7 @@
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
+      <file name="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/common/jdbc/DynamicDataSource.java" timestamp="1526717049180" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/dist/run.sh" timestamp="1510975355119">
         <mark key="[" line="2" column="58" />
         <mark key="]" line="2" column="58" />
@@ -736,7 +738,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526710774230">
+      <file name="/Dummy.txt" timestamp="1526717581103">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -935,12 +937,12 @@
         <mark key="." line="2" column="109" />
         <mark key="^" line="2" column="109" />
       </file>
-      <file name="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" timestamp="1526710365279">
-        <mark key="'" line="123" column="48" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="65" />
-        <mark key="^" line="532" column="22" />
-        <mark key="." line="77" column="0" />
+      <file name="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" timestamp="1526717328141">
+        <mark key="'" line="60" column="22" />
+        <mark key="[" line="1196" column="37" />
+        <mark key="]" line="1196" column="53" />
+        <mark key="." line="1196" column="53" />
+        <mark key="^" line="1196" column="53" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/dwd_first_in_city.sql" timestamp="1510821910353">
         <mark key="[" line="8" column="17" />
@@ -1066,6 +1068,7 @@
         <mark key="." line="22" column="89" />
         <mark key="^" line="22" column="89" />
       </file>
+      <file name="C:/code/MDHTrafficRealtimeMonitor/src/main/resources/mybatis-config.xml" timestamp="1526717045775" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/production-resources/application.properties" timestamp="1511064121972">
         <mark key="[" line="17" column="14" />
         <mark key="]" line="17" column="15" />
@@ -1125,6 +1128,7 @@
         <mark key="^" line="20" column="26" />
         <mark key="." line="12" column="4" />
       </file>
+      <file name="/JttsService.java" timestamp="1526714123306" />
       <file name="C:/code/OnlineVehicle/OnlineVehicleHub/README.md" timestamp="1522213839447">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="2" column="15" />
@@ -1541,6 +1545,7 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.1.9.RELEASE/spring-jdbc-4.1.9.RELEASE.jar!/org/springframework/jdbc/datasource/lookup/AbstractRoutingDataSource.class" timestamp="1526716844922" />
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/service/TokenService.java" timestamp="1522136248053">
         <mark key="[" line="49" column="17" />
         <mark key="]" line="49" column="19" />
@@ -1560,15 +1565,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="0" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/TravelRoute.java" />
-      <jump line="188" column="27" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/pom.xml" />
-      <jump line="38" column="4" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/java/com/miras/data/bolt/FirstInCityChecker.java" />
-      <jump line="97" column="18" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/FootHoldByDayMR.java" />
-      <jump line="283" column="28" filename="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/dao/PhoenixDao.java" />
-      <jump line="72" column="0" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/java/com/miras/data/bolt/FirstInCityChecker.java" />
-      <jump line="126" column="42" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarRouteCombineMR.java" />
-      <jump line="12" column="0" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarRouteCombineMR.java" />
-      <jump line="23" column="13" filename="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/dao/PhoenixDao.java" />
       <jump line="58" column="34" filename="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/service/TravelService.java" />
       <jump line="68" column="31" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_graylist/src/main/java/com/miras/data/graylist/GrayListBolt.java" />
       <jump line="420" column="44" filename="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-streams/0.10.1.1/kafka-streams-0.10.1.1-sources.jar!/org/apache/kafka/streams/processor/TopologyBuilder.java" />
@@ -1660,46 +1656,55 @@
       <jump line="510" column="46" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
       <jump line="123" column="48" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
       <jump line="48" column="13" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/web/Home2Controller.java" />
+      <jump line="1072" column="16" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
+      <jump line="1260" column="47" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
+      <jump line="1190" column="28" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
+      <jump line="0" column="0" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
+      <jump line="1814" column="0" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
+      <jump line="118" column="0" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
+      <jump line="81" column="31" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
+      <jump line="1195" column="53" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
+      <jump line="60" column="22" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDbGFzcy5mb3JOYW1lKHByb3BlcnRpZXMuZ2V0UHJvcGVydHkoImpkYmMuZHJpdmVyIikpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>basicDataSource</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>basicDataSource</text>
       </register>
       <register name="/" type="4">
         <text>From</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGxhc3RDYXJBcHBlYXIgPSBDYWNoZUJ1aWxkZXIubmV3QnVpbGRlcigpCiAgICAgICAgICAgIC5leHBpcmVBZnRlcldyaXRlKDMwTCwgVGltZVVuaXQuTUlOVVRFUykKICAgICAgICAgICAgLmluaXRpYWxDYXBhY2l0eSgxMTAwKQogICAgICAgICAgICAuYnVpbGQ8U3RyaW5nLCBQYWlyPFN0cmluZywgTG9uZz4+KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRHluYW1pY0RhdGFTb3VyY2Uuc2V0ZGF0YVNvdXJjZU9uZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDbGFzcy5mb3JOYW1lKHByb3BlcnRpZXMuZ2V0UHJvcGVydHkoImpkYmMuZHJpdmVyIikpOwo=</text>
+        <text encoding="base64">YmFzaWNEYXRhU291cmNlCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ2xhc3MuZm9yTmFtZShwcm9wZXJ0aWVzLmdldFByb3BlcnR5KCJqZGJjLmRyaXZlciIpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2EK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5keW5hbWljRGF0YVNvdXJjZS5zZXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGFzaE1hcDxTdHJpbmcsIFJvYWRUaW1lVXNlPigxMDI0KQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGFzaFNldDxTdHJpbmc+KCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1hcCA9IAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRHluYW1pY0RhdGFTb3VyY2VIb2xkZXIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5keW5hbWljRGF0YVNvdXJjZS4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRHluYQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5keW5hbWljRGF0YVNvdXJjZS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQmFzaWNEYXRhU291cmNlIGJhc2ljRGF0YVNvdXJjZTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/From/To/g</text>
