@@ -83,7 +83,7 @@
         <mark key="]" line="9" column="29" />
         <mark key="." line="9" column="29" />
       </file>
-      <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/dao/PhoenixDao.java" timestamp="1526889670617">
+      <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/dao/PhoenixDao.java" timestamp="1526893372914">
         <mark key="[" line="454" column="0" />
         <mark key="]" line="454" column="0" />
         <mark key="." line="454" column="0" />
@@ -741,7 +741,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526720805351">
+      <file name="/Dummy.txt" timestamp="1526893920170">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1350,6 +1350,9 @@
         <mark key="^" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/BscMR.java" timestamp="1526893551157">
+        <mark key="'" line="77" column="32" />
+      </file>
       <file name="C:/code/camera-capture/pom.xml" timestamp="1522380047003">
         <mark key="[" line="11" column="19" />
         <mark key="]" line="11" column="32" />
@@ -1564,7 +1567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="420" column="44" filename="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-streams/0.10.1.1/kafka-streams-0.10.1.1-sources.jar!/org/apache/kafka/streams/processor/TopologyBuilder.java" />
       <jump line="281" column="48" filename="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-streams/0.10.1.1/kafka-streams-0.10.1.1-sources.jar!/org/apache/kafka/streams/processor/TopologyBuilder.java" />
       <jump line="30" column="29" filename="C:/code/kafka-druid-stream/src/main/kotlin/com/miras/data/KafkaDruidStreamApplication.kt" />
       <jump line="7" column="21" filename="C:/code/kafka-druid-stream/src/main/kotlin/com/miras/data/Entity.kt" />
@@ -1664,6 +1666,7 @@
       <jump line="60" column="22" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
       <jump line="305" column="21" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/web/Home2Controller.java" />
       <jump line="889" column="40" filename="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/nio/file/Files.java" />
+      <jump line="77" column="32" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/BscMR.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
