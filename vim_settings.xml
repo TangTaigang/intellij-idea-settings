@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/code/mdh_data_6in1api/src/main/resources/application.yml" timestamp="1524202251468">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="18" />
-        <mark key="." line="4" column="18" />
-        <mark key="^" line="4" column="18" />
+      <file name="C:/code/mdh_data_6in1api/src/main/resources/application.yml" timestamp="1526977052725">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
       </file>
       <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/resources/log4j.properties" timestamp="1522305524819">
         <mark key="[" line="16" column="17" />
@@ -180,6 +181,7 @@
         <mark key="." line="2" column="55" />
         <mark key="^" line="2" column="55" />
       </file>
+      <file name="C:/code/mdh_data_6in1api/pom.xml" timestamp="1526975918025" />
       <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/web/ESController.java" timestamp="1510629051734">
         <mark key="[" line="229" column="70" />
         <mark key="]" line="229" column="70" />
@@ -224,6 +226,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/production-resources/Config.properties" timestamp="1526977464067" />
       <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/pom.xml" timestamp="1513926201312">
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="0" />
@@ -280,9 +283,6 @@
         <mark key="." line="70" column="46" />
         <mark key="^" line="70" column="46" />
       </file>
-      <file name="/JSON Fragment (Application.java:396).json" timestamp="1525848755928">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/code/test/src/CsvTool.java" timestamp="1519972332566">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="13" />
@@ -313,7 +313,7 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
       </file>
-      <file name="C:/code/mdh_data_6in1api/src/main/resources/logback.xml" timestamp="1526974699848" />
+      <file name="C:/code/mdh_data_6in1api/src/main/resources/logback.xml" timestamp="1526976040769" />
       <file name="C:/code/kafka-druid-stream/src/main/resources/application.yml" timestamp="1511234299368">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -703,9 +703,6 @@
         <mark key="^" line="34" column="49" />
         <mark key="." line="34" column="49" />
       </file>
-      <file name="C:/code/druid-kafka/road-time-use-query/.gitignore" timestamp="1525857131881">
-        <mark key="[" line="1" column="5" />
-      </file>
       <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_image/src/main/java/com/miras/data/storm/ImageDownloadBolt.java" timestamp="1524121910675">
         <mark key="[" line="86" column="58" />
         <mark key="]" line="87" column="19" />
@@ -741,7 +738,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526893920170">
+      <file name="/Dummy.txt" timestamp="1526977449437">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -774,9 +771,6 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="17" column="17" />
-      </file>
-      <file name="C:/code/learn-spark/src/main/java/com/kischn/Applicaton.java" timestamp="1526537603767">
-        <mark key="[" line="2" column="21" />
       </file>
       <file name="C:/code/MDHTrafficMapReduce/day_hide_night_out.sql" timestamp="1510729661431">
         <mark key="[" line="25" column="3" />
@@ -819,9 +813,6 @@
         <mark key="]" line="28" column="73" />
         <mark key="." line="28" column="73" />
         <mark key="^" line="28" column="73" />
-      </file>
-      <file name="/fragment.java" timestamp="1526365705308">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/hftp/src/main/resources/log4j.properties" timestamp="1515735448047">
         <mark key="[" line="17" column="17" />
@@ -1227,6 +1218,12 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="29" />
       </file>
+      <file name="C:/code/mdh_data_6in1api/src/main/java/com/miras/data/api/mdh_data_6in1api/config/ServerProperty.java" timestamp="1526977423428">
+        <mark key="[" line="31" column="47" />
+        <mark key="]" line="32" column="3" />
+        <mark key="." line="32" column="3" />
+        <mark key="^" line="32" column="3" />
+      </file>
       <file name="C:/code/MDHTrafficMapReduce/road-timeuse/src/main/java/com/miras/mapreduce/CarRouteCombineMR.java" timestamp="1524620605828">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -1406,9 +1403,6 @@
         <mark key="^" line="26" column="10" />
       </file>
       <file name="C:/code/mdh_data_6in1api/src/main/java/com/miras/data/api/mdh_data_6in1api/ws/WsClient.java" timestamp="1526974059791" />
-      <file name="/JSON Fragment (JttsService.java:12579).json" timestamp="1526283069955">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/hive-sql-new.sql" timestamp="1511062243247">
         <mark key="[" line="16" column="22" />
         <mark key="]" line="16" column="22" />
@@ -1568,8 +1562,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="281" column="48" filename="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-streams/0.10.1.1/kafka-streams-0.10.1.1-sources.jar!/org/apache/kafka/streams/processor/TopologyBuilder.java" />
-      <jump line="30" column="29" filename="C:/code/kafka-druid-stream/src/main/kotlin/com/miras/data/KafkaDruidStreamApplication.kt" />
       <jump line="7" column="21" filename="C:/code/kafka-druid-stream/src/main/kotlin/com/miras/data/Entity.kt" />
       <jump line="65" column="22" filename="C:/code/kafka-druid-stream/src/main/kotlin/com/miras/data/KafkaDruidStreamApplication.kt" />
       <jump line="106" column="63" filename="C:/code/kafka-druid-stream/src/main/kotlin/com/miras/data/KafkaDruidStreamApplication.kt" />
@@ -1668,68 +1660,68 @@
       <jump line="305" column="21" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/web/Home2Controller.java" />
       <jump line="889" column="40" filename="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/nio/file/Files.java" />
       <jump line="77" column="32" filename="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/BscMR.java" />
+      <jump line="15" column="0" filename="C:/code/mdh_data_6in1api/src/main/resources/application.yml" />
+      <jump line="16" column="0" filename="C:/code/mdh_data_6in1api/src/main/resources/application.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJ1bmNoZWNrZWQiKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>From</text>
+        <text>9080</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJ1bmNoZWNrZWQiKQo=</text>
+        <text encoding="base64">MTAuMjMxLjQ5LjIwOTo5MDgwLDEwLjIzMS40OS4yMTA6OTA4MCwxMC4yMzEuNDkuMjExOjkwODAsMTAuMjMxLjQ5LjEzMjo5MDgwLDEwLjIzMS40OS4xMzM6OTA4MAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJ1bmNoZWNrZWQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJ1bmNoZWNrZWQiKQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJhbmRvbUludCA9IG5ldyBSYW5kb20oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJ1bmNoZWNrZWQiKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFN1cHByZXNzV2FybmluZ3MoInVuY2hlY2tlZCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBSYW5kb20gcmFuZG9tID0gbmV3IFJhbmRvbSgpOwogICAgICAgIHJhbmRvbS5uZXh0SW50KHBhc3NJbmZvVXBsb2FkU2VydmVycy5zaXplKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBAU3VwcHJlc3NXYXJuaW5ncygidW5jaGVja2VkIikK</text>
+        <text encoding="base64">ICAgICAgICBNYXRoLnIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBAU3VwcHJlc3NXYXJuaW5ncygidW5jaGVja2VkIikK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnVwbG9hZFBhc3NEYXRhV1NETFVSTCA9IHVwbG9hZFBhc3NEYXRhV1NETFVSTDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJ1bmNoZWNrZWQiKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHVwbG9hZFBhc3NEYXRhV1NETFVSTDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiZmkiICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICIiKTsK</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHt1cGxvYWRQYXNzRGF0YVdTRExVUkx9IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">MTAuMjMxLjQ5LjIxMDo5MDgwCg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/From/To/g</text>
+        <text>s/9080/9090/g</text>
       </register>
     </registers>
     <search>
-      <last-search>From</last-search>
+      <last-search>9080</last-search>
       <last-offset />
-      <last-pattern>From</last-pattern>
-      <last-replace>To</last-replace>
-      <last-substitute>From</last-substitute>
+      <last-pattern>9080</last-pattern>
+      <last-replace>9090</last-replace>
+      <last-substitute>9080</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>begin</entry>
         <entry>url</entry>
         <entry>userName</entry>
         <entry>Name</entry>
         <entry>mysql</entry>
-        <entry encoding="base64">IA==</entry>
         <entry>116</entry>
         <entry>1</entry>
         <entry>2</entry>
@@ -1744,10 +1736,10 @@
         <entry>stdTime</entry>
         <entry>\?</entry>
         <entry>From</entry>
+        <entry encoding="base64">IA==</entry>
+        <entry>9080</entry>
       </history-search>
       <history-cmd>
-        <entry>s/ /,/g</entry>
-        <entry>s/116/117/g</entry>
         <entry>s/116/170/g</entry>
         <entry>s/116/196/g</entry>
         <entry>s/1/2/g</entry>
@@ -1766,6 +1758,8 @@
         <entry>s/\?//g</entry>
         <entry>w</entry>
         <entry>s/From/To/g</entry>
+        <entry>s/ //g</entry>
+        <entry>s/9080/9090/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
