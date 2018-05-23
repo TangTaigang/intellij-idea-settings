@@ -421,7 +421,8 @@
         <mark key="." line="25" column="28" />
         <mark key="^" line="25" column="28" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_redis_hbase/pom.xml" timestamp="1510826828702">
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_redis_hbase/pom.xml" timestamp="1527059857976">
+        <mark key="'" line="65" column="11" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
@@ -739,7 +740,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527045755847">
+      <file name="/Dummy.txt" timestamp="1527059680736">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -815,6 +816,12 @@
         <mark key="]" line="28" column="73" />
         <mark key="." line="28" column="73" />
         <mark key="^" line="28" column="73" />
+      </file>
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_ab/pom.xml" timestamp="1527059862899">
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="13" column="27" />
+        <mark key="^" line="13" column="29" />
+        <mark key="." line="13" column="27" />
       </file>
       <file name="C:/code/hftp/src/main/resources/log4j.properties" timestamp="1515735448047">
         <mark key="[" line="17" column="17" />
@@ -903,11 +910,11 @@
         <mark key="]" line="9" column="2" />
         <mark key="." line="9" column="2" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_mq_hdfs/src/main/java/com/miras/data/passinf/Application.java" timestamp="1525233779244">
-        <mark key="[" line="33" column="36" />
-        <mark key="]" line="33" column="49" />
-        <mark key="." line="33" column="49" />
-        <mark key="^" line="33" column="49" />
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_mq_hdfs/src/main/java/com/miras/data/passinf/Application.java" timestamp="1527059672253">
+        <mark key="[" line="23" column="44" />
+        <mark key="]" line="23" column="66" />
+        <mark key="." line="23" column="66" />
+        <mark key="^" line="23" column="66" />
       </file>
       <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/kotlin/com/miras/data/Entity.kt" timestamp="1525771650856">
         <mark key="[" line="6" column="93" />
@@ -1062,6 +1069,12 @@
         <mark key="]" line="22" column="89" />
         <mark key="." line="22" column="89" />
         <mark key="^" line="22" column="89" />
+      </file>
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_ab/src/main/java/com/miras/data/passinf/Application.kt" timestamp="1527059911337">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="3" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/production-resources/application.properties" timestamp="1511064121972">
         <mark key="[" line="17" column="14" />
@@ -1570,7 +1583,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="63" filename="C:/code/kafka-druid-stream/src/main/kotlin/com/miras/data/KafkaDruidStreamApplication.kt" />
       <jump line="103" column="19" filename="C:/code/kafka-druid-stream/src/main/kotlin/com/miras/data/KafkaDruidStreamApplication.kt" />
       <jump line="50" column="90" filename="C:/code/kafka-druid-stream/src/main/kotlin/com/miras/data/Application.kt" />
       <jump line="11" column="0" filename="C:/code/kafka-druid-stream/src/main/kotlin/com/miras/data/Utils.kt" />
@@ -1670,19 +1682,20 @@
       <jump line="16" column="0" filename="C:/code/mdh_data_6in1api/src/main/resources/application.yml" />
       <jump line="14" column="0" filename="C:/code/mdh_data_6in1api/src/main/resources/application.yml" />
       <jump line="293" column="22" filename="C:/code/mdh_data_6in1api/src/main/java/com/miras/data/api/mdh_data_6in1api/ws/WsClient.java" />
+      <jump line="65" column="11" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_redis_hbase/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBmcm9tQWRkcmVzc0NvZGUgPSAK</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>path</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>9080</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTY2FuIHNjYW4gPSBuZXcgU2NhbigKICAgICAgICAgICAgICAgIEJ5dGVzLnRvQnl0ZXMoY2FyTnVtYmVyRnVsbCkK</text>
+        <text encoding="base64">ICAgIDxwcm9wZXJ0aWVzPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBmcm9tQWRkcmVzc0NvZGUgPSAK</text>
