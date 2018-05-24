@@ -187,6 +187,7 @@
         <mark key="]" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
+      <file name="C:/code/MDHTrafficDataJudgment/src/main/resources/htsite.properties" timestamp="1527144920792" />
       <file name="C:/code/druid-kafka/kafka-druid-stream/build.sh" timestamp="1511413798051">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
@@ -440,10 +441,17 @@
         <mark key="^" line="34" column="35" />
         <mark key="." line="34" column="35" />
       </file>
+      <file name="C:/code/MDHTrafficDataJudgment/src/main/production-resources/htsite.properties" timestamp="1527144933121" />
       <file name="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs_retry/src/main/java/com/miras/data/image/hdfs/RetryBolt.java" timestamp="1517809862441">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="53" />
         <mark key="." line="91" column="0" />
+      </file>
+      <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/entity/TravelPoint.java" timestamp="1527145926321">
+        <mark key="[" line="22" column="7" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="29" column="42" />
       </file>
       <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/src/main/resources/application.yaml" timestamp="1513922247960">
         <mark key="[" line="7" column="0" />
@@ -487,7 +495,7 @@
         <mark key="." line="28" column="58" />
         <mark key="^" line="28" column="58" />
       </file>
-      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarActivity288.java" timestamp="1510643628815">
+      <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarActivity288.java" timestamp="1527147268779">
         <mark key="[" line="105" column="91" />
         <mark key="]" line="105" column="91" />
         <mark key="^" line="105" column="91" />
@@ -515,7 +523,7 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
       </file>
-      <file name="C:/code/MDHTrafficMapReduce/src/main/production-resources/application.properties" timestamp="1510736867805">
+      <file name="C:/code/MDHTrafficMapReduce/src/main/production-resources/application.properties" timestamp="1527147183119">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="9" column="43" />
         <mark key="." line="9" column="43" />
@@ -741,7 +749,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527062044904">
+      <file name="/Dummy.txt" timestamp="1527146056891">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -793,6 +801,7 @@
         <mark key="." line="17" column="8" />
         <mark key="^" line="17" column="8" />
       </file>
+      <file name="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/webservice/DruidCon.java" timestamp="1527144662419" />
       <file name="C:/code/hftp/src/main/java/com/miras/hftp/HBaseOutputStream.java" timestamp="1515739767211">
         <mark key="[" line="14" column="37" />
         <mark key="]" line="14" column="36" />
@@ -1440,7 +1449,7 @@
         <mark key="." line="26" column="10" />
         <mark key="^" line="26" column="10" />
       </file>
-      <file name="C:/code/mdh_data_6in1api/src/main/java/com/miras/data/api/mdh_data_6in1api/ws/WsClient.java" timestamp="1527142516539">
+      <file name="C:/code/mdh_data_6in1api/src/main/java/com/miras/data/api/mdh_data_6in1api/ws/WsClient.java" timestamp="1527143493719">
         <mark key="'" line="292" column="22" />
         <mark key="[" line="367" column="0" />
         <mark key="]" line="367" column="0" />
@@ -1604,11 +1613,9 @@
         <mark key="." line="34" column="63" />
         <mark key="^" line="34" column="63" />
       </file>
+      <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/webservice/DruidCon.java" timestamp="1527144948095" />
     </filemarks>
     <jumps>
-      <jump line="25" column="13" filename="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-streams/0.10.0.0/kafka-streams-0.10.0.0-sources.jar!/org/apache/kafka/streams/processor/internals/SinkNode.java" />
-      <jump line="568" column="36" filename="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.0/kafka-clients-0.10.0.0-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java" />
-      <jump line="216" column="53" filename="C:/code/druid-kafka/kafka-druid-stream/src/main/kotlin/com/miras/data/Application.kt" />
       <jump line="16" column="0" filename="C:/code/test/src/Main.java" />
       <jump line="108" column="31" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/java/com/miras/data/passinf/image/PassinfImageBolt.java" />
       <jump line="55" column="43" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/java/com/miras/data/passinf/image/PassinfImageBolt.java" />
@@ -1706,63 +1713,65 @@
       <jump line="61" column="0" filename="C:/code/druid-kafka/kafka-druid-ab/src/main/kotlin/com/miras/data/Entity.kt" />
       <jump line="156" column="37" filename="C:/code/mdh_data_6in1api/src/main/java/com/miras/data/api/mdh_data_6in1api/controller/ApiController.java" />
       <jump line="133" column="6" filename="C:/code/mdh_data_6in1api/src/main/java/com/miras/data/api/mdh_data_6in1api/controller/ApiController.java" />
+      <jump line="48" column="0" filename="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/service/TravelService.java" />
+      <jump line="25" column="3" filename="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/service/TravelService.java" />
+      <jump line="107" column="24" filename="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/service/TravelService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>matches</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIOadg+mHjSArIDEK</text>
       </register>
       <register name="-" type="4">
-        <text>matches</text>
+        <text>weight == null ? count : weight + count</text>
       </register>
       <register name="/" type="4">
-        <text>9080</text>
+        <text>from</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY2FyTnVtYmVyUGF0dGVybiA9ICIiIlx3ezYsfSIiIi50b1JlZ2V4KCkK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGluY3JlYXNlV2VpZ2h0KFN0cmluZyBhZGRyZXNzQ29kZSkgewogICAgICAgIEludGVnZXIgd2VpZ2h0ID0gdGhpcy53ZWlnaHRzLmdldChhZGRyZXNzQ29kZSk7CiAgICAgICAgdGhpcy53ZWlnaHRzLnB1dChhZGRyZXNzQ29kZSwgd2VpZ2h0ID09IG51bGwgPyAxIDogd2VpZ2h0ICsgMSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIOadg+mHjSArIDEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1hdGNoZXMoIumygVkzNzFLMSIpKQo=</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHdlaWdodCA9IHRoaXMud2VpZ2h0cy5nZXQoYWRkcmVzc0NvZGUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGxhc3RQb2ludCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYXN0UG9pbnQuZ2V0Q2hpbGQoKS5wdXQoYWRkcmVzc0NvZGUsIHRyYXZlbFBvaW50KTsgLy8g5Yqg5Yiw54i26IqC54K55LiL6Z2iCiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhc3RQb2ludC5pbmNyZWFzZVdlaWdodChhZGRyZXNzQ29kZSk7IC8vIOadg+mHjSArIDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFyZXN1bHQuaXNFbXB0eSgpKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgKFRhYmxlIHRhYmxlID0gY29ubmVjdGlvbi5nZXRUYWJsZShUUkFWRUxfUEFUSF9UQUJMRSkpIHsKICAgICAgICAgICAgUmVzdWx0IHJlc3VsdCA9IHRhYmxlLmdldChnZXQpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInJlc3VsdD0+IiArIHJlc3VsdCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY29sbGVjdGlvbkRhdGUgPSBzcGxpdFtQYXNzSW5mb0ZpZWxkLkRDT0xMRUNUSU9OREFURS5vcmRpbmFsXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAganNvbk9iamVjdAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHN0ZExlbmd0aCA9ICJ5eXl5LU1NLWRkIEhIOm1tOnNzIi5sZW5ndGgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzb25BcnJheS5nZXRKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/9080/9090/g</text>
+        <text>s/from/to/g</text>
       </register>
     </registers>
     <search>
-      <last-search>9080</last-search>
+      <last-search>from</last-search>
       <last-offset />
-      <last-pattern>9080</last-pattern>
-      <last-replace>9090</last-replace>
-      <last-substitute>9080</last-substitute>
+      <last-pattern>from</last-pattern>
+      <last-replace>to</last-replace>
+      <last-substitute>from</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>url</entry>
         <entry>userName</entry>
         <entry>Name</entry>
         <entry>mysql</entry>
@@ -1782,9 +1791,9 @@
         <entry>From</entry>
         <entry encoding="base64">IA==</entry>
         <entry>9080</entry>
+        <entry>from</entry>
       </history-search>
       <history-cmd>
-        <entry>s/116/170/g</entry>
         <entry>s/116/196/g</entry>
         <entry>s/1/2/g</entry>
         <entry>s/2/3/g</entry>
@@ -1804,6 +1813,7 @@
         <entry>s/From/To/g</entry>
         <entry>s/ //g</entry>
         <entry>s/9080/9090/g</entry>
+        <entry>s/from/to/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
