@@ -1449,8 +1449,8 @@
         <mark key="." line="26" column="10" />
         <mark key="^" line="26" column="10" />
       </file>
-      <file name="C:/code/mdh_data_6in1api/src/main/java/com/miras/data/api/mdh_data_6in1api/ws/WsClient.java" timestamp="1527155020226">
-        <mark key="'" line="292" column="22" />
+      <file name="C:/code/mdh_data_6in1api/src/main/java/com/miras/data/api/mdh_data_6in1api/ws/WsClient.java" timestamp="1527209174185">
+        <mark key="'" line="669" column="52" />
         <mark key="[" line="367" column="0" />
         <mark key="]" line="367" column="0" />
         <mark key="." line="367" column="0" />
@@ -1617,7 +1617,6 @@
       <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/webservice/DruidCon.java" timestamp="1527144948095" />
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="C:/code/test/src/Main.java" />
       <jump line="108" column="31" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/java/com/miras/data/passinf/image/PassinfImageBolt.java" />
       <jump line="55" column="43" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/java/com/miras/data/passinf/image/PassinfImageBolt.java" />
       <jump line="95" column="22" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/java/com/miras/data/passinf/image/PassinfImageBolt.java" />
@@ -1717,6 +1716,7 @@
       <jump line="48" column="0" filename="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/service/TravelService.java" />
       <jump line="25" column="3" filename="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/service/TravelService.java" />
       <jump line="107" column="24" filename="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/service/TravelService.java" />
+      <jump line="669" column="52" filename="C:/code/mdh_data_6in1api/src/main/java/com/miras/data/api/mdh_data_6in1api/ws/WsClient.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
