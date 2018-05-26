@@ -913,6 +913,12 @@
         <mark key="." line="3" column="56" />
         <mark key="^" line="3" column="56" />
       </file>
+      <file name="C:/code/shanghefenghui/TrafficSplitflowDruid/pom.xml" timestamp="1527314711608">
+        <mark key="[" line="60" column="21" />
+        <mark key="]" line="63" column="36" />
+        <mark key="." line="63" column="36" />
+        <mark key="^" line="63" column="36" />
+      </file>
       <file name="C:/code/test/src/NumberConvert.java" timestamp="1519137263271">
         <mark key="[" line="26" column="9" />
         <mark key="]" line="26" column="14" />
@@ -1437,6 +1443,12 @@
         <mark key="." line="6" column="69" />
         <mark key="^" line="6" column="69" />
       </file>
+      <file name="C:/code/shanghefenghui/TrafficSplitflowDruid/src/test/java/test/DemoTest.java" timestamp="1527315279165">
+        <mark key="[" line="35" column="37" />
+        <mark key="]" line="35" column="44" />
+        <mark key="." line="35" column="44" />
+        <mark key="^" line="35" column="44" />
+      </file>
       <file name="C:/code/ht-encrypt/src/main/java/com/miras/webencrypt/HtServletOutputStream.java" timestamp="1526367012705">
         <mark key="[" line="9" column="56" />
         <mark key="]" line="11" column="78" />
@@ -1721,44 +1733,44 @@
       <jump line="43" column="41" filename="C:/code/shanghefenghui/TrafficSplitflowDruid/src/main/resources/split-flow.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBrYWZrYVByb2R1Y2VyLgo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>from</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25mLnB1dChQcm9kdWNlckNvbmZpZy5CT09UU1RSQVBfU0VSVkVSU19DT05GSUcsICJoYWRvb3AxOjY2NjcsaGFkb29wMjo2NjY3LGhhZG9vcDM6NjY2NyxoYWRvb3A0OjY2NjciKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLnvJblj7c856m65qC8Pui9pumBk+WPtzznqbrmoLw+5pa55ZCROiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBrYWZrYVByb2R1Y2VyLgo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIue8luWPtyzmlrnlkJE6Iik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBrYWZrYVByb2R1Y2VyLnNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhWzExXSA9IHNwbGl0WzJdOyAvLyDmlrnlkJEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhWzldID0gc2ltcGxlRGF0ZUZvcm1hdC5mb3JtYXQobmV3IERhdGUoKSk7IC8vIOi/h+i9puaXpeacnwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBrYWZrYVByb2R1Y2VyLgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25mLnB1dChQcm9kdWNlckNvbmZpZy4sICJoYWRvb3AxOjY2NjcsaGFkb29wMjo2NjY3LGhhZG9vcDM6NjY2NyxoYWRvb3A0OjY2NjciKTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hc3NlcnRqLmNvcmUudXRpbC5TdHJpbmdzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25mLnB1dChQcikK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9kdWNlckNvbmZpZyBwcm9kdWNlckNvbmZpZyA9IG5ldyBQcm9kdWNlckNvbmZpZyhudWxsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9kdWNlckNvbmZpZy5tYWluKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFbMTFdID0gc3BsaXRbMV07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
