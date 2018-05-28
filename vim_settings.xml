@@ -112,6 +112,12 @@
         <mark key="." line="12" column="10" />
         <mark key="^" line="12" column="10" />
       </file>
+      <file name="C:/code/shanghefenghui/TrafficSplitflowDruid/src/main/java/com/ht/trafficsplit/TrafficSplitflowDruidApplication.java" timestamp="1527493952121">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="15" column="33" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="C:/code/kischn-data-flow/src/main/kotlin/me/kischn/dataflow/kischndataflow/consumer/Consumers.kt" timestamp="1515399958950">
         <mark key="[" line="3" column="25" />
         <mark key="]" line="3" column="39" />
@@ -222,6 +228,7 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="C:/code/shanghefenghui/TrafficSplitflowDruid/src/test/java/com/ht/trafficsplit/DemoTest.java" timestamp="1527494643899" />
       <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-common/pom.xml" timestamp="1522389514283">
         <mark key="[" line="40" column="21" />
         <mark key="]" line="46" column="0" />
@@ -305,7 +312,7 @@
         <mark key="." line="70" column="46" />
         <mark key="^" line="70" column="46" />
       </file>
-      <file name="/DemoTest.java" timestamp="1527489893199" />
+      <file name="/DemoTest.java" timestamp="1527494637795" />
       <file name="C:/code/test/src/CsvTool.java" timestamp="1519972332566">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="13" />
@@ -573,6 +580,7 @@
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
+      <file name="C:/code/shanghefenghui/TrafficSplitflowDruid/src/main/java/com/ht/trafficsplit/service/DataProcessService.java" timestamp="1527494626650" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/dist/run.sh" timestamp="1510975355119">
         <mark key="[" line="2" column="58" />
         <mark key="]" line="2" column="58" />
@@ -786,7 +794,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527492400791">
+      <file name="/Dummy.txt" timestamp="1527494673242">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/controller/DeviceController.java" timestamp="1522140705088">
@@ -928,11 +936,11 @@
         <mark key="." line="3" column="56" />
         <mark key="^" line="3" column="56" />
       </file>
-      <file name="C:/code/shanghefenghui/TrafficSplitflowDruid/pom.xml" timestamp="1527314711608">
-        <mark key="[" line="60" column="21" />
-        <mark key="]" line="63" column="36" />
-        <mark key="." line="63" column="36" />
-        <mark key="^" line="63" column="36" />
+      <file name="C:/code/shanghefenghui/TrafficSplitflowDruid/pom.xml" timestamp="1527494029241">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="22" />
+        <mark key="." line="16" column="22" />
+        <mark key="^" line="57" column="36" />
       </file>
       <file name="C:/code/test/src/NumberConvert.java" timestamp="1519137263271">
         <mark key="[" line="26" column="9" />
@@ -1585,6 +1593,12 @@
         <mark key="^" line="2" column="45" />
         <mark key="." line="2" column="45" />
       </file>
+      <file name="C:/code/shanghefenghui/TrafficSplitflowDruid/src/test/java/com/ht/trafficsplit/JunitTest.java" timestamp="1527494410403">
+        <mark key="[" line="2" column="58" />
+        <mark key="]" line="2" column="61" />
+        <mark key="." line="2" column="61" />
+        <mark key="^" line="2" column="61" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1522031994641">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="7" />
@@ -1761,11 +1775,11 @@
       <jump line="474" column="11" filename="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/HashMap.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaW1hZ2UtdXBsb2FkZXIK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>producer</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>from</text>
@@ -1774,31 +1788,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJlcGFyZWRTdGF0ZW1lbnQuc2V0U3RyaW5nKDEsIHZpbi5yZXBsYWNlQWxsKCJcXHMrIiwgIiIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaW1hZ2UtdXBsb2FkZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIG5vZGUxOjY2Njcsbm9kZTI6NjY2Nyxub2RlMzo2NjY3LG5vZGU0OjY2NjcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJvb3RzdHJhcC1zZXZlcnM6IDEwLjAuNS4xMDE6NjY2Nwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGluKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNsaWVudElkOiBjbGllbnQtMTEKICAgIGdyb3VwLWlkOiBnLTEK</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMDApOwogICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIE9iamVjdCBQcm9kdWNlckNvbmZpZyA9IDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4ga2Fma2FDb25maWcgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgICAgIGthZmthQ29uZmlnLnB1dChQcm9kdWNlckNvbmZpZy5CT09UU1RSQVBfU0VSVkVSU19DT05GSUcsICIxMC4wLjUuMTAxOjY2NjcsMTAuMC41LjEwMjo2NjY3LDEwLjAuNS4xMDM6NjY2NywxMC4wLjUuMTA0OjY2NjciKTsKICAgICAgICAgICAga2Fma2FDb25maWcucHV0KFByb2R1Y2VyQ29uZmlnLktFWV9TRVJJQUxJWkVSX0NMQVNTX0NPTkZJRywgU3RyaW5nU2VyaWFsaXplci5jbGFzcyk7CiAgICAgICAgICAgIGthZmthQ29uZmlnLnB1dChQcm9kdWNlckNvbmZpZy5WQUxVRV9TRVJJQUxJWkVSX0NMQVNTX0NPTkZJRywgU3RyaW5nU2VyaWFsaXplci5jbGFzcyk7CiAgICAgICAgICAgIGthZmthQ29uZmlnLnB1dChQcm9kdWNlckNvbmZpZy5DTElFTlRfSURfQ09ORklHLCAic3BsaXQtIiArIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKTsKCiAgICAgICAgICAgIEthZmthUHJvZHVjZXI8U3RyaW5nLCBTdHJpbmc+IGthZmthUHJvZHVjZXIgPSBuZXcgS2Fma2FQcm9kdWNlcjw+KGthZmthQ29uZmlnKTsKCiAgICAgICAgICAgIFNjYW5uZXIgc2Nhbm5lciA9IG5ldyBTY2FubmVyKFN5c3RlbS5pbik7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi57yW5Y+3POepuuagvD7ovabpgZPlj7c856m65qC8PuaWueWQkToiKTsKCiAgICAgICAgICAgIC8vIOWGr+agvOW6hCAyIOi9pumBkyAg55Sx5YyX5ZCR5Y2XCiAgICAgICAgICAgIC8vIDEwMjA0MDEwNDQwMCAyIDMKICAgICAgICAgICAgU2ltcGxlRGF0ZUZvcm1hdCBzaW1wbGVEYXRlRm9ybWF0ID0gbmV3IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQgSEg6bW06c3MiKTsKCiAgICAgICAgICAgIFN0cmluZ1tdIGRhdGEgPSBuZXcgU3RyaW5nWzMwXTsKICAgICAgICAgICAgd2hpbGUgKHNjYW5uZXIuaGFzTmV4dCgpKSB7CiAgICAgICAgICAgICAgICBTdHJpbmcgbmV4dExpbmUgPSBzY2FubmVyLm5leHRMaW5lKCk7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIGlmIChTdHJpbmdVdGlscy5pc05vdEJsYW5rKG5leHRMaW5lKSkgewogICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmdbXSBzcGxpdCA9IG5leHRMaW5lLnNwbGl0KCIgIik7CiAgICAgICAgICAgICAgICAgICAgICAgIGRhdGFbM10gPSBzcGxpdFswXTsgIC8vIOi3r+WPo+e8luWPtwogICAgICAgICAgICAgICAgICAgICAgICBkYXRhWzRdID0gInRzIiArIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIDsgIC8vIOi3r+WPo+WQjeensCjpmo/kvr/lhpnkuIDkuKrlgLwpCiAgICAgICAgICAgICAgICAgICAgICAgIGRhdGFbN10gPSBzcGxpdFsxXTsgIC8vIOi9pumBk+WPtwogICAgICAgICAgICAgICAgICAgICAgICBkYXRhWzExXSA9IHNwbGl0WzJdOyAvLyDmlrnlkJEKICAgICAgICAgICAgICAgICAgICAgICAgZGF0YVs5XSA9IHNpbXBsZURhdGVGb3JtYXQuZm9ybWF0KG5ldyBEYXRlKCkpOyAvLyDov4fovabml6XmnJ8KICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGRhdGFUb1NlbmQgPSBTdHJpbmdVdGlscy5qb2luKGRhdGEsICcsJyk7CiAgICAgICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihkYXRhVG9TZW5kKTsKICAgICAgICAgICAgICAgICAgICAgICAga2Fma2FQcm9kdWNlci5zZW5kKG5ldyBQcm9kdWNlclJlY29yZDw+KCJNREhfUEFTU0lORl9TSEZIIiwgZGF0YVRvU2VuZCkpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi57yW5Y+3POepuuagvD7ovabpgZPlj7c856m65qC8PuaWueWQkToiKTsKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRGF0YVByb2Nlc3NTZXJ2aWNlIGRhdGFQcm9jZXNzU2VydmljZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
