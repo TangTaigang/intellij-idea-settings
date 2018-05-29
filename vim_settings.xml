@@ -229,7 +229,13 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="C:/code/shanghefenghui/TrafficSplitflowDruid/src/test/java/com/ht/trafficsplit/DemoTest.java" timestamp="1527494643899" />
+      <file name="C:/code/shanghefenghui/TrafficSplitflowDruid/src/test/java/com/ht/trafficsplit/DemoTest.java" timestamp="1527582478759">
+        <mark key="'" line="50" column="29" />
+        <mark key="[" line="53" column="45" />
+        <mark key="]" line="53" column="72" />
+        <mark key="." line="53" column="72" />
+        <mark key="^" line="53" column="72" />
+      </file>
       <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-common/pom.xml" timestamp="1522389514283">
         <mark key="[" line="40" column="21" />
         <mark key="]" line="46" column="0" />
@@ -795,7 +801,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527494673242">
+      <file name="/Dummy.txt" timestamp="1527582488453">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/controller/DeviceController.java" timestamp="1522140705088">
@@ -937,11 +943,10 @@
         <mark key="." line="3" column="56" />
         <mark key="^" line="3" column="56" />
       </file>
-      <file name="C:/code/shanghefenghui/TrafficSplitflowDruid/pom.xml" timestamp="1527494029241">
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="16" column="22" />
-        <mark key="." line="16" column="22" />
-        <mark key="^" line="57" column="36" />
+      <file name="C:/code/shanghefenghui/TrafficSplitflowDruid/pom.xml" timestamp="1527582339145">
+        <mark key="[" line="81" column="21" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="C:/code/test/src/NumberConvert.java" timestamp="1519137263271">
         <mark key="[" line="26" column="9" />
@@ -1674,7 +1679,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/code/kischn-data-flow/src/main/kotlin/me/kischn/dataflow/kischndataflow/DataFlowService.kt" />
       <jump line="82" column="43" filename="C:/code/kischn-data-flow/src/main/kotlin/me/kischn/dataflow/kischndataflow/DataFlowService.kt" />
       <jump line="57" column="48" filename="C:/code/kischn-data-flow/src/main/kotlin/me/kischn/dataflow/kischndataflow/DataFlowService.kt" />
       <jump line="85" column="0" filename="C:/code/kischn-data-flow/src/main/kotlin/me/kischn/dataflow/kischndataflow/DataFlowService.kt" />
@@ -1774,63 +1778,63 @@
       <jump line="0" column="0" filename="C:/code/shanghefenghui/TrafficSplitflowDruid/src/main/resources/split-flow.json" />
       <jump line="94" column="42" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/OnlineVehicleIn.java" />
       <jump line="474" column="11" filename="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/HashMap.java" />
+      <jump line="50" column="29" filename="C:/code/shanghefenghui/TrafficSplitflowDruid/src/test/java/com/ht/trafficsplit/DemoTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>from</text>
+        <text>i</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJlcGFyZWRTdGF0ZW1lbnQuc2V0U3RyaW5nKDEsIHZpbi5yZXBsYWNlQWxsKCJcXHMrIiwgIiIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFUb1NlbmQucHV0KCJ0aW1lIiwgc2ltcGxlRGF0ZUZvcm1hdC5mb3JtYXQobmV3IERhdGUoKSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGluKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoKQo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5jb21tb25zPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5jb21tb25zLWNvbGxlY3Rpb25zNDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+NC4xPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXJEYXRhTGlzdC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMDApOwogICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3RNYQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRGF0YVByb2Nlc3NTZXJ2aWNlIGRhdGFQcm9jZXNzU2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFUb1NlbmQucHV0KCIiKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>s/i/j/g</text>
       </register>
     </registers>
     <search>
-      <last-search>from</last-search>
+      <last-search>i</last-search>
       <last-offset />
-      <last-pattern>from</last-pattern>
-      <last-replace>to</last-replace>
-      <last-substitute>from</last-substitute>
+      <last-pattern>i</last-pattern>
+      <last-replace>j</last-replace>
+      <last-substitute>i</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>userName</entry>
         <entry>Name</entry>
         <entry>mysql</entry>
         <entry>116</entry>
@@ -1850,9 +1854,9 @@
         <entry encoding="base64">IA==</entry>
         <entry>9080</entry>
         <entry>from</entry>
+        <entry>i</entry>
       </history-search>
       <history-cmd>
-        <entry>s/116/196/g</entry>
         <entry>s/1/2/g</entry>
         <entry>s/2/3/g</entry>
         <entry>s/\\//g</entry>
@@ -1872,6 +1876,7 @@
         <entry>s/9080/9090/g</entry>
         <entry>s/from/to/g</entry>
         <entry>w</entry>
+        <entry>s/i/j/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
