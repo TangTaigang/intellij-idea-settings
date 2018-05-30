@@ -881,10 +881,11 @@
         <mark key="^" line="20" column="101" />
         <mark key="." line="20" column="101" />
       </file>
-      <file name="C:/code/shanghefenghui/TrafficSplitflowHub/src/main/kotlin/com/ht/trafficSplitflowHub/TrafficSplitflowHubApplication.kt" timestamp="1527659566438">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="C:/code/shanghefenghui/TrafficSplitflowHub/src/main/kotlin/com/ht/trafficSplitflowHub/TrafficSplitflowHubApplication.kt" timestamp="1527661010740">
+        <mark key="[" line="28" column="31" />
+        <mark key="]" line="28" column="34" />
+        <mark key="." line="28" column="34" />
+        <mark key="^" line="28" column="34" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/java/com/miras/data/Application.java" timestamp="1510830546040">
         <mark key="[" line="28" column="72" />
@@ -1792,44 +1793,44 @@
       <jump line="50" column="29" filename="C:/code/shanghefenghui/TrafficSplitflowDruid/src/test/java/com/ht/trafficsplit/DemoTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgaSA9IDI7CiAgICAgICAgZm9yKGkgPSAyOyBpIDwgZGF0YS5sZW5ndGg7IGkrPTIpIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>length</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>length</text>
       </register>
       <register name="/" type="4">
         <text>i</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFUb1NlbmQucHV0KCJ0aW1lIiwgc2ltcGxlRGF0ZUZvcm1hdC5mb3JtYXQobmV3IERhdGUoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHNwZWVkID0gZGF0YVsyICsgaV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgaSA9IDI7CiAgICAgICAgZm9yKGkgPSAyOyBpIDwgZGF0YS5sZW5ndGg7IGkrPTIpIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoaSsrIDwgZGF0YS5sZW5ndGgpIHsKICAgICAgICAgICAgdmFyIAogICAgICAgICAgICBwcmludGxuKCkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaSArKzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoKGkgPCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGkgPCBkYXRhLmxlbmd0aDsgaSsrKQo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhQ291bnQudGkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGkpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IoaSBpbiAyLi5kYXRhLmxlbmd0aCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhLgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JpICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgaSA9IDI7CiAgICAgICAgZm9yKGkgPSAyOyBpIDwgZGF0YS5sZW5ndGg7IGkrPTIpIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/i/j/g</text>
