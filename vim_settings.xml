@@ -801,7 +801,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527643852727">
+      <file name="/Dummy.txt" timestamp="1527663899587">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/controller/DeviceController.java" timestamp="1522140705088">
@@ -881,11 +881,11 @@
         <mark key="^" line="20" column="101" />
         <mark key="." line="20" column="101" />
       </file>
-      <file name="C:/code/shanghefenghui/TrafficSplitflowHub/src/main/kotlin/com/ht/trafficSplitflowHub/TrafficSplitflowHubApplication.kt" timestamp="1527661010740">
-        <mark key="[" line="28" column="31" />
-        <mark key="]" line="28" column="34" />
-        <mark key="." line="28" column="34" />
-        <mark key="^" line="28" column="34" />
+      <file name="C:/code/shanghefenghui/TrafficSplitflowHub/src/main/kotlin/com/ht/trafficSplitflowHub/TrafficSplitflowHubApplication.kt" timestamp="1527663734502">
+        <mark key="'" line="44" column="37" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="62" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/java/com/miras/data/Application.java" timestamp="1510830546040">
         <mark key="[" line="28" column="72" />
@@ -1691,7 +1691,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="43" filename="C:/code/kischn-data-flow/src/main/kotlin/me/kischn/dataflow/kischndataflow/DataFlowService.kt" />
       <jump line="57" column="48" filename="C:/code/kischn-data-flow/src/main/kotlin/me/kischn/dataflow/kischndataflow/DataFlowService.kt" />
       <jump line="85" column="0" filename="C:/code/kischn-data-flow/src/main/kotlin/me/kischn/dataflow/kischndataflow/DataFlowService.kt" />
       <jump line="287" column="8" filename="C:/code/hdfs-over-ftp/src/main/java/org/apache/hadoop/contrib/ftp/HdfsFileObject.java" />
@@ -1791,46 +1790,47 @@
       <jump line="94" column="42" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/OnlineVehicleIn.java" />
       <jump line="474" column="11" filename="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/HashMap.java" />
       <jump line="50" column="29" filename="C:/code/shanghefenghui/TrafficSplitflowDruid/src/test/java/com/ht/trafficsplit/DemoTest.java" />
+      <jump line="31" column="37" filename="C:/code/shanghefenghui/TrafficSplitflowHub/src/main/kotlin/com/ht/trafficSplitflowHub/TrafficSplitflowHubApplication.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>length</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhVG9TZW5kWyJtZXNzYWdlSWQiXSA9IFVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>length</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>i</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHNwZWVkID0gZGF0YVsyICsgaV0K</text>
+        <text encoding="base64">ICAgICAgICBkYXRhVG9TZW5kWyJtZXNzYWdlSWQiXSA9IFVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhVG9TZW5kWyJtZXNzYWdlSWQiXSA9IFVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkYQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IGRhdGEgPSBuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhQ291bnQudGkK</text>
+        <text encoding="base64">ICAgICAgICBsb2coLikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IoaSBpbiAyLi5kYXRhLmxlbmd0aCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHNwbGl0KQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">PgogICAg</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgaSA9IDI7CiAgICAgICAgZm9yKGkgPSAyOyBpIDwgZGF0YS5sZW5ndGg7IGkrPTIpIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/i/j/g</text>
