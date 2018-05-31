@@ -993,11 +993,12 @@
         <mark key="." line="23" column="66" />
         <mark key="^" line="23" column="66" />
       </file>
-      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/kotlin/com/miras/data/Entity.kt" timestamp="1525771650856">
-        <mark key="[" line="6" column="93" />
-        <mark key="]" line="6" column="98" />
-        <mark key="." line="6" column="98" />
-        <mark key="^" line="6" column="98" />
+      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/kotlin/com/miras/data/Entity.kt" timestamp="1527753055087">
+        <mark key="'" line="6" column="49" />
+        <mark key="[" line="6" column="50" />
+        <mark key="]" line="7" column="57" />
+        <mark key="." line="7" column="57" />
+        <mark key="^" line="7" column="57" />
       </file>
       <file name="C:/code/hftp/src/main/java/com/miras/hftp/Application.java" timestamp="1515980594376">
         <mark key="[" line="15" column="0" />
@@ -1619,6 +1620,12 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="3" column="7" />
       </file>
+      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1527753346373">
+        <mark key="[" line="121" column="63" />
+        <mark key="]" line="121" column="66" />
+        <mark key="^" line="121" column="66" />
+        <mark key="." line="121" column="66" />
+      </file>
       <file name="$USER_HOME$/Downloads/demo/src/main/java/com/ht/demo/DemoApplication.java" timestamp="1527492261481">
         <mark key="[" line="15" column="62" />
         <mark key="]" line="15" column="61" />
@@ -1686,7 +1693,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="12" filename="C:/code/hftp/src/main/java/com/miras/hftp/HBaseUtils.java" />
       <jump line="97" column="11" filename="$MAVEN_REPOSITORY$/org/apache/ftpserver/ftpserver-core/1.1.1/ftpserver-core-1.1.1-sources.jar!/org/apache/ftpserver/impl/DefaultFtpServerContext.java" />
       <jump line="49" column="12" filename="C:/code/imagemr/pom.xml" />
       <jump line="27" column="18" filename="C:/code/imagemr/src/main/java/Application.java" />
@@ -1786,57 +1792,58 @@
       <jump line="56" column="54" filename="C:/code/shanghefenghui/TrafficSplitflowHub/src/main/kotlin/com/ht/trafficSplitflowHub/TrafficSplitflowHubApplication.kt" />
       <jump line="2" column="0" filename="C:/code/shanghefenghui/TrafficSplitflowHub/src/main/kotlin/com/ht/trafficSplitflowHub/TrafficSplitflowHubApplication.kt" />
       <jump line="35" column="27" filename="C:/code/shanghefenghui/TrafficSplitflowHub/src/main/kotlin/com/ht/trafficSplitflowHub/TrafficSplitflowHubApplication.kt" />
+      <jump line="6" column="49" filename="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/kotlin/com/miras/data/Entity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>art</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>art</text>
       </register>
       <register name="/" type="4">
-        <text>i</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRlRm9ybWF0dGVyID0gU2ltcGxlRGF0ZUZvcm1hdCgieXl5eU1NZGRISG1tc3MiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBkYXRlRm9ybWF0dGVySW4gPSBTaW1wbGVEYXRlRm9ybWF0KCJ5eXl5TU1kZEhIbW1zcyIpCgogICAgdmFsIGRhdGVGb3JtYXR0ZXJPdXQgPSBTaW1wbGVEYXRlRm9ybWF0KCJ5eXl5LU1NLWRkIEhIOm1tOnNzIikKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGVGb3JtYXR0ZXJPdXQuZm9ybWF0KGRhdGVGb3JtYXR0ZXJJbi5wYXJzZSh0cykpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBkYXRlRm9ybWF0dGVySW4gPSBTaW1wbGVEYXRlRm9ybWF0KCJ5eXl5TU1kZEhIbW1zcyIpCgogICAgdmFsIGRhdGVGb3JtYXR0ZXJPdXQgPSBTaW1wbGVEYXRlRm9ybWF0KCJ5eXl5LU1NLWRkIEhIOm1tOnNzIikKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNwbGl0WzFdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGVGb3JtYXR0ZXJPdXQuZm9ybWF0KGRhdGVGb3JtYXR0ZXJJbi5wYXJzZSh0cykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oInNwZWVkOiRzcGVlZCxkaXJlY3Rpb246JGRpcmVjdGlvbiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNwbGl0WzFdCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oInNwZWVkOiRzcGVlZCxkaXJlY3Rpb246JGRpcmVjdGlvbiIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oInNwZWVkOiRzcGVlZCxkaXJlY3Rpb246JGRpcmVjdGlvbiIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YVRvU2VuZFsibWVzc2FnZUlkIl0gPSBVVUlELnJhbmRvbVVVSUQoKS50b1N0cmluZygpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzcGxpdFsyXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YVRvU2VuZFsibWVzc2FnZUlkIl0gPSBVVUlELnJhbmRvbVVVSUQoKS50b1N0cmluZygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZGF0YVRvU2VuZCA9IEhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzcGxpdFsyXQo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/i/j/g</text>
+        <text>s/,/\n,/g</text>
       </register>
     </registers>
     <search>
-      <last-search>i</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern>i</last-pattern>
-      <last-replace>j</last-replace>
-      <last-substitute>i</last-substitute>
+      <last-pattern>,</last-pattern>
+      <last-replace>\n,</last-replace>
+      <last-substitute>,</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1853,7 +1860,6 @@
         <entry>Map</entry>
         <entry>s/to/from/g</entry>
         <entry>from.</entry>
-        <entry>,</entry>
         <entry>Start</entry>
         <entry>stdTime</entry>
         <entry>\?</entry>
@@ -1862,9 +1868,9 @@
         <entry>9080</entry>
         <entry>from</entry>
         <entry>i</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
-        <entry>s/1/2/g</entry>
         <entry>s/2/3/g</entry>
         <entry>s/\\//g</entry>
         <entry>s/8/0/g</entry>
@@ -1884,6 +1890,7 @@
         <entry>s/from/to/g</entry>
         <entry>w</entry>
         <entry>s/i/j/g</entry>
+        <entry>s/,/\n,/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
