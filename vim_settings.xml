@@ -881,8 +881,8 @@
         <mark key="^" line="20" column="101" />
         <mark key="." line="20" column="101" />
       </file>
-      <file name="C:/code/shanghefenghui/TrafficSplitflowHub/src/main/kotlin/com/ht/trafficSplitflowHub/TrafficSplitflowHubApplication.kt" timestamp="1527726882001">
-        <mark key="'" line="2" column="0" />
+      <file name="C:/code/shanghefenghui/TrafficSplitflowHub/src/main/kotlin/com/ht/trafficSplitflowHub/TrafficSplitflowHubApplication.kt" timestamp="1527727154505">
+        <mark key="'" line="35" column="27" />
         <mark key="[" line="47" column="19" />
         <mark key="]" line="47" column="18" />
         <mark key="." line="47" column="18" />
@@ -1698,7 +1698,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="8" filename="C:/code/hdfs-over-ftp/src/main/java/org/apache/hadoop/contrib/ftp/HdfsFileObject.java" />
       <jump line="46" column="12" filename="C:/code/hftp/src/main/java/com/miras/hftp/HBaseUtils.java" />
       <jump line="97" column="11" filename="$MAVEN_REPOSITORY$/org/apache/ftpserver/ftpserver-core/1.1.1/ftpserver-core-1.1.1-sources.jar!/org/apache/ftpserver/impl/DefaultFtpServerContext.java" />
       <jump line="49" column="12" filename="C:/code/imagemr/pom.xml" />
@@ -1798,6 +1797,7 @@
       <jump line="31" column="37" filename="C:/code/shanghefenghui/TrafficSplitflowHub/src/main/kotlin/com/ht/trafficSplitflowHub/TrafficSplitflowHubApplication.kt" />
       <jump line="56" column="54" filename="C:/code/shanghefenghui/TrafficSplitflowHub/src/main/kotlin/com/ht/trafficSplitflowHub/TrafficSplitflowHubApplication.kt" />
       <jump line="2" column="0" filename="C:/code/shanghefenghui/TrafficSplitflowHub/src/main/kotlin/com/ht/trafficSplitflowHub/TrafficSplitflowHubApplication.kt" />
+      <jump line="35" column="27" filename="C:/code/shanghefenghui/TrafficSplitflowHub/src/main/kotlin/com/ht/trafficSplitflowHub/TrafficSplitflowHubApplication.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
