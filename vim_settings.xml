@@ -123,7 +123,7 @@
         <mark key="^" line="5" column="14" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" timestamp="1527824586663" />
+      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" timestamp="1527837004177" />
       <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/web/IllegalDataController.java" timestamp="1527230785752">
         <mark key="'" line="61" column="17" />
         <mark key="[" line="75" column="56" />
@@ -179,12 +179,12 @@
         <mark key="^" line="355" column="42" />
         <mark key="." line="355" column="42" />
       </file>
-      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" timestamp="1527824653092">
-        <mark key="'" line="188" column="42" />
-        <mark key="[" line="202" column="70" />
-        <mark key="]" line="203" column="39" />
-        <mark key="^" line="203" column="39" />
-        <mark key="." line="203" column="39" />
+      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" timestamp="1527839282830">
+        <mark key="'" line="252" column="65" />
+        <mark key="[" line="124" column="22" />
+        <mark key="]" line="124" column="23" />
+        <mark key="^" line="124" column="23" />
+        <mark key="." line="124" column="23" />
       </file>
       <file name="C:/code/shanghefenghui/TrafficSplitflowDruid/src/test/java/com/ht/trafficsplit/DemoTest.java" timestamp="1527641041688">
         <mark key="'" line="50" column="29" />
@@ -669,7 +669,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527824006245">
+      <file name="/Dummy.txt" timestamp="1527836641327">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -758,9 +758,6 @@
         <mark key="]" line="28" column="73" />
         <mark key="." line="28" column="73" />
         <mark key="^" line="28" column="73" />
-      </file>
-      <file name="/fragment.java" timestamp="1527642066730">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_ab/pom.xml" timestamp="1527059862899">
         <mark key="[" line="13" column="26" />
@@ -1136,9 +1133,12 @@
         <mark key="^" line="9" column="35" />
         <mark key="." line="9" column="35" />
       </file>
-      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/entity/ABStdTimeUse.java" timestamp="1527821533222">
-        <mark key="[" line="16" column="0" />
-        <mark key="^" line="8" column="18" />
+      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/entity/ABStdTimeUse.java" timestamp="1527836759981">
+        <mark key="'" line="7" column="13" />
+        <mark key="[" line="90" column="5" />
+        <mark key="]" line="16" column="28" />
+        <mark key="^" line="16" column="28" />
+        <mark key="." line="16" column="28" />
       </file>
       <file name="C:/code/mdh_data_6in1api/src/main/resources/mapper/datadb61/VehicleDao.xml" timestamp="1527124251553">
         <mark key="[" line="9" column="37" />
@@ -1365,11 +1365,11 @@
         <mark key="." line="200" column="0" />
         <mark key="^" line="199" column="65" />
       </file>
-      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/entity/ABTimeUse.java" timestamp="1527818886325">
-        <mark key="[" line="3" column="3" />
-        <mark key="]" line="4" column="9" />
-        <mark key="^" line="4" column="9" />
-        <mark key="." line="4" column="9" />
+      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/entity/ABTimeUse.java" timestamp="1527837802202">
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="15" column="23" />
+        <mark key="^" line="15" column="23" />
+        <mark key="." line="15" column="23" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/java/com/miras/data/bolt/DataRoute.java" timestamp="1510975520329">
         <mark key="[" line="43" column="9" />
@@ -1425,6 +1425,7 @@
         <mark key="^" line="25" column="40" />
         <mark key="." line="25" column="40" />
       </file>
+      <file name="/druid-query-crow.json" timestamp="1527834831109" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_graylist/src/main/java/com/miras/data/graylist/GrayListDao.java" timestamp="1511328933005">
         <mark key="[" line="6" column="3" />
         <mark key="]" line="7" column="20" />
@@ -1455,11 +1456,11 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/resources/druid-query-crow.json" timestamp="1527823207012">
-        <mark key="[" line="29" column="22" />
-        <mark key="]" line="29" column="23" />
-        <mark key="." line="29" column="23" />
-        <mark key="^" line="29" column="23" />
+      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/resources/druid-query-crow.json" timestamp="1527837725895">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="24" column="20" />
+        <mark key="^" line="24" column="23" />
       </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/service/TokenService.java" timestamp="1522136248053">
         <mark key="[" line="49" column="17" />
@@ -1475,9 +1476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="0" filename="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs/pom.xml" />
-      <jump line="91" column="8" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_adaptor/src/main/java/com/miras/data/passinf/adaptor/utils/DataAdaptor.java" />
-      <jump line="92" column="8" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_adaptor/src/main/java/com/miras/data/passinf/adaptor/utils/DataAdaptor.java" />
       <jump line="0" column="0" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_adaptor/src/main/production-resources/application.properties" />
       <jump line="11" column="4" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_common/src/main/java/com/miras/data/passinf/common/utils/HostMappingUtil.java" />
       <jump line="15" column="23" filename="C:/code/MDH_DATA/mdh_data_kafka_storm_image/src/main/production-resources/kafka2phoenix.properties" />
@@ -1575,46 +1573,49 @@
       <jump line="101" column="31" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
       <jump line="165" column="37" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
       <jump line="188" column="42" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
+      <jump line="35" column="0" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/entity/ABStdTimeUse.java" />
+      <jump line="7" column="13" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/entity/ABStdTimeUse.java" />
+      <jump line="241" column="65" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganNvbkFycmF5LmZvckVhY2gocmVjb3JkIC0+IHsKICAgICAgICAgICAgfSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1bmlxdWVEZXZpY2VJZHNTdHIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiSU5TRVJUIElOVE8gQ1JPV19JTkRFWF9ERVRBSUwiICsKICAgICAgICAgICAgICAgICAgICAiICAoU1VCSkVDVF9JRCwgR1JPVVBfSUQsIFRTLCBDTlQsIEFWR19ERUxBWSwgQVZHX1RVLCBgTEVWRUxgLCBDUk9XX0lOREVYKSIgKwogICAgICAgICAgICAgICAgICAgICIgU0VMRUNUIFNVQkpFQ1RfSUQsIFRTLCBTVU0oQ05UKSwgU1VNKEFWR19ERUxBWSAqIENOVCkgLyBTVU0oQ05UKSwgU1VNKEFWR19UVSAqIENOVCkgLyBTVU0oQ05UKSwgMiwgQVZHKENST1dfSU5ERVgpIiArCiAgICAgICAgICAgICAgICAgICAgIiBGUk9NIENST1dfSU5ERVhfREVUQUlMIiArCiAgICAgICAgICAgICAgICAgICAgIiBXSEVSRSBTVUJKRUNUX0lEID0gPyBBTkQgdHMgPSA/IiArCiAgICAgICAgICAgICAgICAgICAgIiBHUk9VUCBCWSBTVUJKRUNUX0lELCBHUk9VUF9JRCI7CiAgICAgICAgICAgIHRyeSAoUHJlcGFyZWRTdGF0ZW1lbnQgc3ViamVjdFN0YXRlbWVudCA9IGNvbm5lY3Rpb24ucHJlcGFyZVN0YXRlbWVudChjYWxjU3ViamVjdFNRTCkpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganNvbkFycmF5LmZvckVhY2gocmVjb3JkIC0+IHsKICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IChQcmVwYXJlZFN0YXRlbWVudCBzdWJqZWN0U3RhdGVtZW50ID0gY29ubmVjdGlvbi5wcmVwYXJlU3RhdGVtZW50KGNhbGNTdWJqZWN0U1FMKSkgewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY29yZC5qcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBuID0gMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBuID0gMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEh0dHBDbGllbnRzLmNyZWF0ZURlZmF1bHQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3FsID0gIiI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDbG9zZWFibGVIdHRwQ2xpZW50IGNsaWVudCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjYWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDbG9zZWFibGVIdHRwQ2xpZW50IGNsaWVudCA9IEh0dHBDbGllbnRzLmNyZWF0ZURlZmF1bHQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBkZWxheSA9IGFiVGltZVVzZS5nZXRUdSgpIC0gc3RkVGltZVVzZS5nZXRBdmdUaW1lVXNlKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVzcENvbnRlbnQgPSAiIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzb25BcnJheQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/,/,\r/g</text>
@@ -1653,7 +1654,6 @@
         <entry>,</entry>
       </history-search>
       <history-cmd>
-        <entry>s/2/3/g</entry>
         <entry>s/\\//g</entry>
         <entry>s/8/0/g</entry>
         <entry>wq</entry>
@@ -1672,6 +1672,7 @@
         <entry>w</entry>
         <entry>s/i/j/g</entry>
         <entry>s/,/\n,/g</entry>
+        <entry>s/,/\r,/g</entry>
         <entry>s/,/,\r/g</entry>
       </history-cmd>
       <history-expr />
