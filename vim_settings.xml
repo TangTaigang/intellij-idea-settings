@@ -179,12 +179,12 @@
         <mark key="^" line="355" column="42" />
         <mark key="." line="355" column="42" />
       </file>
-      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" timestamp="1527840472982">
-        <mark key="'" line="252" column="65" />
-        <mark key="[" line="136" column="36" />
-        <mark key="]" line="136" column="36" />
-        <mark key="^" line="138" column="24" />
-        <mark key="." line="136" column="36" />
+      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" timestamp="1527844535236">
+        <mark key="'" line="222" column="44" />
+        <mark key="[" line="68" column="73" />
+        <mark key="]" line="68" column="75" />
+        <mark key="." line="68" column="75" />
+        <mark key="^" line="68" column="75" />
       </file>
       <file name="C:/code/shanghefenghui/TrafficSplitflowDruid/src/test/java/com/ht/trafficsplit/DemoTest.java" timestamp="1527641041688">
         <mark key="'" line="50" column="29" />
@@ -669,7 +669,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527840616881">
+      <file name="/Dummy.txt" timestamp="1527844547696">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1476,8 +1476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_adaptor/src/main/production-resources/application.properties" />
-      <jump line="11" column="4" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_common/src/main/java/com/miras/data/passinf/common/utils/HostMappingUtil.java" />
       <jump line="15" column="23" filename="C:/code/MDH_DATA/mdh_data_kafka_storm_image/src/main/production-resources/kafka2phoenix.properties" />
       <jump line="16" column="0" filename="C:/code/MDH_DATA/mdh_data_kafka_storm_image/src/main/production-resources/kafka2phoenix.properties" />
       <jump line="17" column="0" filename="C:/code/MDH_DATA/mdh_data_kafka_storm_image/src/main/production-resources/kafka2phoenix.properties" />
@@ -1576,63 +1574,64 @@
       <jump line="35" column="0" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/entity/ABStdTimeUse.java" />
       <jump line="7" column="13" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/entity/ABStdTimeUse.java" />
       <jump line="241" column="65" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
+      <jump line="169" column="86" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
+      <jump line="215" column="44" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>avg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>avg</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>\t</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiICAgVFMsIiArCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlcGFyZWRTdGF0ZW1lbnQuc2V0VGltZXN0YW1wKDEsIG5ldyBUaW1lc3RhbXAoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiICAgMCwiICsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFByZXBhcmVkU3RhdGVtZW50IHByZXBhcmVkU3RhdGVtZW50ID0gY29ubmVjdGlvbi5wcmVwYXJlU3RhdGVtZW50KCIiKSkgewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IChQcmVwYXJlZFN0YXRlbWVudCBzdWJqZWN0U3RhdGVtZW50ID0gY29ubmVjdGlvbi5wcmVwYXJlU3RhdGVtZW50KGNhbGNTdWJqZWN0U1FMKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YVNvdXJjZS5zZXRkYXRhU291cmNlT25lKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBuID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBuID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3FsID0gIiI7Cg==</text>
+        <text encoding="base64">ICAgIEAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiICAgMCwiICsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjYWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IChQcmVwYXJlZFN0YXRlbWVudCBzdWJqZWN0U3RhdGVtZW50ID0gY29ubmVjdGlvbi5wcmVwYXJlU3RhdGVtZW50KGNhbGNTdWJqZWN0U1FMKSkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBuID0gMDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBkZWxheSA9IGFiVGltZVVzZS5nZXRUdSgpIC0gc3RkVGltZVVzZS5nZXRBdmdUaW1lVXNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBuID0gMDsK</text>
       </register>
       <register name=":" type="4">
-        <text>s/,/,\r/g</text>
+        <text>s/\t/ /g</text>
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>\t</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
-      <last-replace>,\r</last-replace>
-      <last-substitute>,</last-substitute>
+      <last-pattern>\t</last-pattern>
+      <last-replace encoding="base64">IA==</last-replace>
+      <last-substitute>\t</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Name</entry>
         <entry>mysql</entry>
         <entry>116</entry>
         <entry>1</entry>
@@ -1652,9 +1651,9 @@
         <entry>from</entry>
         <entry>i</entry>
         <entry>,</entry>
+        <entry>\t</entry>
       </history-search>
       <history-cmd>
-        <entry>s/\\//g</entry>
         <entry>s/8/0/g</entry>
         <entry>wq</entry>
         <entry>q</entry>
@@ -1674,6 +1673,7 @@
         <entry>s/,/\n,/g</entry>
         <entry>s/,/\r,/g</entry>
         <entry>s/,/,\r/g</entry>
+        <entry>s/\t/ /g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
