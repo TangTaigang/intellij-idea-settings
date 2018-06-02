@@ -675,7 +675,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527919519668">
+      <file name="/Dummy.txt" timestamp="1527920215917">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1603,10 +1603,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y3Jvd0luZGV4ICA=</text>
+        <text>修改 timestamp 导致的日期范围不准问题，改用 java.sql.Date</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y3Jvd0luZGV4ICA=</text>
+        <text>修改 timestamp 导致的日期范围不准问题，改用 java.sql.Date</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
