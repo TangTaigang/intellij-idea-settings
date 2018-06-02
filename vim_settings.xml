@@ -179,12 +179,12 @@
         <mark key="^" line="355" column="42" />
         <mark key="." line="355" column="42" />
       </file>
-      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" timestamp="1527918172006">
+      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" timestamp="1527919163686">
         <mark key="'" line="36" column="13" />
-        <mark key="[" line="313" column="84" />
-        <mark key="]" line="313" column="84" />
-        <mark key="." line="313" column="84" />
-        <mark key="^" line="313" column="84" />
+        <mark key="[" line="408" column="45" />
+        <mark key="]" line="408" column="53" />
+        <mark key="." line="408" column="53" />
+        <mark key="^" line="408" column="53" />
       </file>
       <file name="C:/code/shanghefenghui/TrafficSplitflowDruid/src/test/java/com/ht/trafficsplit/DemoTest.java" timestamp="1527641041688">
         <mark key="'" line="50" column="29" />
@@ -675,10 +675,10 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527918346731">
+      <file name="/Dummy.txt" timestamp="1527919091854">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/controller/DeviceController.java" timestamp="1522140705088">
         <mark key="[" line="30" column="58" />
@@ -1602,10 +1602,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>表添加 路段 id、设备 id、 检查点 id</text>
+        <text>丁天路把 enabled 值理解反了，所以只能继续反着用了，目前是 0 是开启  1 是关闭</text>
       </register>
       <register name="-" type="4">
-        <text>表添加 路段 id、设备 id、 检查点 id</text>
+        <text>丁天路把 enabled 值理解反了，所以只能继续反着用了，目前是 0 是开启  1 是关闭</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
