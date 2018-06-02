@@ -179,12 +179,12 @@
         <mark key="^" line="355" column="42" />
         <mark key="." line="355" column="42" />
       </file>
-      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" timestamp="1527912207133">
+      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" timestamp="1527918172006">
         <mark key="'" line="36" column="13" />
-        <mark key="[" line="233" column="107" />
-        <mark key="]" line="233" column="108" />
-        <mark key="." line="233" column="108" />
-        <mark key="^" line="244" column="53" />
+        <mark key="[" line="313" column="84" />
+        <mark key="]" line="313" column="84" />
+        <mark key="." line="313" column="84" />
+        <mark key="^" line="313" column="84" />
       </file>
       <file name="C:/code/shanghefenghui/TrafficSplitflowDruid/src/test/java/com/ht/trafficsplit/DemoTest.java" timestamp="1527641041688">
         <mark key="'" line="50" column="29" />
@@ -675,10 +675,10 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527910466005">
+      <file name="/Dummy.txt" timestamp="1527918346731">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/controller/DeviceController.java" timestamp="1522140705088">
         <mark key="[" line="30" column="58" />
@@ -764,6 +764,9 @@
         <mark key="]" line="28" column="73" />
         <mark key="." line="28" column="73" />
         <mark key="^" line="28" column="73" />
+      </file>
+      <file name="/fragment.java" timestamp="1527917983757">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_ab/pom.xml" timestamp="1527059862899">
         <mark key="[" line="13" column="26" />
@@ -1598,11 +1601,11 @@
       <jump line="37" column="187" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/entity/ABStdTimeUse.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>表添加 路段 id、设备 id、 检查点 id</text>
       </register>
       <register name="-" type="4">
-        <text>cpid</text>
+        <text>表添加 路段 id、设备 id、 检查点 id</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -1611,19 +1614,19 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0U2V0LmdldEludCgiY3BpZCIpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0U2V0LmdldEludCgiIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0U2V0LmdldEludCgiIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0U2V0LmdldEludCgiYWRkcl9pZCIpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0U2V0LmdldEludCgiYWRkcl9pZCIpLAo=</text>
@@ -1635,7 +1638,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0U2V0LmdldEludCgiYWRkcl9pZCIpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdG9BZGRyZXNzQ29kZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0U2V0LmdldEludCgiYWRkcl9pZCIpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/,/,\r/g</text>
