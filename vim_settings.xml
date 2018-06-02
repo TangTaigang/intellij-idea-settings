@@ -675,7 +675,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527919091854">
+      <file name="/Dummy.txt" timestamp="1527919519668">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1424,11 +1424,12 @@
         <mark key="^" line="15" column="61" />
         <mark key="." line="15" column="61" />
       </file>
-      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/entity/CrowIndexData.java" timestamp="1527902615839">
+      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/entity/CrowIndexData.java" timestamp="1527920196550">
         <mark key="'" line="20" column="154" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+        <mark key="[" line="100" column="15" />
+        <mark key="]" line="100" column="15" />
+        <mark key="." line="100" column="15" />
+        <mark key="^" line="100" column="24" />
       </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/exception/DeviceBusyException.java" timestamp="1522131690010">
         <mark key="[" line="7" column="15" />
@@ -1602,10 +1603,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>丁天路把 enabled 值理解反了，所以只能继续反着用了，目前是 0 是开启  1 是关闭</text>
+        <text encoding="base64">Y3Jvd0luZGV4ICA=</text>
       </register>
       <register name="-" type="4">
-        <text>丁天路把 enabled 值理解反了，所以只能继续反着用了，目前是 0 是开启  1 是关闭</text>
+        <text encoding="base64">Y3Jvd0luZGV4ICA=</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
