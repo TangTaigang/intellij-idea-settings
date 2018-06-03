@@ -123,6 +123,9 @@
         <mark key="^" line="5" column="14" />
         <mark key="." line="5" column="15" />
       </file>
+      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" timestamp="1527992225229">
+        <mark key="'" line="395" column="33" />
+      </file>
       <file name="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/web/IllegalDataController.java" timestamp="1527230785752">
         <mark key="'" line="61" column="17" />
         <mark key="[" line="75" column="56" />
@@ -178,12 +181,12 @@
         <mark key="^" line="355" column="42" />
         <mark key="." line="355" column="42" />
       </file>
-      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" timestamp="1527991434523">
-        <mark key="'" line="131" column="0" />
-        <mark key="[" line="440" column="37" />
-        <mark key="]" line="440" column="46" />
-        <mark key="^" line="440" column="46" />
-        <mark key="." line="440" column="46" />
+      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" timestamp="1527994178808">
+        <mark key="'" line="122" column="39" />
+        <mark key="[" line="90" column="28" />
+        <mark key="]" line="90" column="29" />
+        <mark key="^" line="98" column="78" />
+        <mark key="." line="90" column="29" />
       </file>
       <file name="C:/code/shanghefenghui/TrafficSplitflowDruid/src/test/java/com/ht/trafficsplit/DemoTest.java" timestamp="1527641041688">
         <mark key="'" line="50" column="29" />
@@ -1275,6 +1278,7 @@
         <mark key="^" line="28" column="34" />
         <mark key="." line="28" column="34" />
       </file>
+      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/resources/htsite.properties" timestamp="1527993851059" />
       <file name="C:/code/covering-plate-image-uploader/src/main/kotlin/com/miras/data/coveringplateimageuploader/CoveringPlateImageUploaderApplication.kt" timestamp="1513909580192">
         <mark key="[" line="21" column="41" />
         <mark key="]" line="21" column="40" />
@@ -1501,11 +1505,11 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/resources/druid-query-crow.json" timestamp="1527837725895">
+      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/resources/druid-query-crow.json" timestamp="1527993929492">
         <mark key="[" line="8" column="18" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="24" column="20" />
-        <mark key="^" line="24" column="23" />
+        <mark key="]" line="8" column="32" />
+        <mark key="." line="8" column="32" />
+        <mark key="^" line="8" column="32" />
       </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/service/TokenService.java" timestamp="1522136248053">
         <mark key="[" line="49" column="17" />
@@ -1521,9 +1525,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="70" filename="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/service/DeviceService.java" />
-      <jump line="120" column="53" filename="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/service/DeviceService.java" />
-      <jump line="37" column="47" filename="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/service/DeviceService.java" />
       <jump line="146" column="48" filename="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/service/DeviceService.java" />
       <jump line="11" column="21" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/resources/application.properties" />
       <jump line="49" column="18" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/FtpCopier.java" />
@@ -1621,13 +1622,16 @@
       <jump line="66" column="0" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
       <jump line="452" column="47" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
       <jump line="131" column="0" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
+      <jump line="395" column="33" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
+      <jump line="450" column="46" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
+      <jump line="122" column="39" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>querySubject</text>
+        <text>+00:00</text>
       </register>
       <register name="-" type="4">
-        <text>querySubject</text>
+        <text>+00:00</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
