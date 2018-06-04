@@ -193,8 +193,8 @@
         <mark key="^" line="355" column="42" />
         <mark key="." line="355" column="42" />
       </file>
-      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" timestamp="1528076629247">
-        <mark key="'" line="122" column="39" />
+      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" timestamp="1528076728827">
+        <mark key="'" line="343" column="39" />
         <mark key="[" line="353" column="45" />
         <mark key="]" line="353" column="45" />
         <mark key="^" line="353" column="45" />
@@ -1532,7 +1532,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="27" filename="C:/code/MDHTrafficMapReduce/huagonglu/src/main/java/com/miras/mapreduce/Huagonglu.java" />
       <jump line="43" column="12" filename="C:/code/MDHTrafficMapReduce/car-route-timerange/src/main/java/com/miras/mapreduce/car/CarRouteCombineMR.java" />
       <jump line="31" column="19" filename="C:/code/druid-kafka/road-time-use-query/src/main/java/Application.kt" />
       <jump line="112" column="26" filename="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/kotlin/com/miras/data/DruidPassinfo.kt" />
@@ -1632,6 +1631,7 @@
       <jump line="783" column="20" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/RoadService.java" />
       <jump line="784" column="20" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/RoadService.java" />
       <jump line="12" column="0" filename="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
+      <jump line="343" column="39" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
