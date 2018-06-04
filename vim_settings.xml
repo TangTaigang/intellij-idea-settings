@@ -712,7 +712,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528089154269">
+      <file name="/Dummy.txt" timestamp="1528091602636">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1427,11 +1427,11 @@
         <mark key="^" line="4" column="63" />
         <mark key="." line="4" column="63" />
       </file>
-      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/resources/mappings/modules/traffic_monitor/MonitorPointMapper.xml" timestamp="1528083442578">
-        <mark key="[" line="175" column="8" />
-        <mark key="]" line="175" column="13" />
-        <mark key="." line="175" column="13" />
-        <mark key="^" line="175" column="13" />
+      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/resources/mappings/modules/traffic_monitor/MonitorPointMapper.xml" timestamp="1528091083159">
+        <mark key="[" line="165" column="8" />
+        <mark key="]" line="165" column="13" />
+        <mark key="." line="165" column="13" />
+        <mark key="^" line="165" column="13" />
       </file>
       <file name="C:/code/hftp/src/main/java/com/miras/hftp/HBaseFileSystemFactory.java" timestamp="1515682842419">
         <mark key="[" line="9" column="15" />
@@ -1658,11 +1658,11 @@
       <jump line="103" column="27" filename="C:/code/shanghefenghui/crow-index-calc/src/main/java/CrowIndexService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMLmluZm8oIuS/neWtmOaLpeWgteaMh+aVsCIgKyBhYlRpbWVVc2UgKyAifCIgKyBzdGRUaW1lVXNlKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">TEVGVCA=</text>
       </register>
       <register name="-" type="4">
-        <text>curr</text>
+        <text encoding="base64">TEVGVCA=</text>
       </register>
       <register name="/" type="4">
         <text>0</text>
