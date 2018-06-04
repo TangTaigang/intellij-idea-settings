@@ -594,11 +594,11 @@
         <mark key="." line="189" column="44" />
         <mark key="^" line="189" column="44" />
       </file>
-      <file name="C:/code/druid-kafka/kafka-druid-ab-timeuse-subject/src/main/resources/application.properties" timestamp="1528100585291">
+      <file name="C:/code/druid-kafka/kafka-druid-ab-timeuse-subject/src/main/resources/application.properties" timestamp="1528103738342">
         <mark key="[" line="2" column="43" />
-        <mark key="]" line="2" column="42" />
-        <mark key="." line="2" column="42" />
-        <mark key="^" line="2" column="42" />
+        <mark key="]" line="2" column="59" />
+        <mark key="." line="2" column="59" />
+        <mark key="^" line="2" column="59" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_graylist/src/main/java/com/miras/data/graylist/GrayListBolt.java" timestamp="1511329109014">
         <mark key="[" line="85" column="46" />
@@ -690,7 +690,7 @@
         <mark key="." line="130" column="35" />
         <mark key="^" line="130" column="35" />
       </file>
-      <file name="C:/code/druid-kafka/kafka-druid-ab-timeuse-subject/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1528102963796">
+      <file name="C:/code/druid-kafka/kafka-druid-ab-timeuse-subject/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1528103497050">
         <mark key="'" line="88" column="91" />
         <mark key="[" line="66" column="49" />
         <mark key="]" line="66" column="56" />
@@ -739,7 +739,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528102977869">
+      <file name="/Dummy.txt" timestamp="1528103657920">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -942,7 +942,7 @@
         <mark key="^" line="39" column="24" />
         <mark key="." line="39" column="24" />
       </file>
-      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/resources/application.properties" timestamp="1526701142491">
+      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/resources/application.properties" timestamp="1528103748642">
         <mark key="[" line="2" column="97" />
         <mark key="]" line="2" column="109" />
         <mark key="." line="2" column="109" />
@@ -1506,11 +1506,11 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1527753346373">
-        <mark key="[" line="121" column="63" />
-        <mark key="]" line="121" column="66" />
-        <mark key="^" line="121" column="66" />
-        <mark key="." line="121" column="66" />
+      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1528103470254">
+        <mark key="[" line="111" column="35" />
+        <mark key="]" line="111" column="67" />
+        <mark key="^" line="111" column="67" />
+        <mark key="." line="111" column="67" />
       </file>
       <file name="$USER_HOME$/Downloads/demo/src/main/java/com/ht/demo/DemoApplication.java" timestamp="1527492261481">
         <mark key="[" line="15" column="62" />
@@ -1688,11 +1688,11 @@
       <jump line="88" column="91" filename="C:/code/druid-kafka/kafka-druid-ab-timeuse-subject/src/main/kotlin/com/miras/data/DruidPassinfo.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNyb3dJbmRleCA9ICh0aW1lQ29zdCAtIHN0ZFRpbWVVc2Uuc3RkVGltZVVzYWdlKSAqIDEuMCAvIHN0ZFRpbWVVc2Uuc2lnbmFsQ3ljbGUsCg==</text>
+      <register name="&quot;" type="4">
+        <text>traffic_splitflow</text>
       </register>
       <register name="-" type="4">
-        <text>trafficmonitor</text>
+        <text>traffic_splitflow</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
