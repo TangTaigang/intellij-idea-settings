@@ -712,7 +712,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528084606604">
+      <file name="/Dummy.txt" timestamp="1528088174026">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1101,12 +1101,12 @@
         <mark key="." line="11" column="18" />
         <mark key="^" line="11" column="18" />
       </file>
-      <file name="C:/code/shanghefenghui/crow-index-calc/src/main/java/CrowIndexService.java" timestamp="1528084594652">
+      <file name="C:/code/shanghefenghui/crow-index-calc/src/main/java/CrowIndexService.java" timestamp="1528088155675">
         <mark key="'" line="96" column="27" />
-        <mark key="[" line="100" column="129" />
-        <mark key="]" line="100" column="43" />
-        <mark key="." line="102" column="55" />
-        <mark key="^" line="100" column="43" />
+        <mark key="[" line="194" column="34" />
+        <mark key="]" line="194" column="43" />
+        <mark key="." line="194" column="43" />
+        <mark key="^" line="194" column="43" />
       </file>
       <file name="C:/code/MDHTrafficDataJudgment/src/main/resources/mappings/modules/traffic_monitor/IllegalDataDao.xml" timestamp="1527230494275">
         <mark key="[" line="590" column="0" />
@@ -1659,10 +1659,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>getTu</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>getTu</text>
       </register>
       <register name="/" type="4">
         <text>0</text>
