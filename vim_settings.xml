@@ -152,6 +152,12 @@
         <mark key="." line="1400" column="7" />
         <mark key="^" line="1400" column="7" />
       </file>
+      <file name="C:/code/druid-kafka/kafka-druid-ab-timeuse-subject/pom.xml" timestamp="1528098069210">
+        <mark key="[" line="56" column="19" />
+        <mark key="]" line="56" column="19" />
+        <mark key="." line="56" column="19" />
+        <mark key="^" line="18" column="29" />
+      </file>
       <file name="C:/code/MDHTrafficMapReduce/car-route-timerange/pom.xml" timestamp="1524626452309">
         <mark key="[" line="12" column="28" />
         <mark key="]" line="12" column="37" />
@@ -302,6 +308,13 @@
         <mark key="]" line="1" column="3" />
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
+      </file>
+      <file name="C:/code/druid-kafka/kafka-druid-ab-timeuse-subject/src/main/kotlin/com/miras/data/Entity.kt" timestamp="1528098397261">
+        <mark key="'" line="7" column="22" />
+        <mark key="[" line="16" column="49" />
+        <mark key="]" line="16" column="49" />
+        <mark key="." line="16" column="49" />
+        <mark key="^" line="16" column="49" />
       </file>
       <file name="C:/code/kafka-druid-stream/src/main/resources/application.yml" timestamp="1511234299368">
         <mark key="[" line="8" column="0" />
@@ -580,6 +593,11 @@
         <mark key="." line="189" column="44" />
         <mark key="^" line="189" column="44" />
       </file>
+      <file name="C:/code/druid-kafka/kafka-druid-ab-timeuse-subject/src/main/resources/application.properties" timestamp="1528097294060">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_graylist/src/main/java/com/miras/data/graylist/GrayListBolt.java" timestamp="1511329109014">
         <mark key="[" line="85" column="46" />
         <mark key="]" line="87" column="0" />
@@ -670,6 +688,13 @@
         <mark key="." line="130" column="35" />
         <mark key="^" line="130" column="35" />
       </file>
+      <file name="C:/code/druid-kafka/kafka-druid-ab-timeuse-subject/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1528099507968">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="195" column="80" />
+        <mark key="]" line="195" column="80" />
+        <mark key="." line="195" column="80" />
+        <mark key="^" line="195" column="79" />
+      </file>
       <file name="C:/code/video-capture/pom.xml" timestamp="1525503926140">
         <mark key="[" line="36" column="55" />
         <mark key="]" line="36" column="55" />
@@ -712,7 +737,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528091602636">
+      <file name="/Dummy.txt" timestamp="1528099508897">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -876,6 +901,7 @@
         <mark key="." line="15" column="11" />
         <mark key="^" line="15" column="11" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.0/kafka-clients-0.10.0.0-sources.jar!/org/apache/kafka/clients/consumer/ConsumerConfig.java" timestamp="1528096553138" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_common/src/main/java/com/miras/data/passinf/common/enums/PassinfDataField.java" timestamp="1517381157652">
         <mark key="[" line="131" column="0" />
         <mark key="]" line="131" column="0" />
@@ -1004,6 +1030,7 @@
         <mark key="^" line="68" column="92" />
         <mark key="." line="68" column="92" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.0/kafka-clients-0.10.0.0-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java" timestamp="1528096401873" />
       <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/RoadService.java" timestamp="1528012797508">
         <mark key="'" line="786" column="20" />
         <mark key="[" line="786" column="71" />
@@ -1557,14 +1584,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="20" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
-      <jump line="364" column="64" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
-      <jump line="9" column="24" filename="C:/code/ht-encrypt/src/main/java/com/miras/webencrypt/HtResponse.java" />
-      <jump line="64" column="28" filename="C:/code/video-capture-web/src/main/java/com/miras/vehicle/VideoServlet.java" />
-      <jump line="377" column="41" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
-      <jump line="93" column="31" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
-      <jump line="84" column="68" filename="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/kotlin/com/miras/data/DruidPassinfo.kt" />
-      <jump line="510" column="46" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
       <jump line="123" column="48" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
       <jump line="48" column="13" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/web/Home2Controller.java" />
       <jump line="1072" column="16" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
@@ -1657,57 +1676,65 @@
       <jump line="17" column="26" filename="C:/code/shanghefenghui/crow-index-calc/pom.xml" />
       <jump line="103" column="27" filename="C:/code/shanghefenghui/crow-index-calc/src/main/java/CrowIndexService.java" />
       <jump line="44" column="56" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/resources/mappings/modules/traffic_monitor/MonitorPointMapper.xml" />
+      <jump line="3" column="88" filename="C:/code/druid-kafka/kafka-druid-ab-timeuse-subject/src/main/kotlin/com/miras/data/Entity.kt" />
+      <jump line="7" column="22" filename="C:/code/druid-kafka/kafka-druid-ab-timeuse-subject/src/main/kotlin/com/miras/data/Entity.kt" />
+      <jump line="118" column="4" filename="C:/code/druid-kafka/kafka-druid-ab-timeuse-subject/src/main/kotlin/com/miras/data/DruidPassinfo.kt" />
+      <jump line="107" column="0" filename="C:/code/druid-kafka/kafka-druid-ab-timeuse-subject/src/main/kotlin/com/miras/data/DruidPassinfo.kt" />
+      <jump line="50" column="0" filename="C:/code/druid-kafka/kafka-druid-ab-timeuse-subject/src/main/kotlin/com/miras/data/DruidPassinfo.kt" />
+      <jump line="151" column="37" filename="C:/code/druid-kafka/kafka-druid-ab-timeuse-subject/src/main/kotlin/com/miras/data/DruidPassinfo.kt" />
+      <jump line="45" column="0" filename="C:/code/druid-kafka/kafka-druid-ab-timeuse-subject/src/main/kotlin/com/miras/data/DruidPassinfo.kt" />
+      <jump line="0" column="0" filename="C:/code/druid-kafka/kafka-druid-ab-timeuse-subject/src/main/kotlin/com/miras/data/DruidPassinfo.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">TEVGVCA=</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TEVGVCA=</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>0</text>
+        <text>,</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMLmluZm8oIuS/neWtmOaLpeWgteaMh+aVsCIgKyBhYlRpbWVVc2UgKyAifCIgKyBzdGRUaW1lVXNlKTsK</text>
+      <register name="0" type="4">
+        <text>druid-ab-tu-subject&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMLmluZm8oImNhbGMgIiArIHByZXYgKyAiID4gIiArIGN1cnIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJyZWN2ICR7bWFwLnZhbHVlKCl9IikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMLmluZm8oImNhbGMgIiArIHByZXYgKyAiID4gIiArIGN1cnIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAga2Fma2FDb25maWdkZGsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDmmoLnp7DkvZwg5Y+N5ZCR57Si5byVCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAga2Fma2FDb25maWdbQ29uc3VtZXJDb25maWcudG9dID0gImRydWlkLWFiLXR1LXN1YmplY3QiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLCAiXCIsXCIiKTsK</text>
+        <text encoding="base64">Ly8g5a6a5pe25LuO5pWw5o2u5bqT6K+75Y+W6Lev5Y+j55So5pe25pu05pawCnByaXZhdGUgdmFsIGRiU3luY1RocmVhZCA9IEV4ZWN1dG9ycy5uZXdTaW5nbGVUaHJlYWRTY2hlZHVsZWRFeGVjdXRvcigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bG9nNGouYXBwZW5kZXIuZj1vcmcuYXBhY2hlLmxvZzRqLkRhaWx5Um9sbGluZ0ZpbGVBcHBlbmRlcgpsb2c0ai5hcHBlbmRlci5mLkRhdGVQYXR0ZXJuPScuJ3l5eXktTU0tZGQtSEgKbG9nNGouYXBwZW5kZXIuZi5GaWxlPWxvZ3Mva2Fma2EtaGJhc2UubG9nCmxvZzRqLmFwcGVuZGVyLmYubGF5b3V0PW9yZy5hcGFjaGUubG9nNGouUGF0dGVybkxheW91dApsb2c0ai5hcHBlbmRlci5mLmxheW91dC5Db252ZXJzaW9uUGF0dGVybj1bJWRdICVwICVtICglYyklbgo=</text>
+        <text encoding="base64">ICAgIHByb3BlcnRpZXMubG9hZChBcHBsaWNhdGlvbjo6Y2xhc3MuamF2YS5jbGFzc0xvYWRlci5nZXRSZXNvdXJjZUFzU3RyZWFtKHByb3BlcnR5RmlsZU5hbWUpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJsb2FkICIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5sb2dnaW5nLmxvZzRqPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5sb2c0ai1zbGY0ai1pbXBsPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4yLjguMjwvdmVyc2lvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/0/3/g</text>
+        <text>s/,/,\r/g</text>
       </register>
     </registers>
     <search>
-      <last-search>0</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern>0</last-pattern>
-      <last-replace>3</last-replace>
-      <last-substitute>0</last-substitute>
+      <last-pattern>,</last-pattern>
+      <last-replace>,\r</last-replace>
+      <last-substitute>,</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1731,8 +1758,8 @@
         <entry>from</entry>
         <entry>i</entry>
         <entry>\t</entry>
-        <entry>,</entry>
         <entry>0</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
         <entry>s/List/Map/g</entry>
@@ -1749,12 +1776,12 @@
         <entry>w</entry>
         <entry>s/i/j/g</entry>
         <entry>s/,/\n,/g</entry>
-        <entry>s/,/\r,/g</entry>
         <entry>s/\t/ /g</entry>
-        <entry>s/,/,\r/g</entry>
         <entry>s/0/1/g</entry>
         <entry>s/0/2/g</entry>
         <entry>s/0/3/g</entry>
+        <entry>s/,/\r,/g</entry>
+        <entry>s/,/,\r/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
