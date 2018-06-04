@@ -739,7 +739,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528103657920">
+      <file name="/Dummy.txt" timestamp="1528103771570">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -942,7 +942,7 @@
         <mark key="^" line="39" column="24" />
         <mark key="." line="39" column="24" />
       </file>
-      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/resources/application.properties" timestamp="1528103748642">
+      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/resources/application.properties" timestamp="1528103750482">
         <mark key="[" line="2" column="97" />
         <mark key="]" line="2" column="109" />
         <mark key="." line="2" column="109" />
