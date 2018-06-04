@@ -202,12 +202,12 @@
         <mark key="^" line="355" column="42" />
         <mark key="." line="355" column="42" />
       </file>
-      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" timestamp="1528107662863">
-        <mark key="'" line="378" column="62" />
-        <mark key="[" line="244" column="0" />
-        <mark key="]" line="244" column="0" />
-        <mark key="^" line="107" column="57" />
-        <mark key="." line="244" column="0" />
+      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" timestamp="1528110440082">
+        <mark key="'" line="151" column="19" />
+        <mark key="[" line="452" column="18" />
+        <mark key="]" line="452" column="23" />
+        <mark key="." line="452" column="23" />
+        <mark key="^" line="452" column="23" />
       </file>
       <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-common/pom.xml" timestamp="1522389514283">
         <mark key="[" line="40" column="21" />
@@ -739,7 +739,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528107679850">
+      <file name="/Dummy.txt" timestamp="1528110448791">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1130,12 +1130,12 @@
         <mark key="." line="11" column="18" />
         <mark key="^" line="11" column="18" />
       </file>
-      <file name="C:/code/shanghefenghui/crow-index-calc/src/main/java/CrowIndexService.java" timestamp="1528089144353">
+      <file name="C:/code/shanghefenghui/crow-index-calc/src/main/java/CrowIndexService.java" timestamp="1528110419764">
         <mark key="'" line="96" column="27" />
-        <mark key="[" line="189" column="0" />
-        <mark key="]" line="189" column="56" />
-        <mark key="." line="194" column="43" />
-        <mark key="^" line="194" column="43" />
+        <mark key="[" line="439" column="18" />
+        <mark key="]" line="439" column="23" />
+        <mark key="." line="439" column="23" />
+        <mark key="^" line="439" column="23" />
       </file>
       <file name="C:/code/MDHTrafficDataJudgment/src/main/resources/mappings/modules/traffic_monitor/IllegalDataDao.xml" timestamp="1527230494275">
         <mark key="[" line="590" column="0" />
@@ -1586,7 +1586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1260" column="47" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
       <jump line="1190" column="28" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
       <jump line="0" column="0" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
       <jump line="1814" column="0" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
@@ -1686,46 +1685,47 @@
       <jump line="208" column="29" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/production-resources/htsite.properties" />
       <jump line="88" column="91" filename="C:/code/druid-kafka/kafka-druid-ab-timeuse-subject/src/main/kotlin/com/miras/data/DruidPassinfo.kt" />
       <jump line="379" column="62" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
+      <jump line="151" column="19" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIgICAgIFdIRVJFIGcuYHR5cGVgID0gMSIgKwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">TEVGVCA=</text>
       </register>
       <register name="-" type="4">
-        <text>traffic_splitflow</text>
+        <text encoding="base64">TEVGVCA=</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
       <register name="0" type="4">
-        <text>druid-ab-tu-subject&quot;</text>
+        <text>stdTimeUseMap</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIgICAgIFdIRVJFIGcuYHR5cGVgID0gMSIgKwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNyb3dJbmRleCA9ICh0aW1lQ29zdCAtIHN0ZFRpbWVVc2Uuc3RkVGltZVVzYWdlKSAqIDEuMCAvIHN0ZFRpbWVVc2Uuc2lnbmFsQ3ljbGUsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBjcm93SW5kZXg6IERvdWJsZSwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJyZWN2ICR7bWFwLnZhbHVlKCl9IikK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2Fma2FDb25maWdkZGsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2Fma2FDb25maWdbQ29uc3VtZXJDb25maWcudG9dID0gImRydWlkLWFiLXR1LXN1YmplY3QiCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzYXZlQ3Jvd0luZGV4RGV0YWlsKHRpbWVzdGFtcCwgYWJUaW1lVXNlLCBzdGRUaW1lVXNlKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBhYi5nZXQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IEhhc2hNYXA8PihhYlN0ZFRpbWVVc2VMaXN0LnNpemUoKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFiU3RkVGltZVVzZUxpc3QuZm9yRWFjaChhYlN0ZFRpbWVVc2UgLT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBrZXkxID0gYWJTdGRUaW1lVXNlLmdldEZyb21BZGRyZXNzQ29kZSgpICsgIl8iICsgYWJTdGRUaW1lVXNlLmdldFRvQWRkcmVzc0NvZGUoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGRUaW1lVXNlTWFwLnB1dChrZXkxLCBhYlN0ZFRpbWVVc2UpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8g5a6a5pe25LuO5pWw5o2u5bqT6K+75Y+W6Lev5Y+j55So5pe25pu05pawCnByaXZhdGUgdmFsIGRiU3luY1RocmVhZCA9IEV4ZWN1dG9ycy5uZXdTaW5nbGVUaHJlYWRTY2hlZHVsZWRFeGVjdXRvcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3BlcnRpZXMubG9hZChBcHBsaWNhdGlvbjo6Y2xhc3MuamF2YS5jbGFzc0xvYWRlci5nZXRSZXNvdXJjZUFzU3RyZWFtKHByb3BlcnR5RmlsZU5hbWUpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNYXA8U3RyaW5nLCBBQlN0ZFRpbWVVc2U+IHN0ZFRpbWVVc2VNYXAgPSBuZXcgSGFzaE1hcDw+KGFiU3RkVGltZVVzZUxpc3Quc2l6ZSgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/,/,\r/g</text>
