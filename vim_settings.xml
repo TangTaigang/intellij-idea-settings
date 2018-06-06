@@ -745,7 +745,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528253547709">
+      <file name="/Dummy.txt" timestamp="1528277118799">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -953,7 +953,7 @@
         <mark key="^" line="39" column="24" />
         <mark key="." line="39" column="24" />
       </file>
-      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/resources/application.properties" timestamp="1528103750482">
+      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/resources/application.properties" timestamp="1528277168889">
         <mark key="[" line="2" column="97" />
         <mark key="]" line="2" column="109" />
         <mark key="." line="2" column="109" />
@@ -1522,11 +1522,11 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1528103470254">
-        <mark key="[" line="111" column="35" />
-        <mark key="]" line="111" column="67" />
-        <mark key="^" line="111" column="67" />
-        <mark key="." line="111" column="67" />
+      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1528277024385">
+        <mark key="[" line="121" column="84" />
+        <mark key="]" line="121" column="83" />
+        <mark key="^" line="121" column="83" />
+        <mark key="." line="121" column="83" />
       </file>
       <file name="$USER_HOME$/Downloads/demo/src/main/java/com/ht/demo/DemoApplication.java" timestamp="1527492261481">
         <mark key="[" line="15" column="62" />
@@ -1705,10 +1705,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
