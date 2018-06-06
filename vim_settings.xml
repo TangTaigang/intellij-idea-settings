@@ -745,7 +745,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528277118799">
+      <file name="/Dummy.txt" timestamp="1528278283912">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -953,11 +953,11 @@
         <mark key="^" line="39" column="24" />
         <mark key="." line="39" column="24" />
       </file>
-      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/resources/application.properties" timestamp="1528277168889">
-        <mark key="[" line="2" column="97" />
-        <mark key="]" line="2" column="109" />
-        <mark key="." line="2" column="109" />
-        <mark key="^" line="2" column="109" />
+      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/resources/application.properties" timestamp="1528278171402">
+        <mark key="[" line="2" column="43" />
+        <mark key="]" line="2" column="57" />
+        <mark key="." line="2" column="57" />
+        <mark key="^" line="2" column="57" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/dwd_first_in_city.sql" timestamp="1510821910353">
         <mark key="[" line="8" column="17" />
@@ -1522,11 +1522,11 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1528277024385">
-        <mark key="[" line="121" column="84" />
-        <mark key="]" line="121" column="83" />
-        <mark key="^" line="121" column="83" />
-        <mark key="." line="121" column="83" />
+      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1528278262669">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="60" column="51" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/demo/src/main/java/com/ht/demo/DemoApplication.java" timestamp="1527492261481">
         <mark key="[" line="15" column="62" />
@@ -1704,44 +1704,44 @@
       <jump line="257" column="0" filename="C:/code/shanghefenghui/crow-index-calc/src/main/java/CrowIndexService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>&quot;mysql&quot;</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWNlckNvbmZpZy5wdXQoUHJvZHVjZXJDb25maWcuQk9PVFNUUkFQX1NFUlZFUlNfQ09ORklHLCAiMzcuNTMuNjQuNzA6OTA5MiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZXBhcmVBQlRpbWVVc2UocHJvcGVydGllcywgIm15c3FsIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyhwYXRoID0gWyJ1cGxvYWQiXSwgbWV0aG9kID0gW1JlcXVlc3RNZXRob2QuUE9TVF0pCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyhwYXRoID0gWyJ1cGxvYWQiXSwgbWV0aG9kID0gW1JlcXVlc3RNZXRob2QuUE9TVF0pCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiL3Rlc3QiKQogICAgZnVuIHRlc3QoKTogTG9uZyB7CiAgICAgICAgcmV0dXJuIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiL3Rlc3QiKQogICAgZnVuIHRlc3QoKTogTG9uZyB7CiAgICAgICAgcmV0dXJuIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoNTAwMCk7Cg==</text>
+        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRnV0dXJlPFJlY29yZE1ldGFkYXRhPiBzZW5kID0K</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoNTAwMCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9kdWNlci5zZW5kKG5ldyBQcm9kdWNlclJlY29yZDxTdHJpbmcsIFN0cmluZz4oIlJBREFSIiwgImhlbGxvLCIgKyBpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRnV0dXJlPFJlY29yZE1ldGFkYXRhPiBzZW5kID0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlY29yZE1ldGFkYXRhLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9kdWNlci5zZW5kKG5ldyBQcm9kdWNlclJlY29yZDxTdHJpbmcsIFN0cmluZz4oIlJBREFSIiwgImhlbGxvLCIgKyBpKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">PDM4Myw0MTk+ZGQ=</text>
