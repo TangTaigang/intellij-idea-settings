@@ -45,9 +45,6 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="/a.dummy" timestamp="1528006239096">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_taopai/src/main/java/com/miras/data/passinf/Application.java" timestamp="1527220324614">
         <mark key="[" line="44" column="94" />
         <mark key="]" line="44" column="94" />
@@ -746,7 +743,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528283519252">
+      <file name="/Dummy.txt" timestamp="1528333508159">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -774,6 +771,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
         <mark key="^" line="54" column="31" />
+      </file>
+      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/.gitignore" timestamp="1528333439693">
+        <mark key="[" line="27" column="9" />
+        <mark key="]" line="29" column="5" />
+        <mark key="^" line="29" column="5" />
+        <mark key="." line="29" column="5" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/hive-sql.sql" timestamp="1510833363591">
         <mark key="[" line="21" column="0" />
@@ -840,9 +843,6 @@
         <mark key="]" line="28" column="73" />
         <mark key="." line="28" column="73" />
         <mark key="^" line="28" column="73" />
-      </file>
-      <file name="/fragment.java" timestamp="1528080270629">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_ab/pom.xml" timestamp="1527059862899">
         <mark key="[" line="13" column="26" />
@@ -1523,11 +1523,11 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1528278262669">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="60" column="51" />
-        <mark key="." line="61" column="0" />
+      <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1528333209183">
+        <mark key="[" line="127" column="44" />
+        <mark key="]" line="127" column="45" />
+        <mark key="^" line="138" column="24" />
+        <mark key="." line="127" column="45" />
       </file>
       <file name="$USER_HOME$/Downloads/demo/src/main/java/com/ht/demo/DemoApplication.java" timestamp="1527492261481">
         <mark key="[" line="15" column="62" />
@@ -1706,10 +1706,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Integer.parseInt(timeArea)</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>Integer.parseInt(timeArea)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
