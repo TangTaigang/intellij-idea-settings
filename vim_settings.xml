@@ -1495,10 +1495,11 @@
         <mark key="^" line="4" column="63" />
         <mark key="." line="4" column="63" />
       </file>
-      <file name="C:/code/MDHTrafficMapReduce/car-route/src/main/java/com/miras/mapreduce/car/CarRouteCombineMR.java" timestamp="1528439428480">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="C:/code/MDHTrafficMapReduce/car-route/src/main/java/com/miras/mapreduce/car/CarRouteCombineMR.java" timestamp="1528440161478">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="64" />
+        <mark key="." line="90" column="0" />
+        <mark key="^" line="90" column="63" />
       </file>
       <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/resources/mappings/modules/traffic_monitor/MonitorPointMapper.xml" timestamp="1528355873477">
         <mark key="'" line="44" column="56" />
@@ -1739,10 +1740,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3ViamVjdGlkID0gIjkiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBjbGFuZU51bWJlciA9IHNwbGl0RGF0YVs3XTsgICAgICAgIC8vIOi9pumBk+WPtwo=</text>
       </register>
       <register name="-" type="4">
-        <text>= new ArrayList()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>build</text>
@@ -1751,31 +1752,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3ViamVjdGlkID0gIjkiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBjbGFuZU51bWJlciA9IHNwbGl0RGF0YVs3XTsgICAgICAgIC8vIOi9pumBk+WPtwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGtleSArICIgc2l6ZToiICsgb3JkZXJlZE1hcC5zaXplKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBjb2xsZWN0RGF0ZSA9IHNwbGl0RGF0YVs5XTsgICAgICAgIC8vIOmHh+mbhuaXpeacnwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBNYXAgbWFwID0gbmV3IEhhc2hNYXAoKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3ViamVjdGlkID0gIjkiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGtleSArICIgc2l6ZToiICsgb3JkZXJlZE1hcC5zaXplKCkpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBNYXAgbWFwID0gbmV3IEhhc2hNYXAoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcERlbW8ucHV0KAo=</text>
+        <text encoding="base64">ICAgICAgICBNYXAgbWFwID0gbmV3IEhhc2hNYXAoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXBEZW1vLnB1dCgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IG1hcERlbW8gPSBuZXcgSGFzaE1hcCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcERlbW8ucHV0KAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/ /,/g</text>
