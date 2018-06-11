@@ -87,13 +87,6 @@
         <mark key="." line="45" column="30" />
         <mark key="^" line="45" column="30" />
       </file>
-      <file name="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/web/InductionController.java" timestamp="1528283341729">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="60" column="22" />
-        <mark key="]" line="60" column="23" />
-        <mark key="^" line="60" column="23" />
-        <mark key="." line="60" column="23" />
-      </file>
       <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_phoenix/src/main/java/com/miras/data/illegal/phoenix/PhoenixBolt.java" timestamp="1517018119811">
         <mark key="[" line="175" column="99" />
         <mark key="]" line="175" column="110" />
@@ -141,13 +134,6 @@
         <mark key="]" line="5" column="15" />
         <mark key="^" line="5" column="14" />
         <mark key="." line="5" column="15" />
-      </file>
-      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" timestamp="1528353445755">
-        <mark key="'" line="395" column="33" />
-        <mark key="[" line="601" column="27" />
-        <mark key="]" line="601" column="40" />
-        <mark key="^" line="601" column="40" />
-        <mark key="." line="601" column="40" />
       </file>
       <file name="C:/code/lib123/src/main/java/com/hello/common/TestUtil.java" timestamp="1528638383885">
         <mark key="[" line="6" column="33" />
@@ -218,13 +204,6 @@
         <mark key="]" line="355" column="42" />
         <mark key="^" line="355" column="42" />
         <mark key="." line="355" column="42" />
-      </file>
-      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" timestamp="1528444243723">
-        <mark key="'" line="368" column="22" />
-        <mark key="[" line="92" column="46" />
-        <mark key="]" line="92" column="59" />
-        <mark key="." line="92" column="59" />
-        <mark key="^" line="92" column="59" />
       </file>
       <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-common/pom.xml" timestamp="1522389514283">
         <mark key="[" line="40" column="21" />
@@ -621,13 +600,6 @@
         <mark key="^" line="2" column="52" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/web/RoadEditController.java" timestamp="1528353400931">
-        <mark key="'" line="186" column="48" />
-        <mark key="[" line="189" column="44" />
-        <mark key="]" line="189" column="44" />
-        <mark key="." line="189" column="44" />
-        <mark key="^" line="189" column="44" />
-      </file>
       <file name="C:/code/shanghefenghui/TrafficSplitflowHub/src/main/resources/application-dev.yaml" timestamp="1528335682224">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="10" />
@@ -713,13 +685,6 @@
         <mark key="." line="23" column="73" />
         <mark key="^" line="19" column="72" />
       </file>
-      <file name="C:/code/shanghefenghui/TrafficSplitflowHub/pom.xml" timestamp="1528335265028">
-        <mark key="'" line="31" column="20" />
-        <mark key="[" line="61" column="11" />
-        <mark key="]" line="62" column="35" />
-        <mark key="." line="62" column="35" />
-        <mark key="^" line="62" column="35" />
-      </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/java/com/miras/data/passinf/image/PassinfImageBolt.java" timestamp="1517017164360">
         <mark key="[" line="78" column="105" />
         <mark key="]" line="78" column="116" />
@@ -743,13 +708,6 @@
         <mark key="]" line="130" column="35" />
         <mark key="." line="130" column="35" />
         <mark key="^" line="130" column="35" />
-      </file>
-      <file name="C:/code/druid-kafka/kafka-druid-ab-timeuse-subject/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1528245242719">
-        <mark key="'" line="87" column="91" />
-        <mark key="[" line="198" column="9" />
-        <mark key="]" line="199" column="7" />
-        <mark key="." line="199" column="7" />
-        <mark key="^" line="199" column="7" />
       </file>
       <file name="C:/code/lession1/src/main/java/DBTest.java" timestamp="1528634712076">
         <mark key="[" line="25" column="51" />
@@ -846,13 +804,6 @@
         <mark key="." line="21" column="59" />
         <mark key="^" line="26" column="74" />
       </file>
-      <file name="C:/code/shanghefenghui/TrafficSplitflowHub/src/main/resources/application.yaml" timestamp="1528335828624">
-        <mark key="'" line="2" column="73" />
-        <mark key="[" line="10" column="6" />
-        <mark key="]" line="10" column="6" />
-        <mark key="." line="10" column="6" />
-        <mark key="^" line="10" column="6" />
-      </file>
       <file name="C:/code/video-capture-web/src/main/resources/log4j.properties" timestamp="1526438159202">
         <mark key="[" line="16" column="27" />
         <mark key="]" line="17" column="8" />
@@ -882,13 +833,6 @@
         <mark key="]" line="20" column="101" />
         <mark key="^" line="20" column="101" />
         <mark key="." line="20" column="101" />
-      </file>
-      <file name="C:/code/shanghefenghui/TrafficSplitflowHub/src/main/kotlin/com/ht/trafficSplitflowHub/TrafficSplitflowHubApplication.kt" timestamp="1528357624199">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="44" column="39" />
-        <mark key="]" line="44" column="49" />
-        <mark key="." line="44" column="49" />
-        <mark key="^" line="44" column="49" />
       </file>
       <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/dao/MonitorPointMapper.java" timestamp="1528011290334">
         <mark key="[" line="38" column="38" />
@@ -982,20 +926,6 @@
         <mark key="]" line="131" column="0" />
         <mark key="^" line="130" column="7" />
         <mark key="." line="131" column="0" />
-      </file>
-      <file name="C:/code/shanghefenghui/crow-index-calc/pom.xml" timestamp="1528082105466">
-        <mark key="'" line="17" column="26" />
-        <mark key="[" line="56" column="26" />
-        <mark key="]" line="56" column="27" />
-        <mark key="^" line="56" column="26" />
-        <mark key="." line="56" column="27" />
-      </file>
-      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/webapp/WEB-INF/views/splitflow/monitor/trafficbillboard.jsp" timestamp="1528013407413">
-        <mark key="'" line="249" column="15" />
-        <mark key="[" line="804" column="93" />
-        <mark key="]" line="804" column="106" />
-        <mark key="." line="804" column="106" />
-        <mark key="^" line="804" column="106" />
       </file>
       <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/entity/MonitorPoint.java" timestamp="1528011215796">
         <mark key="[" line="70" column="24" />
@@ -1111,13 +1041,6 @@
         <mark key="^" line="68" column="92" />
         <mark key="." line="68" column="92" />
       </file>
-      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/RoadService.java" timestamp="1528012797508">
-        <mark key="'" line="786" column="20" />
-        <mark key="[" line="786" column="71" />
-        <mark key="]" line="786" column="74" />
-        <mark key="." line="786" column="74" />
-        <mark key="^" line="786" column="74" />
-      </file>
       <file name="C:/code/springtest/src/main/resources/applicationContext.xml" timestamp="1528637543343">
         <mark key="[" line="11" column="54" />
         <mark key="]" line="8" column="51" />
@@ -1220,13 +1143,6 @@
         <mark key="^" line="7" column="9" />
         <mark key="." line="7" column="9" />
       </file>
-      <file name="C:/code/shanghefenghui/crow-index-calc/src/main/java/CrowIndexService.java" timestamp="1528171370063">
-        <mark key="'" line="466" column="0" />
-        <mark key="[" line="465" column="5" />
-        <mark key="]" line="466" column="0" />
-        <mark key="." line="466" column="0" />
-        <mark key="^" line="466" column="0" />
-      </file>
       <file name="C:/code/MDHTrafficDataJudgment/src/main/resources/mappings/modules/traffic_monitor/IllegalDataDao.xml" timestamp="1527230494275">
         <mark key="[" line="590" column="0" />
         <mark key="]" line="590" column="0" />
@@ -1263,12 +1179,11 @@
         <mark key="." line="14" column="72" />
         <mark key="^" line="14" column="72" />
       </file>
-      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/splitflow/web/ScreenController.java" timestamp="1528441433612">
-        <mark key="'" line="151" column="47" />
-        <mark key="[" line="288" column="32" />
-        <mark key="]" line="288" column="47" />
-        <mark key="." line="288" column="47" />
-        <mark key="^" line="288" column="47" />
+      <file name="C:/code/db-pull-sync/pom.xml" timestamp="1528696137091">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="76" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="C:/code/mdh_data_6in1api/src/main/resources/mapper/datadb61/VioSurveilDao.xml" timestamp="1522478180623">
         <mark key="[" line="7" column="31" />
@@ -1311,6 +1226,12 @@
         <mark key="]" line="36" column="28" />
         <mark key="." line="36" column="28" />
         <mark key="^" line="36" column="28" />
+      </file>
+      <file name="C:/code/db-pull-sync/src/main/java/com/miras/datasync/Application.kt" timestamp="1528696527037">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
       </file>
       <file name="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs_retry/src/main/java/com/miras/data/image/hdfs/DateHdfsPartitioner.java" timestamp="1516859891023">
         <mark key="[" line="42" column="14" />
@@ -1425,6 +1346,9 @@
         <mark key="]" line="21" column="49" />
         <mark key="." line="21" column="49" />
         <mark key="^" line="21" column="49" />
+      </file>
+      <file name="C:/code/db-pull-sync/src/main/java/com/miras/datasync/Application.java" timestamp="1528696482701">
+        <mark key="[" line="5" column="26" />
       </file>
       <file name="C:/code/hftp/src/main/java/com/miras/hftp/HBaseFile.java" timestamp="1515739770415">
         <mark key="[" line="104" column="50" />
@@ -1558,13 +1482,6 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/web/CrowIndexController.java" timestamp="1528078533003">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="65" column="21" />
-        <mark key="]" line="65" column="22" />
-        <mark key="." line="65" column="22" />
-        <mark key="^" line="70" column="79" />
-      </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/bean/EzvizListResponse.java" timestamp="1522131273581">
         <mark key="[" line="4" column="57" />
         <mark key="]" line="4" column="63" />
@@ -1576,13 +1493,6 @@
         <mark key="]" line="54" column="42" />
         <mark key="." line="54" column="42" />
         <mark key="^" line="54" column="42" />
-      </file>
-      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/resources/mappings/modules/traffic_monitor/MonitorPointMapper.xml" timestamp="1528355873477">
-        <mark key="'" line="44" column="56" />
-        <mark key="[" line="229" column="92" />
-        <mark key="]" line="215" column="96" />
-        <mark key="." line="215" column="96" />
-        <mark key="^" line="215" column="96" />
       </file>
       <file name="C:/code/hftp/src/main/java/com/miras/hftp/HBaseFileSystemFactory.java" timestamp="1515682842419">
         <mark key="[" line="9" column="15" />
@@ -1625,13 +1535,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="2" column="61" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1528072555248">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="12" column="17" />
-        <mark key="^" line="12" column="17" />
-        <mark key="." line="12" column="17" />
       </file>
       <file name="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1528333209183">
         <mark key="[" line="127" column="44" />
@@ -1822,7 +1725,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4yLjMxPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -1834,31 +1737,31 @@
         <text encoding="base64">ICAgICAgIGh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvYmVhbnMKICAgICAgIGh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvYmVhbnMvc3ByaW5nLWJlYW5zLnhzZCI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4yLjMxPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYWNjb3VudCArICI6IiArIHBhc3N3b3JkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4yLjMxPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBUZXN0VXRpbCgpLmxvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYWNjb3VudCArICI6IiArIHBhc3N3b3JkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0VXRpbCB0ZXN0VXRpbCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBUZXN0VXRpbCgpLmxvZygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBUZXN0VXRpbCB0ZXN0VXRpbCA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxjb24K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvYmVhbj4K</text>
+        <text encoding="base64">ICAgIDxjb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIGlkPSJ1c2VyRGFvIiBjbGFzcz0iY29tLmhlbGxvLlVzZXJEYW8iLz4KICAgIDxiZWFuIGlkPSJ1c2VyU2VydmljZSIgY2xhc3M9ImNvbS5oZWxsby5Vc2VyU2VydmljZSI+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9InNlbGZOYW1lIiB2YWx1ZT0iY29tcHV0ZXIiLz4KICAgICAgICA8cHJvcGVydHkgbmFtZT0idXNlckRhbyIgcmVmPSJ1c2VyRGFvIi8+Cg==</text>
+        <text encoding="base64">ICAgIDwvYmVhbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIGlkPSJ1c2VyRGFvIiBjbGFzcz0iY29tLmhlbGxvLlVzZXJEYW8iLz4K</text>
+        <text encoding="base64">ICAgIDxiZWFuIGlkPSJ1c2VyRGFvIiBjbGFzcz0iY29tLmhlbGxvLlVzZXJEYW8iLz4KICAgIDxiZWFuIGlkPSJ1c2VyU2VydmljZSIgY2xhc3M9ImNvbS5oZWxsby5Vc2VyU2VydmljZSI+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9InNlbGZOYW1lIiB2YWx1ZT0iY29tcHV0ZXIiLz4KICAgICAgICA8cHJvcGVydHkgbmFtZT0idXNlckRhbyIgcmVmPSJ1c2VyRGFvIi8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/ /,/g</text>
