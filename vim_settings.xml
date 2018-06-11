@@ -438,6 +438,7 @@
         <mark key="." line="25" column="28" />
         <mark key="^" line="25" column="28" />
       </file>
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_redis_hbase/pom.xml" timestamp="1528704212968" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_taopai/src/main/production-resources/application.properties" timestamp="1527226644772">
         <mark key="[" line="4" column="32" />
         <mark key="]" line="4" column="37" />
@@ -1192,11 +1193,11 @@
         <mark key="." line="14" column="72" />
         <mark key="^" line="14" column="72" />
       </file>
-      <file name="C:/code/db-pull-sync/pom.xml" timestamp="1528703994105">
-        <mark key="[" line="62" column="21" />
-        <mark key="]" line="62" column="26" />
-        <mark key="^" line="62" column="26" />
-        <mark key="." line="62" column="26" />
+      <file name="C:/code/db-pull-sync/pom.xml" timestamp="1528704210988">
+        <mark key="[" line="77" column="51" />
+        <mark key="]" line="77" column="65" />
+        <mark key="^" line="77" column="65" />
+        <mark key="." line="77" column="65" />
       </file>
       <file name="C:/code/mdh_data_6in1api/src/main/resources/mapper/datadb61/VioSurveilDao.xml" timestamp="1522478180623">
         <mark key="[" line="7" column="31" />
@@ -1744,10 +1745,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>miras.data.passinf.</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>miras.data.passinf.</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
