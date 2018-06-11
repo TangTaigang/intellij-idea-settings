@@ -69,6 +69,12 @@
         <mark key="." line="14" column="72" />
         <mark key="^" line="14" column="72" />
       </file>
+      <file name="C:/code/db-pull-sync/src/main/resources/application.properties" timestamp="1528700951833">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+      </file>
       <file name="C:/code/lession1/src/main/java/com/hello/TestController.java" timestamp="1528636329677">
         <mark key="[" line="33" column="21" />
         <mark key="]" line="33" column="24" />
@@ -810,6 +816,12 @@
         <mark key="." line="17" column="8" />
         <mark key="^" line="17" column="8" />
       </file>
+      <file name="C:/code/db-pull-sync/src/main/java/com/miras/datasync/sql/SqlInitializer.kt" timestamp="1528702556937">
+        <mark key="[" line="37" column="1" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="38" column="0" />
+      </file>
       <file name="C:/code/hftp/src/main/java/com/miras/hftp/HBaseOutputStream.java" timestamp="1515739767211">
         <mark key="[" line="14" column="37" />
         <mark key="]" line="14" column="36" />
@@ -903,6 +915,7 @@
         <mark key="." line="3" column="56" />
         <mark key="^" line="3" column="56" />
       </file>
+      <file name="C:/code/MDHTrafficDataSync/mdh_data_6in1_cdc_oracle/src/main/java/com/miras/data/cdc/oracle/OracleBolt.java" timestamp="1528702596648" />
       <file name="C:/code/test/src/NumberConvert.java" timestamp="1519137263271">
         <mark key="[" line="26" column="9" />
         <mark key="]" line="26" column="14" />
@@ -1179,11 +1192,11 @@
         <mark key="." line="14" column="72" />
         <mark key="^" line="14" column="72" />
       </file>
-      <file name="C:/code/db-pull-sync/pom.xml" timestamp="1528696137091">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="76" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="C:/code/db-pull-sync/pom.xml" timestamp="1528701991980">
+        <mark key="[" line="62" column="21" />
+        <mark key="]" line="62" column="26" />
+        <mark key="^" line="62" column="26" />
+        <mark key="." line="62" column="26" />
       </file>
       <file name="C:/code/mdh_data_6in1api/src/main/resources/mapper/datadb61/VioSurveilDao.xml" timestamp="1522478180623">
         <mark key="[" line="7" column="31" />
@@ -1227,11 +1240,11 @@
         <mark key="." line="36" column="28" />
         <mark key="^" line="36" column="28" />
       </file>
-      <file name="C:/code/db-pull-sync/src/main/java/com/miras/datasync/Application.kt" timestamp="1528696527037">
-        <mark key="[" line="6" column="3" />
-        <mark key="]" line="8" column="3" />
-        <mark key="^" line="8" column="3" />
-        <mark key="." line="8" column="3" />
+      <file name="C:/code/db-pull-sync/src/main/java/com/miras/datasync/Application.kt" timestamp="1528702804130">
+        <mark key="'" line="18" column="110" />
+        <mark key="[" line="50" column="64" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs_retry/src/main/java/com/miras/data/image/hdfs/DateHdfsPartitioner.java" timestamp="1516859891023">
         <mark key="[" line="42" column="14" />
@@ -1482,6 +1495,7 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
       </file>
+      <file name="C:/code/db-pull-sync/src/main/java/com/miras/datasync/sql/SqlFieldType.kt" timestamp="1528702083137" />
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/bean/EzvizListResponse.java" timestamp="1522131273581">
         <mark key="[" line="4" column="57" />
         <mark key="]" line="4" column="63" />
@@ -1602,6 +1616,11 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
+      <file name="C:/code/db-pull-sync/src/main/java/com/miras/datasync/sql/SqlField.kt" timestamp="1528702069058">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/service/TokenService.java" timestamp="1522136248053">
         <mark key="[" line="49" column="17" />
         <mark key="]" line="49" column="19" />
@@ -1622,7 +1641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="C:/code/mdh_data_6in1api/src/main/resources/application.yml" />
       <jump line="14" column="0" filename="C:/code/mdh_data_6in1api/src/main/resources/application.yml" />
       <jump line="293" column="22" filename="C:/code/mdh_data_6in1api/src/main/java/com/miras/data/api/mdh_data_6in1api/ws/WsClient.java" />
       <jump line="65" column="11" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_redis_hbase/pom.xml" />
@@ -1722,57 +1740,58 @@
       <jump line="53" column="26" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/splitflow/web/ScreenController.java" />
       <jump line="109" column="47" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/splitflow/web/ScreenController.java" />
       <jump line="360" column="22" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
+      <jump line="17" column="110" filename="C:/code/db-pull-sync/src/main/java/com/miras/datasync/Application.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>build</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIGh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvYmVhbnMKICAgICAgIGh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvYmVhbnMvc3ByaW5nLWJlYW5zLnhzZCI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJzLmdldFN0cmluZygiVVBEQVRFX1NRTCIpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4yLjMxPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYWNjb3VudCArICI6IiArIHBhc3N3b3JkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZpZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBUZXN0VXRpbCgpLmxvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0VXRpbCB0ZXN0VXRpbCA9IAo=</text>
+        <text encoding="base64">ZGF0YSBjbGFzcyBTcWxGaWVsZCh2YXIgdHlwZTogU3FsRmllbGRUeXBlPywgdmFyIGZpZWxkOiBTdHJpbmc/KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5qih5p2/CiAgICAgKi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxjb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwvYmVhbj4K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogc3FsIOeahOWtl+autQogICAgICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIGlkPSJ1c2VyRGFvIiBjbGFzcz0iY29tLmhlbGxvLlVzZXJEYW8iLz4KICAgIDxiZWFuIGlkPSJ1c2VyU2VydmljZSIgY2xhc3M9ImNvbS5oZWxsby5Vc2VyU2VydmljZSI+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9InNlbGZOYW1lIiB2YWx1ZT0iY29tcHV0ZXIiLz4KICAgICAgICA8cHJvcGVydHkgbmFtZT0idXNlckRhbyIgcmVmPSJ1c2VyRGFvIi8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/ /,/g</text>
+        <text>s/,/,\r/g</text>
       </register>
     </registers>
     <search>
-      <last-search>build</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern>build</last-pattern>
-      <last-replace>,</last-replace>
-      <last-substitute encoding="base64">IA==</last-substitute>
+      <last-pattern>,</last-pattern>
+      <last-replace>,\r</last-replace>
+      <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1795,9 +1814,9 @@
         <entry>i</entry>
         <entry>\t</entry>
         <entry>0</entry>
-        <entry>,</entry>
         <entry encoding="base64">IA==</entry>
         <entry>build</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
         <entry>s/from./to./g</entry>
@@ -1817,9 +1836,9 @@
         <entry>s/0/2/g</entry>
         <entry>s/0/3/g</entry>
         <entry>s/,/\r,/g</entry>
-        <entry>s/,/,\r/g</entry>
         <entry encoding="base64">PDM4Myw0MTk+ZGQ=</entry>
         <entry>s/ /,/g</entry>
+        <entry>s/,/,\r/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
