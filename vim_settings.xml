@@ -74,11 +74,12 @@
         <mark key="." line="14" column="72" />
         <mark key="^" line="14" column="72" />
       </file>
-      <file name="C:/code/db-pull-sync/src/main/resources/application.properties" timestamp="1528705029176">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="6" column="56" />
-        <mark key="^" line="6" column="56" />
-        <mark key="." line="6" column="56" />
+      <file name="C:/code/db-pull-sync/src/main/resources/application.properties" timestamp="1528783321010">
+        <mark key="'" line="10" column="7" />
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="14" />
+        <mark key="^" line="12" column="14" />
+        <mark key="." line="12" column="14" />
       </file>
       <file name="C:/code/lession1/src/main/java/com/hello/TestController.java" timestamp="1528636329677">
         <mark key="[" line="33" column="21" />
@@ -443,7 +444,6 @@
         <mark key="." line="25" column="28" />
         <mark key="^" line="25" column="28" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_redis_hbase/pom.xml" timestamp="1528704212968" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_taopai/src/main/production-resources/application.properties" timestamp="1527226644772">
         <mark key="[" line="4" column="32" />
         <mark key="]" line="4" column="37" />
@@ -648,7 +648,6 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="C:/code/video-capture-web/src/main/java/com/miras/vehicle/VideoServlet.java" timestamp="1528685572472" />
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/EzvizApplication.java" timestamp="1521014649897">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="16" />
@@ -927,7 +926,6 @@
         <mark key="." line="3" column="56" />
         <mark key="^" line="3" column="56" />
       </file>
-      <file name="C:/code/MDHTrafficDataSync/mdh_data_6in1_cdc_oracle/src/main/java/com/miras/data/cdc/oracle/OracleBolt.java" timestamp="1528702596648" />
       <file name="C:/code/test/src/NumberConvert.java" timestamp="1519137263271">
         <mark key="[" line="26" column="9" />
         <mark key="]" line="26" column="14" />
@@ -1204,11 +1202,11 @@
         <mark key="." line="14" column="72" />
         <mark key="^" line="14" column="72" />
       </file>
-      <file name="C:/code/db-pull-sync/pom.xml" timestamp="1528705846895">
-        <mark key="[" line="51" column="21" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="82" column="65" />
-        <mark key="." line="57" column="0" />
+      <file name="C:/code/db-pull-sync/pom.xml" timestamp="1528782629628">
+        <mark key="[" line="61" column="21" />
+        <mark key="]" line="64" column="33" />
+        <mark key="^" line="64" column="33" />
+        <mark key="." line="64" column="33" />
       </file>
       <file name="C:/code/mdh_data_6in1api/src/main/resources/mapper/datadb61/VioSurveilDao.xml" timestamp="1522478180623">
         <mark key="[" line="7" column="31" />
@@ -1252,12 +1250,12 @@
         <mark key="." line="36" column="28" />
         <mark key="^" line="36" column="28" />
       </file>
-      <file name="C:/code/db-pull-sync/src/main/java/com/miras/datasync/Application.kt" timestamp="1528706935559">
-        <mark key="'" line="107" column="0" />
-        <mark key="[" line="60" column="72" />
-        <mark key="]" line="60" column="78" />
-        <mark key="." line="60" column="78" />
-        <mark key="^" line="60" column="78" />
+      <file name="C:/code/db-pull-sync/src/main/java/com/miras/datasync/Application.kt" timestamp="1528783606328">
+        <mark key="'" line="128" column="0" />
+        <mark key="[" line="91" column="10" />
+        <mark key="]" line="91" column="11" />
+        <mark key="." line="91" column="11" />
+        <mark key="^" line="100" column="45" />
       </file>
       <file name="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs_retry/src/main/java/com/miras/data/image/hdfs/DateHdfsPartitioner.java" timestamp="1516859891023">
         <mark key="[" line="42" column="14" />
@@ -1517,7 +1515,6 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="C:/code/db-pull-sync/src/main/java/com/miras/datasync/sql/SqlFieldType.kt" timestamp="1528702083137" />
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/bean/EzvizListResponse.java" timestamp="1522131273581">
         <mark key="[" line="4" column="57" />
         <mark key="]" line="4" column="63" />
@@ -1663,7 +1660,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="293" column="22" filename="C:/code/mdh_data_6in1api/src/main/java/com/miras/data/api/mdh_data_6in1api/ws/WsClient.java" />
       <jump line="65" column="11" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_redis_hbase/pom.xml" />
       <jump line="43" column="35" filename="C:/code/druid-kafka/kafka-druid-ab/src/main/kotlin/com/miras/data/DruidPassinfo.kt" />
       <jump line="12" column="4" filename="C:/code/druid-kafka/kafka-druid-ab/src/main/kotlin/com/miras/data/Entity.kt" />
@@ -1763,46 +1759,47 @@
       <jump line="360" column="22" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
       <jump line="17" column="110" filename="C:/code/db-pull-sync/src/main/java/com/miras/datasync/Application.kt" />
       <jump line="104" column="0" filename="C:/code/db-pull-sync/src/main/java/com/miras/datasync/Application.kt" />
+      <jump line="10" column="7" filename="C:/code/db-pull-sync/src/main/resources/application.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ts</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>ts</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBzaW1wbGVEYXRlRm9ybWF0ID0gU2ltcGxlRGF0ZUZvcm1hdCgieXl5eS1NTS1kZCBISDptbTpzcyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiYnllIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIHRzID0gKGRhdGFNYXBbIlRTOTI1NCJdID86ICIwIikudG9Mb25nKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXBkYXRlTGFzdFVwZGF0ZVRpbWUoY29uZmlnLCB0cywgY29ubmVjdGlvbkluKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCB0cyA9IHNpbXBsZURhdGVGb3JtYXQucGFyc2UoZGF0ZVN0cikudGltZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBzaW1wbGVEYXRlRm9ybWF0ID0gU2ltcGxlRGF0ZUZvcm1hdCgieXl5eS1NTS1kZCBISDptbTpzcyIpCg==</text>
+        <text encoding="base64">CmZ1biBzZW5kVG9LYWZrYShkYXRhTWFwOiBNYXA8U3RyaW5nLCBTdHJpbmc+KTogQW55IHsKICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPy50b1VwcGVyQ2FzZSgpID86ICIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbmRUb0thZmthKGRhdGFNYXApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvcGVydGllcy5nZXRQcm9wZXJ0eSgia2Fma2EuYm9vdHN0cmFwLXNlcnZlcnMiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm9yYWNsZTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+b2pkYmMxNDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MTAuMi4wLjQuMDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nU2VyaWFsaXplcjo6Y2xhc3MuamF2YQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwga2Fma2FQcm9kdWNlciA9IEthZmthUHJvZHVjZXIoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/,/,\r/g</text>
