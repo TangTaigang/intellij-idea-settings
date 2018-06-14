@@ -682,6 +682,12 @@
         <mark key="." line="18" column="40" />
         <mark key="^" line="18" column="41" />
       </file>
+      <file name="C:/code/graph-test/src/com/ht/DirectedCyclicGraph.java" timestamp="1528942857326">
+        <mark key="[" line="103" column="11" />
+        <mark key="]" line="103" column="10" />
+        <mark key="^" line="103" column="10" />
+        <mark key="." line="103" column="10" />
+      </file>
       <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/entity/ABCrowIndex.java" timestamp="1527990693912">
         <mark key="[" line="14" column="33" />
         <mark key="]" line="14" column="20" />
@@ -868,7 +874,7 @@
         <mark key="." line="28" column="73" />
         <mark key="^" line="28" column="73" />
       </file>
-      <file name="/fragment.java" timestamp="1528695663170">
+      <file name="/fragment.java" timestamp="1528941477686">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_ab/pom.xml" timestamp="1527059862899">
@@ -948,6 +954,12 @@
         <mark key="]" line="15" column="11" />
         <mark key="." line="15" column="11" />
         <mark key="^" line="15" column="11" />
+      </file>
+      <file name="C:/code/graph-test/src/com/ht/Main.java" timestamp="1528942901625">
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="28" />
+        <mark key="^" line="18" column="28" />
+        <mark key="." line="13" column="28" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_common/src/main/java/com/miras/data/passinf/common/enums/PassinfDataField.java" timestamp="1528441368055">
         <mark key="[" line="131" column="0" />
@@ -1665,9 +1677,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="35" filename="C:/code/druid-kafka/kafka-druid-ab/src/main/kotlin/com/miras/data/DruidPassinfo.kt" />
-      <jump line="12" column="4" filename="C:/code/druid-kafka/kafka-druid-ab/src/main/kotlin/com/miras/data/Entity.kt" />
-      <jump line="61" column="0" filename="C:/code/druid-kafka/kafka-druid-ab/src/main/kotlin/com/miras/data/Entity.kt" />
       <jump line="156" column="37" filename="C:/code/mdh_data_6in1api/src/main/java/com/miras/data/api/mdh_data_6in1api/controller/ApiController.java" />
       <jump line="133" column="6" filename="C:/code/mdh_data_6in1api/src/main/java/com/miras/data/api/mdh_data_6in1api/controller/ApiController.java" />
       <jump line="48" column="0" filename="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/service/TravelService.java" />
@@ -1765,57 +1774,60 @@
       <jump line="104" column="0" filename="C:/code/db-pull-sync/src/main/java/com/miras/datasync/Application.kt" />
       <jump line="10" column="7" filename="C:/code/db-pull-sync/src/main/resources/application.properties" />
       <jump line="86" column="50" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
+      <jump line="61" column="36" filename="C:/code/graph-test/src/com/ht/DirectedCyclicGraph.java" />
+      <jump line="57" column="12" filename="C:/code/graph-test/src/com/ht/DirectedCyclicGraph.java" />
+      <jump line="77" column="27" filename="C:/code/graph-test/src/com/ht/DirectedCyclicGraph.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkY2cuYWRkVHJhY2UoIkQiLCAiRSIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>据</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>from</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVwYXJlZFN0YXRlbWVudC5zZXRUaW1lc3RhbXAoMSwgVGltZXN0YW1wKHRzKSkK</text>
+        <text encoding="base64">ICAgICAgICBkY2cuYWRkVHJhY2UoIkQiLCAiRSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVwYXJlZFN0YXRlbWVudC5zZXRUaW1lc3RhbXAoMywgdHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbm9kZS5kZWVwID0gY3Vyck5vZGUuZGVlcCArIDE7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTm9kZSBwb3AgPQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCB0cyA9IHNpbXBsZURhdGVGb3JtYXQucGFyc2UoZGF0ZVN0cikudGltZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm9kZS5kZWVwID0gMTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgZGVlcDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmZ1biBzZW5kVG9LYWZrYShkYXRhTWFwOiBNYXA8U3RyaW5nLCBTdHJpbmc+KTogQW55IHsKICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdGhbcG9wLmRlZXBdID0gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbmRUb0thZmthKGRhdGFNYXApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBwYXRoW3BvcC5kZWVwXSA9IG51bGw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvcGVydGllcy5nZXRQcm9wZXJ0eSgia2Fma2EuYm9vdHN0cmFwLXNlcnZlcnMiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nU2VyaWFsaXplcjo6Y2xhc3MuamF2YQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdGhbal0gPSBwb3A7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/,/,\r/g</text>
+        <text>s/from/to/g</text>
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>from</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
-      <last-replace>,\r</last-replace>
-      <last-substitute>,</last-substitute>
+      <last-pattern>from</last-pattern>
+      <last-replace>to</last-replace>
+      <last-substitute>from</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1834,13 +1846,13 @@
         <entry>\?</entry>
         <entry>From</entry>
         <entry>9080</entry>
-        <entry>from</entry>
         <entry>i</entry>
         <entry>\t</entry>
         <entry>0</entry>
         <entry encoding="base64">IA==</entry>
         <entry>build</entry>
         <entry>,</entry>
+        <entry>from</entry>
       </history-search>
       <history-cmd>
         <entry>s/from./to./g</entry>
@@ -1851,7 +1863,6 @@
         <entry>s/From/To/g</entry>
         <entry>s/ //g</entry>
         <entry>s/9080/9090/g</entry>
-        <entry>s/from/to/g</entry>
         <entry>w</entry>
         <entry>s/i/j/g</entry>
         <entry>s/,/\n,/g</entry>
@@ -1863,6 +1874,7 @@
         <entry encoding="base64">PDM4Myw0MTk+ZGQ=</entry>
         <entry>s/ /,/g</entry>
         <entry>s/,/,\r/g</entry>
+        <entry>s/from/to/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
