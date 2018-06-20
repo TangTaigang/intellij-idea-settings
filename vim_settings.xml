@@ -154,7 +154,8 @@
         <mark key="^" line="7" column="30" />
         <mark key="." line="7" column="30" />
       </file>
-      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/scanner.java" timestamp="1529477433218">
+      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/scanner.java" timestamp="1529478608736">
+        <mark key="'" line="2866" column="4" />
         <mark key="[" line="2378" column="24" />
         <mark key="]" line="2378" column="30" />
         <mark key="." line="2378" column="30" />
@@ -1694,7 +1695,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="3" filename="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/service/TravelService.java" />
       <jump line="107" column="24" filename="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/service/TravelService.java" />
       <jump line="669" column="52" filename="C:/code/mdh_data_6in1api/src/main/java/com/miras/data/api/mdh_data_6in1api/ws/WsClient.java" />
       <jump line="132" column="19" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_taopai/src/main/java/com/miras/data/passinf/bolt/MockCarNumberBolt.java" />
@@ -1794,6 +1794,7 @@
       <jump line="26" column="2" filename="C:/code/MDHTrafficDataSync/db-pull-sync/src/main/java/com/miras/datasync/Application.kt" />
       <jump line="83" column="68" filename="C:/code/MDHTrafficDataSync/db-pull-sync/src/main/java/com/miras/datasync/Application.kt" />
       <jump line="89" column="32" filename="C:/code/MDHTrafficDataSync/db-pull-sync/src/main/java/com/miras/datasync/SqlInitializer.kt" />
+      <jump line="2866" column="4" filename="C:/code/ha-assitant/src/priusfan/info/bthsd10/scanner.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
