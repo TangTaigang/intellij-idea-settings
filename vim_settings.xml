@@ -154,7 +154,7 @@
         <mark key="^" line="7" column="30" />
         <mark key="." line="7" column="30" />
       </file>
-      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/scanner.java" timestamp="1523863259373">
+      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/scanner.java" timestamp="1529462881326">
         <mark key="[" line="1399" column="33" />
         <mark key="]" line="1400" column="7" />
         <mark key="." line="1400" column="7" />
@@ -787,7 +787,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529455665488">
+      <file name="/Dummy.txt" timestamp="1529463997503">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1099,6 +1099,12 @@
         <mark key="]" line="68" column="92" />
         <mark key="^" line="68" column="92" />
         <mark key="." line="68" column="92" />
+      </file>
+      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/cartype.java" timestamp="1529464454273">
+        <mark key="[" line="236" column="10" />
+        <mark key="]" line="236" column="20" />
+        <mark key="." line="236" column="20" />
+        <mark key="^" line="236" column="20" />
       </file>
       <file name="C:/code/springtest/src/main/resources/applicationContext.xml" timestamp="1528637543343">
         <mark key="[" line="11" column="54" />
@@ -1791,10 +1797,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv</text>
       </register>
       <register name="/" type="4">
         <text>from</text>
