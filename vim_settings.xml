@@ -93,6 +93,12 @@
         <mark key="." line="32" column="11" />
       </file>
       <file name="C:/code/MDHTrafficDataSync/db-pull-sync/src/main/resources/application.properties" timestamp="1529391407117" />
+      <file name="C:/code/MDHTrafficDataSync/db-pull-sync/src/main/production-resources/log4j.properties" timestamp="1529455653728">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+      </file>
       <file name="C:/code/car-route/dest/car_route.sql" timestamp="1522825605852">
         <mark key="[" line="45" column="30" />
         <mark key="]" line="45" column="30" />
@@ -655,10 +661,11 @@
         <mark key="." line="51" column="43" />
         <mark key="^" line="51" column="43" />
       </file>
-      <file name="C:/code/MDHTrafficDataSync/db-pull-sync/src/main/resources/log4j.properties" timestamp="1529393263156">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="C:/code/MDHTrafficDataSync/db-pull-sync/src/main/resources/log4j.properties" timestamp="1529455661172">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="0" column="23" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_kerberos2kafka/src/main/production-resources/application.properties" timestamp="1510553883374">
         <mark key="[" line="5" column="9" />
@@ -799,7 +806,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529401200474">
+      <file name="/Dummy.txt" timestamp="1529455665488">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -921,7 +928,7 @@
         <mark key="^" line="57" column="23" />
         <mark key="." line="57" column="23" />
       </file>
-      <file name="C:/code/MDHTrafficDataSync/db-pull-sync/src/main/java/com/miras/datasync/Application.kt" timestamp="1529400909997">
+      <file name="C:/code/MDHTrafficDataSync/db-pull-sync/src/main/java/com/miras/datasync/Application.kt" timestamp="1529455691610">
         <mark key="'" line="83" column="68" />
         <mark key="[" line="86" column="60" />
         <mark key="]" line="86" column="68" />
@@ -1809,11 +1816,11 @@
       <jump line="89" column="32" filename="C:/code/MDHTrafficDataSync/db-pull-sync/src/main/java/com/miras/datasync/SqlInitializer.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Exception</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bG9nNGouYXBwZW5kZXIuc3Rkb3V0LkZpbGU9bG9ncy9pbWFnZUxvZy5sb2cK</text>
       </register>
       <register name="-" type="4">
-        <text>Exception</text>
+        <text>stdout</text>
       </register>
       <register name="/" type="4">
         <text>from</text>
@@ -1822,31 +1829,31 @@
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHNxbCA9ICJzZWxlY3QgYGZyb21gIGYsIGB0b2AgdCBmcm9tIHJvdXRlIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8odGhpcy5zcWxUZW1wbGF0ZSArICJ8IiArIHBhcmFtcyArICJ8cm93RWZmZWN0ZWQ6IiArIGV4ZWN1dGVVcGRhdGUpCiAgICAgICAgICAgIHJldHVybiBleGVjdXRlVXBkYXRlCg==</text>
+        <text encoding="base64">bG9nNGouYXBwZW5kZXIuc3Rkb3V0LkZpbGU9bG9ncy9pbWFnZUxvZy5sb2cK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBleAo=</text>
+        <text encoding="base64">bG9nNGouYXBwZW5kZXIuZj1vcmcuYXBhY2hlLmxvZzRqLkRhaWx5Um9sbGluZ0ZpbGVBcHBlbmRlcgpsb2c0ai5hcHBlbmRlci5mLkRhdGVQYXR0ZXJuPScuJ3l5eXktTU0tZGQtSEgKbG9nNGouYXBwZW5kZXIuZi5GaWxlPWxvZ3MvcGFzc2luZl9hYl9rYWZrYS5sb2cKbG9nNGouYXBwZW5kZXIuZi5sYXlvdXQ9b3JnLmFwYWNoZS5sb2c0ai5QYXR0ZXJuTGF5b3V0CmxvZzRqLmFwcGVuZGVyLmYubGF5b3V0LkNvbnZlcnNpb25QYXR0ZXJuPVslZF0gJXAgJW0gKCVjKSVuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">bG9nNGouYXBwZW5kZXIuc3Rkb3V0LmxheW91dC5Db252ZXJzaW9uUGF0dGVybj1bJWRdICVwICVtICglYyklbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIHNlbmQgdG8ga2Fma2EKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGthZmthUHJvZHVjZXIuc2VuZChQcm9kdWNlclJlY29yZChrYWZrYVRvcGljLCBKU09OLnRvSlNPTlN0cmluZyhkYXRhTWFwKSkpCg==</text>
+        <text encoding="base64">bG9nNGouYXBwZW5kZXIuc3Rkb3V0PW9yZy5hcGFjaGUubG9nNGouQ29uc29sZUFwcGVuZGVyCmxvZzRqLmFwcGVuZGVyLnN0ZG91dC5GaWxlPWxvZ3MvaW1hZ2VMb2cubG9nCmxvZzRqLmFwcGVuZGVyLnN0ZG91dC5sYXlvdXQ9b3JnLmFwYWNoZS5sb2c0ai5QYXR0ZXJuTGF5b3V0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBzZW5kIHRvIGthZmthCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAga2Fma2FQcm9kdWNlci5zZW5kKFByb2R1Y2VyUmVjb3JkKGthZmthVG9waWMsIEpTT04udG9KU09OU3RyaW5nKGRhdGFNYXApKSkK</text>
+        <text encoding="base64">bG9nNGouYXBwZW5kZXIuZi5sYXlvdXQuQ29udmVyc2lvblBhdHRlcm49WyVkXSAlcCAlbSAoJWMpJW4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bG9nNGouYXBwZW5kZXIuZj1vcmcuYXBhY2hlLmxvZzRqLkRhaWx5Um9sbGluZ0ZpbGVBcHBlbmRlcgpsb2c0ai5hcHBlbmRlci5mLkRhdGVQYXR0ZXJuPScuJ3l5eXktTU0tZGQKbG9nNGouYXBwZW5kZXIuZi5GaWxlPWxvZ3MvZGItcHVsbC1zeW5jLmxvZwpsb2c0ai5hcHBlbmRlci5mLmxheW91dD1vcmcuYXBhY2hlLmxvZzRqLlBhdHRlcm5MYXlvdXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1cGRhdGVMYXN0VXBkYXRlVGltZShjb25maWcsIHRzLCBjb25uZWN0aW9uSW4pCg==</text>
+        <text encoding="base64">I2xvZzRqLmFwcGVuZGVyLnN0ZG91dD1vcmcuYXBhY2hlLmxvZzRqLkNvbnNvbGVBcHBlbmRlcgojbG9nNGouYXBwZW5kZXIuc3Rkb3V0LmxheW91dD1vcmcuYXBhY2hlLmxvZzRqLlBhdHRlcm5MYXlvdXQKI2xvZzRqLmFwcGVuZGVyLnN0ZG91dC5sYXlvdXQuQ29udmVyc2lvblBhdHRlcm49WyVkXSAlcCAlbSAoJWMpJW4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAsIHN0ZG91dAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtSEgK</text>
       </register>
       <register name=":" type="4">
         <text>s/from/to/g</text>
