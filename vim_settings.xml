@@ -154,11 +154,11 @@
         <mark key="^" line="7" column="30" />
         <mark key="." line="7" column="30" />
       </file>
-      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/scanner.java" timestamp="1529462881326">
-        <mark key="[" line="1399" column="33" />
-        <mark key="]" line="1400" column="7" />
-        <mark key="." line="1400" column="7" />
-        <mark key="^" line="1400" column="7" />
+      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/scanner.java" timestamp="1529473810514">
+        <mark key="[" line="2378" column="24" />
+        <mark key="]" line="2378" column="30" />
+        <mark key="." line="2378" column="30" />
+        <mark key="^" line="2378" column="30" />
       </file>
       <file name="C:/code/druid-kafka/kafka-druid-ab-timeuse-subject/pom.xml" timestamp="1528098069210">
         <mark key="[" line="56" column="19" />
@@ -1797,10 +1797,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv</text>
+        <text>vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv</text>
       </register>
       <register name="-" type="4">
-        <text>vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv</text>
+        <text>vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv</text>
       </register>
       <register name="/" type="4">
         <text>from</text>
