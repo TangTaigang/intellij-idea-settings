@@ -190,6 +190,7 @@
         <mark key="." line="2" column="55" />
         <mark key="^" line="2" column="55" />
       </file>
+      <file name="C:/code/MDHTrafficRealtimeMonitor/src/main/resources/generatorConfig.xml" timestamp="1529566828817" />
       <file name="C:/code/druid-kafka/kafka-druid-stream/build.sh" timestamp="1511413798051">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
@@ -790,12 +791,12 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="C:/code/MagicSquare/src/main/java/com/huitong/miras/magicsquare/dataprovider/druid/DruidDataProvider.java" timestamp="1529552386839">
-        <mark key="'" line="132" column="0" />
-        <mark key="[" line="119" column="54" />
-        <mark key="]" line="120" column="12" />
-        <mark key="." line="120" column="12" />
-        <mark key="^" line="120" column="12" />
+      <file name="C:/code/MagicSquare/src/main/java/com/huitong/miras/magicsquare/dataprovider/druid/DruidDataProvider.java" timestamp="1529567171704">
+        <mark key="'" line="56" column="18" />
+        <mark key="[" line="136" column="22" />
+        <mark key="]" line="136" column="26" />
+        <mark key="^" line="136" column="26" />
+        <mark key="." line="136" column="26" />
       </file>
       <file name="/Dummy.txt" timestamp="1529545418337">
         <mark key="[" line="0" column="0" />
@@ -919,7 +920,6 @@
         <mark key="^" line="57" column="23" />
         <mark key="." line="57" column="23" />
       </file>
-      <file name="C:/code/MagicSquare/src/main/java/com/huitong/miras/magicsquare/dataproviderexample/MyDataProvider.java" timestamp="1529542076771" />
       <file name="C:/code/MDHTrafficDataSync/db-pull-sync/src/main/java/com/miras/datasync/Application.kt" timestamp="1529455691610">
         <mark key="'" line="83" column="68" />
         <mark key="[" line="86" column="60" />
@@ -1581,7 +1581,7 @@
         <mark key="." line="15" column="30" />
         <mark key="^" line="15" column="26" />
       </file>
-      <file name="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/web/RoadEditController.java" timestamp="1526695390538">
+      <file name="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/web/RoadEditController.java" timestamp="1529567203925">
         <mark key="[" line="200" column="0" />
         <mark key="]" line="200" column="0" />
         <mark key="." line="200" column="0" />
@@ -1706,7 +1706,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="17" filename="C:/code/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/web/IllegalDataController.java" />
       <jump line="43" column="41" filename="C:/code/shanghefenghui/TrafficSplitflowDruid/src/main/resources/split-flow.json" />
       <jump line="46" column="28" filename="C:/code/shanghefenghui/TrafficSplitflowDruid/src/main/resources/split-flow.json" />
       <jump line="0" column="0" filename="C:/code/shanghefenghui/TrafficSplitflowDruid/src/main/resources/split-flow.json" />
@@ -1806,57 +1805,58 @@
       <jump line="417" column="8" filename="C:/code/MagicSquare/src/main/java/com/huitong/miras/magicsquare/elasticsearch/ElasticsearchDataProvider.java" />
       <jump line="362" column="34" filename="C:/code/MagicSquare/src/main/java/com/huitong/miras/magicsquare/elasticsearch/ElasticsearchDataProvider.java" />
       <jump line="129" column="0" filename="C:/code/MagicSquare/src/main/java/com/huitong/miras/magicsquare/dataprovider/druid/DruidDataProvider.java" />
+      <jump line="55" column="18" filename="C:/code/MagicSquare/src/main/java/com/huitong/miras/magicsquare/dataprovider/druid/DruidDataProvider.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Appcon</text>
+        <text>month</text>
       </register>
       <register name="-" type="4">
-        <text>Appcon</text>
+        <text>month</text>
       </register>
       <register name="/" type="4">
-        <text>from</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbHVtbnNMaXN0LmFkZCgiZHJ1aWRJbnRlcnZhbCIpOwo=</text>
+        <text encoding="base64">ICAgICAqIFAxTSA9PSBwZXJpb2QgMSBtb250aAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhYy4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb2x1bW5zTGlzdC4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiBjb2x1bW5zID0gbmV3IEFycmF5TGlzdDw+KGRpbWVuc2lvbkxpc3QpOwogICAgICAgIGNvbHVtbnMuYWRkQWxsKGRpbWVuc2lvbkxpc3QpOwogICAgICAgIGNvbHVtbnMuYWRkQWxsKG1ldHJpY0xpc3QpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBQYXR0ZXJuCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IiIiIiIiIiIiIiIiIiIgKwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbHVtbnNMaXN0LmFkZEFsbChkaW1lbnNpb25MaXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkaW1lbnNpb25MaXN0LnN0cmVhbSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeU1hcC5wCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAodiAtPiB2ICsgIltkaW1lbnNpb25dIikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhYy4K</text>
       </register>
       <register name=":" type="4">
-        <text>s/from/to/g</text>
+        <text>s/,/,\r/g</text>
       </register>
     </registers>
     <search>
-      <last-search>from</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern>from</last-pattern>
-      <last-replace>to</last-replace>
-      <last-substitute>from</last-substitute>
+      <last-pattern>,</last-pattern>
+      <last-replace>,\r</last-replace>
+      <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1878,13 +1878,12 @@
         <entry>i</entry>
         <entry>\t</entry>
         <entry>0</entry>
-        <entry encoding="base64">IA==</entry>
         <entry>build</entry>
-        <entry>,</entry>
         <entry>from</entry>
+        <entry encoding="base64">IA==</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
-        <entry>s/from./to./g</entry>
         <entry>s/,/\r\n/g</entry>
         <entry>s/Start/End/g</entry>
         <entry>s/stdTime//g</entry>
@@ -1902,8 +1901,9 @@
         <entry>s/,/\r,/g</entry>
         <entry encoding="base64">PDM4Myw0MTk+ZGQ=</entry>
         <entry>s/ /,/g</entry>
-        <entry>s/,/,\r/g</entry>
         <entry>s/from/to/g</entry>
+        <entry>s/ /&quot;/g</entry>
+        <entry>s/,/,\r/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
