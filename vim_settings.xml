@@ -796,14 +796,14 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="C:/code/MagicSquare/src/main/java/com/huitong/miras/magicsquare/dataprovider/druid/DruidDataProvider.java" timestamp="1529570347099">
-        <mark key="'" line="61" column="18" />
-        <mark key="[" line="200" column="57" />
-        <mark key="]" line="200" column="59" />
-        <mark key="." line="200" column="59" />
-        <mark key="^" line="200" column="59" />
+      <file name="C:/code/MagicSquare/src/main/java/com/huitong/miras/magicsquare/dataprovider/druid/DruidDataProvider.java" timestamp="1529573582210">
+        <mark key="'" line="58" column="18" />
+        <mark key="[" line="200" column="35" />
+        <mark key="]" line="201" column="61" />
+        <mark key="." line="201" column="61" />
+        <mark key="^" line="201" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529545418337">
+      <file name="/Dummy.txt" timestamp="1529573770047">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1819,43 +1819,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoZiAtPiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIOaKigo=</text>
       </register>
       <register name="-" type="4">
-        <text>getName</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoZiAtPiAiZHJ1aWRJbnRlcnZhbCIuZXF1YWxzKGYuZ2V0TmFtZSgpKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInR5cGUiLCAiZG91YmxlQXZnIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5hbWUiLCB2LmdldENvbHVtbigpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiZmllbGROYW1lIiwgInN1bV8iICsgdi5nZXRDb2x1bW4oKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoZiAtPiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIOaKigo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIFRPRE8gMTgvMDYvMjEga2lzY2huIGF2ZyDnibnmrooK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJmaWVsZE5hbWUiLCAic3VtXyIgKyB2LmdldENvbHVtbigpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+        <text encoding="base64">ICAgICAgICApKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSAiZGlzdGluY3QiOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gSW1tdXRhYmxlTWFwLm9mKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgInR5cGUiLCAiZG91YmxlU3VtIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJuYW1lIiwgdi5nZXRDb2x1bW4oKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJmaWVsZE5hbWUiLCAic3VtXyIgKyB2LmdldENvbHVtbigpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDov4fmu6QKICAgICAgICBMaXN0PENvbmZpZ0NvbXBvbmVudD4gZmlsdGVycyA9IGFnZ0NvbmZpZy5nZXRGaWx0ZXJzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeU1hcC5wdXQoImludGVydmFscyIsIGdldERydWlkSW50ZXJ2YWxzKGFnZ0NvbmZpZykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdDoK</text>
       </register>
       <register name=":" type="4">
         <text>s/,/,\r/g</text>
