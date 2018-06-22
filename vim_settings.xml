@@ -796,10 +796,10 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="C:/code/MagicSquare/src/main/java/com/huitong/miras/magicsquare/dataprovider/druid/DruidDataProvider.java" timestamp="1529635501403">
-        <mark key="[" line="259" column="50" />
-        <mark key="]" line="259" column="50" />
-        <mark key="." line="259" column="50" />
+      <file name="C:/code/MagicSquare/src/main/java/com/huitong/miras/magicsquare/dataprovider/druid/DruidDataProvider.java" timestamp="1529639199536">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
         <mark key="^" line="310" column="42" />
       </file>
       <file name="/Dummy.txt" timestamp="1529573770047">
@@ -1817,8 +1817,8 @@
       <jump line="187" column="80" filename="C:/code/MagicSquare/src/main/java/com/huitong/miras/magicsquare/dataprovider/druid/DruidDataProvider.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1ldHJpY0xpc3QuYWRkKCJkcnVpZENvdW50Iik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -1830,19 +1830,19 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4gbmVlZFRpbWVzdGFtcCA9ICEiYWxsIi5lcXVhbHMoZ2V0R3JhbnVsYXJpdHkoKSk7CiAgICAgICAgICAgICAgICBpZiAobmVlZFRpbWVzdGFtcCkgewogICAgICAgICAgICAgICAgICAgIGtleXMuYWRkKCJ0aW1lc3RhbXAiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1ldHJpY0xpc3QuYWRkKCJkcnVpZENvdW50Iik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWdncmVnYXRlUmVzdWx0LnNldENvbHVtbkxpc3QoQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdChjb2x1bW5JbmRleCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYWdncmVnYXRlUmVzdWx0LmdldENvbHVtbkxpc3QoKSA9PSBudWxsKSB7CiAgICAgICAgICAgIENvbHVtbkluZGV4IGNvbHVtbkluZGV4ID0gbmV3IENvbHVtbkluZGV4KCk7CiAgICAgICAgICAgIGNvbHVtbkluZGV4LnNldE5hbWUoImVtcHR5Iik7CiAgICAgICAgICAgIGNvbHVtbkluZGV4LnNldEluZGV4KDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWdncmVnYXRlUmVzdWx0LnNldENvbHVtbkxpc3QoQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdChjb2x1bW5JbmRleCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFnZ3JlZ2F0ZVJlc3VsdC5zZXRDb2x1bW5MaXN0KGNvbHVtbnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYWdncmVnYXRlUmVzdWx0LmdldENvbHVtbkxpc3QoKSA9PSBudWxsKSB7CiAgICAgICAgICAgIENvbHVtbkluZGV4IGNvbHVtbkluZGV4ID0gbmV3IENvbHVtbkluZGV4KCk7CiAgICAgICAgICAgIGNvbHVtbkluZGV4LnNldE5hbWUoImVtcHR5Iik7CiAgICAgICAgICAgIGNvbHVtbkluZGV4LnNldEluZGV4KDApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFnZ3JlZ2F0ZVJlc3VsdC5zZXRDb2x1bW5MaXN0KGNvbHVtbnMpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1851,10 +1851,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/,/,\r/g</text>
