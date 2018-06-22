@@ -51,7 +51,7 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="/a.dummy" timestamp="1529628487827">
+      <file name="/a.dummy" timestamp="1529631786258">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -551,7 +551,7 @@
         <mark key="." line="4085" column="133" />
         <mark key="^" line="4085" column="133" />
       </file>
-      <file name="C:/code/MagicSquare/src/main/java/com/huitong/miras/magicsquare/elasticsearch/ElasticsearchDataProvider.java" timestamp="1529568735703">
+      <file name="C:/code/MagicSquare/src/main/java/com/huitong/miras/magicsquare/elasticsearch/ElasticsearchDataProvider.java" timestamp="1529632242951">
         <mark key="'" line="362" column="34" />
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="37" />
@@ -796,12 +796,11 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="C:/code/MagicSquare/src/main/java/com/huitong/miras/magicsquare/dataprovider/druid/DruidDataProvider.java" timestamp="1529630881318">
-        <mark key="'" line="249" column="0" />
-        <mark key="[" line="213" column="72" />
-        <mark key="]" line="214" column="28" />
-        <mark key="." line="214" column="28" />
-        <mark key="^" line="214" column="28" />
+      <file name="C:/code/MagicSquare/src/main/java/com/huitong/miras/magicsquare/dataprovider/druid/DruidDataProvider.java" timestamp="1529635501403">
+        <mark key="[" line="259" column="50" />
+        <mark key="]" line="259" column="50" />
+        <mark key="." line="259" column="50" />
+        <mark key="^" line="310" column="42" />
       </file>
       <file name="/Dummy.txt" timestamp="1529573770047">
         <mark key="[" line="0" column="0" />
@@ -1716,7 +1715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/code/shanghefenghui/TrafficSplitflowDruid/src/main/resources/split-flow.json" />
       <jump line="94" column="42" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/OnlineVehicleIn.java" />
       <jump line="474" column="11" filename="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/HashMap.java" />
       <jump line="50" column="29" filename="C:/code/shanghefenghui/TrafficSplitflowDruid/src/test/java/com/ht/trafficsplit/DemoTest.java" />
@@ -1816,46 +1814,47 @@
       <jump line="55" column="18" filename="C:/code/MagicSquare/src/main/java/com/huitong/miras/magicsquare/dataprovider/druid/DruidDataProvider.java" />
       <jump line="167" column="40" filename="C:/code/MagicSquare/src/main/java/com/huitong/miras/magicsquare/dataprovider/druid/DruidDataProvider.java" />
       <jump line="207" column="0" filename="C:/code/MagicSquare/src/main/java/com/huitong/miras/magicsquare/dataprovider/druid/DruidDataProvider.java" />
+      <jump line="187" column="80" filename="C:/code/MagicSquare/src/main/java/com/huitong/miras/magicsquare/dataprovider/druid/DruidDataProvider.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>+</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGF0YVtpXVtjaV0gPSBqc29uT2JqZWN0LmdldFN0cmluZygidGltZXN0YW1wIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4gbmVlZFRpbWVzdGFtcCA9ICEiYWxsIi5lcXVhbHMoZ2V0R3JhbnVsYXJpdHkoKSk7CiAgICAgICAgICAgICAgICBpZiAobmVlZFRpbWVzdGFtcCkgewogICAgICAgICAgICAgICAgICAgIGtleXMuYWRkKCJ0aW1lc3RhbXAiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWdncmVnYXRlUmVzdWx0LnNldENvbHVtbkxpc3QoQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdChjb2x1bW5JbmRleCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYWdncmVnYXRlUmVzdWx0LmdldENvbHVtbkxpc3QoKSA9PSBudWxsKSB7CiAgICAgICAgICAgIENvbHVtbkluZGV4IGNvbHVtbkluZGV4ID0gbmV3IENvbHVtbkluZGV4KCk7CiAgICAgICAgICAgIGNvbHVtbkluZGV4LnNldE5hbWUoImVtcHR5Iik7CiAgICAgICAgICAgIGNvbHVtbkluZGV4LnNldEluZGV4KDApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFnZ3JlZ2F0ZVJlc3VsdC5zZXRDb2x1bW5MaXN0KGNvbHVtbnMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqc29uQXJyYXkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyB0aW1lc3RhbXAgPSBmaXJzdExpbmUuZ2V0U3RyaW5nKCJ0aW1lc3RhbXAiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyB0aW1lc3RhbXAgPSBmaXJzdExpbmUuZ2V0U3RyaW5nKCJ0aW1lc3RhbXAiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/,/,\r/g</text>
