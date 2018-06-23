@@ -92,7 +92,7 @@
         <mark key="^" line="32" column="11" />
         <mark key="." line="32" column="11" />
       </file>
-      <file name="C:/code/MDHTrafficDataSync/db-pull-sync/src/main/resources/application.properties" timestamp="1529714325526">
+      <file name="C:/code/MDHTrafficDataSync/db-pull-sync/src/main/resources/application.properties" timestamp="1529723405208">
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
@@ -484,11 +484,11 @@
         <mark key="^" line="34" column="35" />
         <mark key="." line="34" column="35" />
       </file>
-      <file name="C:/code/MDHTrafficDataSync/db-pull-sync/src/main/java/com/miras/datasync/SqlInitializer.kt" timestamp="1529400932896">
-        <mark key="[" line="91" column="24" />
-        <mark key="]" line="91" column="28" />
-        <mark key="." line="91" column="28" />
-        <mark key="^" line="91" column="28" />
+      <file name="C:/code/MDHTrafficDataSync/db-pull-sync/src/main/java/com/miras/datasync/SqlInitializer.kt" timestamp="1529724100605">
+        <mark key="[" line="89" column="100" />
+        <mark key="]" line="89" column="137" />
+        <mark key="^" line="89" column="137" />
+        <mark key="." line="89" column="137" />
       </file>
       <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/entity/CrowIndexResponse.java" timestamp="1527903096329">
         <mark key="[" line="10" column="39" />
@@ -814,7 +814,7 @@
         <mark key="." line="293" column="0" />
         <mark key="^" line="341" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529722622538">
+      <file name="/Dummy.txt" timestamp="1529724101700">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -936,12 +936,12 @@
         <mark key="^" line="57" column="23" />
         <mark key="." line="57" column="23" />
       </file>
-      <file name="C:/code/MDHTrafficDataSync/db-pull-sync/src/main/java/com/miras/datasync/Application.kt" timestamp="1529722610353">
-        <mark key="'" line="87" column="68" />
-        <mark key="[" line="89" column="49" />
-        <mark key="]" line="89" column="64" />
-        <mark key="^" line="89" column="64" />
-        <mark key="." line="89" column="64" />
+      <file name="C:/code/MDHTrafficDataSync/db-pull-sync/src/main/java/com/miras/datasync/Application.kt" timestamp="1529723747030">
+        <mark key="'" line="89" column="68" />
+        <mark key="[" line="82" column="79" />
+        <mark key="]" line="82" column="78" />
+        <mark key="^" line="82" column="78" />
+        <mark key="." line="82" column="78" />
       </file>
       <file name="C:/code/web/pom.xml" timestamp="1524203476107">
         <mark key="[" line="8" column="26" />
@@ -1829,11 +1829,11 @@
       <jump line="312" column="58" filename="C:/code/MagicSquare/src/main/java/com/huitong/miras/magicsquare/dataprovider/druid/DruidDataProvider.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>update or insert time use</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>update or insert time use</text>
+        <text>currentTimeMilli</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -1842,31 +1842,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50bG4oInVwZGF0ZSBvciBpbnNlcnQgdGltZSB1c2U6IiArIChTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSAtIHN0YXJ0VHMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihJbnRlZ2VyLnRvSGV4U3RyaW5nKGFCeXRlKSk7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c291cmNlLz44Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihJbnRlZ2VyLnRvSGV4U3RyaW5nKGFCeXRlKSk7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c291cmNlLz44Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY291bnRNYXAuZ2V0T3JEZWZhdWx0KGNvdW50TWFwLCAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/,/,\r/g</text>
