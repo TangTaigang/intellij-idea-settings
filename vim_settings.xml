@@ -281,11 +281,11 @@
         <mark key="." line="270" column="0" />
         <mark key="^" line="275" column="50" />
       </file>
-      <file name="C:/code/fast-test/pom.xml" timestamp="1529456206565">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="15" column="23" />
-        <mark key="^" line="15" column="23" />
-        <mark key="." line="15" column="23" />
+      <file name="C:/code/fast-test/pom.xml" timestamp="1529719136988">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="26" />
+        <mark key="." line="16" column="26" />
+        <mark key="^" line="16" column="26" />
       </file>
       <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-in/src/main/java/com/miras/ftp/in/Application.java" timestamp="1527475782132">
         <mark key="[" line="100" column="0" />
@@ -759,6 +759,12 @@
         <mark key="]" line="26" column="21" />
         <mark key="." line="26" column="21" />
         <mark key="^" line="26" column="21" />
+      </file>
+      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/logger.java" timestamp="1529719931735">
+        <mark key="[" line="376" column="9" />
+        <mark key="]" line="376" column="9" />
+        <mark key="." line="376" column="9" />
+        <mark key="^" line="27" column="27" />
       </file>
       <file name="C:/code/video-capture/pom.xml" timestamp="1525503926140">
         <mark key="[" line="36" column="55" />
@@ -1696,12 +1702,7 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="C:/code/fast-test/src/main/java/Application.java" timestamp="1529718096105">
-        <mark key="[" line="12" column="85" />
-        <mark key="]" line="12" column="111" />
-        <mark key="." line="12" column="111" />
-        <mark key="^" line="12" column="111" />
-      </file>
+      <file name="C:/code/fast-test/src/main/java/Application.java" timestamp="1529719175244" />
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/service/TokenService.java" timestamp="1522136248053">
         <mark key="[" line="49" column="17" />
         <mark key="]" line="49" column="19" />
@@ -1825,43 +1826,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpZWxkUGFyYW0ucHV0KCJ0eXBlIiwgImJvdW5kIik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaWVsZFBhcmFtLnB1dCgiZGltZW5zaW9uIiwgZGltZW5zaW9uQ29uZmlnLmdldENvbHVtbk5hbWUoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaWVsZFBhcmFtLnB1dCgibG93ZXJTdHJpY3QiLCB0cnVlKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpZWxkUGFyYW0ucHV0KCJsb3dlciIsIGRpbWVuc2lvbkNvbmZpZy5nZXRWYWx1ZXMoKS5nZXQoMCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c291cmNlPjg8L3NvdXJjZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoImhleDoiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihJbnRlZ2VyLnRvSGV4U3RyaW5nKGFCeXRlKSk7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50V3JpdGVyLnByaW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c291cmNlLz44Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgRmlsZVdyaXRlcihuZXcgRmlsZU8pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoInN0cmluZzoiKTsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXcgU3RyaW5nKGJ5dGVzKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY291bnRNYXAuZ2V0T3JEZWZhdWx0KGNvdW50TWFwLCAwKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvdW50TWFwLikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoIm51bWJlcjoiKTsKICAgICAgICAgICAgICAgIGZvciAoYnl0ZSBhQnl0ZSA6IGJ5dGVzKSB7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludChJbnRlZ2VyLnRvU3RyaW5nKGFCeXRlKSk7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgnLCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>s/,/,\r/g</text>
