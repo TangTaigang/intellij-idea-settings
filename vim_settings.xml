@@ -484,11 +484,11 @@
         <mark key="^" line="34" column="35" />
         <mark key="." line="34" column="35" />
       </file>
-      <file name="C:/code/MDHTrafficDataSync/db-pull-sync/src/main/java/com/miras/datasync/SqlInitializer.kt" timestamp="1529724100605">
-        <mark key="[" line="89" column="100" />
-        <mark key="]" line="89" column="137" />
-        <mark key="^" line="89" column="137" />
-        <mark key="." line="89" column="137" />
+      <file name="C:/code/MDHTrafficDataSync/db-pull-sync/src/main/java/com/miras/datasync/SqlInitializer.kt" timestamp="1529734610411">
+        <mark key="[" line="68" column="81" />
+        <mark key="]" line="69" column="27" />
+        <mark key="^" line="69" column="27" />
+        <mark key="." line="69" column="27" />
       </file>
       <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/entity/CrowIndexResponse.java" timestamp="1527903096329">
         <mark key="[" line="10" column="39" />
@@ -705,6 +705,7 @@
         <mark key="." line="18" column="40" />
         <mark key="^" line="18" column="41" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/Long.java" timestamp="1529733554012" />
       <file name="C:/code/graph-test/src/com/ht/DirectedCyclicGraph.java" timestamp="1528942857326">
         <mark key="[" line="100" column="11" />
         <mark key="]" line="100" column="10" />
@@ -814,7 +815,7 @@
         <mark key="." line="293" column="0" />
         <mark key="^" line="341" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529724722274">
+      <file name="/Dummy.txt" timestamp="1529734671982">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1272,6 +1273,7 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="48" column="55" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.2.41/kotlin-stdlib-jdk7-1.2.41-sources.jar!/kotlin/AutoCloseable.kt" timestamp="1529733693597" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_es/src/main/production-resources/application.properties" timestamp="1520901768549">
         <mark key="[" line="14" column="71" />
         <mark key="]" line="14" column="72" />
@@ -1727,7 +1729,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="37" filename="C:/code/shanghefenghui/TrafficSplitflowHub/src/main/kotlin/com/ht/trafficSplitflowHub/TrafficSplitflowHubApplication.kt" />
       <jump line="56" column="54" filename="C:/code/shanghefenghui/TrafficSplitflowHub/src/main/kotlin/com/ht/trafficSplitflowHub/TrafficSplitflowHubApplication.kt" />
       <jump line="2" column="0" filename="C:/code/shanghefenghui/TrafficSplitflowHub/src/main/kotlin/com/ht/trafficSplitflowHub/TrafficSplitflowHubApplication.kt" />
       <jump line="35" column="27" filename="C:/code/shanghefenghui/TrafficSplitflowHub/src/main/kotlin/com/ht/trafficSplitflowHub/TrafficSplitflowHubApplication.kt" />
@@ -1827,46 +1828,47 @@
       <jump line="262" column="43" filename="C:/code/MagicSquare/src/main/java/com/huitong/miras/magicsquare/dataprovider/druid/DruidDataProvider.java" />
       <jump line="322" column="44" filename="C:/code/MagicSquare/src/main/java/com/huitong/miras/magicsquare/dataprovider/druid/DruidDataProvider.java" />
       <jump line="312" column="58" filename="C:/code/MagicSquare/src/main/java/com/huitong/miras/magicsquare/dataprovider/druid/DruidDataProvider.java" />
+      <jump line="74" column="27" filename="C:/code/MDHTrafficDataSync/db-pull-sync/src/main/java/com/miras/datasync/SqlInitializer.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>添加详细的日志打印</text>
       </register>
       <register name="-" type="4">
-        <text>currentTimeMilli</text>
+        <text>添加详细的日志打印</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50bG4oInVwZGF0ZSBvciBpbnNlcnQgdGltZSB1c2U6IiArIChTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSAtIHN0YXJ0VHMpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJlcGFyZWRTdGF0ZW1lbnQuc2V0TG9uZyhwYXJhbUluZGV4LCBpZiAoU3RyaW5nVXRpbHMuaXNFbXB0eShmaWVsZFZhbHVlKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChTdHJpbmdVdGlscy5pc0VtcHR5KGZpZWxkVmFsdWUpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJlcGFyZWRTdGF0ZW1lbnQuc2V0TG9uZyhwYXJhbUluZGV4LCBpZiAoU3RyaW5nVXRpbHMuaXNFbXB0eShmaWVsZFZhbHVlKSkKICAgICAgICAgICAgICAgICAgICAgICAgMAogICAgICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgICAgICAgICAgamF2YS5sYW5nLkxvbmcudmFsdWVPZihmaWVsZFZhbHVlKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJlcGFyZWRTdGF0ZW1lbnQuc2V0SW50KHBhcmFtSW5kZXgsIGlmIChTdHJpbmdVdGlscy5pc0VtcHR5KGZpZWxkVmFsdWUpKQogICAgICAgICAgICAgICAgICAgICAgICAwCiAgICAgICAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgICAgICAgICBJbnRlZ2VyLnZhbHVlT2YoZmllbGRWYWx1ZSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzRW1wdHkoZmllbGRWYWx1ZSkpIDAuMCBlbHNlIGphdmEubGFuZy5Eb3VibGUudmFsdWVPZihmaWVsZFZhbHVlKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihJbnRlZ2VyLnRvSGV4U3RyaW5nKGFCeXRlKSk7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcmVwYXJlZFN0YXRlbWVudC5zZXREb3VibGUocGFyYW1JbmRleCwgZmllbGRWYWx1ZS50b0RvdWJsZSgpKQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c291cmNlLz44Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICk7IH0sIDAuMCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzRW1wdHkoZmllbGRWYWx1ZSkpIFRpbWVzdGFtcCgwKSBlbHNlIFRpbWVzdGFtcChzaW1wbGVEYXRlRm9ybWF0LnBhcnNlKGZpZWxkVmFsdWUpIC50aW1lKQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/,/,\r/g</text>
