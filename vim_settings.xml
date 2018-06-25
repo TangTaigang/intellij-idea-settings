@@ -820,7 +820,7 @@
         <mark key="." line="293" column="0" />
         <mark key="^" line="341" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529910052375">
+      <file name="/Dummy.txt" timestamp="1529916272000">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1548,6 +1548,12 @@
         <mark key="." line="26" column="10" />
         <mark key="^" line="26" column="10" />
       </file>
+      <file name="C:/code/MDHTrafficMapReduce/.gitignore" timestamp="1529916267659">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="6" />
+      </file>
       <file name="C:/code/ht-encrypt/pom.xml" timestamp="1526367532373">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="20" column="24" />
@@ -1836,10 +1842,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArICItIiArCg==</text>
+        <text encoding="base64">L3RhcmdldC8qCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -1848,31 +1854,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdHVybnNNYXBwaW5nLnB1dCgiMy0yIiwgIjEiKTsKICAgICAgICAgICAgdHVybnNNYXBwaW5nLnB1dCgiMy0xIiwgIjMiKTsKICAgICAgICAgICAgdHVybnNNYXBwaW5nLnB1dCgiMy00IiwgIjIiKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArICItIiArCg==</text>
+        <text encoding="base64">L3RhcmdldC8qCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYi5sYW5lTnVtYmVyIAo=</text>
+        <text encoding="base64">L3NyYy9tYWluL3dlYmFwcC91c2VyZmlsZXMvKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3BsaXRbMV0vLyDot6/lj6MgMgo=</text>
+        <text encoding="base64">L3NyYy9tYWluL3dlYmFwcC9XRUItSU5GL2NsYXNzZXMvKgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJldiwgICAvLyDot6/lj6MgMQo=</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAga2V5LCAgICAvLyDovabniYxf5Y+354mM57G75Z6LCg==</text>
+        <text encoding="base64">Ly5pZGVhLyoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">LmlkZWEvbGlicmFyaWVzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHVybnNNYXBwaW5nLnB1dCgiMS0zIiwgIjEiKTsK</text>
+        <text encoding="base64">LmlkZWEvKgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHVybnNNYXBwaW5nLnB1dCgiMi0zIiwgIjMiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArICItIiArCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHVybnNNYXBwaW5nLnB1dCgiMy0yIiwgIjEiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYi5sYW5lTnVtYmVyIAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/,/,\r/g</text>
