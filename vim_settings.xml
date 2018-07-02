@@ -826,7 +826,7 @@
         <mark key="." line="293" column="0" />
         <mark key="^" line="341" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530501570749">
+      <file name="/Dummy.txt" timestamp="1530504087647">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1293,7 +1293,8 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="48" column="55" />
       </file>
-      <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/OnlineVehicleIn.java" timestamp="1530503312235">
+      <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/OnlineVehicleIn.java" timestamp="1530504096754">
+        <mark key="'" line="186" column="41" />
         <mark key="[" line="217" column="53" />
         <mark key="]" line="218" column="40" />
         <mark key="." line="218" column="40" />
@@ -1769,7 +1770,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="49" filename="C:/code/druid-kafka/kafka-druid-seg-timeuse/src/main/kotlin/com/miras/data/Entity.kt" />
       <jump line="101" column="31" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
       <jump line="165" column="37" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
       <jump line="188" column="42" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
@@ -1869,6 +1869,7 @@
       <jump line="71" column="37" filename="C:/code/mdh_data_pic_api/src/main/java/com/miras/data/api/mdh_data_pic/dao/HbaseDao.java" />
       <jump line="22" column="0" filename="C:/code/mdh_data_pic_api/src/main/java/com/miras/data/api/mdh_data_pic/dao/HbaseDao.java" />
       <jump line="88" column="66" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-in/src/main/java/com/miras/ftp/in/Application.java" />
+      <jump line="186" column="41" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/OnlineVehicleIn.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
