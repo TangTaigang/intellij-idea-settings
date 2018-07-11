@@ -615,11 +615,11 @@
         <mark key="." line="48" column="19" />
         <mark key="^" line="48" column="19" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_common/src/main/java/com/miras/data/utils/ImageUtils.java" timestamp="1531134175959">
-        <mark key="[" line="70" column="45" />
-        <mark key="]" line="70" column="46" />
-        <mark key="^" line="70" column="46" />
-        <mark key="." line="70" column="46" />
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_common/src/main/java/com/miras/data/utils/ImageUtils.java" timestamp="1531293322118">
+        <mark key="[" line="88" column="59" />
+        <mark key="]" line="88" column="69" />
+        <mark key="." line="88" column="69" />
+        <mark key="^" line="88" column="69" />
       </file>
       <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/FtpUtils.java" timestamp="1522307932356">
         <mark key="[" line="2" column="23" />
@@ -735,11 +735,10 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/production-resources/application.properties" timestamp="1520901524867">
-        <mark key="[" line="23" column="72" />
-        <mark key="]" line="23" column="73" />
-        <mark key="." line="23" column="73" />
-        <mark key="^" line="19" column="72" />
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/production-resources/application.properties" timestamp="1531292287850">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/java/com/miras/data/passinf/image/PassinfImageBolt.java" timestamp="1517017164360">
         <mark key="[" line="78" column="105" />
@@ -1158,6 +1157,7 @@
         <mark key="^" line="54" column="71" />
         <mark key="." line="62" column="0" />
       </file>
+      <file name="/ImageUtils.java" timestamp="1531291937919" />
       <file name="C:/code/car-route/src/main/java/com/miras/mapreduce/car/CarRouteCombineMR.java" timestamp="1522824669026">
         <mark key="[" line="68" column="91" />
         <mark key="]" line="68" column="92" />
@@ -1881,44 +1881,44 @@
       <jump line="84" column="39" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/OnlineVehicleIn.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>replacement</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>replacement</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgZnRwQ2xpZW50LmxvZ291dCgpOwogICAgICAgICAgICAgICAgZnRwQ2xpZW50LmRpc2Nvbm5lY3QoKTsKICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgTC5lcnJvcigi5YWz6ZetIGZ0cENsaWVudCDlvILluLgiICsgZS5nZXRNZXNzYWdlKCkpOwogICAgICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTC5pbmZvKCJyZXBsYWNlIGJ5IGlwOiAiICsgaXBGb3VuZCArICI+IiArIHJlcGxhY2VtZW50KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFBhdHRlcm4gcGF0dGVybiA9IFBhdHRlcm4uY29tcGlsZSgiXFxkK1xcLlxcZCtcXC5cXGQrXFwuXFxkKyIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRlRQQ2xpZW50IGZ0cENsaWVudCA9IG5ldyBGVFBDbGllbnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2hvc3RNYXBwaW5nLmZ0cFw6Ly93ZWlmYVw6aHVpdG9uZzEyM0AzNy41My42NC42Nlw6MjE9aHR0cDovLzEwLjIzMS40OS4xMTMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aG9zdE1hcHBpbmcuZnRwXDovL3dlaWZhXDpodWl0b25nMTIzQDM3LjUzLjY0LjY0XDoxMTMyMT1odHRwOi8vMTAuMjMxLjQ5LjExMwpob3N0TWFwcGluZy5mdHBcOi8vd2VpZmFcOmh1aXRvbmcxMjNAMzcuNTMuNjQuNjRcOjExNjIxPWh0dHA6Ly8xMC4yMzEuNDkuMTE2Cmhvc3RNYXBwaW5nLmZ0cFw6Ly93ZWlmYVw6aHVpdG9uZzEyM0AzNy41My42NC42NFw6MTE3MjE9aHR0cDovLzEwLjIzMS40OS4xMTcKaG9zdE1hcHBpbmcuZnRwXDovL3dlaWZhXDpodWl0b25nMTIzQDM3LjUzLjY0LjY0XDoxNzAyMT1odHRwOi8vMTAuMjMxLjQ5LjE3MApob3N0TWFwcGluZy5mdHBcOi8vd2VpZmFcOmh1aXRvbmcxMjNAMzcuNTMuNjQuNjRcOjE5NjIxPWh0dHA6Ly8xMC4yMzEuNDkuMTk2Cmhvc3RNYXBwaW5nLmZ0cFw6Ly93ZWlmYVw6aHVpdG9uZzEyM0AzNy41My42NC42NFw6MTk3MjE9aHR0cDovLzEwLjIzMS40OS4xOTcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ0cENsaWVudC4K</text>
+        <text encoding="base64">aG9zdE1hcHBpbmcuMzcuNTMuNjQuNTk9MTAuMjMxLjQ5LjE1OAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRlRQQ2xpZW50IGZ0cENsaWVudCA9IG5ldyBGVFBDbGllbnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaXBGb3VuZCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoSE9TVF9NQVBQSU5HLmNvbnRhaW5zS2V5KCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/,/,\r/g</text>
