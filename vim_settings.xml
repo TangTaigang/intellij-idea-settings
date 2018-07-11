@@ -615,12 +615,6 @@
         <mark key="." line="48" column="19" />
         <mark key="^" line="48" column="19" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_common/src/main/java/com/miras/data/utils/ImageUtils.java" timestamp="1531293322118">
-        <mark key="[" line="88" column="59" />
-        <mark key="]" line="88" column="69" />
-        <mark key="." line="88" column="69" />
-        <mark key="^" line="88" column="69" />
-      </file>
       <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/FtpUtils.java" timestamp="1522307932356">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="4" column="7" />
@@ -831,7 +825,7 @@
         <mark key="." line="293" column="0" />
         <mark key="^" line="341" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531271450943">
+      <file name="/Dummy.txt" timestamp="1531294277669">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1882,10 +1876,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>replacement</text>
+        <text>master</text>
       </register>
       <register name="-" type="4">
-        <text>replacement</text>
+        <text>master</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
