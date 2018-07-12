@@ -1133,11 +1133,11 @@
         <mark key="^" line="6" column="30" />
         <mark key="." line="6" column="30" />
       </file>
-      <file name="C:/code/MDH_DATA/mdh_data_common/src/main/java/com/miras/data/utils/ImageUtils.java" timestamp="1531356236698">
-        <mark key="'" line="57" column="57" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="C:/code/MDH_DATA/mdh_data_common/src/main/java/com/miras/data/utils/ImageUtils.java" timestamp="1531358488426">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="C:/code/MagicSquare/src/main/java/com/huitong/miras/magicsquare/dataprovider/config/DimensionConfig.java" timestamp="1529570284016">
         <mark key="[" line="41" column="0" />
@@ -1774,7 +1774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="65" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
       <jump line="169" column="86" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
       <jump line="21" column="0" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/web/CrowIndexController.java" />
       <jump line="15" column="35" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/entity/CrowIndexData.java" />
@@ -1874,10 +1873,11 @@
       <jump line="121" column="17" filename="C:/Program Files/Java/jdk1.8.0_172/jre/lib/rt.jar!/sun/net/www/protocol/http/HttpURLConnection.class" />
       <jump line="57" column="57" filename="C:/code/MDH_DATA/mdh_data_common/src/main/java/com/miras/data/utils/ImageUtils.java" />
       <jump line="221" column="28" filename="C:/Program Files/Java/jdk1.8.0_172/jre/lib/rt.jar!/sun/net/www/protocol/http/HttpURLConnection.class" />
+      <jump line="54" column="0" filename="C:/code/MDH_DATA/mdh_data_common/src/main/java/com/miras/data/utils/ImageUtils.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGh0dHBVUkxDb25uZWN0aW9uLmdldEhlYWRlckZpZWxkcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IEh0dHBVcmwK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bWFwcGVkSG9zdCA=</text>
@@ -1889,31 +1889,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTC5pbmZvKCJyZXBsYWNlIGJ5IGlwOiAiICsgaXBGb3VuZCArICI+IiArIHJlcGxhY2VtZW50KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGh0dHBVUkxDb25uZWN0aW9uLmdldEhlYWRlckZpZWxkcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IEh0dHBVcmwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGh0dHBVUkxDb25uZWN0aW9uLmdldGhlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IEh0dHBVCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGh0dHBVUkxDb25uZWN0aW9uLmdldEhlYWRlckZpZWxkcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocGljVXJsLnN0YXJ0c1dpdGgoImh0dHAiKSkgewogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSHR0cFVSTENvbm5lY3Rpb24gaHR0cFVSTENvbm5lY3Rpb24gPSAoSHR0cFVSTENvbm5lY3Rpb24pIHVybENvbm5lY3Rpb247CiAgICAgICAgICAgIGh0dHBVUkxDb25uZWN0aW9uLmdldEhlYWRlckZpZWxkcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVybENvbm5lY3Rpb24gaW5zdGFuY2VvZiBIdHRwVVJMQ29ubmVjdGlvbikgewogICAgICAgICAgICAgICAgSHR0cFVSTENvbm5lY3Rpb24gaHR0cFVSTENvbm5lY3Rpb24gPSAoSHR0cFVSTENvbm5lY3Rpb24pIHVybENvbm5lY3Rpb247CiAgICAgICAgICAgICAgICBodHRwVVJMQ29ubmVjdGlvbi5lYWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmV0Lkh0dHBVUkxDb25uZWN0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGh0dHBVUkxDb25uZWN0aW9uLmdldEhlYWRlckZpZWxkcygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsQ29ubmVjdGlvbi5zZXRSZXF1ZXN0UHJvcGVydHkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGh0dHBVUkxDb25uZWN0aW9uLmdldGhlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsQ29ubmVjdGlvbi5nZXRIZWFkZXJGaWVsZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGh0dHBVUkxDb25uZWN0aW9uLmdldEhlYWRlckZpZWxkcygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/,/,\r/g</text>
