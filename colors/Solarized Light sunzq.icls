@@ -4,7 +4,7 @@
     <property name="created">2017-03-09T14:27:21</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.5.0.0</property>
-    <property name="modified">2018-07-12T16:20:38</property>
+    <property name="modified">2018-07-12T16:24:44</property>
     <property name="originalScheme">Solarized Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -760,7 +760,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="323f46" />
+        <option name="FOREGROUND" value="4d6269" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -798,7 +798,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="44585f" />
+        <option name="FOREGROUND" value="4d6269" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
