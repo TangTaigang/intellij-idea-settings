@@ -615,7 +615,6 @@
         <mark key="." line="48" column="19" />
         <mark key="^" line="48" column="19" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_common/src/main/java/com/miras/data/utils/ImageUtils.java" timestamp="1531296044603" />
       <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/FtpUtils.java" timestamp="1522307932356">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="4" column="7" />
@@ -634,7 +633,6 @@
         <mark key="." line="172" column="28" />
         <mark key="^" line="172" column="28" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/net/HttpURLConnection.java" timestamp="1531298961172" />
       <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/dist/run.sh" timestamp="1517995048420">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1135,10 +1133,11 @@
         <mark key="^" line="6" column="30" />
         <mark key="." line="6" column="30" />
       </file>
-      <file name="C:/code/MDH_DATA/mdh_data_common/src/main/java/com/miras/data/utils/ImageUtils.java" timestamp="1531298940547">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="C:/code/MDH_DATA/mdh_data_common/src/main/java/com/miras/data/utils/ImageUtils.java" timestamp="1531356236698">
+        <mark key="'" line="57" column="57" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="C:/code/MagicSquare/src/main/java/com/huitong/miras/magicsquare/dataprovider/config/DimensionConfig.java" timestamp="1529570284016">
         <mark key="[" line="41" column="0" />
@@ -1567,6 +1566,9 @@
         <mark key="." line="28" column="24" />
         <mark key="^" line="28" column="24" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_172/jre/lib/rt.jar!/sun/net/www/protocol/http/HttpURLConnection.class" timestamp="1531356197802">
+        <mark key="'" line="221" column="28" />
+      </file>
       <file name="C:/code/ht-encrypt/src/main/java/com/miras/webencrypt/HtServletOutputStream.java" timestamp="1526367012705">
         <mark key="[" line="9" column="56" />
         <mark key="]" line="11" column="78" />
@@ -1772,9 +1774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="42" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
-      <jump line="35" column="0" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/entity/ABStdTimeUse.java" />
-      <jump line="7" column="13" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/entity/ABStdTimeUse.java" />
       <jump line="241" column="65" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
       <jump line="169" column="86" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
       <jump line="21" column="0" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/web/CrowIndexController.java" />
@@ -1872,10 +1871,13 @@
       <jump line="186" column="41" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/OnlineVehicleIn.java" />
       <jump line="84" column="39" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/OnlineVehicleIn.java" />
       <jump line="80" column="16" filename="C:/code/MDH_ILLEGAL_DATA/mdh_data_common/src/main/java/com/miras/data/utils/ImageUtils.java" />
+      <jump line="121" column="17" filename="C:/Program Files/Java/jdk1.8.0_172/jre/lib/rt.jar!/sun/net/www/protocol/http/HttpURLConnection.class" />
+      <jump line="57" column="57" filename="C:/code/MDH_DATA/mdh_data_common/src/main/java/com/miras/data/utils/ImageUtils.java" />
+      <jump line="221" column="28" filename="C:/Program Files/Java/jdk1.8.0_172/jre/lib/rt.jar!/sun/net/www/protocol/http/HttpURLConnection.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSFRUUAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGh0dHBVUkxDb25uZWN0aW9uLmdldEhlYWRlckZpZWxkcygpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bWFwcGVkSG9zdCA=</text>
@@ -1887,31 +1889,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTC5pbmZvKCJyZXBsYWNlIGJ5IGlwOiAiICsgaXBGb3VuZCArICI+IiArIHJlcGxhY2VtZW50KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSFRUUAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGh0dHBVUkxDb25uZWN0aW9uLmdldEhlYWRlckZpZWxkcygpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsQ29ubmVjdGlvbi5zZXRICg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGh0dHBVUkxDb25uZWN0aW9uLmdldGhlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGh0dHBVUkxDb25uZWN0aW9uLmdldEhlYWRlckZpZWxkcygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBtYXBwZWRIb3N0ID09IG51bGwgPyB1cmwgOiB1cmwucmVwbGFjZShob3N0LCBtYXBwZWRIb3N0KTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSHR0cFVSTENvbm5lY3Rpb24gaHR0cFVSTENvbm5lY3Rpb24gPSAoSHR0cFVSTENvbm5lY3Rpb24pIHVybENvbm5lY3Rpb247CiAgICAgICAgICAgIGh0dHBVUkxDb25uZWN0aW9uLmdldEhlYWRlckZpZWxkcygpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBhdHRlcm4gcGF0dGVybiA9IFBhdHRlcm4uY29tcGlsZSgiXFxkK1xcLlxcZCtcXC5cXGQrXFwuXFxkKyIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmV0Lkh0dHBVUkxDb25uZWN0aW9uOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB1cmw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXJsQ29ubmVjdGlvbi5zZXRSZXF1ZXN0UHJvcGVydHkoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVybD0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXJsQ29ubmVjdGlvbi5nZXRIZWFkZXJGaWVsZCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVybCA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/,/,\r/g</text>
