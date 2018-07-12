@@ -315,11 +315,11 @@
         <mark key="^" line="15" column="3" />
         <mark key="." line="15" column="3" />
       </file>
-      <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_common/src/main/java/com/miras/data/utils/ImageUtils.java" timestamp="1531296237651">
-        <mark key="[" line="83" column="24" />
-        <mark key="]" line="83" column="30" />
-        <mark key="." line="83" column="30" />
-        <mark key="^" line="83" column="30" />
+      <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_common/src/main/java/com/miras/data/utils/ImageUtils.java" timestamp="1531379465576">
+        <mark key="[" line="90" column="61" />
+        <mark key="]" line="89" column="45" />
+        <mark key="." line="89" column="45" />
+        <mark key="^" line="89" column="45" />
       </file>
       <file name="C:/code/test/src/CsvTool.java" timestamp="1519972332566">
         <mark key="[" line="7" column="13" />
@@ -824,7 +824,7 @@
         <mark key="." line="293" column="0" />
         <mark key="^" line="341" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531378064957">
+      <file name="/Dummy.txt" timestamp="1531379469747">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1132,11 +1132,11 @@
         <mark key="^" line="6" column="30" />
         <mark key="." line="6" column="30" />
       </file>
-      <file name="C:/code/MDH_DATA/mdh_data_common/src/main/java/com/miras/data/utils/ImageUtils.java" timestamp="1531363840282">
-        <mark key="[" line="62" column="63" />
-        <mark key="]" line="62" column="63" />
-        <mark key="." line="62" column="63" />
-        <mark key="^" line="62" column="62" />
+      <file name="C:/code/MDH_DATA/mdh_data_common/src/main/java/com/miras/data/utils/ImageUtils.java" timestamp="1531379427960">
+        <mark key="[" line="115" column="61" />
+        <mark key="]" line="116" column="20" />
+        <mark key="." line="116" column="20" />
+        <mark key="^" line="116" column="20" />
       </file>
       <file name="C:/code/MagicSquare/src/main/java/com/huitong/miras/magicsquare/dataprovider/config/DimensionConfig.java" timestamp="1529570284016">
         <mark key="[" line="41" column="0" />
@@ -1876,11 +1876,11 @@
       <jump line="246" column="45" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/OnlineVehicleIn.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>修复一些图片服务器是 http 的且对 http 请求头有限制，所以需要手动添加上</text>
       </register>
       <register name="-" type="4">
-        <text>updateSQl</text>
+        <text>修复一些图片服务器是 http 的且对 http 请求头有限制，所以需要手动添加上</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -1889,31 +1889,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmdHBDbGllbnQuZ2V0UmVwbHkoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbS5taXJhcy5kYXRhLnV0aWxzLkltYWdlVXRpbHMuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVwZGF0ZVN0YXRlbWVudCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIHVwZGF0ZVN0YXRlbWVudC5jbG9zZSgpOwogICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXBkYXRlU3RhdGVtZW50ID0gbnVsbDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBQcmVwYXJlZFN0YXRlbWVudCB1cGRhdGVTdGF0ZW1lbnQgPSBudWxsOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVwZGF0ZVN0YXRlbWVudCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIHVwZGF0ZVN0YXRlbWVudC5jbG9zZSgpOwogICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXBkYXRlU3RhdGVtZW50ID0gbnVsbDsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBQcmVwYXJlZFN0YXRlbWVudCB1cGRhdGVTdGF0ZW1lbnQgPSBudWxsOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbm5lY3Rpb24gIT0gbnVsbCkgewogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICBjb25uZWN0aW9uLmNsb3NlKCk7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>s/,/,\r/g</text>
