@@ -614,6 +614,9 @@
         <mark key="." line="48" column="19" />
         <mark key="^" line="48" column="19" />
       </file>
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_common/src/main/java/com/miras/data/utils/ImageUtils.java" timestamp="1531383319809">
+        <mark key="'" line="97" column="35" />
+      </file>
       <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/FtpUtils.java" timestamp="1522307932356">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="4" column="7" />
@@ -1565,7 +1568,6 @@
         <mark key="." line="28" column="24" />
         <mark key="^" line="28" column="24" />
       </file>
-      <file name="C:/code/druid-kafka/kafka-druid-ab/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1531375848236" />
       <file name="C:/Program Files/Java/jdk1.8.0_172/jre/lib/rt.jar!/sun/net/www/protocol/http/HttpURLConnection.class" timestamp="1531356197802">
         <mark key="'" line="221" column="28" />
       </file>
@@ -1774,7 +1776,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="35" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/entity/CrowIndexData.java" />
       <jump line="20" column="154" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/entity/CrowIndexData.java" />
       <jump line="312" column="0" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
       <jump line="326" column="0" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
@@ -1874,6 +1875,7 @@
       <jump line="54" column="0" filename="C:/code/MDH_DATA/mdh_data_common/src/main/java/com/miras/data/utils/ImageUtils.java" />
       <jump line="152" column="68" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/OnlineVehicleIn.java" />
       <jump line="246" column="45" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/OnlineVehicleIn.java" />
+      <jump line="97" column="35" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_common/src/main/java/com/miras/data/utils/ImageUtils.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

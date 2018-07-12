@@ -4,7 +4,7 @@
     <property name="created">2017-03-09T14:27:21</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.5.0.0</property>
-    <property name="modified">2018-05-17T11:49:54</property>
+    <property name="modified">2018-07-12T16:20:38</property>
     <property name="originalScheme">Solarized Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -17,11 +17,11 @@
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Microsoft YaHei UI" />
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <colors>
@@ -760,7 +760,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="323f46" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -797,7 +797,9 @@
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="44585f" />
+      </value>
     </option>
     <option name="DEFAULT_PARENTHS">
       <value />
