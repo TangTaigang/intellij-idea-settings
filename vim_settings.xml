@@ -176,11 +176,11 @@
         <mark key="." line="2379" column="30" />
         <mark key="^" line="2379" column="30" />
       </file>
-      <file name="C:/code/fast-test/src/main/java/Decrypt.java" timestamp="1531721557663">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="39" column="29" />
+      <file name="C:/code/fast-test/src/main/java/Decrypt.java" timestamp="1531722623988">
+        <mark key="[" line="40" column="57" />
+        <mark key="]" line="40" column="59" />
+        <mark key="." line="40" column="59" />
+        <mark key="^" line="40" column="59" />
       </file>
       <file name="C:/code/druid-kafka/kafka-druid-ab-timeuse-subject/pom.xml" timestamp="1528098069210">
         <mark key="[" line="56" column="19" />
@@ -1897,11 +1897,11 @@
       <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXBsYWNlCiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBieXRlc05ldy5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBieXRlc05ld1tpXSA9IChieXRlKSByZXBbYnl0ZXNOZXdbaV1dOwogICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>UTF-8</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>UTF-8</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
