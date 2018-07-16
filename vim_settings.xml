@@ -176,11 +176,11 @@
         <mark key="." line="2379" column="30" />
         <mark key="^" line="2379" column="30" />
       </file>
-      <file name="C:/code/fast-test/src/main/java/Decrypt.java" timestamp="1531663095855">
-        <mark key="[" line="22" column="28" />
-        <mark key="]" line="22" column="37" />
-        <mark key="." line="22" column="37" />
-        <mark key="^" line="22" column="37" />
+      <file name="C:/code/fast-test/src/main/java/Decrypt.java" timestamp="1531701355721">
+        <mark key="[" line="33" column="37" />
+        <mark key="]" line="33" column="39" />
+        <mark key="." line="33" column="39" />
+        <mark key="^" line="33" column="39" />
       </file>
       <file name="C:/code/druid-kafka/kafka-druid-ab-timeuse-subject/pom.xml" timestamp="1528098069210">
         <mark key="[" line="56" column="19" />
@@ -1892,10 +1892,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>UTF-8</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>UTF-8</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
