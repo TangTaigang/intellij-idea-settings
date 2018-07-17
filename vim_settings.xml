@@ -176,11 +176,11 @@
         <mark key="." line="2379" column="30" />
         <mark key="^" line="2379" column="30" />
       </file>
-      <file name="C:/code/fast-test/src/main/java/Decrypt.java" timestamp="1531735703006">
-        <mark key="[" line="55" column="36" />
-        <mark key="]" line="55" column="36" />
-        <mark key="." line="55" column="36" />
-        <mark key="^" line="55" column="36" />
+      <file name="C:/code/fast-test/src/main/java/Decrypt.java" timestamp="1531806040962">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="544" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="58" column="70" />
       </file>
       <file name="C:/code/druid-kafka/kafka-druid-ab-timeuse-subject/pom.xml" timestamp="1528098069210">
         <mark key="[" line="56" column="19" />
@@ -1033,11 +1033,11 @@
         <mark key="]" line="91" column="17" />
         <mark key="." line="91" column="17" />
       </file>
-      <file name="C:/code/fast-test/src/main/java/Tests.java" timestamp="1531733144486">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="17" column="47" />
-        <mark key="." line="17" column="47" />
-        <mark key="^" line="17" column="47" />
+      <file name="C:/code/fast-test/src/main/java/Tests.java" timestamp="1531806088159">
+        <mark key="[" line="17" column="30" />
+        <mark key="]" line="17" column="30" />
+        <mark key="." line="17" column="30" />
+        <mark key="^" line="17" column="30" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_common/src/main/java/com/miras/data/passinf/common/enums/PassinfDataField.java" timestamp="1528441368055">
         <mark key="[" line="131" column="0" />
@@ -1898,16 +1898,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>敛</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>敛</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGJ5dGVbXSBzdGQgPSAiOTB8NDkwMHwxNjkwfDE5MzV8LS18LS18LS18MjYwMHwtLXwxMnwtLXwtLXzpnZ7oprdM6JeOTumDneaQojIwMDAtMTItMjJ8MjAwOC0wOS0xMSIuZ2V0Qnl0ZXMoIkdCSyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVwbGFjZW1lbnQgPSAiMkRGM0M3QTg5MDUxMzlCQkJEMkMzQUQ3QzY2MDlCNUMzMDRCRUNCNkFGMzNGRDQwMjkwNUU5MkY0Njk1RTRCRDhERUM5MkQwMjFGOUY3NDE2RkRCRDVFRDBFMjA1QkZBQzc4OUJGMTVDQ0ZBREFERDlDMDZCQTlFQkFFQkIzRDY5NzMyQ0VENzM2NjcwREVGN0EyMDgyQ0QyRTVEQTFDQTE3RjU5OTY2OEM0OUMyMzExRjAxN0MyQjdENUY2OENGQjc3MzI4QjNBRUUyRjQzM0Q0QzFBMDM0RTNCNURBMEJBNEI1QzVBQTdDQzMzN0MyQkVCRUU2MTE1QTkxOEFGODREOEI0MkFENzZCNEQzRjdERjMxN0UxRTk0N0NENjRBREM2NTM1REVEM0I4QkMyMjBGNTJDRDU4MzhBQjNCRENCQ0I5RTI3OTcwMjRBNUNBMDNENDczQzhBNDgzRUVDOTY5RkJDNTNFQkY3MUQxQzQ0N0QyM0FDNjk2MDg3ODMyNzc2MzU2RjZCN0IyQkIzMEY0QUZBN0YxRDE5QTNGRjJGMEI2Qjk4NkE5RUQzRjQzM0NBQTM2MUQ5RjM3RjI1MkREQTZBMkZCQTNGMDc1QTcyMzdCNjEzRDEyRDU1NDYyRDBDQkNGMDJDODFBQzMyNjVFRkMzNUIxNkQxNkNCRkYiOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAqLwo=</text>
