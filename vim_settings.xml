@@ -85,6 +85,12 @@
         <mark key="." line="14" column="72" />
         <mark key="^" line="14" column="72" />
       </file>
+      <file name="C:/code/ws-upload-api/src/main/webapp/WEB-INF/web.xml" timestamp="1532092484209">
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="30" />
+        <mark key="." line="11" column="30" />
+        <mark key="^" line="11" column="30" />
+      </file>
       <file name="C:/code/lession1/src/main/java/com/hello/TestController.java" timestamp="1528636329677">
         <mark key="[" line="33" column="21" />
         <mark key="]" line="33" column="24" />
@@ -150,6 +156,12 @@
         <mark key="]" line="5" column="13" />
         <mark key="^" line="17" column="30" />
         <mark key="." line="5" column="13" />
+      </file>
+      <file name="C:/code/ws-upload-api/src/main/java/com/miras/api/wsuploadapi/service/VehicleService.java" timestamp="1532092371414">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="25" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="6" column="25" />
       </file>
       <file name="C:/code/ht-encrypt/src/main/java/com/miras/webencrypt/TestServlet.java" timestamp="1526368408965">
         <mark key="[" line="16" column="42" />
@@ -469,11 +481,11 @@
         <mark key="." line="25" column="28" />
         <mark key="^" line="25" column="28" />
       </file>
-      <file name="C:/code/ws-upload-api/pom.xml" timestamp="1532075414255">
-        <mark key="[" line="29" column="51" />
-        <mark key="]" line="29" column="52" />
-        <mark key="." line="29" column="52" />
-        <mark key="^" line="30" column="25" />
+      <file name="C:/code/ws-upload-api/pom.xml" timestamp="1532091802028">
+        <mark key="[" line="31" column="21" />
+        <mark key="]" line="31" column="34" />
+        <mark key="." line="31" column="34" />
+        <mark key="^" line="31" column="34" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_taopai/src/main/production-resources/application.properties" timestamp="1527226644772">
         <mark key="[" line="4" column="32" />
@@ -639,6 +651,12 @@
         <mark key="]" line="4" column="7" />
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
+      </file>
+      <file name="C:/code/ws-upload-api/src/main/webapp/META-INF/services.xml" timestamp="1532092421970">
+        <mark key="[" line="7" column="37" />
+        <mark key="]" line="7" column="50" />
+        <mark key="^" line="7" column="50" />
+        <mark key="." line="7" column="50" />
       </file>
       <file name="C:/code/clojure-test/src/Application.clj" timestamp="1518069559669">
         <mark key="[" line="4" column="3" />
@@ -1234,6 +1252,12 @@
         <mark key="^" line="173" column="16" />
         <mark key="." line="173" column="16" />
       </file>
+      <file name="C:/code/ws-upload-api/src/main/resources/applicationContext.xml" timestamp="1532092661814">
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="18" column="10" />
+        <mark key="^" line="18" column="10" />
+        <mark key="." line="18" column="10" />
+      </file>
       <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_image/src/main/java/com/miras/data/storm/MessageSplitBolt.java" timestamp="1524121868200">
         <mark key="[" line="35" column="58" />
         <mark key="]" line="35" column="57" />
@@ -1591,6 +1615,12 @@
         <mark key="]" line="28" column="34" />
         <mark key="^" line="28" column="34" />
         <mark key="." line="28" column="34" />
+      </file>
+      <file name="C:/code/ws-upload-api/src/main/java/com/miras/api/wsuploadapi/service/VehicleServiceImpl.java" timestamp="1532092380543">
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="11" column="29" />
+        <mark key="^" line="11" column="29" />
+        <mark key="." line="11" column="29" />
       </file>
       <file name="C:/code/covering-plate-image-uploader/src/main/kotlin/com/miras/data/coveringplateimageuploader/CoveringPlateImageUploaderApplication.kt" timestamp="1513909580192">
         <mark key="[" line="21" column="41" />
@@ -1974,11 +2004,11 @@
       <jump line="194" column="52" filename="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/3.0.1.RELEASE/spring-ws-core-3.0.1.RELEASE-sources.jar!/org/springframework/ws/soap/SoapVersion.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmdldAo=</text>
+      <register name="&quot;" type="4">
+        <text>springAwareService</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+        <text>springAwareService</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -1987,31 +2017,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPHhzOmVsZW1lbnQgbmFtZT0ibWVzc2FnZSIgdHlwZT0ieHM6c3RyaW5nIi8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmdldAo=</text>
+        <text encoding="base64">c2VydmljZXMueG1sCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInN1Y2Nlc3MiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmdldFZlaGljbGVJbmZvKCk7Cg==</text>
+        <text encoding="base64">ICAgIDxjb250ZXh0OnByb3BlcnR5LXBsYWNlaG9sZGVyIGxvY2F0aW9uPSJjbGFzc3BhdGg6ZHMucHJvcGVydGllcyIvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl3c2RsMTFEZWZpbml0aW9uLnNldENyZWF0ZVNvYXAxMkJpbmRpbmcodHJ1ZSk7CgkJd3NkbDExRGVmaW5pdGlvbi5zZXRDcmVhdGVTb2FwMTFCaW5kaW5nKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8eHM6Y29tCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8eHM6YXR0cmlidXRlIG5hbWU9ImlzX3BpY191cmwiIHR5cGU9InhzOmludCI+PC94czphdHRyaWJ1dGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctd2ViPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/,/,\r/g</text>
