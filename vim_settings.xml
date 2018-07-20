@@ -51,7 +51,7 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="/a.dummy" timestamp="1529652279186">
+      <file name="/a.dummy" timestamp="1532071926022">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -471,6 +471,12 @@
         <mark key="." line="25" column="28" />
         <mark key="^" line="25" column="28" />
       </file>
+      <file name="C:/code/ws-upload-api/pom.xml" timestamp="1532072578407">
+        <mark key="[" line="30" column="23" />
+        <mark key="]" line="30" column="26" />
+        <mark key="." line="30" column="26" />
+        <mark key="^" line="30" column="26" />
+      </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_taopai/src/main/production-resources/application.properties" timestamp="1527226644772">
         <mark key="[" line="4" column="32" />
         <mark key="]" line="4" column="37" />
@@ -621,14 +627,17 @@
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
+      <file name="C:/code/ws-upload-api/src/main/java/com/miras/wsuploadapi/webservice/VehicleWebservice.java" timestamp="1532072379615">
+        <mark key="[" line="7" column="40" />
+        <mark key="]" line="7" column="39" />
+        <mark key="^" line="7" column="39" />
+        <mark key="." line="7" column="39" />
+      </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_redis_hbase/src/main/java/com/miras/data/passinf/Application.kt" timestamp="1510797045231">
         <mark key="[" line="47" column="43" />
         <mark key="]" line="48" column="19" />
         <mark key="." line="48" column="19" />
         <mark key="^" line="48" column="19" />
-      </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_common/src/main/java/com/miras/data/utils/ImageUtils.java" timestamp="1531383319809">
-        <mark key="'" line="97" column="35" />
       </file>
       <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/FtpUtils.java" timestamp="1522307932356">
         <mark key="[" line="2" column="23" />
@@ -767,12 +776,17 @@
         <mark key="^" line="125" column="110" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="/PassinfImageBolt.java" timestamp="1531967196122" />
       <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_common/src/main/java/com/miras/data/illegal/common/enums/IllegalDataField.java" timestamp="1517638582752">
         <mark key="[" line="130" column="15" />
         <mark key="]" line="130" column="35" />
         <mark key="." line="130" column="35" />
         <mark key="^" line="130" column="35" />
+      </file>
+      <file name="C:/code/ws-upload-api/src/main/java/com/miras/wsuploadapi/controller/ApiController.java" timestamp="1532071882532">
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+        <mark key="^" line="13" column="16" />
       </file>
       <file name="C:/code/lession1/src/main/java/DBTest.java" timestamp="1528634712076">
         <mark key="[" line="25" column="51" />
@@ -939,6 +953,12 @@
       <file name="/fragment.java" timestamp="1531967151134">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/code/ws-upload-api/src/main/java/com/miras/wsuploadapi/WsUploadApiApplication.java" timestamp="1532072661912">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="20" column="80" />
+      </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_ab/pom.xml" timestamp="1527059862899">
         <mark key="[" line="13" column="26" />
         <mark key="]" line="13" column="27" />
@@ -962,6 +982,12 @@
         <mark key="]" line="57" column="23" />
         <mark key="^" line="57" column="23" />
         <mark key="." line="57" column="23" />
+      </file>
+      <file name="C:/code/ws-upload-api/src/main/resources/application.properties" timestamp="1532072158633">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="C:/code/MDHTrafficDataSync/db-pull-sync/src/main/java/com/miras/datasync/Application.kt" timestamp="1529723747030">
         <mark key="'" line="89" column="68" />
@@ -1619,9 +1645,6 @@
         <mark key="." line="28" column="24" />
         <mark key="^" line="28" column="24" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_172/jre/lib/rt.jar!/sun/net/www/protocol/http/HttpURLConnection.class" timestamp="1531356197802">
-        <mark key="'" line="221" column="28" />
-      </file>
       <file name="C:/code/ht-encrypt/src/main/java/com/miras/webencrypt/HtServletOutputStream.java" timestamp="1526367012705">
         <mark key="[" line="9" column="56" />
         <mark key="]" line="11" column="78" />
@@ -1764,6 +1787,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="C:/code/ws-upload-api/src/main/java/com/miras/wsuploadapi/webservice/VehicleWebserviceImpl.java" timestamp="1532071980050">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="20" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="12" column="20" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_graylist/src/main/java/com/miras/data/graylist/GrayListDao.java" timestamp="1511328933005">
         <mark key="[" line="6" column="3" />
@@ -1930,10 +1959,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -1942,31 +1971,31 @@
         <text encoding="base64">ICAgICAgICBidWlsZGVyLnNldEJvbHQoInZlaGljbGVQYXNzRmlsdGVyIiwgZ2V0VmVoaWNsZVBhc3NGaWx0ZXJCb2x0KHByb3BlcnRpZXMpLCAxMCkuc2h1ZmZsZUdyb3VwaW5nKCJrYWZrYVNwb3V0Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY28K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY3hmLmVuZHBvaW50LkVuZHBvaW50SW1wbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY2FyTnVtYmVyLnN0YXJ0c1dpdGgoIumygVlUMTIiKSkgewogICAgICAgICAgICBsb2dnZXIuaW5mbygi5Yy56YWN5YiwIOmygVlUMTIiICsgY2FyTnVtYmVyKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgRW5kcG9pbnQgZW5kcG9pbnQoKXsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBzZW5kTWVzc2FnZShzZXNzaW9uSWQgKyAiLCIgKyBkZXRlY3RTcGVlZERhdGFTdHJpbmcpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY28K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgT3V0cHV0Q29sbGVjdG9yIG91dHB1dENvbGxlY3RvcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/,/,\r/g</text>
