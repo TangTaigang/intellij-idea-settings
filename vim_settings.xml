@@ -663,7 +663,7 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="C:/code/ws-upload-api/src/main/webapp/META-INF/services.xml" timestamp="1532092421970">
+      <file name="C:/code/ws-upload-api/src/main/webapp/META-INF/services.xml" timestamp="1532094395272">
         <mark key="[" line="7" column="37" />
         <mark key="]" line="7" column="50" />
         <mark key="^" line="7" column="50" />
@@ -1627,11 +1627,11 @@
         <mark key="^" line="28" column="34" />
         <mark key="." line="28" column="34" />
       </file>
-      <file name="C:/code/ws-upload-api/src/main/java/com/miras/api/wsuploadapi/service/VehicleServiceImpl.java" timestamp="1532092380543">
-        <mark key="[" line="10" column="36" />
-        <mark key="]" line="11" column="29" />
-        <mark key="^" line="11" column="29" />
-        <mark key="." line="11" column="29" />
+      <file name="C:/code/ws-upload-api/src/main/java/com/miras/api/wsuploadapi/service/VehicleServiceImpl.java" timestamp="1532094474889">
+        <mark key="[" line="9" column="33" />
+        <mark key="]" line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="3" />
       </file>
       <file name="C:/code/covering-plate-image-uploader/src/main/kotlin/com/miras/data/coveringplateimageuploader/CoveringPlateImageUploaderApplication.kt" timestamp="1513909580192">
         <mark key="[" line="21" column="41" />
@@ -2016,10 +2016,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>this.myBean.emerge())</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>this.myBean.emerge())</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -2028,31 +2028,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPHhzOmVsZW1lbnQgbmFtZT0ibWVzc2FnZSIgdHlwZT0ieHM6c3RyaW5nIi8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFJlcXVlc3RCb2R5Cg==</text>
+        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZwo=</text>
+        <text encoding="base64">ICAgIFJlcXVlc3RCb2R5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBNYW5hZ2VkUmVzb3VyY2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBNYW5hZ2VkUmVzb3VyY2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFJlc3RDdG9yCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">QFJlc3RDdG9yCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/,/,\r/g</text>
