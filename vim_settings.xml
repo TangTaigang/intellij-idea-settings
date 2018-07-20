@@ -471,11 +471,10 @@
         <mark key="." line="25" column="28" />
         <mark key="^" line="25" column="28" />
       </file>
-      <file name="C:/code/ws-upload-api/pom.xml" timestamp="1532072578407">
-        <mark key="[" line="30" column="23" />
-        <mark key="]" line="30" column="26" />
-        <mark key="." line="30" column="26" />
-        <mark key="^" line="30" column="26" />
+      <file name="C:/code/ws-upload-api/pom.xml" timestamp="1532074637065">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_taopai/src/main/production-resources/application.properties" timestamp="1527226644772">
         <mark key="[" line="4" column="32" />
@@ -627,11 +626,11 @@
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="C:/code/ws-upload-api/src/main/java/com/miras/wsuploadapi/webservice/VehicleWebservice.java" timestamp="1532072379615">
-        <mark key="[" line="7" column="40" />
-        <mark key="]" line="7" column="39" />
-        <mark key="^" line="7" column="39" />
-        <mark key="." line="7" column="39" />
+      <file name="C:/code/ws-upload-api/src/main/java/com/miras/wsuploadapi/webservice/VehicleWebservice.java" timestamp="1532073984695">
+        <mark key="[" line="19" column="31" />
+        <mark key="]" line="20" column="33" />
+        <mark key="." line="20" column="33" />
+        <mark key="^" line="20" column="33" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_redis_hbase/src/main/java/com/miras/data/passinf/Application.kt" timestamp="1510797045231">
         <mark key="[" line="47" column="43" />
@@ -855,7 +854,7 @@
         <mark key="." line="293" column="0" />
         <mark key="^" line="341" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531909314058">
+      <file name="/Dummy.txt" timestamp="1532074830308">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -953,11 +952,11 @@
       <file name="/fragment.java" timestamp="1531967151134">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/code/ws-upload-api/src/main/java/com/miras/wsuploadapi/WsUploadApiApplication.java" timestamp="1532072661912">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="20" column="80" />
+      <file name="C:/code/ws-upload-api/src/main/java/com/miras/wsuploadapi/WsUploadApiApplication.java" timestamp="1532074577452">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="54" />
+        <mark key="." line="8" column="54" />
+        <mark key="^" line="8" column="54" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_ab/pom.xml" timestamp="1527059862899">
         <mark key="[" line="13" column="26" />
@@ -983,11 +982,11 @@
         <mark key="^" line="57" column="23" />
         <mark key="." line="57" column="23" />
       </file>
-      <file name="C:/code/ws-upload-api/src/main/resources/application.properties" timestamp="1532072158633">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+      <file name="C:/code/ws-upload-api/src/main/resources/application.properties" timestamp="1532074095612">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+        <mark key="^" line="1" column="6" />
       </file>
       <file name="C:/code/MDHTrafficDataSync/db-pull-sync/src/main/java/com/miras/datasync/Application.kt" timestamp="1529723747030">
         <mark key="'" line="89" column="68" />
@@ -1543,6 +1542,7 @@
         <mark key="^" line="41" column="64" />
         <mark key="." line="41" column="64" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.7.RELEASE/spring-core-5.0.7.RELEASE-sources.jar!/org/springframework/core/annotation/AnnotatedElementUtils.java" timestamp="1532074865487" />
       <file name="C:/code/ezviz/src/test/java/com/miras/monitor/ezviz/TokenUtilTest.java" timestamp="1520995899306">
         <mark key="[" line="21" column="48" />
         <mark key="]" line="21" column="49" />
@@ -1788,11 +1788,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="C:/code/ws-upload-api/src/main/java/com/miras/wsuploadapi/webservice/VehicleWebserviceImpl.java" timestamp="1532071980050">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="20" />
-        <mark key="^" line="12" column="20" />
-        <mark key="." line="12" column="20" />
+      <file name="C:/code/ws-upload-api/src/main/java/com/miras/wsuploadapi/webservice/VehicleWebserviceImpl.java" timestamp="1532073639452">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="7" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_graylist/src/main/java/com/miras/data/graylist/GrayListDao.java" timestamp="1511328933005">
         <mark key="[" line="6" column="3" />
@@ -1958,44 +1958,44 @@
       <jump line="258" column="0" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_monitor/src/main/java/com/miras/data/passinf/monitor/bolt/VehiclePassFilterBolt.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS41LjQuUkVMRUFTRTwvdmVyc2lvbj4K</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>EndpointAutoConfiguration</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZGVyLnNldEJvbHQoInZlaGljbGVQYXNzRmlsdGVyIiwgZ2V0VmVoaWNsZVBhc3NGaWx0ZXJCb2x0KHByb3BlcnRpZXMpLCAxMCkuc2h1ZmZsZUdyb3VwaW5nKCJrYWZrYVNwb3V0Iik7Cg==</text>
+        <text encoding="base64">Y3hmLnNlcnZsZXQuaW5pdDoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY3hmLmVuZHBvaW50LkVuZHBvaW50SW1wbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS41LjQuUkVMRUFTRTwvdmVyc2lvbj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QENvbmRpdGlvbmFsT25DbGFzcyh2YWx1ZSA9IHsgRW5kcG9pbnRBdXRvQ29uZmlndXJhdGlvbi5jbGFzc30pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ZW5kcG9pbnQuam14Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgRW5kcG9pbnQgZW5kcG9pbnQoKXsKCg==</text>
+        <text encoding="base64">ICBvcmcuYXBhY2hlLmN4Zi5qYXhycy5zd2FnZ2VyLG9yZy5hcGFjaGUuY3hmLm1ldHJpY3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYwo=</text>
+        <text encoding="base64">amF4cnM6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY28K</text>
+        <text encoding="base64">Y3hmLnNlcnZsZXQuaW5pdDoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFdlYlNlcnZpY2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFNlcnZpY2UK</text>
       </register>
       <register name=":" type="4">
         <text>s/,/,\r/g</text>
