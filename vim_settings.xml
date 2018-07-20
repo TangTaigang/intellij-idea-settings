@@ -85,6 +85,12 @@
         <mark key="." line="14" column="72" />
         <mark key="^" line="14" column="72" />
       </file>
+      <file name="C:/code/demo222/src/main/java/com/example/demo/TestController.java" timestamp="1532093795791">
+        <mark key="[" line="30" column="27" />
+        <mark key="]" line="31" column="26" />
+        <mark key="." line="31" column="26" />
+        <mark key="^" line="31" column="26" />
+      </file>
       <file name="C:/code/ws-upload-api/src/main/webapp/WEB-INF/web.xml" timestamp="1532092484209">
         <mark key="[" line="11" column="21" />
         <mark key="]" line="11" column="30" />
@@ -198,6 +204,11 @@
         <mark key="]" line="12" column="37" />
         <mark key="^" line="12" column="37" />
         <mark key="." line="12" column="37" />
+      </file>
+      <file name="C:/code/demo222/src/main/java/com/example/demo/DemoApplication.java" timestamp="1532093333237">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/CarRouteCombineMR.java" timestamp="1510620369262">
         <mark key="[" line="2" column="3" />
@@ -2005,10 +2016,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>springAwareService</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="-" type="4">
-        <text>springAwareService</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -2017,31 +2028,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPHhzOmVsZW1lbnQgbmFtZT0ibWVzc2FnZSIgdHlwZT0ieHM6c3RyaW5nIi8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VydmljZXMueG1sCg==</text>
+        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFJlcXVlc3RCb2R5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxjb250ZXh0OnByb3BlcnR5LXBsYWNlaG9sZGVyIGxvY2F0aW9uPSJjbGFzc3BhdGg6ZHMucHJvcGVydGllcyIvPgo=</text>
+        <text encoding="base64">ICAgIEBNYW5hZ2VkUmVzb3VyY2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFJlc3RDdG9yCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctd2ViPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/,/,\r/g</text>
