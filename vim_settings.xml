@@ -264,11 +264,11 @@
         <mark key="^" line="14" column="33" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="C:/code/upload-ws-api/pom.xml" timestamp="1532102064910">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="46" />
+      <file name="C:/code/upload-ws-api/pom.xml" timestamp="1532137011211">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="51" column="20" />
       </file>
       <file name="C:/code/lession1/src/main/webapp/hello.jsp" timestamp="1528630526642">
         <mark key="[" line="5" column="6" />
@@ -731,11 +731,10 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="C:/code/upload-ws-api/src/main/resources/application.properties" timestamp="1532078114346">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="5" />
-        <mark key="." line="1" column="0" />
+      <file name="C:/code/upload-ws-api/src/main/resources/application.properties" timestamp="1532137056965">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_kerberos2kafka/src/main/production-resources/application.properties" timestamp="1510553883374">
         <mark key="[" line="5" column="9" />
@@ -1014,6 +1013,9 @@
         <mark key="." line="28" column="73" />
         <mark key="^" line="28" column="73" />
       </file>
+      <file name="/fragment.java" timestamp="1532135987013">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/code/ws-upload-api/src/main/java/com/miras/wsuploadapi/WsUploadApiApplication.java" timestamp="1532075044537">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -1145,6 +1147,9 @@
         <mark key="^" line="130" column="7" />
         <mark key="." line="131" column="0" />
       </file>
+      <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/resources/application.properties" timestamp="1531376380831">
+        <mark key="[" line="4" column="18" />
+      </file>
       <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/entity/MonitorPoint.java" timestamp="1528011215796">
         <mark key="[" line="70" column="24" />
         <mark key="]" line="70" column="22" />
@@ -1193,23 +1198,28 @@
         <mark key="." line="12" column="37" />
         <mark key="^" line="12" column="37" />
       </file>
+      <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/pom.xml" timestamp="1530495374919">
+        <mark key="[" line="59" column="21" />
+      </file>
       <file name="$USER_HOME$/Desktop/hybrid-assistant/src/priusfan/info/bthsd10/obdinterface.java" timestamp="1523599860386">
         <mark key="[" line="70" column="9" />
         <mark key="]" line="70" column="19" />
         <mark key="^" line="70" column="19" />
         <mark key="." line="70" column="19" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/dom4j/dom4j/2.1.1/dom4j-2.1.1.pom" timestamp="1532133459680" />
       <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/resources/mappings/modules/traffic_monitor/AddressRelationDao.xml" timestamp="1528358464706">
         <mark key="[" line="188" column="0" />
         <mark key="]" line="188" column="0" />
         <mark key="." line="188" column="0" />
         <mark key="^" line="186" column="44" />
       </file>
-      <file name="C:/code/upload-ws-api/src/main/java/com/miras/uploadwsapi/VehicleService.java" timestamp="1532101497820">
-        <mark key="[" line="6" column="3" />
-        <mark key="]" line="7" column="7" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="7" column="7" />
+      <file name="C:/code/upload-ws-api/src/main/java/com/miras/uploadwsapi/VehicleService.java" timestamp="1532137130249">
+        <mark key="'" line="88" column="37" />
+        <mark key="[" line="35" column="42" />
+        <mark key="]" line="35" column="54" />
+        <mark key="^" line="35" column="54" />
+        <mark key="." line="35" column="54" />
       </file>
       <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/stateelement.java" timestamp="1523799749013">
         <mark key="[" line="90" column="24" />
@@ -1443,6 +1453,12 @@
         <mark key="]" line="64" column="33" />
         <mark key="^" line="64" column="33" />
         <mark key="." line="64" column="33" />
+      </file>
+      <file name="C:/code/upload-ws-api/src/main/java/com/miras/uploadwsapi/VehicleField.java" timestamp="1532134843958">
+        <mark key="[" line="23" column="15" />
+        <mark key="]" line="23" column="15" />
+        <mark key="." line="23" column="15" />
+        <mark key="^" line="23" column="15" />
       </file>
       <file name="C:/code/mdh_data_6in1api/src/main/resources/mapper/datadb61/VioSurveilDao.xml" timestamp="1522478180623">
         <mark key="[" line="7" column="31" />
@@ -1802,6 +1818,7 @@
         <mark key="." line="200" column="0" />
         <mark key="^" line="199" column="65" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/EnumMap.java" timestamp="1532134585230" />
       <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/entity/ABTimeUse.java" timestamp="1527837802202">
         <mark key="[" line="16" column="5" />
         <mark key="]" line="15" column="23" />
@@ -1838,12 +1855,12 @@
         <mark key="^" line="15" column="61" />
         <mark key="." line="15" column="61" />
       </file>
-      <file name="C:/code/upload-ws-api/src/main/java/com/miras/uploadwsapi/Controller.java" timestamp="1532101740010">
-        <mark key="'" line="49" column="35" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-        <mark key="^" line="75" column="74" />
+      <file name="C:/code/upload-ws-api/src/main/java/com/miras/uploadwsapi/Controller.java" timestamp="1532135983541">
+        <mark key="'" line="50" column="35" />
+        <mark key="[" line="70" column="55" />
+        <mark key="]" line="70" column="66" />
+        <mark key="." line="70" column="66" />
+        <mark key="^" line="70" column="66" />
       </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/exception/DeviceBusyException.java" timestamp="1522131690010">
         <mark key="[" line="7" column="15" />
@@ -1941,10 +1958,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="249" column="15" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/webapp/WEB-INF/views/splitflow/monitor/trafficbillboard.jsp" />
-      <jump line="185" column="28" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
-      <jump line="102" column="46" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
-      <jump line="108" column="51" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
       <jump line="316" column="29" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
       <jump line="446" column="50" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
       <jump line="459" column="0" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
@@ -2041,46 +2054,50 @@
       <jump line="10" column="33" filename="C:/code/upload-ws-api/src/main/java/com/miras/uploadwsapi/Controller.java" />
       <jump line="20" column="45" filename="C:/code/upload-ws-api/src/main/java/com/miras/uploadwsapi/Controller.java" />
       <jump line="38" column="35" filename="C:/code/upload-ws-api/src/main/java/com/miras/uploadwsapi/Controller.java" />
+      <jump line="27" column="72" filename="C:/code/upload-ws-api/src/main/java/com/miras/uploadwsapi/VehicleService.java" />
+      <jump line="80" column="27" filename="C:/code/upload-ws-api/src/main/java/com/miras/uploadwsapi/VehicleService.java" />
+      <jump line="79" column="38" filename="C:/code/upload-ws-api/src/main/java/com/miras/uploadwsapi/VehicleService.java" />
+      <jump line="78" column="37" filename="C:/code/upload-ws-api/src/main/java/com/miras/uploadwsapi/VehicleService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>String.format(vehicleRespTemplate, success ? 0 : 10010, success ? &quot;success&quot; : &quot;failed&quot;))</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>insertVehicleInfo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyB2ZWhpY2xlUmVzcFN1Y2Nlc3MgPSBTdHJpbmcuZm9ybWF0KCI8U09BUC1FTlY6RW52ZWxvcGUgeG1sbnM6U09BUC1FTlY9XCJodHRwOi8vd3d3LnczLm9yZy8yMDAzLzA1L3NvYXAtZW52ZWxvcGVcIiB4bWxuczpTT0FQLUVOQz1cImh0dHA6Ly93d3cudzMub3JnLzIwMDMvMDUvc29hcC1lbmNvZGluZ1wiIHhtbG5zOnhzaT1cImh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlXCIgeG1sbnM6eHNkPVwiaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWFcIiB4bWxuczpuczI9XCJodHRwOi8vc2VydmljZS50aGlyZEJheW9uZXQud2Vic2VydmljZS5ibXMuaGlrdmlzaW9uLmNvbS9UaGlyZEJheW9uZXRTZXJ2aWNlU29hcDExQmluZGluZ1wiIHhtbG5zOm5zMT1cImh0dHA6Ly9zZXJ2aWNlLnRoaXJkQmF5b25ldC53ZWJzZXJ2aWNlLmJtcy5oaWt2aXNpb24uY29tXCIgeG1sbnM6bnMzPVwiaHR0cDovL3NlcnZpY2UudGhpcmRCYXlvbmV0LndlYnNlcnZpY2UuYm1zLmhpa3Zpc2lvbi5jb20vVGhpcmRCYXlvbmV0U2VydmljZVNvYXAxMkJpbmRpbmdcIj48U09BUC1FTlY6Qm9keT48bnMxOmluc2VydFZlaGljbGVJbmZvUmVzcG9uc2U+PG5zMTpyZXR1cm4+Jmx0Oz94bWwgdmVyc2lvbj1cIjEuMFwiIGVuY29kaW5nPVwiVVRGLThcIj8mZ3Q7JiN4RDsmI3hBOyZsdDtyb290Jmd0OyYjeEQ7JiN4QTsmbHQ7Y29kZSZndDslcyZsdDsvY29kZSZndDsmI3hEOyYjeEE7Jmx0O21lc3NhZ2UmZ3Q7JXMmbHQ7L21lc3NhZ2UmZ3Q7JiN4RDsmI3hBOyZsdDsvcm9vdCZndDsmI3hEOyYjeEE7PC9uczE6cmV0dXJuPjwvbnMxOmluc2VydFZlaGljbGVJbmZvUmVzcG9uc2U+PC9TT0FQLUVOVjpCb2R5PjwvU09BUC1FTlY6RW52ZWxvcGU+IgogICAgICAgICAgICAsICIwIiwgInN1Y2Nlc3MiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmVoaWNsZUluZm8ucHV0KCJyZW1vdGVBZGRyIiwgcmVtb3RlQWRkcik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">a2Fma2EuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTx2ZXJzaW9uPjEuMS4xLlJFTEVBU0U8L3ZlcnNpb24+LS0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmVoaWNsZUluZm8ucHV0KCJyZW1vdGVBZGRyIiwgcmVtb3RlQWRkcik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkZWFsIGRhdGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJpc19waWNfdXJsOiIgKyByb290RWxlbWVudC5hdHRyaWJ1dGUoImlzX3BpY191cmwiKS5nZXRWYWx1ZSgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oeG1sKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHZlaGljbGVJbmZvOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnNldENoYXJhY3RlckVuY29kaW5nKCJVVEYtOCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiB2ZWhpY2xlSW5mbyA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/insertVehicleInfo/initSystem/g</text>
