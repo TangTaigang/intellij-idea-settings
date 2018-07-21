@@ -1214,7 +1214,7 @@
         <mark key="." line="188" column="0" />
         <mark key="^" line="186" column="44" />
       </file>
-      <file name="C:/code/upload-ws-api/src/main/java/com/miras/uploadwsapi/VehicleService.java" timestamp="1532137130249">
+      <file name="C:/code/upload-ws-api/src/main/java/com/miras/uploadwsapi/VehicleService.java" timestamp="1532143913198">
         <mark key="'" line="88" column="37" />
         <mark key="[" line="35" column="42" />
         <mark key="]" line="35" column="54" />
@@ -1855,12 +1855,12 @@
         <mark key="^" line="15" column="61" />
         <mark key="." line="15" column="61" />
       </file>
-      <file name="C:/code/upload-ws-api/src/main/java/com/miras/uploadwsapi/Controller.java" timestamp="1532135983541">
+      <file name="C:/code/upload-ws-api/src/main/java/com/miras/uploadwsapi/Controller.java" timestamp="1532143828581">
         <mark key="'" line="50" column="35" />
-        <mark key="[" line="70" column="55" />
-        <mark key="]" line="70" column="66" />
-        <mark key="." line="70" column="66" />
-        <mark key="^" line="70" column="66" />
+        <mark key="[" line="35" column="58" />
+        <mark key="]" line="35" column="58" />
+        <mark key="." line="35" column="58" />
+        <mark key="^" line="35" column="62" />
       </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/exception/DeviceBusyException.java" timestamp="1522131690010">
         <mark key="[" line="7" column="15" />
@@ -2061,10 +2061,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>.wsdl</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>.wsdl</text>
       </register>
       <register name="/" type="4">
         <text>insertVehicleInfo</text>
