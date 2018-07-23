@@ -211,6 +211,12 @@
         <mark key="." line="56" column="19" />
         <mark key="^" line="18" column="29" />
       </file>
+      <file name="C:/code/MDH_DATA/mdh_kafka_illegal_image/src/main/production-resources/hbase-site.xml" timestamp="1532326851992">
+        <mark key="[" line="29" column="19" />
+        <mark key="]" line="29" column="19" />
+        <mark key="." line="29" column="19" />
+        <mark key="^" line="29" column="19" />
+      </file>
       <file name="C:/code/MDHTrafficMapReduce/car-route-timerange/pom.xml" timestamp="1524626452309">
         <mark key="[" line="12" column="28" />
         <mark key="]" line="12" column="37" />
@@ -395,6 +401,12 @@
         <mark key="]" line="1" column="3" />
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
+      </file>
+      <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_image/src/main/java/com/miras/data/storm/HBaseMessageSplitBolt.java" timestamp="1532326919949">
+        <mark key="[" line="44" column="98" />
+        <mark key="]" line="45" column="12" />
+        <mark key="." line="45" column="12" />
+        <mark key="^" line="45" column="12" />
       </file>
       <file name="C:/code/kafka-druid-stream/src/main/resources/application.yml" timestamp="1511234299368">
         <mark key="[" line="8" column="0" />
@@ -764,13 +776,6 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="C:/code/ws-upload-api/src/main/webapp/WEB-INF/axis2.xml" timestamp="1532097081492">
-        <mark key="'" line="529" column="0" />
-        <mark key="[" line="197" column="0" />
-        <mark key="]" line="197" column="72" />
-        <mark key="^" line="197" column="34" />
-        <mark key="." line="197" column="0" />
-      </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/EzvizApplication.java" timestamp="1521014649897">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="16" />
@@ -890,11 +895,11 @@
         <mark key="^" line="34" column="49" />
         <mark key="." line="34" column="49" />
       </file>
-      <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_image/src/main/java/com/miras/data/storm/ImageDownloadBolt.java" timestamp="1524121910675">
-        <mark key="[" line="86" column="58" />
-        <mark key="]" line="87" column="19" />
-        <mark key="^" line="87" column="19" />
-        <mark key="." line="87" column="19" />
+      <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_image/src/main/java/com/miras/data/storm/ImageDownloadBolt.java" timestamp="1532326894437">
+        <mark key="[" line="28" column="59" />
+        <mark key="]" line="28" column="79" />
+        <mark key="^" line="28" column="79" />
+        <mark key="." line="28" column="79" />
       </file>
       <file name="C:/code/ezviz/src/main/resources/application.yml" timestamp="1520998221349">
         <mark key="[" line="2" column="2" />
@@ -927,7 +932,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="11" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532314675910">
+      <file name="/Dummy.txt" timestamp="1532327411738">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -984,6 +989,12 @@
         <mark key="]" line="26" column="74" />
         <mark key="." line="21" column="59" />
         <mark key="^" line="26" column="74" />
+      </file>
+      <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_image/src/main/production-resources/hbase-site.xml" timestamp="1532326933389">
+        <mark key="[" line="29" column="13" />
+        <mark key="]" line="29" column="19" />
+        <mark key="." line="29" column="19" />
+        <mark key="^" line="29" column="19" />
       </file>
       <file name="C:/code/video-capture-web/src/main/resources/log4j.properties" timestamp="1526438159202">
         <mark key="[" line="16" column="27" />
@@ -1134,18 +1145,10 @@
         <mark key="." line="16" column="89" />
         <mark key="^" line="16" column="89" />
       </file>
-      <file name="C:/code/ws-upload-api/src/main/webapp/WEB-INF/services/vehicle/services.xml" timestamp="1532096872397">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="6" column="54" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="C:/code/MDH_DATA/mdh_kafka_illegal_image/src/main/java/com/miras/data/storm/HBaseMessageSplitBolt.java" timestamp="1532317632052">
-        <mark key="[" line="22" column="59" />
-        <mark key="]" line="22" column="63" />
-        <mark key="^" line="22" column="63" />
-        <mark key="." line="22" column="63" />
+      <file name="C:/code/MDH_DATA/mdh_kafka_illegal_image/src/main/java/com/miras/data/storm/HBaseMessageSplitBolt.java" timestamp="1532326265319">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="96" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="C:/code/graph-test/src/com/ht/Main.java" timestamp="1528943167842">
         <mark key="[" line="18" column="24" />
@@ -1236,13 +1239,6 @@
         <mark key="]" line="188" column="0" />
         <mark key="." line="188" column="0" />
         <mark key="^" line="186" column="44" />
-      </file>
-      <file name="C:/code/upload-ws-api/src/main/java/com/miras/uploadwsapi/VehicleService.java" timestamp="1532143913198">
-        <mark key="'" line="88" column="37" />
-        <mark key="[" line="35" column="42" />
-        <mark key="]" line="35" column="54" />
-        <mark key="^" line="35" column="54" />
-        <mark key="." line="35" column="54" />
       </file>
       <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/stateelement.java" timestamp="1523799749013">
         <mark key="[" line="90" column="24" />
@@ -1363,11 +1359,11 @@
         <mark key="." line="17" column="15" />
         <mark key="^" line="16" column="25" />
       </file>
-      <file name="C:/code/MDH_DATA/mdh_kafka_illegal_image/src/main/java/com/miras/data/storm/ImageDownloadBolt.java" timestamp="1532317698049">
-        <mark key="[" line="28" column="80" />
-        <mark key="]" line="28" column="80" />
-        <mark key="." line="28" column="80" />
-        <mark key="^" line="28" column="79" />
+      <file name="C:/code/MDH_DATA/mdh_kafka_illegal_image/src/main/java/com/miras/data/storm/ImageDownloadBolt.java" timestamp="1532326280542">
+        <mark key="[" line="63" column="50" />
+        <mark key="]" line="63" column="53" />
+        <mark key="." line="63" column="53" />
+        <mark key="^" line="63" column="53" />
       </file>
       <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_image/src/main/production-resources/application.properties" timestamp="1520901590342">
         <mark key="[" line="14" column="72" />
@@ -1893,13 +1889,6 @@
         <mark key="^" line="15" column="61" />
         <mark key="." line="15" column="61" />
       </file>
-      <file name="C:/code/upload-ws-api/src/main/java/com/miras/uploadwsapi/Controller.java" timestamp="1532143828581">
-        <mark key="'" line="50" column="35" />
-        <mark key="[" line="35" column="58" />
-        <mark key="]" line="35" column="58" />
-        <mark key="." line="35" column="58" />
-        <mark key="^" line="35" column="62" />
-      </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/exception/DeviceBusyException.java" timestamp="1522131690010">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="15" />
@@ -2099,43 +2088,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MessageSplitBolt</text>
+        <text>1048576</text>
       </register>
       <register name="-" type="4">
-        <text>MessageSplitBolt</text>
+        <text>1048576</text>
       </register>
       <register name="/" type="4">
         <text>insertVehicleInfo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHNwb3V0Q29uZi5zdGFydE9mZnNldFRpbWUgPSBrYWZrYS5hcGkuT2Zmc2V0UmVxdWVzdC5MYXRlc3RUaW1lKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWNsYXJlci5kZWNsYXJlKG5ldyBGaWVsZHMoInNvdXJjZUlkIiwgInVybCIsICJmc3NqIiwgImNvbGxlY3Rpb25EYXRlIiwgInR5cGUiLCAiamciKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9kZWNsYXJlci5kZWNsYXJlKG5ldyBGaWVsZHMoInNvdXJjZUlkIiwgInVybCIsICJmc3NqIiwgImNvbGxlY3Rpb25EYXRlIiwgInR5cGUiLCAiamciKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBwaG9lbml4CnBob2VuaXguZHJpdmVyQ2xhc3NOYW1lPW9yZy5hcGFjaGUucGhvZW5peC5qZGJjLlBob2VuaXhEcml2ZXIKcGhvZW5peC51cmw9amRiYzpwaG9lbml4Om5vZGUyLG5vZGUzLG5vZGU0OmhiYXNlLW1pcmFzOi9ldGMvc2VjdXJpdHkva2V5dGFicy9oYmFzZS5oZWFkbGVzcy5rZXl0YWIKcGhvZW5peC51c2VybmFtZT0KcGhvZW5peC5wYXNzd29yZD0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBwaG9lbml4CnBob2VuaXguZHJpdmVyQ2xhc3NOYW1lPW9yZy5hcGFjaGUucGhvZW5peC5qZGJjLlBob2VuaXhEcml2ZXIKI3Bob2VuaXgudXJsPWpkYmM6cGhvZW5peDpub2RlLTkwLG5vZGUtOTEsbm9kZS05MjpoYmFzZS1kYXRhY2x1c3RlcjovZXRjL3NlY3VyaXR5L2tleXRhYnMvaGJhc2Uua2V5dGFiI+aaguaXtuWOu+aOieiupOivgQpwaG9lbml4LnVybD1qZGJjOnBob2VuaXg6bm9kZS05MCxub2RlLTkxLG5vZGUtOTIKcGhvZW5peC51c2VybmFtZT0K</text>
+        <text encoding="base64">IyBwaG9lbml4CnBob2VuaXguZHJpdmVyQ2xhc3NOYW1lPW9yZy5hcGFjaGUucGhvZW5peC5qZGJjLlBob2VuaXhEcml2ZXIKcGhvZW5peC51cmw9amRiYzpwaG9lbml4Om5vZGUyLG5vZGUzLG5vZGU0OmhiYXNlLW1pcmFzOi9ldGMvc2VjdXJpdHkva2V5dGFicy9oYmFzZS5oZWFkbGVzcy5rZXl0YWIKcGhvZW5peC51c2VybmFtZT0KcGhvZW5peC5wYXNzd29yZD0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">a2Fma2EuY2xpZW50SWQ9bWRoX2RhdGFfaW1hZ2VfaGJhc2UKa2Fma2EudG9waWM9TURIX0lNQUdFCg==</text>
+        <text encoding="base64">IyBwaG9lbml4CnBob2VuaXguZHJpdmVyQ2xhc3NOYW1lPW9yZy5hcGFjaGUucGhvZW5peC5qZGJjLlBob2VuaXhEcml2ZXIKI3Bob2VuaXgudXJsPWpkYmM6cGhvZW5peDpub2RlLTkwLG5vZGUtOTEsbm9kZS05MjpoYmFzZS1kYXRhY2x1c3RlcjovZXRjL3NlY3VyaXR5L2tleXRhYnMvaGJhc2Uua2V5dGFiI+aaguaXtuWOu+aOieiupOivgQpwaG9lbml4LnVybD1qZGJjOnBob2VuaXg6bm9kZS05MCxub2RlLTkxLG5vZGUtOTIKcGhvZW5peC51c2VybmFtZT0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">a2Fma2EudG9waWM9TURIX0lNQUdFCmthZmthLmNsaWVudElkPW1kaF9rYWZrYV9pbGxlZ2FsX2ltYWdlCg==</text>
+        <text encoding="base64">a2Fma2EuY2xpZW50SWQ9bWRoX2RhdGFfaW1hZ2VfaGJhc2UKa2Fma2EudG9waWM9TURIX0lNQUdFCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBfSU1BR0UK</text>
+        <text encoding="base64">a2Fma2EudG9waWM9TURIX0lNQUdFCmthZmthLmNsaWVudElkPW1kaF9rYWZrYV9pbGxlZ2FsX2ltYWdlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBrYWZrYTJoYmFzZS0wMQo=</text>
+        <text encoding="base64">ICBfSU1BR0UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBrYWZrYTJoYmFzZS0wMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">a2Fma2EuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/insertVehicleInfo/initSystem/g</text>
