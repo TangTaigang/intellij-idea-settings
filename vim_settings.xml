@@ -865,6 +865,11 @@
         <mark key="." line="13" column="16" />
         <mark key="^" line="13" column="16" />
       </file>
+      <file name="C:/code/MDH_DATA/mdh_kafka_illegal_image/dist/hbase-site.xml" timestamp="1532393618131">
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="24" column="14" />
+        <mark key="." line="24" column="14" />
+      </file>
       <file name="C:/code/lession1/src/main/java/DBTest.java" timestamp="1528634712076">
         <mark key="[" line="25" column="51" />
         <mark key="]" line="26" column="21" />
