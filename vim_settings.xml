@@ -211,11 +211,11 @@
         <mark key="." line="56" column="19" />
         <mark key="^" line="18" column="29" />
       </file>
-      <file name="C:/code/MDH_DATA/mdh_kafka_illegal_image/src/main/production-resources/hbase-site.xml" timestamp="1532326851992">
-        <mark key="[" line="29" column="19" />
-        <mark key="]" line="29" column="19" />
-        <mark key="." line="29" column="19" />
-        <mark key="^" line="29" column="19" />
+      <file name="C:/code/MDH_DATA/mdh_kafka_illegal_image/src/main/production-resources/hbase-site.xml" timestamp="1532394400926">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="20" />
+        <mark key="." line="29" column="20" />
+        <mark key="^" line="29" column="20" />
       </file>
       <file name="C:/code/MDHTrafficMapReduce/car-route-timerange/pom.xml" timestamp="1524626452309">
         <mark key="[" line="12" column="28" />
@@ -865,10 +865,10 @@
         <mark key="." line="13" column="16" />
         <mark key="^" line="13" column="16" />
       </file>
-      <file name="C:/code/MDH_DATA/mdh_kafka_illegal_image/dist/hbase-site.xml" timestamp="1532393618131">
+      <file name="C:/code/MDH_DATA/mdh_kafka_illegal_image/dist/hbase-site.xml" timestamp="1532394409280">
         <mark key="[" line="24" column="13" />
-        <mark key="]" line="24" column="14" />
-        <mark key="." line="24" column="14" />
+        <mark key="]" line="24" column="13" />
+        <mark key="." line="24" column="13" />
       </file>
       <file name="C:/code/lession1/src/main/java/DBTest.java" timestamp="1528634712076">
         <mark key="[" line="25" column="51" />
@@ -2093,10 +2093,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1048576</text>
+        <text>2048576</text>
       </register>
       <register name="-" type="4">
-        <text>1048576</text>
+        <text>2048576</text>
       </register>
       <register name="/" type="4">
         <text>insertVehicleInfo</text>
