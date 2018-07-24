@@ -539,6 +539,12 @@
         <mark key="." line="31" column="34" />
         <mark key="^" line="31" column="34" />
       </file>
+      <file name="C:/code/MDH_DATA/mdh_kafka_illegal_image/src/main/java/com/miras/data/storm/ImageToHBaseBolt.java" timestamp="1532397426602">
+        <mark key="[" line="107" column="79" />
+        <mark key="]" line="107" column="108" />
+        <mark key="^" line="107" column="108" />
+        <mark key="." line="107" column="108" />
+      </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_taopai/src/main/production-resources/application.properties" timestamp="1527226644772">
         <mark key="[" line="4" column="32" />
         <mark key="]" line="4" column="37" />
@@ -1364,7 +1370,7 @@
         <mark key="." line="17" column="15" />
         <mark key="^" line="16" column="25" />
       </file>
-      <file name="C:/code/MDH_DATA/mdh_kafka_illegal_image/src/main/java/com/miras/data/storm/ImageDownloadBolt.java" timestamp="1532326280542">
+      <file name="C:/code/MDH_DATA/mdh_kafka_illegal_image/src/main/java/com/miras/data/storm/ImageDownloadBolt.java" timestamp="1532397450544">
         <mark key="[" line="63" column="50" />
         <mark key="]" line="63" column="53" />
         <mark key="." line="63" column="53" />
@@ -2093,10 +2099,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2048576</text>
+        <text encoding="base64">ICIi</text>
       </register>
       <register name="-" type="4">
-        <text>2048576</text>
+        <text encoding="base64">ICIi</text>
       </register>
       <register name="/" type="4">
         <text>insertVehicleInfo</text>
