@@ -1126,11 +1126,11 @@
         <mark key="." line="3" column="56" />
         <mark key="^" line="3" column="56" />
       </file>
-      <file name="C:/code/MDH_DATA/mdh_kafka_illegal_image/src/main/java/com/miras/data/Application.java" timestamp="1532481109815">
-        <mark key="[" line="46" column="70" />
-        <mark key="]" line="46" column="71" />
-        <mark key="." line="46" column="71" />
-        <mark key="^" line="46" column="71" />
+      <file name="C:/code/MDH_DATA/mdh_kafka_illegal_image/src/main/java/com/miras/data/Application.java" timestamp="1532485681003">
+        <mark key="[" line="51" column="31" />
+        <mark key="]" line="51" column="32" />
+        <mark key="." line="51" column="32" />
+        <mark key="^" line="51" column="32" />
       </file>
       <file name="C:/code/test/src/NumberConvert.java" timestamp="1519137263271">
         <mark key="[" line="26" column="9" />
@@ -2099,10 +2099,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>7</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>insertVehicleInfo</text>
