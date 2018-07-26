@@ -1187,6 +1187,7 @@
         <mark key="^" line="130" column="7" />
         <mark key="." line="131" column="0" />
       </file>
+      <file name="C:/code/trafficCP/src/main/webapp/WEB-INF/views/modules/sys/permissionView/permission.jsp" timestamp="1532574338408" />
       <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/entity/MonitorPoint.java" timestamp="1528011215796">
         <mark key="[" line="70" column="24" />
         <mark key="]" line="70" column="22" />
@@ -1508,6 +1509,7 @@
         <mark key="." line="61" column="16" />
         <mark key="^" line="61" column="16" />
       </file>
+      <file name="C:/code/trafficCP/src/main/java/com/miras/data/modules/sys/dao/RoleDao.java" timestamp="1532574531547" />
       <file name="C:/code/hive-redis/src/main/kotlin/Application.kt" timestamp="1510895227554">
         <mark key="[" line="13" column="20" />
         <mark key="]" line="13" column="21" />
@@ -1550,6 +1552,7 @@
         <mark key="^" line="50" column="32" />
         <mark key="." line="48" column="30" />
       </file>
+      <file name="C:/code/trafficCP/src/main/java/com/miras/data/modules/sys/web/RoleController.java" timestamp="1532574353936" />
       <file name="C:/code/imagemr/src/main/java/KvReducer.java" timestamp="1516000360555">
         <mark key="[" line="9" column="31" />
         <mark key="]" line="9" column="35" />
@@ -1592,6 +1595,7 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="17" column="26" />
       </file>
+      <file name="C:/code/trafficCP/src/main/resources/mappings/modules/sys/RoleDao.xml" timestamp="1532574537077" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_storm_bsc/pom.xml" timestamp="1527220062076">
         <mark key="[" line="99" column="21" />
         <mark key="]" line="103" column="20" />
