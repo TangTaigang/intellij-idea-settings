@@ -835,11 +835,11 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
       </file>
-      <file name="C:/code/jczh-upload-fix/src/main/resources/static/index.html" timestamp="1532676364125">
-        <mark key="[" line="62" column="42" />
-        <mark key="]" line="62" column="42" />
-        <mark key="^" line="62" column="42" />
-        <mark key="." line="62" column="42" />
+      <file name="C:/code/jczh-upload-fix/src/main/resources/static/index.html" timestamp="1532682380726">
+        <mark key="[" line="34" column="95" />
+        <mark key="]" line="34" column="112" />
+        <mark key="." line="34" column="112" />
+        <mark key="^" line="34" column="112" />
       </file>
       <file name="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs/src/main/java/production-resources/application.properties" timestamp="1516260435968">
         <mark key="[" line="13" column="0" />
@@ -893,6 +893,13 @@
         <mark key="[" line="24" column="13" />
         <mark key="]" line="24" column="13" />
         <mark key="." line="24" column="13" />
+      </file>
+      <file name="C:/code/jczh-upload-fix/src/main/java/com/miras/jczhuploadfix/JczhUploadFixApplication.java" timestamp="1532682783461">
+        <mark key="'" line="70" column="27" />
+        <mark key="[" line="70" column="45" />
+        <mark key="]" line="70" column="49" />
+        <mark key="." line="70" column="49" />
+        <mark key="^" line="70" column="49" />
       </file>
       <file name="C:/code/lession1/src/main/java/DBTest.java" timestamp="1528634712076">
         <mark key="[" line="25" column="51" />
@@ -960,7 +967,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="11" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532676493414">
+      <file name="/Dummy.txt" timestamp="1532682790929">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1082,6 +1089,9 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1532680984584">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_ab/pom.xml" timestamp="1527059862899">
         <mark key="[" line="13" column="26" />
@@ -1209,7 +1219,7 @@
         <mark key="." line="27" column="37" />
         <mark key="^" line="27" column="37" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_common/src/main/java/com/miras/data/passinf/common/enums/PassinfDataField.java" timestamp="1528441368055">
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_common/src/main/java/com/miras/data/passinf/common/enums/PassinfDataField.java" timestamp="1532679745633">
         <mark key="[" line="131" column="0" />
         <mark key="]" line="131" column="0" />
         <mark key="^" line="130" column="7" />
@@ -1346,11 +1356,12 @@
         <mark key="^" line="173" column="16" />
         <mark key="." line="173" column="16" />
       </file>
-      <file name="C:/code/jczh-upload-fix/src/main/resources/application.properties" timestamp="1532675880863">
+      <file name="C:/code/jczh-upload-fix/src/main/resources/application.properties" timestamp="1532682724551">
+        <mark key="'" line="3" column="31" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+        <mark key="]" line="0" column="36" />
+        <mark key="^" line="0" column="36" />
+        <mark key="." line="0" column="36" />
       </file>
       <file name="C:/code/ws-upload-api/src/main/resources/applicationContext.xml" timestamp="1532098563451">
         <mark key="[" line="10" column="46" />
@@ -1418,6 +1429,7 @@
         <mark key="^" line="16" column="14" />
         <mark key="." line="16" column="14" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.7.RELEASE/spring-web-5.0.7.RELEASE.jar!/org/springframework/web/bind/annotation/RequestBody.class" timestamp="1532680840353" />
       <file name="$USER_HOME$/Desktop/ws-upload-api/src/main/java/com/miras/wsuploadapi/Controller.java" timestamp="1532090997898">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -1543,10 +1555,11 @@
         <mark key="." line="61" column="16" />
         <mark key="^" line="61" column="16" />
       </file>
-      <file name="C:/code/jczh-upload-fix/pom.xml" timestamp="1532675831109">
-        <mark key="[" line="39" column="11" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="C:/code/jczh-upload-fix/pom.xml" timestamp="1532682541933">
+        <mark key="[" line="34" column="21" />
+        <mark key="]" line="37" column="35" />
+        <mark key="." line="37" column="35" />
+        <mark key="^" line="37" column="35" />
       </file>
       <file name="C:/code/trafficCP/src/main/java/com/miras/data/modules/sys/dao/RoleDao.java" timestamp="1532574531547" />
       <file name="C:/code/hive-redis/src/main/kotlin/Application.kt" timestamp="1510895227554">
@@ -2039,8 +2052,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="0" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
-      <jump line="395" column="33" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
       <jump line="450" column="46" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
       <jump line="122" column="39" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
       <jump line="109" column="29" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/web/RoadController.java" />
@@ -2139,57 +2150,59 @@
       <jump line="10" column="6" filename="C:/code/jczh-upload-fix/src/main/webapp/index.html" />
       <jump line="20" column="52" filename="C:/code/jczh-upload-fix/src/main/webapp/index.html" />
       <jump line="111" column="24" filename="C:/code/jczh-upload-fix/src/main/webapp/index.html" />
+      <jump line="2" column="31" filename="C:/code/jczh-upload-fix/src/main/resources/application.properties" />
+      <jump line="66" column="27" filename="C:/code/jczh-upload-fix/src/main/java/com/miras/jczhuploadfix/JczhUploadFixApplication.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZmlsdGVycz48L2ZpbHRlcnM+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>clear</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGNvbGxlY3Rpb25kYXRlOiAnZGF0ZTExMTEnLAo=</text>
+        <text encoding="base64">c3ByaW5nLmthZmthLnByb2R1Y2VyLmtleS1zZXJpYWxpemVyPW9yZy5hcGFjaGUua2Fma2EuY29tbW9uLnNlcmlhbGl6YXRpb24uU3RyaW5nU2VyaWFsaXplcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZmlsdGVycz48L2ZpbHRlcnM+Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmF3KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">5oyR5p+l6K+i57uT5p6c6YeM6Z2i55qE5LiA5Liq5oiW5aSa5Liq5LiK5Lyg5bCxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwTGlzdC5jbGVhcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKHZhciBpID0gMDsgaSA8PSByZXNwTGlzdC5sZW5ndGg7IGkrKykgewogICAgICAgICAgICByZXNwTGlzdC5wb3AoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcDogWwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcganNvbiA9IG51bGw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzb24gPSBzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjbGVhciBwaWNBcmVhCiAgICAgICAgJCgiI3BpY0FyZWEiKS5lbXB0eSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGNvbGxlY3Rpb25kYXRlOiAnY29kZTExMTEnLAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJNYXAua2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDx0YWJsZT48L3RhYmxlPgo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInJlY3YiICsganNvbik7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/1/2/g</text>
+        <text>s/ //g</text>
       </register>
     </registers>
     <search>
-      <last-search>1</last-search>
+      <last-search encoding="base64">IA==</last-search>
       <last-offset />
-      <last-pattern>1</last-pattern>
-      <last-replace>2</last-replace>
-      <last-substitute>1</last-substitute>
+      <last-pattern encoding="base64">IA==</last-pattern>
+      <last-replace />
+      <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -2211,16 +2224,15 @@
         <entry>0</entry>
         <entry>build</entry>
         <entry>from</entry>
-        <entry encoding="base64">IA==</entry>
         <entry>,</entry>
         <entry>insertVehicleInfo</entry>
         <entry>1</entry>
+        <entry encoding="base64">IA==</entry>
       </history-search>
       <history-cmd>
         <entry>s/stdTime//g</entry>
         <entry>s/\?//g</entry>
         <entry>s/From/To/g</entry>
-        <entry>s/ //g</entry>
         <entry>s/9080/9090/g</entry>
         <entry>w</entry>
         <entry>s/i/j/g</entry>
@@ -2237,6 +2249,7 @@
         <entry>s/,/,\r/g</entry>
         <entry>s/insertVehicleInfo/initSystem/g</entry>
         <entry>s/1/2/g</entry>
+        <entry>s/ //g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
