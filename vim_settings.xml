@@ -835,6 +835,12 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
       </file>
+      <file name="C:/code/jczh-upload-fix/src/main/resources/static/index.html" timestamp="1532676364125">
+        <mark key="[" line="62" column="42" />
+        <mark key="]" line="62" column="42" />
+        <mark key="^" line="62" column="42" />
+        <mark key="." line="62" column="42" />
+      </file>
       <file name="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs/src/main/java/production-resources/application.properties" timestamp="1516260435968">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -954,7 +960,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="11" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532653860580">
+      <file name="/Dummy.txt" timestamp="1532676493414">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1018,12 +1024,11 @@
         <mark key="." line="29" column="19" />
         <mark key="^" line="29" column="19" />
       </file>
-      <file name="C:/code/jczh-upload-fix/src/main/webapp/index.html" timestamp="1532663319892">
-        <mark key="'" line="22" column="6" />
-        <mark key="[" line="22" column="8" />
-        <mark key="]" line="22" column="9" />
-        <mark key="." line="22" column="9" />
-        <mark key="^" line="22" column="9" />
+      <file name="C:/code/jczh-upload-fix/src/main/webapp/index.html" timestamp="1532675761790">
+        <mark key="[" line="89" column="53" />
+        <mark key="]" line="90" column="34" />
+        <mark key="." line="90" column="34" />
+        <mark key="^" line="90" column="34" />
       </file>
       <file name="C:/code/video-capture-web/src/main/resources/log4j.properties" timestamp="1526438159202">
         <mark key="[" line="16" column="27" />
@@ -1341,6 +1346,12 @@
         <mark key="^" line="173" column="16" />
         <mark key="." line="173" column="16" />
       </file>
+      <file name="C:/code/jczh-upload-fix/src/main/resources/application.properties" timestamp="1532675880863">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+      </file>
       <file name="C:/code/ws-upload-api/src/main/resources/applicationContext.xml" timestamp="1532098563451">
         <mark key="[" line="10" column="46" />
         <mark key="]" line="10" column="54" />
@@ -1531,6 +1542,11 @@
         <mark key="]" line="61" column="16" />
         <mark key="." line="61" column="16" />
         <mark key="^" line="61" column="16" />
+      </file>
+      <file name="C:/code/jczh-upload-fix/pom.xml" timestamp="1532675831109">
+        <mark key="[" line="39" column="11" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="C:/code/trafficCP/src/main/java/com/miras/data/modules/sys/dao/RoleDao.java" timestamp="1532574531547" />
       <file name="C:/code/hive-redis/src/main/kotlin/Application.kt" timestamp="1510895227554">
@@ -2023,8 +2039,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
-      <jump line="452" column="47" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
       <jump line="131" column="0" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
       <jump line="395" column="33" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
       <jump line="450" column="46" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
@@ -2123,63 +2137,64 @@
       <jump line="57" column="11" filename="C:/code/fast-test/src/main/java/Decrypt.java" />
       <jump line="445" column="12" filename="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/java/com/miras/data/storm/UploadJczhBolt.java" />
       <jump line="10" column="6" filename="C:/code/jczh-upload-fix/src/main/webapp/index.html" />
+      <jump line="20" column="52" filename="C:/code/jczh-upload-fix/src/main/webapp/index.html" />
+      <jump line="111" column="24" filename="C:/code/jczh-upload-fix/src/main/webapp/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>询</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8ZmlsdGVycz48L2ZpbHRlcnM+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>询</text>
+        <text>clear</text>
       </register>
       <register name="/" type="4">
-        <text>insertVehicleInfo</text>
+        <text>1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PGJ1dHRvbj7mn6Xor6I8L2J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGNvbGxlY3Rpb25kYXRlOiAnZGF0ZTExMTEnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8ZmlsdGVycz48L2ZpbHRlcnM+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGxhYmVsIGZvcj0iZml4RGF0ZSI+5pel5pyf77yaPC9sYWJlbD48aW5wdXQgdHlwZT0idGV4dCIgaWQ9ImZpeERhdGUiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGxhYmVsPiDml6XmnJ/vvJogPC9sYWJlbD4K</text>
+        <text encoding="base64">ICAgICAgICByZXNwTGlzdC5jbGVhcigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBpZD0iZml4RGF0ZSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcDogWwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">5pa55ZCROgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBpZD0iZml4RGF0ZSI+Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBjbGVhciBwaWNBcmVhCiAgICAgICAgJCgiI3BpY0FyZWEiKS5lbXB0eSgpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGNvbGxlY3Rpb25kYXRlOiAnY29kZTExMTEnLAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">6Lev5Y+j57yW5Y+377yaCg==</text>
+        <text encoding="base64">ICAgIDx0YWJsZT48L3RhYmxlPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/insertVehicleInfo/initSystem/g</text>
+        <text>s/1/2/g</text>
       </register>
     </registers>
     <search>
-      <last-search>insertVehicleInfo</last-search>
+      <last-search>1</last-search>
       <last-offset />
-      <last-pattern>insertVehicleInfo</last-pattern>
-      <last-replace>initSystem</last-replace>
-      <last-substitute>insertVehicleInfo</last-substitute>
+      <last-pattern>1</last-pattern>
+      <last-replace>2</last-replace>
+      <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>2</entry>
         <entry>\\</entry>
         <entry>8</entry>
         <entry>List</entry>
@@ -2199,9 +2214,9 @@
         <entry encoding="base64">IA==</entry>
         <entry>,</entry>
         <entry>insertVehicleInfo</entry>
+        <entry>1</entry>
       </history-search>
       <history-cmd>
-        <entry>s/Start/End/g</entry>
         <entry>s/stdTime//g</entry>
         <entry>s/\?//g</entry>
         <entry>s/From/To/g</entry>
@@ -2221,6 +2236,7 @@
         <entry>s/ /&quot;/g</entry>
         <entry>s/,/,\r/g</entry>
         <entry>s/insertVehicleInfo/initSystem/g</entry>
+        <entry>s/1/2/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
