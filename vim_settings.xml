@@ -652,6 +652,12 @@
         <mark key="." line="14" column="50" />
         <mark key="^" line="14" column="50" />
       </file>
+      <file name="C:/code/trafficCP/src/main/resources/spring-context-rabbit.xml" timestamp="1532764437588">
+        <mark key="[" line="37" column="96" />
+        <mark key="]" line="37" column="122" />
+        <mark key="^" line="37" column="122" />
+        <mark key="." line="37" column="122" />
+      </file>
       <file name="C:/code/hftp/pom.xml" timestamp="1515736814323">
         <mark key="[" line="85" column="31" />
         <mark key="]" line="85" column="34" />
@@ -1451,7 +1457,7 @@
         <mark key="^" line="14" column="72" />
         <mark key="." line="14" column="72" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_monitor/src/main/production-resources/application.properties" timestamp="1531903517765">
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_monitor/src/main/production-resources/application.properties" timestamp="1532763894522">
         <mark key="[" line="16" column="11" />
         <mark key="]" line="16" column="14" />
         <mark key="^" line="16" column="14" />
@@ -2196,7 +2202,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhjYXJOdW1iZXIgKyAiIG1hdGNoPyIgKyBtYXRjaCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -2208,31 +2214,31 @@
         <text encoding="base64">ICAgICAgICAgICAgSlNTWkIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhjYXJOdW1iZXIgKyAiIG1hdGNoPyIgKyBtYXRjaCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiY2hlY2s6IiArIGNhck51bWJlcik7Cg==</text>
+        <text encoding="base64">ICAgIDwvYmVhbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiY2hlY2s6IiArIGhwaG0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhjYXJOdW1iZXIgKyAiIG1hdGNoPyIgKyBtYXRjaCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiY2hlY2s6IiArICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiY2hlY2s6IiArIGNhck51bWJlcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiY2hlY2s6IiArIGhwaG0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucGVlayhtIC0+IHsK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiY2hlY2s6IiArICk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucGVlayhtIC0+IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbS4K</text>
       </register>
       <register name=":" type="4">
         <text>s/ //g</text>
