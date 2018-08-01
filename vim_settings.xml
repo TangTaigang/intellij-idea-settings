@@ -1536,6 +1536,12 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="48" column="55" />
       </file>
+      <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/OnlineVehicleIn.java" timestamp="1533113678923">
+        <mark key="[" line="196" column="73" />
+        <mark key="]" line="196" column="73" />
+        <mark key="." line="196" column="73" />
+        <mark key="^" line="196" column="73" />
+      </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_es/src/main/production-resources/application.properties" timestamp="1520901768549">
         <mark key="[" line="14" column="71" />
         <mark key="]" line="14" column="72" />
@@ -2178,10 +2184,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>?</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
