@@ -129,6 +129,7 @@
       <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_huangbiaoche/src/main/java/com/miras/data/storm/HuangbiaoBolt.java" timestamp="1533087449650" />
       <file name="C:/code/MDHTrafficDataSync/mdh_data_6in1_cdc_hdfs/src/main/production-resources/application.properties" timestamp="1533085439094" />
       <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_report_oracle/src/main/java/com/miras/data/illegal/Application.java" timestamp="1533104422559" />
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_mq_datasource/src/main/production-resources/sourcemq.properties" timestamp="1533180658866" />
       <file name="C:/code/trafficCP/src/main/java/com/miras/data/modules/electroniclaw/web/SjclController.java" timestamp="1533085996195" />
       <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_cdc_es/src/main/java/com/miras/data/illegal/cdc/es/IllegalDataESBolt.java" timestamp="1533086713627" />
       <file name="C:/code/MDH_DATA/mdh_kafka_illegal_image/src/main/production-resources/kafka2phoenix.properties" timestamp="1532313637542">
