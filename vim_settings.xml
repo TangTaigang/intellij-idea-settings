@@ -57,7 +57,7 @@
         <mark key="." line="37" column="107" />
         <mark key="^" line="37" column="107" />
       </file>
-      <file name="/a.dummy" timestamp="1532071926022">
+      <file name="/a.dummy" timestamp="1533262403366">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -228,11 +228,11 @@
         <mark key="." line="1" column="38" />
         <mark key="^" line="1" column="38" />
       </file>
-      <file name="C:/code/MDH_ILLEGAL_UPLOAD/src/main/java/com/ht/job/executor/jobhandler/ExportIllegalDataJob.java" timestamp="1533260755477">
-        <mark key="[" line="48" column="28" />
-        <mark key="]" line="49" column="16" />
-        <mark key="." line="49" column="16" />
-        <mark key="^" line="49" column="16" />
+      <file name="C:/code/MDH_ILLEGAL_UPLOAD/src/main/java/com/ht/job/executor/jobhandler/ExportIllegalDataJob.java" timestamp="1533262769514">
+        <mark key="[" line="117" column="4" />
+        <mark key="]" line="117" column="10" />
+        <mark key="^" line="117" column="10" />
+        <mark key="." line="117" column="10" />
       </file>
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/CarRouteCombineMR.java" timestamp="1510620369262">
         <mark key="[" line="2" column="3" />
@@ -360,11 +360,11 @@
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
       </file>
-      <file name="C:/code/MDH_ILLEGAL_UPLOAD/src/main/java/com/ht/job/executor/jobhandler/VehicleDataJobHandler.java" timestamp="1533260485773">
-        <mark key="[" line="23" column="7" />
-        <mark key="]" line="23" column="7" />
-        <mark key="." line="23" column="7" />
-        <mark key="^" line="24" column="25" />
+      <file name="C:/code/MDH_ILLEGAL_UPLOAD/src/main/java/com/ht/job/executor/jobhandler/VehicleDataJobHandler.java" timestamp="1533262998527">
+        <mark key="[" line="35" column="51" />
+        <mark key="]" line="35" column="52" />
+        <mark key="." line="35" column="52" />
+        <mark key="^" line="21" column="12" />
       </file>
       <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-in/src/main/java/com/miras/ftp/in/Application.java" timestamp="1533086243469">
         <mark key="[" line="215" column="31" />
@@ -1013,7 +1013,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="11" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533258914623">
+      <file name="/Dummy.txt" timestamp="1533263215157">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1082,6 +1082,12 @@
         <mark key="]" line="90" column="34" />
         <mark key="." line="90" column="34" />
         <mark key="^" line="90" column="34" />
+      </file>
+      <file name="C:/code/MDH_ILLEGAL_UPLOAD/src/main/java/com/ht/job/executor/jobhandler/IExportIllegalDataJob.java" timestamp="1533262821377">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+        <mark key="^" line="8" column="24" />
       </file>
       <file name="C:/code/video-capture-web/src/main/resources/log4j.properties" timestamp="1526438159202">
         <mark key="[" line="16" column="27" />
@@ -1369,7 +1375,7 @@
         <mark key="^" line="6" column="30" />
         <mark key="." line="6" column="30" />
       </file>
-      <file name="C:/code/MDH_ILLEGAL_UPLOAD/src/main/java/com/ht/job/executor/mapper/datadb/IllegalDataMapper.java" timestamp="1533257005369" />
+      <file name="C:/code/MDH_ILLEGAL_UPLOAD/src/main/java/com/ht/job/executor/mapper/datadb/IllegalDataMapper.java" timestamp="1533261465757" />
       <file name="C:/code/MDH_DATA/mdh_data_common/src/main/java/com/miras/data/utils/ImageUtils.java" timestamp="1532399062091">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -2213,44 +2219,44 @@
       <jump line="9" column="13" filename="C:/code/MDH_ILLEGAL_UPLOAD/src/main/java/com/ht/job/executor/entity/IllegalData.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAxIOWIhumSn+iwg+W6puS4gOasoQo=</text>
+      <register name="&quot;" type="4">
+        <text>master</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>master</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBSZXNvdXJjZQo=</text>
+        <text encoding="base64">ICAgIEBTY2hlZHVsZWQoZml4ZWREZWxheSA9IDYwMDAwLCBpbml0aWFsRGVsYXkgPSAxMDAwMCkKICAgIHB1YmxpYyB2b2lkIHJlcG9ydEN1cnJlbnRCeUNyb24oKSB7CiAgICAgICAgdGhpcy5leHBvcnRJbGxlZ2FsRGF0YUpvYi51cGxvYWRJbGxlZ2FsRGF0YSgiMSIpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAxIOWIhumSn+iwg+W6puS4gOasoQo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8vIOavj+WIhumSn+aJp+ihjOS4gOasoQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5kZWJ1ZygiVEhSRUFEPT09IiArIFRocmVhZC5jdXJyZW50VGhyZWFkKCkuZ2V0TmFtZSgpICsgIuS4iuS8oOaVsOaNrue7k+adn++8jOiAl+aXtu+8miIgKyBTdHJpbmcudmFsdWVPZihTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSAtIG5vdykgKyAibXPvvIwiICsgYUlsbGVnYWxEYXRhLmdldENjYXJudW1iZXIoKSArICIscmV0dXJuVmFsdWU6IiArIHJldHVyblZhbHVlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy51cGxvYWRGbGFnKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEZ1dHVyZTxNYXA+PiByZXN1bHRMaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlsbGVnYWxEYXRhID0gaWxsZWdhbERhdGFUZW1wOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICAvLyAxMCDnp5LkuIDmrKEK</text>
       </register>
       <register name=":" type="4">
         <text>s/ //g</text>
