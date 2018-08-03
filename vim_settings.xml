@@ -395,11 +395,11 @@
         <mark key="." line="7" column="13" />
         <mark key="^" line="12" column="73" />
       </file>
-      <file name="C:/code/MDH_ILLEGAL_UPLOAD/src/main/resources/mapper/datadb/IllegalDataMapper.xml" timestamp="1533277031907">
-        <mark key="[" line="70" column="16" />
-        <mark key="]" line="70" column="16" />
-        <mark key="^" line="70" column="7" />
-        <mark key="." line="70" column="16" />
+      <file name="C:/code/MDH_ILLEGAL_UPLOAD/src/main/resources/mapper/datadb/IllegalDataMapper.xml" timestamp="1533277805338">
+        <mark key="[" line="70" column="57" />
+        <mark key="]" line="70" column="57" />
+        <mark key="^" line="70" column="56" />
+        <mark key="." line="70" column="57" />
       </file>
       <file name="C:/code/test/src/CharToBin.java" timestamp="1523784068588">
         <mark key="[" line="14" column="124" />
@@ -1018,7 +1018,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="11" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533263215157">
+      <file name="/Dummy.txt" timestamp="1533277830492">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -2232,10 +2232,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
