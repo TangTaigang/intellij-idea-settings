@@ -21,7 +21,6 @@
         <mark key="." line="9" column="31" />
         <mark key="^" line="9" column="73" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/IllegalHandleBolt.java" timestamp="1533087162651" />
       <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/entity/CrossingGraph.java" timestamp="1528012924653">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="19" column="18" />
@@ -170,14 +169,12 @@
         <mark key="^" line="4" column="206" />
         <mark key="." line="4" column="206" />
       </file>
-      <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_report_oracle/src/main/java/com/miras/data/illegal/oracle/OracleBolt.java" timestamp="1533086562972" />
       <file name="C:/code/MDHTrafficMapReduce/car-route-timerange/dest/car_route.sql" timestamp="1524626440606">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="13" />
         <mark key="^" line="17" column="30" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_es/pom.xml" timestamp="1533087535042" />
       <file name="C:/code/ws-upload-api/src/main/java/com/miras/api/wsuploadapi/service/VehicleService.java" timestamp="1532098365553">
         <mark key="[" line="6" column="20" />
         <mark key="]" line="6" column="30" />
@@ -231,7 +228,12 @@
         <mark key="." line="1" column="38" />
         <mark key="^" line="1" column="38" />
       </file>
-      <file name="C:/code/MDH_ILLEGAL_UPLOAD/src/main/java/com/ht/job/executor/jobhandler/ExportIllegalDataJob.java" timestamp="1533201800594" />
+      <file name="C:/code/MDH_ILLEGAL_UPLOAD/src/main/java/com/ht/job/executor/jobhandler/ExportIllegalDataJob.java" timestamp="1533258837644">
+        <mark key="[" line="65" column="63" />
+        <mark key="]" line="65" column="67" />
+        <mark key="." line="65" column="67" />
+        <mark key="^" line="65" column="67" />
+      </file>
       <file name="C:/code/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/mapreduce/CarRouteCombineMR.java" timestamp="1510620369262">
         <mark key="[" line="2" column="3" />
         <mark key="]" line="3" column="16" />
@@ -357,6 +359,12 @@
         <mark key="]" line="27" column="20" />
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
+      </file>
+      <file name="C:/code/MDH_ILLEGAL_UPLOAD/src/main/java/com/ht/job/executor/jobhandler/VehicleDataJobHandler.java" timestamp="1533259435593">
+        <mark key="[" line="28" column="7" />
+        <mark key="]" line="28" column="7" />
+        <mark key="." line="28" column="7" />
+        <mark key="^" line="29" column="25" />
       </file>
       <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-in/src/main/java/com/miras/ftp/in/Application.java" timestamp="1533086243469">
         <mark key="[" line="215" column="31" />
@@ -733,7 +741,6 @@
         <mark key="." line="20" column="33" />
         <mark key="^" line="20" column="33" />
       </file>
-      <file name="/WsClient.java" timestamp="1533201997419" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_redis_hbase/src/main/java/com/miras/data/passinf/Application.kt" timestamp="1510797045231">
         <mark key="[" line="47" column="43" />
         <mark key="]" line="48" column="19" />
@@ -953,7 +960,6 @@
         <mark key="^" line="36" column="55" />
         <mark key="." line="36" column="55" />
       </file>
-      <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_report_oracle/src/main/production-resources/application.properties" timestamp="1533104468696" />
       <file name="C:/code/fast-test/src/main/java/ImageApplication.java" timestamp="1530857751074">
         <mark key="[" line="17" column="38" />
         <mark key="]" line="17" column="41" />
@@ -1007,7 +1013,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="11" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533198523443">
+      <file name="/Dummy.txt" timestamp="1533258914623">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1077,7 +1083,6 @@
         <mark key="." line="90" column="34" />
         <mark key="^" line="90" column="34" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_taopai/src/main/java/com/miras/data/passinf/bolt/MockCarNumberBolt.java" timestamp="1533086833550" />
       <file name="C:/code/video-capture-web/src/main/resources/log4j.properties" timestamp="1526438159202">
         <mark key="[" line="16" column="27" />
         <mark key="]" line="17" column="8" />
@@ -1161,7 +1166,6 @@
         <mark key="." line="5" column="54" />
         <mark key="^" line="1" column="6" />
       </file>
-      <file name="C:/code/MDHTrafficDataSync/mdh_data_6in1_cdc_phoenix/src/main/java/com/miras/data/cdc/PhoenixBolt.java" timestamp="1533085498030" />
       <file name="C:/code/web/pom.xml" timestamp="1524203476107">
         <mark key="[" line="8" column="26" />
         <mark key="]" line="9" column="17" />
@@ -1240,14 +1244,12 @@
         <mark key="." line="44" column="66" />
         <mark key="^" line="44" column="66" />
       </file>
-      <file name="/FileFtpOperator.java" timestamp="1533202258228" />
       <file name="C:/code/graph-test/src/com/ht/Main.java" timestamp="1528943167842">
         <mark key="[" line="18" column="24" />
         <mark key="]" line="13" column="28" />
         <mark key="^" line="18" column="28" />
         <mark key="." line="13" column="28" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_es/src/main/java/com/miras/data/passinf/es/ESBolt.java" timestamp="1533087468322" />
       <file name="C:/code/mdh_data_pic_api/src/main/java/com/miras/data/api/mdh_data_pic/controller/ApiController.java" timestamp="1530171082351">
         <mark key="[" line="91" column="17" />
         <mark key="]" line="91" column="17" />
@@ -1277,7 +1279,6 @@
         <mark key="^" line="70" column="23" />
         <mark key="." line="70" column="22" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_hdfs/src/main/production-resources/application.properties" timestamp="1533086774096" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_mq_hdfs/src/main/java/com/miras/data/passinf/Application.java" timestamp="1527059672253">
         <mark key="[" line="23" column="44" />
         <mark key="]" line="23" column="66" />
@@ -1296,7 +1297,6 @@
         <mark key="." line="2" column="57" />
         <mark key="^" line="2" column="57" />
       </file>
-      <file name="C:/code/trafficCP/src/main/webapp/WEB-INF/views/modules/electroniclaw/sjcl/sjcs.jsp" timestamp="1533086027855" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/dwd_first_in_city.sql" timestamp="1510821910353">
         <mark key="[" line="8" column="17" />
         <mark key="]" line="8" column="17" />
@@ -1369,7 +1369,7 @@
         <mark key="^" line="6" column="30" />
         <mark key="." line="6" column="30" />
       </file>
-      <file name="C:/code/MDH_ILLEGAL_UPLOAD/src/main/java/com/ht/job/executor/mapper/datadb/IllegalDataMapper.java" timestamp="1533195830097" />
+      <file name="C:/code/MDH_ILLEGAL_UPLOAD/src/main/java/com/ht/job/executor/mapper/datadb/IllegalDataMapper.java" timestamp="1533257005369" />
       <file name="C:/code/MDH_DATA/mdh_data_common/src/main/java/com/miras/data/utils/ImageUtils.java" timestamp="1532399062091">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -1379,6 +1379,13 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
+      </file>
+      <file name="C:/code/MDH_ILLEGAL_UPLOAD/src/main/java/com/ht/job/executor/entity/IllegalData.java" timestamp="1533258532660">
+        <mark key="'" line="10" column="13" />
+        <mark key="[" line="510" column="5" />
+        <mark key="]" line="513" column="17" />
+        <mark key="^" line="513" column="17" />
+        <mark key="." line="513" column="17" />
       </file>
       <file name="C:/code/car-route/src/main/java/com/miras/mapreduce/car/CarRouteCombineMR.java" timestamp="1522824669026">
         <mark key="[" line="68" column="91" />
@@ -1618,7 +1625,6 @@
         <mark key="." line="37" column="35" />
         <mark key="^" line="37" column="35" />
       </file>
-      <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_huangbiaoche/src/main/java/com/miras/data/storm/HuangbiaoBolt.java" timestamp="1533087449650" />
       <file name="C:/code/hive-redis/src/main/kotlin/Application.kt" timestamp="1510895227554">
         <mark key="[" line="13" column="20" />
         <mark key="]" line="13" column="21" />
@@ -1637,14 +1643,12 @@
         <mark key="." line="26" column="25" />
         <mark key="^" line="26" column="25" />
       </file>
-      <file name="C:/code/MDHTrafficDataSync/mdh_data_6in1_cdc_hdfs/src/main/production-resources/application.properties" timestamp="1533085439094" />
       <file name="C:/code/test/src/Test11.java" timestamp="1522117172645">
         <mark key="[" line="36" column="29" />
         <mark key="]" line="36" column="28" />
         <mark key="." line="36" column="28" />
         <mark key="^" line="36" column="28" />
       </file>
-      <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_report_oracle/src/main/java/com/miras/data/illegal/Application.java" timestamp="1533104422559" />
       <file name="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs_retry/src/main/java/com/miras/data/image/hdfs/DateHdfsPartitioner.java" timestamp="1516859891023">
         <mark key="[" line="42" column="14" />
         <mark key="]" line="42" column="19" />
@@ -1687,7 +1691,6 @@
         <mark key="." line="32" column="3" />
         <mark key="^" line="32" column="3" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_mq_datasource/src/main/production-resources/sourcemq.properties" timestamp="1533180658866" />
       <file name="C:/code/MDHTrafficMapReduce/road-timeuse/src/main/java/com/miras/mapreduce/CarRouteCombineMR.java" timestamp="1524620605828">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -1766,14 +1769,12 @@
         <mark key="^" line="41" column="64" />
         <mark key="." line="41" column="64" />
       </file>
-      <file name="C:/code/trafficCP/src/main/java/com/miras/data/modules/electroniclaw/web/SjclController.java" timestamp="1533085996195" />
       <file name="C:/code/ezviz/src/test/java/com/miras/monitor/ezviz/TokenUtilTest.java" timestamp="1520995899306">
         <mark key="[" line="21" column="48" />
         <mark key="]" line="21" column="49" />
         <mark key="." line="21" column="49" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_cdc_es/src/main/java/com/miras/data/illegal/cdc/es/IllegalDataESBolt.java" timestamp="1533086713627" />
       <file name="C:/code/hftp/src/main/java/com/miras/hftp/HBaseFile.java" timestamp="1515739770415">
         <mark key="[" line="104" column="50" />
         <mark key="]" line="104" column="49" />
@@ -1875,7 +1876,6 @@
         <mark key="." line="75" column="44" />
         <mark key="^" line="75" column="44" />
       </file>
-      <file name="C:/code/MDHTrafficDataSync/mdh_data_6in1_cdc_phoenix/src/main/production-resources/application.properties" timestamp="1533085475105" />
       <file name="C:/code/shanghefenghui/TrafficSplitflowDruid/src/test/java/test/DemoTest.java" timestamp="1527316414041">
         <mark key="[" line="28" column="14" />
         <mark key="]" line="28" column="24" />
@@ -1894,7 +1894,7 @@
         <mark key="." line="11" column="78" />
         <mark key="^" line="11" column="78" />
       </file>
-      <file name="/IllegaldataPickMgrImpl.java" timestamp="1533201976908" />
+      <file name="C:/code/MDH_ILLEGAL_UPLOAD/src/main/java/com/ht/job/executor/logic/ExportIllegalToWsTask.java" timestamp="1533257917715" />
       <file name="C:/code/video-capture-web/src/main/java/com/miras/vehicle/CrossDomainFilter.java" timestamp="1526443085180">
         <mark key="[" line="26" column="8" />
         <mark key="]" line="26" column="10" />
@@ -2111,7 +2111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="531" column="26" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/RoadService.java" />
       <jump line="524" column="0" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/RoadService.java" />
       <jump line="186" column="48" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/web/RoadEditController.java" />
       <jump line="765" column="41" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/RoadService.java" />
@@ -2211,46 +2210,47 @@
       <jump line="11" column="0" filename="C:/code/jczh-upload-fix/src/main/resources/log4j.properties" />
       <jump line="51" column="19" filename="C:/code/jczh-upload-fix/src/main/java/com/miras/jczhuploadfix/JczhUploadFixApplication.java" />
       <jump line="191" column="37" filename="C:/code/OnlineVehicle/VideoCapture/src/main/java/com/miras/vehicle/Timecache.java" />
+      <jump line="9" column="13" filename="C:/code/MDH_ILLEGAL_UPLOAD/src/main/java/com/ht/job/executor/entity/IllegalData.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSlNTWkIsCg==</text>
+        <text encoding="base64">ICAgIEBSZXNvdXJjZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuVmFsdWUgPSBVUkxEZWNvZGVyLmRlY29kZSgoU3RyaW5nKSByZXN1bHRbMF0sICJ1dGYtOCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5kZWJ1ZygiVEhSRUFEPT09IiArIFRocmVhZC5jdXJyZW50VGhyZWFkKCkuZ2V0TmFtZSgpICsgIuS4iuS8oOaVsOaNrue7k+adn++8jOiAl+aXtu+8miIgKyBTdHJpbmcudmFsdWVPZihTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSAtIG5vdykgKyAibXPvvIwiICsgYUlsbGVnYWxEYXRhLmdldENjYXJudW1iZXIoKSArICIscmV0dXJuVmFsdWU6IiArIHJldHVyblZhbHVlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy51cGxvYWRGbGFnKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyAxOC8wOC8wMiBraXNjaG4g5Li65ZWl5oqK54Wn54mH5Yig6Zmk5LqG5ZGiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMuc2V0dGkK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEZ1dHVyZTxNYXA+PiByZXN1bHRMaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhSHR0cENsaWVudC5zZXRUaW1lb3V0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlsbGVnYWxEYXRhID0gaWxsZWdhbERhdGFUZW1wOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9uZyB0aW1lVXNlID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSBzdGFydFRzOwo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oImRvd25sb2FkIGZpbGU6IiArIHJlbW90ZUZpbGVOYW1lICsgIiwgdGltZVVzZToiICsgdGltZVVzZSk7Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBzdGFydFRzID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbGxlZ2FsRGF0YSBhSWxsZWdhbERhdGEgPSBhbkFMaXN0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>s/ //g</text>
