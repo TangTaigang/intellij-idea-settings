@@ -903,7 +903,8 @@
         <mark key="." line="794" column="85" />
         <mark key="^" line="794" column="85" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/java/com/miras/data/passinf/image/PassinfImageBolt.java" timestamp="1531967176512">
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/java/com/miras/data/passinf/image/PassinfImageBolt.java" timestamp="1533717756114">
+        <mark key="'" line="121" column="4" />
         <mark key="[" line="78" column="105" />
         <mark key="]" line="78" column="116" />
         <mark key="^" line="78" column="116" />
@@ -995,6 +996,13 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="2" column="3" />
       </file>
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_monitor/src/main/java/com/miras/data/passinf/monitor/bolt/KafkaBolt.java" timestamp="1533718297536">
+        <mark key="'" line="63" column="4" />
+        <mark key="[" line="41" column="56" />
+        <mark key="]" line="41" column="82" />
+        <mark key="^" line="41" column="82" />
+        <mark key="." line="41" column="82" />
+      </file>
       <file name="C:/code/MDHTrafficMapReduce/hdfs_only_mr_jobs/pom.xml" timestamp="1510880558708">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -1024,7 +1032,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="11" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533714684389">
+      <file name="/Dummy.txt" timestamp="1533718301550">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -1276,11 +1284,11 @@
         <mark key="]" line="91" column="17" />
         <mark key="." line="91" column="17" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_monitor/src/main/java/com/miras/data/passinf/Application.java" timestamp="1532762499540">
-        <mark key="[" line="28" column="83" />
-        <mark key="]" line="28" column="84" />
-        <mark key="." line="28" column="84" />
-        <mark key="^" line="29" column="79" />
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_monitor/src/main/java/com/miras/data/passinf/Application.java" timestamp="1533718111335">
+        <mark key="[" line="31" column="48" />
+        <mark key="]" line="31" column="48" />
+        <mark key="." line="31" column="48" />
+        <mark key="^" line="31" column="46" />
       </file>
       <file name="C:/code/fast-test/src/main/java/Tests.java" timestamp="1533523155438">
         <mark key="[" line="22" column="0" />
@@ -1610,7 +1618,7 @@
         <mark key="." line="14" column="72" />
         <mark key="^" line="14" column="72" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_monitor/src/main/java/com/miras/data/passinf/monitor/bolt/MQBolt.java" timestamp="1532763574073">
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_monitor/src/main/java/com/miras/data/passinf/monitor/bolt/MQBolt.java" timestamp="1533717815144">
         <mark key="[" line="58" column="31" />
         <mark key="]" line="58" column="50" />
         <mark key="." line="58" column="50" />
@@ -1821,11 +1829,8 @@
         <mark key="." line="56" column="37" />
         <mark key="^" line="56" column="37" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_monitor/pom.xml" timestamp="1531902090615">
-        <mark key="[" line="102" column="24" />
-        <mark key="]" line="102" column="26" />
-        <mark key="." line="102" column="26" />
-        <mark key="^" line="102" column="26" />
+      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_monitor/pom.xml" timestamp="1533717699518">
+        <mark key="[" line="77" column="21" />
       </file>
       <file name="C:/code/db-pull-sync/src/main/resources/log4j.properties" timestamp="1528705673047">
         <mark key="[" line="0" column="23" />
@@ -2138,6 +2143,7 @@
         <mark key="." line="49" column="19" />
         <mark key="^" line="49" column="19" />
       </file>
+      <file name="/pom.xml" timestamp="1533717695021" />
       <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/resources/mappings/modules/traffic_monitor/ScreenDao.xml" timestamp="1528441604517">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="21" />
@@ -2152,8 +2158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
-      <jump line="343" column="39" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
       <jump line="43" column="0" filename="C:/code/shanghefenghui/crow-index-calc/pom.xml" />
       <jump line="276" column="22" filename="C:/code/shanghefenghui/crow-index-calc/src/main/java/CrowIndexService.java" />
       <jump line="412" column="0" filename="C:/code/shanghefenghui/crow-index-calc/src/main/java/CrowIndexService.java" />
@@ -2252,46 +2256,48 @@
       <jump line="216" column="66" filename="C:/code/trafficCP/src/main/java/com/miras/data/modules/trafficcontrol/web/CurrentTrafficWebSocketHandler.java" />
       <jump line="167" column="27" filename="C:/code/trafficCP/src/main/resources/jeesite.properties" />
       <jump line="298" column="0" filename="C:/code/trafficCP/src/main/java/com/miras/data/modules/trafficcontrol/web/CurrentTrafficWebSocketHandler.java" />
+      <jump line="121" column="4" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/java/com/miras/data/passinf/image/PassinfImageBolt.java" />
+      <jump line="125" column="4" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_monitor/src/main/java/com/miras/data/passinf/monitor/bolt/KafkaBolt.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEJsYWNrbGlzdEluZm8+IGFsbEJsYWNrSW5mb0xpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+      <register name="&quot;" type="4">
+        <text>33554432</text>
       </register>
       <register name="-" type="4">
-        <text>blacklistInfoMap.values()</text>
+        <text>33554432</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBrYWZrYUNvbmZpZy5wdXQoQ29uc3VtZXJDb25maWcuR1JPVVBfSURfQ09ORklHLCBrYWZrYUlkKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcm9wZXJ0aWVzLnB1dCgiYnVmZmVyLm1lbW9yeSIsIDMzNTU0NDMyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEJsYWNrbGlzdEluZm8+IGFsbEJsYWNrSW5mb0xpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmltYWdlVXRpbHMgPSBuZXcgSW1hZ2VVdGlscyhzdG9ybUNvbmYpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYWxsQmxhY2tJbmZvTGlzdDsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRyYW5zcG9ydENsaWVudCA9IEVsYXN0aWNTZWFyY2hVdGlscy5nZXRUcmFuc3BvcnRDbGllbnQoc3Rvcm1Db25mKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVHJhbnNwb3J0Q2xpZW50IHRyYW5zcG9ydENsaWVudDsKCiAgICBwcml2YXRlIEltYWdlVXRpbHMgaW1hZ2VVdGlsczsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxsQmxhY2tJbmZvTGlzdC5hZGQoaW5mbyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBJdGVyYXRvciBpdGVyYXRvciA9IGJsYWNrbGlzdEluZm9NYXAuZW50cnlTZXQoKS5pdGVyYXRvcigpOwogICAgICAgIHdoaWxlIChpdGVyYXRvci5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgTWFwLkVudHJ5IGVudHJ5ID0gKE1hcC5FbnRyeSkgaXRlcmF0b3IubmV4dCgpOwogICAgICAgICAgICBCbGFja2xpc3RJbmZvIGluZm8gPSAoQmxhY2tsaXN0SW5mbykgZW50cnkuZ2V0VmFsdWUoKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFNldDxTdHJpbmc+IENPTExFQ1RfQUdFTkNJRVNfSEFWSU5HX1BJQ1MgPSBuZXcgSGFzaFNldDw+KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWFkUHJvcGVydHkoKQo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5Y+v5Lul5LiL6L295Zu+54mH55qE6YeH6ZuG5py65YWz5YiX6KGoLCDkv53lrZjliY0gNiDkvY0KICAgICAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxCbGFja0luZm9MaXN0LmFkZEFsbChibGFja2xpc3RJbmZvTWFwLnZhbHVlcygpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL21lc3NhZ2VNYXAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFNldDxTdHJpbmc+IElORUZGRUNUSVZFX05BTUVTID0gbmV3IEhhc2hTZXQ8PihBcnJheXMuYXNMaXN0KCJudWxsIiwgIjAiLCAiMC5qcGciLCAibnVsbC5qcGciKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/1/2/g</text>
