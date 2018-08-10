@@ -103,11 +103,10 @@
         <mark key="." line="25" column="93" />
         <mark key="^" line="25" column="93" />
       </file>
-      <file name="C:/code/jczh-upload-fix/src/main/java/com/miras/upload/jczhuploadfix/JczhUploadFixApplication.java" timestamp="1533893555793">
-        <mark key="[" line="85" column="81" />
-        <mark key="]" line="85" column="81" />
-        <mark key="." line="85" column="81" />
-        <mark key="^" line="85" column="81" />
+      <file name="C:/code/jczh-upload-fix/src/main/java/com/miras/upload/jczhuploadfix/JczhUploadFixApplication.java" timestamp="1533912932465">
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="200" column="0" />
+        <mark key="." line="200" column="0" />
       </file>
       <file name="C:/code/ws-upload-api/src/main/webapp/WEB-INF/web.xml" timestamp="1532095774063">
         <mark key="[" line="8" column="0" />
@@ -1033,7 +1032,7 @@
       <file name="/dummy.sql" timestamp="1533806787554">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/code/MDH_DATA/jczh-upload-fix/src/main/resources/static/index.html" timestamp="1533880074370" />
+      <file name="C:/code/MDH_DATA/jczh-upload-fix/src/main/resources/static/index.html" timestamp="1533911930887" />
       <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/create_table.sql" timestamp="1513925672036">
         <mark key="[" line="7" column="50" />
         <mark key="]" line="7" column="50" />
@@ -1685,11 +1684,11 @@
         <mark key="." line="61" column="16" />
         <mark key="^" line="61" column="16" />
       </file>
-      <file name="C:/code/jczh-upload-fix/pom.xml" timestamp="1533879575564">
-        <mark key="[" line="39" column="21" />
-        <mark key="]" line="43" column="20" />
-        <mark key="." line="43" column="20" />
-        <mark key="^" line="43" column="20" />
+      <file name="C:/code/jczh-upload-fix/pom.xml" timestamp="1533912105441">
+        <mark key="[" line="44" column="21" />
+        <mark key="]" line="52" column="20" />
+        <mark key="." line="52" column="20" />
+        <mark key="^" line="52" column="20" />
       </file>
       <file name="C:/code/hive-redis/src/main/kotlin/Application.kt" timestamp="1510895227554">
         <mark key="[" line="13" column="20" />
@@ -2187,7 +2186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="C:/code/shanghefenghui/crow-index-calc/pom.xml" />
       <jump line="276" column="22" filename="C:/code/shanghefenghui/crow-index-calc/src/main/java/CrowIndexService.java" />
       <jump line="412" column="0" filename="C:/code/shanghefenghui/crow-index-calc/src/main/java/CrowIndexService.java" />
       <jump line="17" column="26" filename="C:/code/shanghefenghui/crow-index-calc/pom.xml" />
@@ -2287,46 +2285,47 @@
       <jump line="298" column="0" filename="C:/code/trafficCP/src/main/java/com/miras/data/modules/trafficcontrol/web/CurrentTrafficWebSocketHandler.java" />
       <jump line="121" column="4" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/java/com/miras/data/passinf/image/PassinfImageBolt.java" />
       <jump line="125" column="4" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_monitor/src/main/java/com/miras/data/passinf/monitor/bolt/KafkaBolt.java" />
+      <jump line="132" column="46" filename="C:/code/jczh-upload-fix/src/main/java/com/miras/upload/jczhuploadfix/JczhUploadFixApplication.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>quit</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHN0YXJ0RGF0ZVN0ciA9IGRhdGVTdHIgKyAiICIgKyBTdHJpbmcuZm9ybWF0KCIlMmQ6MDA6MDAiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHF1ZXJ5RXNEYXRhKCIiLCByZXN1bHRTZXQuZ2V0U3RyaW5nKCJQT0lOVENPREUiKSwgcmVzdWx0U2V0LmdldFN0cmluZygiU1hGWCIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyAK</text>
+        <text encoding="base64">ICAgICAgICBMLmluZm8oInVwbG9hZCAiICsgYXJnc1swXSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDnlJ/miJDkuIDkuIvkuIDlpKkyNOWwj+aXtueahAo=</text>
+        <text encoding="base64">ICAgICAgICBsb25nIHRpbWVNaWxsaXMgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIgICAgICAgICAgICAgICAgdGVybToge1wiY2FkZHJlc3Njb2RlXCI6IFwiJXNcIn0gIiArCg==</text>
+        <text encoding="base64">ICAgICAgICBMLmluaQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIgICAgICAgICAgICAgICAgdGVybToge1wibmRlcmljdHJpb25cIjogXCIlc1wifSAiICsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTC5pbmZvKCJzZW5kIHRvIGthZmthOiIgKyBjc3ZMaW5lKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBqc29uIGFycmF5IFtzZWxlY3Qgb25lXSBhbmQgW2J1aWxkIGNzdl0gYW5kIFtzZW5kIHRvIGthZmthXQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/1/2/g</text>
