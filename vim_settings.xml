@@ -103,11 +103,11 @@
         <mark key="." line="25" column="93" />
         <mark key="^" line="25" column="93" />
       </file>
-      <file name="C:/code/jczh-upload-fix/src/main/java/com/miras/upload/jczhuploadfix/JczhUploadFixApplication.java" timestamp="1533893466409">
-        <mark key="[" line="59" column="45" />
-        <mark key="]" line="59" column="45" />
-        <mark key="." line="59" column="45" />
-        <mark key="^" line="59" column="45" />
+      <file name="C:/code/jczh-upload-fix/src/main/java/com/miras/upload/jczhuploadfix/JczhUploadFixApplication.java" timestamp="1533893555793">
+        <mark key="[" line="85" column="81" />
+        <mark key="]" line="85" column="81" />
+        <mark key="." line="85" column="81" />
+        <mark key="^" line="85" column="81" />
       </file>
       <file name="C:/code/ws-upload-api/src/main/webapp/WEB-INF/web.xml" timestamp="1532095774063">
         <mark key="[" line="8" column="0" />
@@ -2290,10 +2290,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;json ======&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;json ======&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
