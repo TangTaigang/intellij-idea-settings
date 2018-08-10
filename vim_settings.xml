@@ -103,11 +103,11 @@
         <mark key="." line="25" column="93" />
         <mark key="^" line="25" column="93" />
       </file>
-      <file name="C:/code/jczh-upload-fix/src/main/java/com/miras/upload/jczhuploadfix/JczhUploadFixApplication.java" timestamp="1533880088850">
-        <mark key="[" line="70" column="88" />
-        <mark key="]" line="70" column="88" />
-        <mark key="." line="70" column="88" />
-        <mark key="^" line="70" column="88" />
+      <file name="C:/code/jczh-upload-fix/src/main/java/com/miras/upload/jczhuploadfix/JczhUploadFixApplication.java" timestamp="1533893466409">
+        <mark key="[" line="59" column="45" />
+        <mark key="]" line="59" column="45" />
+        <mark key="." line="59" column="45" />
+        <mark key="^" line="59" column="45" />
       </file>
       <file name="C:/code/ws-upload-api/src/main/webapp/WEB-INF/web.xml" timestamp="1532095774063">
         <mark key="[" line="8" column="0" />
@@ -2290,43 +2290,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>&quot;json ======&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>&quot;json ======&quot;</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHN0YXJ0RGF0ZVN0ciA9IGRhdGVTdHIgKyAiICIgKyBTdHJpbmcuZm9ybWF0KCIlMmQ6MDA6MDAiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIgICAgICAgICAgICAgICAgdGVybToge1wiY2FkZHJlc3Njb2RlXCI6IFwiJXNcIn0gIiArCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIgICAgICAgICAgICAgICAgdGVybToge1wibmRlcmljdHJpb25cIjogXCIlc1wifSAiICsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKyAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAvLyDnlJ/miJDkuIDkuIvkuIDlpKkyNOWwj+aXtueahAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIgICAgICAgICAgICAgICAgdGVybToge1wiY2FkZHJlc3Njb2RlXCI6IFwiJXNcIn0gIiArCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIgICAgICAgICAgICAgICAgdGVybToge1wibmRlcmljdHJpb25cIjogXCIlc1wifSAiICsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/1/2/g</text>
