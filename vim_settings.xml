@@ -563,6 +563,12 @@
         <mark key="^" line="8" column="45" />
         <mark key="." line="8" column="45" />
       </file>
+      <file name="C:/code/fast-test/.gitignore" timestamp="1533966643515">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+      </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/exception/DeviceNotFoundException.java" timestamp="1522131677188">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="15" />
@@ -920,13 +926,6 @@
         <mark key="." line="794" column="85" />
         <mark key="^" line="794" column="85" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/java/com/miras/data/passinf/image/PassinfImageBolt.java" timestamp="1533717756114">
-        <mark key="'" line="121" column="4" />
-        <mark key="[" line="78" column="105" />
-        <mark key="]" line="78" column="116" />
-        <mark key="^" line="78" column="116" />
-        <mark key="." line="78" column="116" />
-      </file>
       <file name="C:/code/learn-spark/pom.xml" timestamp="1526537653720">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -1010,13 +1009,6 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_monitor/src/main/java/com/miras/data/passinf/monitor/bolt/KafkaBolt.java" timestamp="1533718297536">
-        <mark key="'" line="63" column="4" />
-        <mark key="[" line="41" column="56" />
-        <mark key="]" line="41" column="82" />
-        <mark key="^" line="41" column="82" />
-        <mark key="." line="41" column="82" />
-      </file>
       <file name="C:/code/MDHTrafficMapReduce/hdfs_only_mr_jobs/pom.xml" timestamp="1510880558708">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -1049,7 +1041,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="11" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533964942465">
+      <file name="/Dummy.txt" timestamp="1533966651588">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -1499,13 +1491,6 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="C:/code/trafficCP/src/main/resources/jeesite.properties" timestamp="1533712769749">
-        <mark key="'" line="167" column="27" />
-        <mark key="[" line="263" column="23" />
-        <mark key="]" line="263" column="35" />
-        <mark key="." line="263" column="35" />
-        <mark key="^" line="263" column="35" />
-      </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/src/main/production-resources/application.properties" timestamp="1531902154296">
         <mark key="[" line="17" column="14" />
         <mark key="]" line="17" column="15" />
@@ -1517,13 +1502,6 @@
         <mark key="]" line="63" column="53" />
         <mark key="." line="63" column="53" />
         <mark key="^" line="63" column="53" />
-      </file>
-      <file name="C:/code/trafficCP/src/main/java/com/miras/data/modules/trafficcontrol/web/CurrentTrafficWebSocketHandler.java" timestamp="1533783488296">
-        <mark key="'" line="298" column="0" />
-        <mark key="[" line="298" column="0" />
-        <mark key="]" line="298" column="0" />
-        <mark key="^" line="309" column="55" />
-        <mark key="." line="298" column="0" />
       </file>
       <file name="C:/code/MDH_ILLEGAL_DATA/mdh_data_illegal_image/src/main/production-resources/application.properties" timestamp="1520901590342">
         <mark key="[" line="14" column="72" />
