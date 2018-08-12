@@ -340,7 +340,7 @@
         <mark key="^" line="20" column="25" />
         <mark key="." line="20" column="25" />
       </file>
-      <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/production-resources/Config.properties" timestamp="1534044190063">
+      <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/production-resources/Config.properties" timestamp="1534049595369">
         <mark key="[" line="15" column="71" />
         <mark key="]" line="15" column="72" />
         <mark key="^" line="15" column="47" />
@@ -519,6 +519,9 @@
         <mark key="]" line="31" column="0" />
         <mark key="^" line="3" column="12" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/java/com/miras/data/storm/UploadJczhBolt.java" timestamp="1534049514646">
+        <mark key="'" line="41" column="21" />
       </file>
       <file name="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs/src/main/java/com/miras/data/image/hdfs/DateHdfsPartitioner.java" timestamp="1516260934879">
         <mark key="[" line="42" column="30" />
@@ -794,6 +797,7 @@
         <mark key="." line="20" column="33" />
         <mark key="^" line="20" column="33" />
       </file>
+      <file name="/WsClient.java" timestamp="1534049672434" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_redis_hbase/src/main/java/com/miras/data/passinf/Application.kt" timestamp="1510797045231">
         <mark key="[" line="47" column="43" />
         <mark key="]" line="48" column="19" />
@@ -879,11 +883,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/java/com/miras/data/storm/utils/WsClient.java" timestamp="1534033314017">
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="23" column="24" />
-        <mark key="^" line="23" column="24" />
-        <mark key="." line="23" column="24" />
+      <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/java/com/miras/data/storm/utils/WsClient.java" timestamp="1534049890931">
+        <mark key="[" line="26" column="57" />
+        <mark key="]" line="28" column="32" />
+        <mark key="." line="28" column="32" />
+        <mark key="^" line="28" column="32" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_kerberos2kafka/src/main/production-resources/application.properties" timestamp="1510553883374">
         <mark key="[" line="5" column="9" />
@@ -1071,7 +1075,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="11" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534044813243">
+      <file name="/Dummy.txt" timestamp="1534046846968">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -1507,9 +1511,9 @@
         <mark key="." line="35" column="57" />
       </file>
       <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/java/com/miras/data/storm/WebServiceTool.java" timestamp="1534046833081">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="C:/code/game/game-server/src/main/java/com/kischn/game/server/Main.java" timestamp="1526132938636">
         <mark key="[" line="4" column="49" />
@@ -2216,7 +2220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="4" filename="C:/code/druid-kafka/kafka-druid-ab-timeuse-subject/src/main/kotlin/com/miras/data/DruidPassinfo.kt" />
       <jump line="107" column="0" filename="C:/code/druid-kafka/kafka-druid-ab-timeuse-subject/src/main/kotlin/com/miras/data/DruidPassinfo.kt" />
       <jump line="50" column="0" filename="C:/code/druid-kafka/kafka-druid-ab-timeuse-subject/src/main/kotlin/com/miras/data/DruidPassinfo.kt" />
       <jump line="151" column="37" filename="C:/code/druid-kafka/kafka-druid-ab-timeuse-subject/src/main/kotlin/com/miras/data/DruidPassinfo.kt" />
@@ -2316,13 +2319,14 @@
       <jump line="58" column="42" filename="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/java/com/miras/data/storm/utils/WsClient.java" />
       <jump line="480" column="0" filename="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/java/com/miras/data/storm/UploadJczhBolt.java" />
       <jump line="292" column="22" filename="C:/code/mdh_data_6in1api/src/main/java/com/miras/data/api/mdh_data_6in1api/ws/WsClient.java" />
+      <jump line="41" column="21" filename="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/java/com/miras/data/storm/UploadJczhBolt.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2VsZWN0b3IgPT0gMCkK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgd3NIb3N0ID0gbnVsbDsK</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
@@ -2331,31 +2335,31 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgaG9zdDEgPSAiaHR0cDovLzEwLjIzMS40OS42NTo4MDgwL2FwaS8iOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2VsZWN0b3IgPT0gMCkK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgd3NIb3N0ID0gbnVsbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBsb2cuaW5mbygiPT09PT09PT09anNvbkRhdGE9PT09PT09PT09PT09OiIranNvbkRhdGEpOwogICAgICAgIC8vcmV0dXJuIGNhbGxXZWJTZXJ2aWNlKHdlYnNlcnZpY2U2MV9iYXNlKyJ1cGxvYWRJbGxlZ2FsRGF0YSIsanNvbkRhdGEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKLy8gICAgICAgIFN0cmluZyBqc29uRGF0YT0ie1wic3NjbGZsXCI6XCIzXCIsXCJkaFwiOlwiXCIsXCJjbHBwXCI6XCJcIixcImNqamdcIjpcIjFcIixcImhwemxcIjpcIjAyXCIsXCJ3ZnNqXCI6XCIyMDE3LTA4LTI5IDAwOjAwXCIsXCJqZGNzeXJcIjpcIlwiLFwid2ZkelwiOlwiMjA25Zu96YGT5LiO5YWr6KeS5aSn6KGX6Lev5Y+j55S16K2mXCIsXCJmZGpoXCI6XCIxMjE1NzAwODlcIixcInpwc3RyM1wiOlwiLzlqLzRBQVFTa1pKUmdBQkFRRUFZQUJnQUFELzJ3QlwiLFwienBzdHIyXCI6XCIvOWovNEFBUVNrWkpSZ0FCQVFFQVlBQmdBQUQvMndCREFBZ0dCZ2NHQlFnSEJ3Y0pDUWdLREJRTkRBc0xEQmtTRXc4VUhSb2ZIaFwiLFwienBzdHIxXCI6XCIvOWovNEFBUVNrWkpSZ0FCQVFFQVlBQmdBQUQvMndCREFBZ0dCZ2NHQlFnSEJ3Y0pDUWdLREJRTkRBc0xEQmtTRXc4VUhSb2ZIaDBhXFxuSEJ3Z0pDNG5JQ0lzSXh3Y0tEY3BMREF4TkRRMEh5YzVQVGd5UEM0ek5ETC8yd0JEQVFrSkNRd0xEQmdORFJnXCIsXCJjamZzXCI6XCIxXCIsXCJzeXh6XCI6XCJBXCIsXCJzYmJoXCI6XCIzNzA2MDYwMDAwMDAwMTUxODNcIixcImZ6amdcIjpcIumygUZcIixcInh6cWhcIjpcIjM3MDYwNlwiLFwiYnp6XCI6XCIwXCIsXCJjc3lzXCI6XCJKXCIsXCJqdGZzXCI6XCJLMzNcIixcImNsc2JkaFwiOlwiTFNHR0c1NFk2Q1MxOTAxNDdcIixcImx4ZnNcIjpcIlwiLFwic2N6XCI6XCIwXCIsXCJ0enNoXCI6XCJcIixcInpxbWpcIjpcIjFcIixcInpzeHpxaFwiOlwiMzcwNjA2XCIsXCJ0enJxXCI6XCJcIixcInpzeHhkelwiOlwiXCIsXCJ3ZnNqMVwiOlwiXCIsXCJ0emJqXCI6XCJcIixcIndmZGRcIjpcIjEwMjA2MDAyMzkwMFwiLFwid2Z4d1wiOlwiNjAyMzBcIixcImhwaG1cIjpcIumygUZZVDgwNVwiLFwid2ZkZDFcIjpcIlwifSI7Ci8vICAgICAgICAgICAgIGdldENvbW1vblJldHVybigiaHR0cDovL2xvY2FsaG9zdDo4MDgwL2FwaS91cGxvYWRJbGxlZ2FsRGF0YSIsImRhdGE9Iitqc29uRGF0YSwiUE9TVCIsIlVURi04IiwiVVRGLTgiKTsKLy8gICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFJhbmRvbSBzZXJ2ZXJTZWxlY3QgPSBuZXcgUmFuZG9tKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNsaWVudCA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigibm8gYXZhbGlhYmxlIHdlYnNlcnZpY2UgaG9zdHMiKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbGllbnQgPSBudWxsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaG9zdDEgPSAiaHR0cDovLzEwLjIzMS40OS42NTo4MDgwL2FwaS91cGxvYWRQYXNzRGF0YSI7CiAgICAgICAgU3RyaW5nIGhvc3QyID0gImh0dHA6Ly8xMC4yMzEuNDkuNjU6ODA4MS9hcGkvdXBsb2FkUGFzc0RhdGEiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGxvZy5lcnJvcigiZmFpbGVkIGNyZWF0ZSBjb25uZWN0aW9uIDoiICsgdXJsLCBlKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8RmlsZT4ke2xvZy5wYXRofS9pbmZvLTZpbjEubG9nPC9GaWxlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgcHVibGljIFZlaGljYWxWTyBnZXRWZWhpY2FsVk8oQFBhcmFtKCJocHpsIikgU3RyaW5nIGhwemwsIEBQYXJhbSgiaHBobSIpIFN0cmluZyBocGhtKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhc3RFcnJvck9jY3VyTWFwLnB1dCh1cmwsIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHVibGljIGludGVyZmFjZSBWZWhpY2xlTWFwcGVyICBleHRlbmRzIE1hcHBlcjxWZWhpY2FsVk8+IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFzdEVycm9yT2NjdXJNYXAucHV0KHVybCwgU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/1/2/g</text>
