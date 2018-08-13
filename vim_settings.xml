@@ -843,11 +843,11 @@
         <mark key="^" line="2" column="52" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="C:/code/fast-test/src/main/java/qrcode/QrCodeTest.java" timestamp="1534150422724">
-        <mark key="[" line="10" column="38" />
-        <mark key="]" line="10" column="40" />
-        <mark key="." line="10" column="40" />
-        <mark key="^" line="10" column="40" />
+      <file name="C:/code/fast-test/src/main/java/qrcode/QrCodeTest.java" timestamp="1534151550109">
+        <mark key="[" line="12" column="59" />
+        <mark key="]" line="12" column="59" />
+        <mark key="." line="12" column="59" />
+        <mark key="^" line="10" column="77" />
       </file>
       <file name="/KKBHDY [@192.168.101.162]" timestamp="1533806775588">
         <mark key="[" line="0" column="0" />
@@ -2326,10 +2326,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>UTF-8</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>UTF-8</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
