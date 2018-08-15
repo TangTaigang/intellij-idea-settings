@@ -482,11 +482,10 @@
         <mark key="." line="100" column="30" />
         <mark key="^" line="100" column="30" />
       </file>
-      <file name="C:/code/MagicSquareV1/pom.xml" timestamp="1534300699886">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="^" line="128" column="25" />
-        <mark key="." line="125" column="0" />
+      <file name="C:/code/MagicSquareV1/pom.xml" timestamp="1534305359619">
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="13" column="29" />
+        <mark key="." line="13" column="29" />
       </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/EzvizApplication.java" timestamp="1521014649897">
         <mark key="[" line="5" column="0" />
@@ -615,7 +614,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534300372912">
+      <file name="/Dummy.txt" timestamp="1534305084577">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -781,6 +780,7 @@
         <mark key="." line="23" column="66" />
         <mark key="^" line="23" column="66" />
       </file>
+      <file name="C:/code/MDHServiceCenter/ht-service-common/pom.xml" timestamp="1534305060401" />
       <file name="C:/code/druid-kafka/road-time-use-query/src/main/java/Application.kt" timestamp="1526282433951">
         <mark key="[" line="189" column="20" />
         <mark key="]" line="189" column="39" />
@@ -992,7 +992,7 @@
         <mark key="." line="0" column="30" />
         <mark key="^" line="0" column="30" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/pojo/HtDataElement.java" timestamp="1534301305907" />
+      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/pojo/HtDataElement.java" timestamp="1534303926594" />
       <file name="C:/code/test/src/Student.java" timestamp="1519137192576">
         <mark key="[" line="1" column="7" />
         <mark key="]" line="1" column="7" />
@@ -2118,6 +2118,7 @@
         <mark key="^" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="C:/code/MDHServiceCenter/ht-service-admin/src/main/resources/builder/generatorConfig.xml" timestamp="1534304355890" />
       <file name="C:/code/camera-capture/pom.xml" timestamp="1522380047003">
         <mark key="[" line="11" column="19" />
         <mark key="]" line="11" column="32" />
@@ -2147,6 +2148,12 @@
         <mark key="]" line="8" column="33" />
         <mark key="." line="8" column="33" />
         <mark key="^" line="8" column="32" />
+      </file>
+      <file name="C:/code/MagicSquareV1/src/main/resources/spring-mybatis.xml" timestamp="1534304962514">
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="25" column="54" />
+        <mark key="^" line="25" column="54" />
+        <mark key="." line="25" column="54" />
       </file>
       <file name="C:/code/MDH_ILLEGAL_UPLOAD/src/main/resources/logback.xml" timestamp="1533612745543">
         <mark key="[" line="19" column="40" />
@@ -2382,16 +2389,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>org</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>org</text>
       </register>
       <register name="/" type="4">
         <text>\.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+aHQtc2VydmljZS1jb21tb248L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">ICAgIDxiZWFuIGNsYXNzPSJvcmcubXliYXRpcy5zcHJpbmcubWFwcGVyLk1hcHBlclNjYW5uZXJDb25maWd1cmVyIj4KICAgICAgICA8cHJvcGVydHkgbmFtZT0iYmFzZVBhY2thZ2UiIHZhbHVlPSJjb20uaHVpdG9uZy5taXJhcy5tYWdpY3NxdWFyZS5kYW8iLz4KICAgICAgICA8cHJvcGVydHkgbmFtZT0ic3FsU2Vzc2lvbkZhY3RvcnlCZWFuTmFtZSIgdmFsdWU9InNxbFNlc3Npb25GYWN0b3J5Ii8+CiAgICA8L2JlYW4+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5odWl0b25nLm1pcmFzLm1hZ2ljc3F1YXJlLnNlcnZpY2VzLkh0RGF0YUVsZW1lbnRNYXBwZXI7Cg==</text>
