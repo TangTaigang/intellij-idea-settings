@@ -319,12 +319,12 @@
         <mark key="." line="14" column="39" />
         <mark key="^" line="14" column="39" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/DataElementController.java" timestamp="1534381957045">
+      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/DataElementController.java" timestamp="1534386222979">
         <mark key="'" line="147" column="41" />
-        <mark key="[" line="34" column="65" />
-        <mark key="]" line="34" column="69" />
-        <mark key="." line="34" column="69" />
-        <mark key="^" line="34" column="69" />
+        <mark key="[" line="61" column="34" />
+        <mark key="]" line="61" column="35" />
+        <mark key="." line="61" column="35" />
+        <mark key="^" line="61" column="35" />
       </file>
       <file name="C:/code/ftptest/src/main/java/Application.java" timestamp="1515649595004">
         <mark key="[" line="28" column="28" />
@@ -612,7 +612,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534312443420">
+      <file name="/Dummy.txt" timestamp="1534385184828">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1339,6 +1339,7 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="20" />
       </file>
+      <file name="C:/code/MDHServiceCenter/ht-service-admin/src/main/java/com/ht/service/admin/rest/DataElementController.java" timestamp="1534385778547" />
       <file name="C:/code/druid-kafka/kafkatest/pom.xml" timestamp="1528251159233">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="20" column="25" />
@@ -2381,10 +2382,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>添加表属性中文名称对应的加载相关功能</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>添加表属性中文名称对应的加载相关功能</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>\.</text>
