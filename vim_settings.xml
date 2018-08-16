@@ -319,11 +319,12 @@
         <mark key="." line="14" column="39" />
         <mark key="^" line="14" column="39" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/DataElementController.java" timestamp="1534386816498">
-        <mark key="'" line="146" column="41" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
+      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/DataElementController.java" timestamp="1534388726533">
+        <mark key="'" line="45" column="51" />
+        <mark key="[" line="58" column="61" />
+        <mark key="]" line="59" column="50" />
+        <mark key="." line="59" column="50" />
+        <mark key="^" line="59" column="50" />
       </file>
       <file name="C:/code/ftptest/src/main/java/Application.java" timestamp="1515649595004">
         <mark key="[" line="28" column="28" />
@@ -612,7 +613,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534386826675">
+      <file name="/Dummy.txt" timestamp="1534387529887">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -2285,7 +2286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="91" filename="C:/code/druid-kafka/kafka-druid-ab-timeuse-subject/src/main/kotlin/com/miras/data/DruidPassinfo.kt" />
       <jump line="379" column="62" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
       <jump line="151" column="19" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
       <jump line="257" column="0" filename="C:/code/shanghefenghui/crow-index-calc/src/main/java/CrowIndexService.java" />
@@ -2385,6 +2385,7 @@
       <jump line="117" column="34" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/DataElementController.java" />
       <jump line="55" column="34" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/DataElementController.java" />
       <jump line="147" column="41" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/DataElementController.java" />
+      <jump line="45" column="51" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/DataElementController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
