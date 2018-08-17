@@ -109,7 +109,6 @@
         <mark key="^" line="5" column="14" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="C:/code/ha-assitant/src/priusfan/info/bthsd10/scanner.java" timestamp="1534390377860" />
       <file name="C:/code/MDHTrafficMapReduce/car-route-timerange/pom.xml" timestamp="1524626452309">
         <mark key="[" line="12" column="28" />
         <mark key="]" line="12" column="37" />
@@ -524,7 +523,6 @@
         <mark key="." line="18" column="40" />
         <mark key="^" line="18" column="41" />
       </file>
-      <file name="C:/code/MDHServiceCenter/ht-service-admin/src/main/java/com/ht/service/admin/entity/HtDataElement.java" timestamp="1534387309852" />
       <file name="C:/code/graph-test/src/com/ht/DirectedCyclicGraph.java" timestamp="1528942857326">
         <mark key="[" line="100" column="11" />
         <mark key="]" line="100" column="10" />
@@ -620,7 +618,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534402253140">
+      <file name="/Dummy.txt" timestamp="1534497509616">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -791,7 +789,6 @@
         <mark key="." line="23" column="66" />
         <mark key="^" line="23" column="66" />
       </file>
-      <file name="C:/code/MDHServiceCenter/ht-service-common/pom.xml" timestamp="1534401912172" />
       <file name="C:/code/druid-kafka/road-time-use-query/src/main/java/Application.kt" timestamp="1526282433951">
         <mark key="[" line="189" column="20" />
         <mark key="]" line="189" column="39" />
@@ -844,6 +841,12 @@
         <mark key="." line="236" column="20" />
         <mark key="^" line="236" column="20" />
       </file>
+      <file name="C:/code/car-qrcode-decrypt/pom.xml" timestamp="1534491623340">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+      </file>
       <file name="C:/code/springtest/src/main/resources/applicationContext.xml" timestamp="1528637543343">
         <mark key="[" line="11" column="54" />
         <mark key="]" line="8" column="51" />
@@ -884,6 +887,12 @@
         <mark key="]" line="22" column="89" />
         <mark key="." line="22" column="89" />
         <mark key="^" line="22" column="89" />
+      </file>
+      <file name="C:/code/car-qrcode-decrypt/src/main/resources/static/index.html" timestamp="1534497285360">
+        <mark key="[" line="66" column="17" />
+        <mark key="]" line="66" column="22" />
+        <mark key="." line="66" column="22" />
+        <mark key="^" line="66" column="22" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_monitor/src/main/production-resources/application.properties" timestamp="1532763894522">
         <mark key="[" line="16" column="11" />
@@ -1116,6 +1125,7 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="C:/code/car-qrcode-decrypt/src/main/resources/static/jquery-1.9.1.js" timestamp="1534493248049" />
       <file name="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/entity/RoadTimeuse.java" timestamp="1526281833972">
         <mark key="[" line="9" column="29" />
         <mark key="]" line="11" column="33" />
@@ -1359,7 +1369,6 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="20" />
       </file>
-      <file name="C:/code/MDHServiceCenter/ht-service-admin/src/main/java/com/ht/service/admin/rest/DataElementController.java" timestamp="1534387300100" />
       <file name="C:/code/druid-kafka/kafkatest/pom.xml" timestamp="1528251159233">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="20" column="25" />
@@ -1372,7 +1381,6 @@
         <mark key="^" line="15" column="47" />
         <mark key="." line="15" column="72" />
       </file>
-      <file name="C:/code/OnlineVehicle/OnlineVehicleWebSystem/src/main/java/com/htsite/modules/vehicle/web/VehicleController.java" timestamp="1534467086185" />
       <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/pom.xml" timestamp="1513926201312">
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="0" />
@@ -1493,6 +1501,13 @@
         <mark key="." line="31" column="34" />
         <mark key="^" line="31" column="34" />
       </file>
+      <file name="C:/code/car-qrcode-decrypt/src/main/java/com/github/kischn/carqrcodedecrypt/CarQrcodeDecryptApplication.java" timestamp="1534495878834">
+        <mark key="'" line="25" column="4" />
+        <mark key="[" line="29" column="76" />
+        <mark key="]" line="29" column="77" />
+        <mark key="." line="29" column="77" />
+        <mark key="^" line="29" column="76" />
+      </file>
       <file name="C:/code/MDH_DATA/mdh_kafka_illegal_image/src/main/java/com/miras/data/storm/ImageToHBaseBolt.java" timestamp="1532397426602">
         <mark key="[" line="107" column="79" />
         <mark key="]" line="107" column="108" />
@@ -1534,6 +1549,7 @@
         <mark key="." line="14" column="50" />
         <mark key="^" line="14" column="50" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/zxing/core/3.3.3/core-3.3.3-sources.jar!/com/google/zxing/common/BitMatrix.java" timestamp="1534491953659" />
       <file name="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs/dist/run.sh" timestamp="1516260334619">
         <mark key="[" line="2" column="55" />
         <mark key="]" line="2" column="59" />
@@ -1713,6 +1729,7 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/zxing/core/3.3.3/core-3.3.3-sources.jar!/com/google/zxing/qrcode/QRCodeWriter.java" timestamp="1534491861554" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_firstincity/hive-sql.sql" timestamp="1510833363591">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -1743,7 +1760,7 @@
         <mark key="^" line="38" column="54" />
         <mark key="." line="38" column="54" />
       </file>
-      <file name="/fragment.java" timestamp="1534402128565">
+      <file name="/fragment.java" timestamp="1534494402613">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_ab/pom.xml" timestamp="1527059862899">
@@ -2322,8 +2339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="0" filename="C:/code/shanghefenghui/crow-index-calc/src/main/java/CrowIndexService.java" />
-      <jump line="25" column="39" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/web/InductionController.java" />
       <jump line="0" column="0" filename="C:/code/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/web/InductionController.java" />
       <jump line="3" column="73" filename="C:/code/shanghefenghui/TrafficSplitflowHub/src/main/resources/application.yaml" />
       <jump line="31" column="20" filename="C:/code/shanghefenghui/TrafficSplitflowHub/pom.xml" />
@@ -2422,46 +2437,48 @@
       <jump line="45" column="51" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/DataElementController.java" />
       <jump line="77" column="24" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/DataElementController.java" />
       <jump line="67" column="15" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/common/biz/BaseBiz.java" />
+      <jump line="13" column="29" filename="C:/code/car-qrcode-decrypt/src/main/java/com/github/kischn/carqrcodedecrypt/CarQrcodeDecryptApplication.java" />
+      <jump line="12" column="4" filename="C:/code/car-qrcode-decrypt/src/main/java/com/github/kischn/carqrcodedecrypt/CarQrcodeDecryptApplication.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>com.ht.service.common.msg.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>com.ht.service.common.msg.</text>
+        <text>leadingWhitespace</text>
       </register>
       <register name="/" type="4">
         <text>\.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIGNsYXNzPSJvcmcubXliYXRpcy5zcHJpbmcubWFwcGVyLk1hcHBlclNjYW5uZXJDb25maWd1cmVyIj4KICAgICAgICA8cHJvcGVydHkgbmFtZT0iYmFzZVBhY2thZ2UiIHZhbHVlPSJjb20uaHVpdG9uZy5taXJhcy5tYWdpY3NxdWFyZS5kYW8iLz4KICAgICAgICA8cHJvcGVydHkgbmFtZT0ic3FsU2Vzc2lvbkZhY3RvcnlCZWFuTmFtZSIgdmFsdWU9InNxbFNlc3Npb25GYWN0b3J5Ii8+CiAgICA8L2JlYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlcGxhY2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5odC5zZXJ2aWNlLmNvbW1vbi5iaXouQmFzZUJpejsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5odC5zZXJ2aWNlLmNvbW1vbi5tc2cuT2JqZWN0UmVzdFJlc3BvbnNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5odC5zZXJ2aWNlLmNvbW1vbi5iaXouQmFzZUJpejsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5odC5zZXJ2aWNlLmNvbW1vbi51dGlsLkVudGl0eVV0aWxzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5odC5zZXJ2aWNlLmNvbW1vbi5tc2cuVGFibGVSZXN1bHRSZXNwb25zZTsK</text>
+        <text encoding="base64">ICAgIDxkaXYgdi1mb3I9ImxpbmUgaW4gbGluZXMiPgogICAgICAgIDxkaXY+e3tsaW5lLmNvZGV9fTwvZGl2PgogICAgICAgIDxkaXY+e3tsaW5lLmRlY29kZVRleHR9fTwvZGl2PgogICAgPC9kaXY+CiAgICA8YnI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5odC5zZXJ2aWNlLmNvbW1vbi5tc2cuT2JqZWN0UmVzdFJlc3BvbnNlOwo=</text>
+        <text encoding="base64">ICAgIDxicj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL1t7dGl0bGU6ImFhYSIsdGV4dDoiYWFhIixjaGlsZHJlbjpbe2lkOiIwIix0ZXh0OiLlkKYiLGdyb3VwOidhYWEnfSx7aWQ6IjEiLHRleHQ6IuaYryIsZ3JvdXA6J2FhYSd9LHtpZDoiMSIsdGV4dDoiYWFhIixncm91cDonYmJiJ31dfSx7dGl0bGU6ImJiYiIsdGV4dDoiYmJiIixjaGlsZHJlbjpbe2lkOiIwIix0ZXh0OiLlkKYiLGdyb3VwOidhYWEnfSx7aWQ6IjEiLHRleHQ6IuaYryIsZ3JvdXA6J2FhYSd9LHtpZDoiMSIsdGV4dDoiYWFhIixncm91cDonYmJiJ31dfV0K</text>
+        <text encoding="base64">ICAgIDxicj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5odWl0b25nLm1pcmFzLm1hZ2ljc3F1YXJlLnNlcnZpY2VzLkh0RGF0YUVsZW1lbnRNYXBwZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5odC5zZXJ2aWNlLmFkbWluLmVudGl0eS5IdERhdGFFbGVtZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMudXJsVGV4dCA9IGVuY29kZVVSSSh0aGlzLmNvZGUucmVwbGFjZSgnIycsICcqJykpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/\./-/g</text>
