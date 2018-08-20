@@ -1356,6 +1356,12 @@
         <mark key="^" line="355" column="42" />
         <mark key="." line="355" column="42" />
       </file>
+      <file name="C:/code/fast-test/src/main/java/NumberTests.java" timestamp="1534740032406">
+        <mark key="[" line="9" column="56" />
+        <mark key="]" line="9" column="57" />
+        <mark key="^" line="9" column="57" />
+        <mark key="." line="9" column="57" />
+      </file>
       <file name="C:/code/MDH_ILLEGAL_UPLOAD/src/main/java/com/ht/job/executor/util/file/FileFtpOperator.java" timestamp="1533518185783">
         <mark key="[" line="128" column="28" />
         <mark key="]" line="129" column="12" />
@@ -2454,16 +2460,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>build</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlcGxhY2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSW50ZWdlci50b0JpbmFyeVN0cmluZyhhKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgcGFzc3dvcmQ6IEh1aXRvbmdZVEpKMjAxOAo=</text>
