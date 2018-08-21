@@ -618,7 +618,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534812667004">
+      <file name="/Dummy.txt" timestamp="1534815394457">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -758,6 +758,12 @@
         <mark key="]" line="26" column="14" />
         <mark key="." line="26" column="14" />
         <mark key="^" line="26" column="14" />
+      </file>
+      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/dataprovider/druid/DruidDataProvider.java" timestamp="1534815208870">
+        <mark key="'" line="466" column="0" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
       </file>
       <file name="C:/code/MDH_DATA/mdh_kafka_illegal_image/src/main/java/com/miras/data/storm/HBaseMessageSplitBolt.java" timestamp="1532586418333">
         <mark key="[" line="44" column="55" />
@@ -2357,7 +2363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="20" filename="C:/code/shanghefenghui/TrafficSplitflowHub/pom.xml" />
       <jump line="22" column="0" filename="C:/code/shanghefenghui/TrafficSplitflowHub/src/main/kotlin/com/ht/trafficSplitflowHub/TrafficSplitflowHubApplication.kt" />
       <jump line="472" column="39" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
       <jump line="65" column="70" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/splitflow/web/ScreenController.java" />
@@ -2457,10 +2462,11 @@
       <jump line="12" column="4" filename="C:/code/car-qrcode-decrypt/src/main/java/com/github/kischn/carqrcodedecrypt/CarQrcodeDecryptApplication.java" />
       <jump line="31" column="19" filename="C:/code/MDH_PASSINF_DATA/jczh-upload-fix/pom.xml" />
       <jump line="1061" column="29" filename="$MAVEN_REPOSITORY$/org/apache/commons/commons-dbcp2/2.2.0/commons-dbcp2-2.2.0-sources.jar!/org/apache/commons/dbcp2/BasicDataSource.java" />
+      <jump line="467" column="0" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/dataprovider/druid/DruidDataProvider.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZGltZW5zaW9uTGlzdC5hZGQoInVzZXIiKTsKLy8gICAgICAgICAgICAgICAgZGltZW5zaW9uTGlzdC5hZGQoImRlbHRhIik7Ci8vICAgICAgICAgICAgICAgIGRpbWVuc2lvbkxpc3QuYWRkKCJuYW1lc3BhY2UiKTsKLy8gICAgICAgICAgICAgICAgZGltZW5zaW9uTGlzdC5hZGQoImFkZGVkIik7Ci8vICAgICAgICAgICAgICAgIGRpbWVuc2lvbkxpc3QuYWRkKCJjaGFubmVsIik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -2472,31 +2478,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSW50ZWdlci50b0JpbmFyeVN0cmluZyhhKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcGFzc3dvcmQ6IEh1aXRvbmdZVEpKMjAxOAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZGltZW5zaW9uTGlzdC5hZGQoInVzZXIiKTsKLy8gICAgICAgICAgICAgICAgZGltZW5zaW9uTGlzdC5hZGQoImRlbHRhIik7Ci8vICAgICAgICAgICAgICAgIGRpbWVuc2lvbkxpc3QuYWRkKCJuYW1lc3BhY2UiKTsKLy8gICAgICAgICAgICAgICAgZGltZW5zaW9uTGlzdC5hZGQoImFkZGVkIik7Ci8vICAgICAgICAgICAgICAgIGRpbWVuc2lvbkxpc3QuYWRkKCJjaGFubmVsIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdXNlcm5hbWU6IHRyYWZmaWNfY2xvdWQK</text>
+        <text encoding="base64">ICAgICAgcGFzc3dvcmQ6IEh1aXRvbmdZVEpKMjAxOAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVzZXJuYW1lOiAK</text>
+        <text encoding="base64">ICAgICAgdXNlcm5hbWU6IHRyYWZmaWNfY2xvdWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRyaQo=</text>
+        <text encoding="base64">ICAgIHVzZXJuYW1lOiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdXJsOiBqZGJjOm9yYWNsZTp0aGluOkAxMC4yMzEuNDkuMTk2OjE1MjE6b3JjbAo=</text>
+        <text encoding="base64">ICAgIGRyaQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVybDogCg==</text>
+        <text encoding="base64">ICAgICAgdXJsOiBqZGJjOm9yYWNsZTp0aGluOkAxMC4yMzEuNDkuMTk2OjE1MjE6b3JjbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHR5cGU6IG9yZy5hcGFjaGUuY29tbW9ucy5kYmNwMi5CYXNpY0RhdGFTb3VyY2UK</text>
+        <text encoding="base64">ICAgIHVybDogCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHR5cGU6IG9yZy5hcGFjaGUuY29tbW9ucy5kYmNwMi5CYXNpY0RhdGFTb3VyY2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/\./-/g</text>
