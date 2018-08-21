@@ -223,6 +223,13 @@
         <mark key="." line="89" column="45" />
         <mark key="^" line="89" column="45" />
       </file>
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/sourceMeta.js" timestamp="1534839237436">
+        <mark key="'" line="582" column="0" />
+        <mark key="[" line="664" column="5" />
+        <mark key="]" line="664" column="5" />
+        <mark key="^" line="664" column="5" />
+        <mark key="." line="664" column="5" />
+      </file>
       <file name="C:/code/test/src/CsvTool.java" timestamp="1519972332566">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="13" />
@@ -439,6 +446,7 @@
         <mark key="." line="20" column="33" />
         <mark key="^" line="20" column="33" />
       </file>
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/model/tableConfig.js" timestamp="1534837606082" />
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_redis_hbase/src/main/java/com/miras/data/passinf/Application.kt" timestamp="1510797045231">
         <mark key="[" line="47" column="43" />
         <mark key="]" line="48" column="19" />
@@ -1082,6 +1090,12 @@
         <mark key="]" line="82" column="61" />
         <mark key="." line="82" column="61" />
         <mark key="^" line="82" column="61" />
+      </file>
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/model/tableModel.js" timestamp="1534839192246">
+        <mark key="'" line="192" column="8" />
+        <mark key="[" line="233" column="0" />
+        <mark key="]" line="233" column="0" />
+        <mark key="." line="233" column="0" />
       </file>
       <file name="C:/code/druid-kafka/kafka-druid-stream/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1512570935388">
         <mark key="[" line="252" column="47" />
@@ -1924,6 +1938,13 @@
         <mark key="^" line="68" column="92" />
         <mark key="." line="68" column="92" />
       </file>
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/tables/table_detail.html" timestamp="1534839250533">
+        <mark key="'" line="152" column="50" />
+        <mark key="[" line="152" column="51" />
+        <mark key="]" line="152" column="56" />
+        <mark key="^" line="152" column="56" />
+        <mark key="." line="152" column="56" />
+      </file>
       <file name="C:/code/imagemr/src/main/resources/core-site.xml" timestamp="1515998281322">
         <mark key="[" line="163" column="15" />
         <mark key="]" line="173" column="16" />
@@ -2363,12 +2384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="C:/code/shanghefenghui/TrafficSplitflowHub/src/main/kotlin/com/ht/trafficSplitflowHub/TrafficSplitflowHubApplication.kt" />
-      <jump line="472" column="39" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
-      <jump line="65" column="70" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/splitflow/web/ScreenController.java" />
-      <jump line="53" column="26" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/splitflow/web/ScreenController.java" />
-      <jump line="109" column="47" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/splitflow/web/ScreenController.java" />
-      <jump line="360" column="22" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
       <jump line="17" column="110" filename="C:/code/db-pull-sync/src/main/java/com/miras/datasync/Application.kt" />
       <jump line="104" column="0" filename="C:/code/db-pull-sync/src/main/java/com/miras/datasync/Application.kt" />
       <jump line="10" column="7" filename="C:/code/db-pull-sync/src/main/resources/application.properties" />
@@ -2463,13 +2478,19 @@
       <jump line="31" column="19" filename="C:/code/MDH_PASSINF_DATA/jczh-upload-fix/pom.xml" />
       <jump line="1061" column="29" filename="$MAVEN_REPOSITORY$/org/apache/commons/commons-dbcp2/2.2.0/commons-dbcp2-2.2.0-sources.jar!/org/apache/commons/dbcp2/BasicDataSource.java" />
       <jump line="467" column="0" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/dataprovider/druid/DruidDataProvider.java" />
+      <jump line="148" column="38" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/model/tableModel.js" />
+      <jump line="192" column="8" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/model/tableModel.js" />
+      <jump line="151" column="49" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/tables/table_detail.html" />
+      <jump line="147" column="98" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/tables/table_detail.html" />
+      <jump line="582" column="0" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/sourceMeta.js" />
+      <jump line="152" column="50" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/tables/table_detail.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZGltZW5zaW9uTGlzdC5hZGQoInVzZXIiKTsKLy8gICAgICAgICAgICAgICAgZGltZW5zaW9uTGlzdC5hZGQoImRlbHRhIik7Ci8vICAgICAgICAgICAgICAgIGRpbWVuc2lvbkxpc3QuYWRkKCJuYW1lc3BhY2UiKTsKLy8gICAgICAgICAgICAgICAgZGltZW5zaW9uTGlzdC5hZGQoImFkZGVkIik7Ci8vICAgICAgICAgICAgICAgIGRpbWVuc2lvbkxpc3QuYWRkKCJjaGFubmVsIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>build</text>
@@ -2478,31 +2499,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSW50ZWdlci50b0JpbmFyeVN0cmluZyhhKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZGltZW5zaW9uTGlzdC5hZGQoInVzZXIiKTsKLy8gICAgICAgICAgICAgICAgZGltZW5zaW9uTGlzdC5hZGQoImRlbHRhIik7Ci8vICAgICAgICAgICAgICAgIGRpbWVuc2lvbkxpc3QuYWRkKCJuYW1lc3BhY2UiKTsKLy8gICAgICAgICAgICAgICAgZGltZW5zaW9uTGlzdC5hZGQoImFkZGVkIik7Ci8vICAgICAgICAgICAgICAgIGRpbWVuc2lvbkxpc3QuYWRkKCJjaGFubmVsIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcGFzc3dvcmQ6IEh1aXRvbmdZVEpKMjAxOAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBuZy1jbGljaz0iYWxlcnQoJzEyMycpIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdXNlcm5hbWU6IHRyYWZmaWNfY2xvdWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHRkIG5nLWNsaWNrPSJhbGVydCgnMTIzJykiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVzZXJuYW1lOiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2E+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRyaQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdXJsOiBqZGJjOm9yYWNsZTp0aGluOkAxMC4yMzEuNDkuMTk2OjE1MjE6b3JjbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVybDogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHR5cGU6IG9yZy5hcGFjaGUuY29tbW9ucy5kYmNwMi5CYXNpY0RhdGFTb3VyY2UK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZGltZW5zaW9uTGlzdC5hZGQoInVzZXIiKTsKLy8gICAgICAgICAgICAgICAgZGltZW5zaW9uTGlzdC5hZGQoImRlbHRhIik7Ci8vICAgICAgICAgICAgICAgIGRpbWVuc2lvbkxpc3QuYWRkKCJuYW1lc3BhY2UiKTsKLy8gICAgICAgICAgICAgICAgZGltZW5zaW9uTGlzdC5hZGQoImFkZGVkIik7Ci8vICAgICAgICAgICAgICAgIGRpbWVuc2lvbkxpc3QuYWRkKCJjaGFubmVsIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcGFzc3dvcmQ6IEh1aXRvbmdZVEpKMjAxOAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/\./-/g</text>
