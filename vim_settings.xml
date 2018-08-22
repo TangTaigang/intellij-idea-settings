@@ -446,11 +446,11 @@
         <mark key="." line="20" column="33" />
         <mark key="^" line="20" column="33" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/model/tableConfig.js" timestamp="1534923908818">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="23" column="20" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/model/tableConfig.js" timestamp="1534924681527">
+        <mark key="[" line="21" column="33" />
+        <mark key="]" line="21" column="34" />
+        <mark key="." line="21" column="34" />
+        <mark key="^" line="21" column="34" />
       </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_redis_hbase/src/main/java/com/miras/data/passinf/Application.kt" timestamp="1510797045231">
         <mark key="[" line="47" column="43" />
@@ -631,7 +631,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534909828177">
+      <file name="/Dummy.txt" timestamp="1534924684650">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/controller/DeviceController.java" timestamp="1522140705088">
@@ -1948,11 +1948,11 @@
         <mark key="^" line="68" column="92" />
         <mark key="." line="68" column="92" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/tables/table_detail.html" timestamp="1534924028186">
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/tables/table_detail.html" timestamp="1534924665553">
         <mark key="'" line="156" column="38" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="141" column="23" />
+        <mark key="." line="138" column="0" />
       </file>
       <file name="C:/code/imagemr/src/main/resources/core-site.xml" timestamp="1515998281322">
         <mark key="[" line="163" column="15" />
@@ -2502,7 +2502,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBuZy1jbGljaz0ic2hvd0NvbW1lbnRFZGl0V2luZG93KGNvbCkiCg==</text>
+        <text encoding="base64">ICAgICAge2F0dHI6ICdjaGluZXNlJywgbmFtZTogJ+S4reaWhyd9LAo=</text>
       </register>
       <register name="-" type="4">
         <text>comment</text>
@@ -2514,31 +2514,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHRkIG5nLWNsaWNrPSJzaG93Q29tbWVudEVkaXRXaW5kb3coY29sKSIKICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJ7eyh0YWJsZU1vZGVsLnNlbGVjdGVkU3JjVGFibGUuc2VsZWN0ZWRTcmNDb2x1bW4uaWQgPT0gY29sdW1uLmlkKT8gJ2JhY2tncm91bmQtY29sb3I6I0VCRjlGRSc6Jyd9fSI+CiAgICAgICAgICAgICAgICAgICAge3sgY29sdW1uLmNvbW1lbnR9fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBuZy1jbGljaz0ic2hvd0NvbW1lbnRFZGl0V2luZG93KGNvbCkiCg==</text>
+        <text encoding="base64">ICAgICAge2F0dHI6ICdjaGluZXNlJywgbmFtZTogJ+S4reaWhyd9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAvLyB7YXR0cjogJ2NhcmRpbmFsaXR5JywgbmFtZTogJ0NhcmRpbmFsaXR5J30sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHRkIG5nLWNsaWNrPSJzaG93Q29tbWVudEVkaXRXaW5kb3coY29sKSIKICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJ7eyh0YWJsZU1vZGVsLnNlbGVjdGVkU3JjVGFibGUuc2VsZWN0ZWRTcmNDb2x1bW4uaWQgPT0gY29sdW1uLmlkKT8gJ2JhY2tncm91bmQtY29sb3I6I0VCRjlGRSc6Jyd9fSI+CiAgICAgICAgICAgICAgICAgICAge3sgY29sdW1uLmNoaW5lc2V9fQogICAgICAgICAgICAgICAgICA8L3RkPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJGxvZy5pbmZvKCJzZWxlY3RlZCBjb2x1bW4gaW5mbzoiICsgX2NvbHVtbi5uYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHRkIG5nLWNsaWNrPSJzaG93Q29tbWVudEVkaXRXaW5kb3coY29sKSIKICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJ7eyh0YWJsZU1vZGVsLnNlbGVjdGVkU3JjVGFibGUuc2VsZWN0ZWRTcmNDb2x1bW4uaWQgPT0gY29sdW1uLmlkKT8gJ2JhY2tncm91bmQtY29sb3I6I0VCRjlGRSc6Jyd9fSI+CiAgICAgICAgICAgICAgICAgICAge3sgY29sdW1uLmNoaW5lc2V9fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCd0Ymwgb25OYW1lQ2hhbmdlJywgdGhpcy5uYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBuZy1jbGljaz0ic2hvd0NvbW1lbnRFZGl0V2luZG93KGNvbCkiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnbWVudScsIG1lbnVJdGVtLmxhYmVsKTsK</text>
+        <text encoding="base64">ICAgICAvLyB7YXR0cjogJ2NhcmRpbmFsaXR5JywgbmFtZTogJ0NhcmRpbmFsaXR5J30sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnbWVudScsICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJGxvZy5pbmZvKCJzZWxlY3RlZCBjb2x1bW4gaW5mbzoiICsgX2NvbHVtbi5uYW1lKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCd0Ymwgb25OYW1lQ2hhbmdlJywgdGhpcy5uYW1lKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnbWVudScsIG1lbnVJdGVtLmxhYmVsKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnbWVudScsICkK</text>
       </register>
       <register name=":" type="4">
         <text>s/\./-/g</text>
