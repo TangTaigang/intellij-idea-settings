@@ -223,8 +223,8 @@
         <mark key="." line="89" column="45" />
         <mark key="^" line="89" column="45" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/sourceMeta.js" timestamp="1534842999459">
-        <mark key="'" line="486" column="27" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/sourceMeta.js" timestamp="1534907387169">
+        <mark key="'" line="887" column="86" />
         <mark key="[" line="484" column="30" />
         <mark key="]" line="484" column="45" />
         <mark key="^" line="484" column="45" />
@@ -405,11 +405,11 @@
         <mark key="." line="4085" column="133" />
         <mark key="^" line="4085" column="133" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/resources/mapper/TableFieldNameMapping.xml" timestamp="1534236012514">
-        <mark key="[" line="25" column="14" />
-        <mark key="]" line="25" column="11" />
-        <mark key="^" line="25" column="11" />
-        <mark key="." line="25" column="13" />
+      <file name="C:/code/MagicSquareV1/src/main/resources/mapper/TableFieldNameMapping.xml" timestamp="1534905685143">
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="25" />
+        <mark key="." line="22" column="25" />
+        <mark key="^" line="22" column="25" />
       </file>
       <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/common/biz/DataElementBiz.java" timestamp="1534402172000">
         <mark key="[" line="3" column="0" />
@@ -625,7 +625,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534844055718">
+      <file name="/Dummy.txt" timestamp="1534909828177">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/controller/DeviceController.java" timestamp="1522140705088">
@@ -1087,12 +1087,12 @@
         <mark key="." line="82" column="61" />
         <mark key="^" line="82" column="61" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/model/tableModel.js" timestamp="1534900223293">
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/model/tableModel.js" timestamp="1534910145607">
         <mark key="'" line="187" column="8" />
-        <mark key="[" line="133" column="26" />
-        <mark key="]" line="133" column="26" />
-        <mark key="." line="133" column="26" />
-        <mark key="^" line="133" column="32" />
+        <mark key="[" line="161" column="37" />
+        <mark key="]" line="162" column="49" />
+        <mark key="^" line="162" column="49" />
+        <mark key="." line="162" column="49" />
       </file>
       <file name="C:/code/druid-kafka/kafka-druid-stream/src/main/kotlin/com/miras/data/DruidPassinfo.kt" timestamp="1512570935388">
         <mark key="[" line="252" column="47" />
@@ -1403,6 +1403,12 @@
         <mark key="^" line="15" column="47" />
         <mark key="." line="15" column="72" />
       </file>
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/model/tableConCtrl.js" timestamp="1534907489977">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="17" column="14" />
+      </file>
       <file name="C:/code/MDHTrafficDataSync/mdh_covering_plate_uploader/pom.xml" timestamp="1513926201312">
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="0" />
@@ -1571,6 +1577,7 @@
         <mark key="." line="14" column="50" />
         <mark key="^" line="14" column="50" />
       </file>
+      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/AdminController.java" timestamp="1534907238084" />
       <file name="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs/dist/run.sh" timestamp="1516260334619">
         <mark key="[" line="2" column="55" />
         <mark key="]" line="2" column="59" />
@@ -1725,6 +1732,12 @@
         <mark key="]" line="376" column="9" />
         <mark key="." line="376" column="9" />
         <mark key="^" line="27" column="27" />
+      </file>
+      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/solr/SolrDataProvider.java" timestamp="1534904614290">
+        <mark key="[" line="545" column="60" />
+        <mark key="]" line="545" column="67" />
+        <mark key="^" line="545" column="67" />
+        <mark key="." line="545" column="67" />
       </file>
       <file name="C:/code/jczh-upload-fix/src/main/resources/log4j.properties" timestamp="1532740625873">
         <mark key="[" line="10" column="0" />
@@ -1954,7 +1967,7 @@
         <mark key="." line="4" column="67" />
         <mark key="^" line="4" column="67" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/TranslateController.java" timestamp="1534236459736">
+      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/TranslateController.java" timestamp="1534907688189">
         <mark key="[" line="37" column="22" />
         <mark key="]" line="37" column="22" />
         <mark key="." line="37" column="22" />
@@ -2302,6 +2315,12 @@
         <mark key="^" line="3" column="6" />
         <mark key="." line="7" column="15" />
       </file>
+      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/common/util/EntityUtils.java" timestamp="1534904672778">
+        <mark key="[" line="80" column="41" />
+        <mark key="]" line="80" column="48" />
+        <mark key="^" line="80" column="48" />
+        <mark key="." line="80" column="48" />
+      </file>
       <file name="C:/code/MDH_PASSINF_DATA/mdh_data_kafka_kerberos2kafka/src/main/java/com/miras/data/passinf/Application2.java" timestamp="1510541339915">
         <mark key="[" line="23" column="22" />
         <mark key="]" line="23" column="36" />
@@ -2375,7 +2394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="36" filename="C:/code/graph-test/src/com/ht/DirectedCyclicGraph.java" />
       <jump line="57" column="12" filename="C:/code/graph-test/src/com/ht/DirectedCyclicGraph.java" />
       <jump line="77" column="27" filename="C:/code/graph-test/src/com/ht/DirectedCyclicGraph.java" />
       <jump line="215" column="15" filename="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" />
@@ -2475,46 +2493,47 @@
       <jump line="459" column="26" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/sourceMeta.js" />
       <jump line="486" column="27" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/sourceMeta.js" />
       <jump line="153" column="38" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/tables/table_detail.html" />
+      <jump line="887" column="86" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/sourceMeta.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-sunzq</text>
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text>-sunzq</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>build</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSW50ZWdlci50b0JpbmFyeVN0cmluZyhhKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0YmwuZGF0YWJhc2UgPSByZWNvcmRbJ2ZpZWxkTmFtZUNuJ10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZ3VsYXIuZm9yRWFjaCh0YWJsZXMsIGZ1bmN0aW9uIChfdGFibGUpIHsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB0b2RvIHF1ZXJ5IGRpY3QgZGF0YSBhbmQgZG8gbWFwIGhlcmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNvbCwgZmllbGROYW1lQ24pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b2RvICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9UT0RPIOaVsOaNruWtl+WFuOWKoOi9veWSjOabv+aNoiBieSBzdW56cQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWNvcmRbJ2ZpZWxkTmFtZUNuJ107Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWNvcmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHNjb3BlOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAvLyAgICAgcmV0dXJuIHNjb3BlOwogICAgICAgICAgICAgICAgLy8gfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aW5kb3cuc2V0VGltZW91dChmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICRtb2RhbEluc3RhbmNlLmNsb3NlKGRhdGEpOwogICAgICAgICAgICAgICAgICAgIH0sIDE1MDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>s/\./-/g</text>
