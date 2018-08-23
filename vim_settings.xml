@@ -103,6 +103,11 @@
         <mark key="^" line="15" column="33" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="C:/code/MagicSquareV1/doc/table-comment.py" timestamp="1534991690822">
+        <mark key="[" line="35" column="12" />
+        <mark key="]" line="35" column="12" />
+        <mark key="." line="35" column="12" />
+      </file>
       <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/entity/ABDruidQueryResponse.java" timestamp="1527818864984">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="15" />
@@ -1583,7 +1588,6 @@
         <mark key="." line="14" column="50" />
         <mark key="^" line="14" column="50" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/AdminController.java" timestamp="1534907238084" />
       <file name="C:/code/MDH_DATA/mdh_data_kafka_image_hdfs/dist/run.sh" timestamp="1516260334619">
         <mark key="[" line="2" column="55" />
         <mark key="]" line="2" column="59" />
@@ -2501,11 +2505,11 @@
       <jump line="40" column="4" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/model/tableModel.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAge2F0dHI6ICdjaGluZXNlJywgbmFtZTogJ+S4reaWhyd9LAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>comment</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>build</text>
