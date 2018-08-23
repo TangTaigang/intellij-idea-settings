@@ -8,7 +8,7 @@
         <mark key="]" line="14" column="42" />
         <mark key="." line="14" column="42" />
       </file>
-      <file name="/start_script.py" timestamp="1535003807198">
+      <file name="/start_script.py" timestamp="1535004222399">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/resources/log4j.properties" timestamp="1531205035392">
@@ -106,10 +106,10 @@
         <mark key="^" line="15" column="33" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="C:/code/MagicSquareV1/doc/table-comment.py" timestamp="1534991690822">
-        <mark key="[" line="35" column="12" />
-        <mark key="]" line="35" column="12" />
-        <mark key="." line="35" column="12" />
+      <file name="C:/code/MagicSquareV1/doc/table-comment.py" timestamp="1535004177004">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/entity/ABDruidQueryResponse.java" timestamp="1527818864984">
         <mark key="[" line="5" column="15" />
@@ -231,12 +231,12 @@
         <mark key="." line="89" column="45" />
         <mark key="^" line="89" column="45" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/sourceMeta.js" timestamp="1534923738874">
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/sourceMeta.js" timestamp="1535006825778">
         <mark key="'" line="51" column="28" />
-        <mark key="[" line="484" column="30" />
-        <mark key="]" line="484" column="45" />
-        <mark key="^" line="484" column="45" />
-        <mark key="." line="484" column="45" />
+        <mark key="[" line="483" column="0" />
+        <mark key="]" line="483" column="0" />
+        <mark key="." line="483" column="0" />
+        <mark key="^" line="491" column="34" />
       </file>
       <file name="C:/code/test/src/CsvTool.java" timestamp="1519972332566">
         <mark key="[" line="7" column="13" />
@@ -639,7 +639,7 @@
         <mark key="^" line="63" column="110" />
         <mark key="." line="63" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534924684650">
+      <file name="/Dummy.txt" timestamp="1535004732397">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/controller/DeviceController.java" timestamp="1522140705088">
@@ -1507,6 +1507,7 @@
         <mark key="^" line="56" column="95" />
         <mark key="." line="56" column="95" />
       </file>
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/dictMeta.js" timestamp="1535005200378" />
       <file name="C:/code/ezviz/src/main/java/com/miras/monitor/ezviz/bean/JsonResponse.java" timestamp="1522128520028">
         <mark key="[" line="8" column="44" />
         <mark key="]" line="8" column="45" />
@@ -1799,6 +1800,7 @@
         <mark key="." line="14" column="36" />
         <mark key="^" line="14" column="36" />
       </file>
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/dict/index.html" timestamp="1535006231818" />
       <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/traffic_monitor/dao/MonitorPointMapper.java" timestamp="1528011290334">
         <mark key="[" line="38" column="38" />
         <mark key="]" line="38" column="54" />
@@ -2265,9 +2267,6 @@
         <mark key="." line="26" column="10" />
         <mark key="^" line="26" column="10" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-dbcp2/2.2.0/commons-dbcp2-2.2.0-sources.jar!/org/apache/commons/dbcp2/BasicDataSource.java" timestamp="1534726166138">
-        <mark key="'" line="1061" column="29" />
-      </file>
       <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/java/com/miras/data/Application.java" timestamp="1532742653079">
         <mark key="[" line="29" column="54" />
         <mark key="]" line="29" column="55" />
@@ -2309,11 +2308,11 @@
         <mark key="^" line="2" column="45" />
         <mark key="." line="2" column="45" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/tables/column_mapping.html" timestamp="1534843248259">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="22" />
-        <mark key="^" line="0" column="22" />
-        <mark key="." line="0" column="22" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/tables/column_mapping.html" timestamp="1535006564306">
+        <mark key="[" line="46" column="79" />
+        <mark key="]" line="46" column="92" />
+        <mark key="." line="46" column="92" />
+        <mark key="^" line="46" column="92" />
       </file>
       <file name="C:/code/shanghefenghui/TrafficSplitflowDruid/src/test/java/com/ht/trafficsplit/JunitTest.java" timestamp="1527583217429">
         <mark key="[" line="14" column="0" />
@@ -2406,7 +2405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="2" filename="C:/code/MDHTrafficDataSync/db-pull-sync/src/main/java/com/miras/datasync/Application.kt" />
       <jump line="83" column="68" filename="C:/code/MDHTrafficDataSync/db-pull-sync/src/main/java/com/miras/datasync/Application.kt" />
       <jump line="89" column="32" filename="C:/code/MDHTrafficDataSync/db-pull-sync/src/main/java/com/miras/datasync/SqlInitializer.kt" />
       <jump line="2866" column="4" filename="C:/code/ha-assitant/src/priusfan/info/bthsd10/scanner.java" />
@@ -2506,13 +2504,14 @@
       <jump line="198" column="42" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/model/tableModel.js" />
       <jump line="51" column="28" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/sourceMeta.js" />
       <jump line="40" column="4" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/model/tableModel.js" />
+      <jump line="206" column="9" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/tables/column_mapping.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyICRjb2x1bW4gPSBjb2w7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>build</text>
@@ -2521,31 +2520,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHRkIG5nLWNsaWNrPSJzaG93Q29tbWVudEVkaXRXaW5kb3coY29sKSIKICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJ7eyh0YWJsZU1vZGVsLnNlbGVjdGVkU3JjVGFibGUuc2VsZWN0ZWRTcmNDb2x1bW4uaWQgPT0gY29sdW1uLmlkKT8gJ2JhY2tncm91bmQtY29sb3I6I0VCRjlGRSc6Jyd9fSI+CiAgICAgICAgICAgICAgICAgICAge3sgY29sdW1uLmNvbW1lbnR9fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAge2F0dHI6ICdjaGluZXNlJywgbmFtZTogJ+S4reaWhyd9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyICRjb2x1bW4gPSBjb2w7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHRkIG5nLWNsaWNrPSJzaG93Q29tbWVudEVkaXRXaW5kb3coY29sKSIKICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJ7eyh0YWJsZU1vZGVsLnNlbGVjdGVkU3JjVGFibGUuc2VsZWN0ZWRTcmNDb2x1bW4uaWQgPT0gY29sdW1uLmlkKT8gJ2JhY2tncm91bmQtY29sb3I6I0VCRjlGRSc6Jyd9fSI+CiAgICAgICAgICAgICAgICAgICAge3sgY29sdW1uLmNoaW5lc2V9fQogICAgICAgICAgICAgICAgICA8L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb1BpY2tJdGVtOiBmdW5jdGlvbiAoZGljdElkKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdjbGljaycsICRjb2x1bW4sIGRpY3RJZCkKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHRkIG5nLWNsaWNrPSJzaG93Q29tbWVudEVkaXRXaW5kb3coY29sKSIKICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJ7eyh0YWJsZU1vZGVsLnNlbGVjdGVkU3JjVGFibGUuc2VsZWN0ZWRTcmNDb2x1bW4uaWQgPT0gY29sdW1uLmlkKT8gJ2JhY2tncm91bmQtY29sb3I6I0VCRjlGRSc6Jyd9fSI+CiAgICAgICAgICAgICAgICAgICAge3sgY29sdW1uLmNoaW5lc2V9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuICJoZWxsbyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBuZy1jbGljaz0ic2hvd0NvbW1lbnRFZGl0V2luZG93KGNvbCkiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iIiBjbGFzcz0iYnRuIGJ0bi14cyBidG4taW5mbyI+56Gu6K6kPC9hPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAvLyB7YXR0cjogJ2NhcmRpbmFsaXR5JywgbmFtZTogJ0NhcmRpbmFsaXR5J30sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJGxvZy5pbmZvKCJzZWxlY3RlZCBjb2x1bW4gaW5mbzoiICsgX2NvbHVtbi5uYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS1TY2hlbWEtLT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCd0Ymwgb25OYW1lQ2hhbmdlJywgdGhpcy5uYW1lKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnbWVudScsIG1lbnVJdGVtLmxhYmVsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IHB1bGwtcmlnaHQiIG5nLWNsaWNrPSJkZWxldGUoc2VsZWN0ZWREaWN0LmlkKSIgc3R5bGU9Im1hcmdpbi1sZWZ0OjEwcHg7cG9zaXRpb246IHJlbGF0aXZlOwogICAgei1pbmRleDogMTA7Ij48c3BhbiBjbGFzcz0iZmEgZmEtcmVtb3ZlIj48L3NwYW4+Jm5ic3A75Yig6Zmk5a2X5YW4PC9hPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnbWVudScsICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IHB1bGwtcmlnaHQiIG5nLWNsaWNrPSJvcGVuRWRpdE1vZGFsKCkiIHN0eWxlPSJtYXJnaW4tbGVmdDoxMHB4O3Bvc2l0aW9uOiByZWxhdGl2ZTsKICAgIHotaW5kZXg6IDEwOyI+PHNwYW4gY2xhc3M9ImZhIGZhLXBlbmNpbCI+PC9zcGFuPiZuYnNwO+e8lui+kTwvYT4K</text>
       </register>
       <register name=":" type="4">
         <text>s/\./-/g</text>
