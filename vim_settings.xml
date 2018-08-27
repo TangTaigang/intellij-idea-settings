@@ -63,12 +63,12 @@
         <mark key="^" line="221" column="36" />
         <mark key="." line="216" column="0" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/KylinRebuildService.java" timestamp="1535342083058">
-        <mark key="'" line="68" column="41" />
-        <mark key="[" line="53" column="97" />
-        <mark key="]" line="53" column="96" />
-        <mark key="." line="53" column="96" />
-        <mark key="^" line="53" column="96" />
+      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/KylinRebuildService.java" timestamp="1535343997194">
+        <mark key="'" line="69" column="41" />
+        <mark key="[" line="81" column="23" />
+        <mark key="]" line="81" column="26" />
+        <mark key="." line="81" column="26" />
+        <mark key="^" line="81" column="26" />
       </file>
       <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/pojo/KylinRebuildJob.java" timestamp="1535340127952">
         <mark key="'" line="7" column="13" />
@@ -239,10 +239,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text encoding="base64">Z3JvdXAg</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text encoding="base64">Z3JvdXAg</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
