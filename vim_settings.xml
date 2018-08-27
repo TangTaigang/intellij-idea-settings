@@ -6,7 +6,18 @@
       <file name="/start_script.py" timestamp="1535004222399">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/code/OnlineCarousel/src/main/resources/mappings/modules/onlineCarousel/YjsjEventMapper.xml" timestamp="1535080829030" />
+      <file name="C:/code/OnlineCarousel/src/main/java/com/htsite/modules/onlineCarousel/service/VioIllegalService.java" timestamp="1535090769219">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/kylin/KylinDataProvider.java" timestamp="1535334468551" />
+      <file name="C:/code/OnlineCarousel/src/main/resources/spring-context.xml" timestamp="1535082669204">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/sourceMeta.js" timestamp="1535013485438">
         <mark key="'" line="451" column="62" />
         <mark key="[" line="492" column="52" />
@@ -14,32 +25,18 @@
         <mark key="." line="492" column="65" />
         <mark key="^" line="492" column="65" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.1.9.RELEASE/spring-tx-4.1.9.RELEASE-sources.jar!/org/springframework/transaction/support/TransactionSynchronizationManager.java" timestamp="1535086675226" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.1.9.RELEASE/spring-tx-4.1.9.RELEASE-sources.jar!/org/springframework/transaction/annotation/Propagation.java" timestamp="1535083137124" />
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.8/mybatis-3.2.8-sources.jar!/org/apache/ibatis/executor/BaseExecutor.java" timestamp="1535086588386" />
       <file name="/Dummy.txt" timestamp="1535157330914">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="46" />
         <mark key="." line="0" column="46" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.1.9.RELEASE/spring-jdbc-4.1.9.RELEASE.jar!/org/springframework/jdbc/datasource/DataSourceUtils.class" timestamp="1535086224227" />
-      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/dataprovider/druid/DruidDataProvider.java" timestamp="1535159945969" />
-      <file name="C:/code/OnlineCarousel/src/main/java/com/htsite/modules/onlineCarousel/web/YjsjEventController.java" timestamp="1535088975850" />
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.8/mybatis-3.2.8-sources.jar!/org/apache/ibatis/executor/SimpleExecutor.java" timestamp="1535086046115" />
-      <file name="C:/code/OnlineCarousel/src/main/java/com/htsite/modules/onlineCarousel/service/VioIllegalService.java" timestamp="1535090769219">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/tables/column_mapping.html" timestamp="1535016426166">
+        <mark key="'" line="37" column="72" />
+        <mark key="[" line="11" column="78" />
+        <mark key="]" line="11" column="95" />
+        <mark key="." line="11" column="95" />
+        <mark key="^" line="11" column="95" />
       </file>
-      <file name="C:/code/OnlineCarousel/src/main/java/com/htsite/common/jdbc/DynamicDataSource.java" timestamp="1535086018705">
-        <mark key="[" line="39" column="45" />
-        <mark key="]" line="40" column="67" />
-        <mark key="^" line="40" column="67" />
-        <mark key="." line="40" column="67" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.1.9.RELEASE/spring-tx-4.1.9.RELEASE-sources.jar!/org/springframework/transaction/TransactionDefinition.java" timestamp="1535083113374" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.1.9.RELEASE/spring-jdbc-4.1.9.RELEASE-sources.jar!/org/springframework/jdbc/datasource/DataSourceUtils.java" timestamp="1535089305263" />
       <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/model/tableModel.js" timestamp="1535012673255">
         <mark key="'" line="40" column="4" />
         <mark key="[" line="216" column="0" />
@@ -47,37 +44,10 @@
         <mark key="^" line="221" column="36" />
         <mark key="." line="216" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.1.9.RELEASE/spring-tx-4.1.9.RELEASE-sources.jar!/org/springframework/transaction/annotation/Transactional.java" timestamp="1535090618113" />
-      <file name="C:/code/OnlineCarousel/src/main/resources/spring-context.xml" timestamp="1535082669204">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
       <file name="C:/code/OnlineCarousel/src/main/java/com/htsite/modules/onlineCarousel/dao/VioIllegalMapper.java" timestamp="1535081390210">
         <mark key="]" line="6" column="52" />
         <mark key="." line="6" column="52" />
         <mark key="^" line="6" column="52" />
-      </file>
-      <file name="/fragment.java" timestamp="1535089239282">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/tables/table_detail.html" timestamp="1535009671324">
-        <mark key="'" line="156" column="38" />
-        <mark key="[" line="138" column="54" />
-        <mark key="]" line="138" column="82" />
-        <mark key="." line="138" column="82" />
-        <mark key="^" line="138" column="82" />
-      </file>
-      <file name="C:/code/OnlineCarousel/src/main/java/com/htsite/modules/onlineCarousel/dao/YjsjEventMapper.java" timestamp="1535080810870" />
-      <file name="C:/code/OnlineCarousel/src/main/resources/htsite.properties" timestamp="1535080685671" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.1.9.RELEASE/spring-tx-4.1.9.RELEASE-sources.jar!/org/springframework/transaction/interceptor/TransactionAspectSupport.java" timestamp="1535085214305" />
-      <file name="$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.21.0/activiti-engine-5.21.0.jar!/org/activiti/engine/impl/jobexecutor/AcquireJobsRunnableImpl.class" timestamp="1535089143526" />
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/tables/column_mapping.html" timestamp="1535016426166">
-        <mark key="'" line="37" column="72" />
-        <mark key="[" line="11" column="78" />
-        <mark key="]" line="11" column="95" />
-        <mark key="." line="11" column="95" />
-        <mark key="^" line="11" column="95" />
       </file>
       <file name="C:/code/OnlineCarousel/src/main/java/com/htsite/modules/onlineCarousel/web/HomeController.java" timestamp="1535089649433">
         <mark key="'" line="106" column="50" />
@@ -86,8 +56,22 @@
         <mark key="." line="106" column="88" />
         <mark key="^" line="106" column="88" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.1.9.RELEASE/spring-jdbc-4.1.9.RELEASE.jar!/org/springframework/jdbc/datasource/lookup/AbstractRoutingDataSource.class" timestamp="1535079359776" />
-      <file name="$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.21.0/activiti-engine-5.21.0.jar!/org/activiti/engine/impl/cfg/CommandExecutorImpl.class" timestamp="1535079826513" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/tables/table_detail.html" timestamp="1535009671324">
+        <mark key="'" line="156" column="38" />
+        <mark key="[" line="138" column="54" />
+        <mark key="]" line="138" column="82" />
+        <mark key="." line="138" column="82" />
+        <mark key="^" line="138" column="82" />
+      </file>
+      <file name="C:/code/OnlineCarousel/src/main/java/com/htsite/common/jdbc/DynamicDataSource.java" timestamp="1535086018705">
+        <mark key="[" line="39" column="45" />
+        <mark key="]" line="40" column="67" />
+        <mark key="^" line="40" column="67" />
+        <mark key="." line="40" column="67" />
+      </file>
+      <file name="/fragment.java" timestamp="1535089239282">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="207" column="0" filename="C:/code/MagicSquare/src/main/java/com/huitong/miras/magicsquare/dataprovider/druid/DruidDataProvider.java" />
