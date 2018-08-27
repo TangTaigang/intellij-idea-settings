@@ -20,10 +20,10 @@
         <mark key="^" line="7" column="13" />
         <mark key="." line="7" column="13" />
       </file>
-      <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/java/com/miras/data/Application.java" timestamp="1535358976059">
-        <mark key="[" line="29" column="54" />
-        <mark key="]" line="29" column="55" />
-        <mark key="." line="29" column="55" />
+      <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/java/com/miras/data/Application.java" timestamp="1535360687198">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="C:/code/OnlineCarousel/src/main/resources/spring-context.xml" timestamp="1535082669204">
         <mark key="[" line="46" column="0" />
@@ -67,11 +67,11 @@
         <mark key="." line="102" column="0" />
         <mark key="^" line="101" column="55" />
       </file>
-      <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/java/com/miras/data/storm/UploadJczhBolt.java" timestamp="1535358996762">
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="160" column="39" />
-        <mark key="^" line="159" column="86" />
-        <mark key="." line="160" column="0" />
+      <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/java/com/miras/data/storm/UploadJczhBolt.java" timestamp="1535360645424">
+        <mark key="[" line="486" column="54" />
+        <mark key="]" line="486" column="85" />
+        <mark key="." line="486" column="85" />
+        <mark key="^" line="486" column="85" />
       </file>
       <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/util/JobTimeType.java" timestamp="1535341481935">
         <mark key="'" line="63" column="22" />
@@ -86,6 +86,12 @@
         <mark key="]" line="23" column="33" />
         <mark key="^" line="23" column="33" />
         <mark key="." line="23" column="33" />
+      </file>
+      <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/java/com/miras/data/storm/utils/WsClient.java" timestamp="1535360574782">
+        <mark key="[" line="56" column="51" />
+        <mark key="]" line="56" column="90" />
+        <mark key="." line="56" column="90" />
+        <mark key="^" line="56" column="90" />
       </file>
       <file name="C:/code/job-kylin-rebuild/pom.xml" timestamp="1535337515397">
         <mark key="[" line="16" column="21" />
@@ -237,10 +243,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0Q29sbGVjdG9yLmFjayhpbnB1dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZi5zZXRSCg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Post</text>
@@ -249,31 +255,31 @@
         <text encoding="base64">ICAgIC8qKgogICAgICog5pu05paw5oyH5a6a55qEIGpvYiDkuIvmrKHmiafooYzml6XmnJ8KICAgICAqCiAgICAgKiBAcGFyYW0gaWQgICAgIGlkCiAgICAgKiBAcGFyYW0gdXVpZCAgIHV1aWQKICAgICAqIEBwYXJhbSBzdGF0dXMgc3RhdHVzCiAgICAgKiBAcmV0dXJuIOWPl+W9seWTjeihjOaVsAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0Q29sbGVjdG9yLmFjayhpbnB1dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZi5zZXRSCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nKC5pKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIHN0YXJ0VHMgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uY3UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBkYXRhID0gaW5wdXQuZ2V0U3RyaW5nKDApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBmaW5hbGx5IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcm93RWZmZWN0ZWQgPSBreWxpblJlYnVpbGRKb2JEYW8udXBkYXRlTmV4dEV4ZWNUaW1lKGlkLCB1dWlkLCBzdGF0dXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAtLSB1cGRhdGUgc3RhdHVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSAoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0Q29sbGVjdG9yLmFjayhpbnB1dCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/Post/Put/g</text>
