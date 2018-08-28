@@ -31,7 +31,9 @@
         <mark key="]" line="29" column="55" />
         <mark key="." line="29" column="55" />
       </file>
-      <file name="$USER_HOME$/Downloads/jetbrains-agent-v2018.2.2/jetbrains-agent-master/jetbrains-agent/fuck_the_regulations/j7.class" timestamp="1535426514016" />
+      <file name="$USER_HOME$/Downloads/jetbrains-agent-v2018.2.2/jetbrains-agent-master/jetbrains-agent/fuck_the_regulations/j7.class" timestamp="1535427215477">
+        <mark key="'" line="930" column="0" />
+      </file>
       <file name="C:/code/OnlineCarousel/src/main/resources/spring-context.xml" timestamp="1535082669204">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -127,13 +129,14 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/instrument/Instrumentation.java" timestamp="1535427220206" />
       <file name="C:/code/OnlineCarousel/src/main/java/com/htsite/common/jdbc/DynamicDataSource.java" timestamp="1535086018705">
         <mark key="[" line="39" column="45" />
         <mark key="]" line="40" column="67" />
         <mark key="^" line="40" column="67" />
         <mark key="." line="40" column="67" />
       </file>
-      <file name="/fragment.java" timestamp="1535426573044">
+      <file name="/fragment.java" timestamp="1535426995606">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/job-kylin-rebuild/src/main/resources/application.properties" timestamp="1535337488872">
@@ -147,7 +150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="57" filename="C:/code/MDH_DATA/mdh_data_common/src/main/java/com/miras/data/utils/ImageUtils.java" />
       <jump line="221" column="28" filename="C:/Program Files/Java/jdk1.8.0_172/jre/lib/rt.jar!/sun/net/www/protocol/http/HttpURLConnection.class" />
       <jump line="54" column="0" filename="C:/code/MDH_DATA/mdh_data_common/src/main/java/com/miras/data/utils/ImageUtils.java" />
       <jump line="152" column="68" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/OnlineVehicleIn.java" />
@@ -247,6 +249,7 @@
       <jump line="76" column="20" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/KylinRebuildService.java" />
       <jump line="87" column="38" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/KylinRebuildService.java" />
       <jump line="143" column="45" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/KylinRebuildService.java" />
+      <jump line="930" column="0" filename="$USER_HOME$/Downloads/jetbrains-agent-v2018.2.2/jetbrains-agent-master/jetbrains-agent/fuck_the_regulations/j7.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
