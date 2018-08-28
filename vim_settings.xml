@@ -78,17 +78,17 @@
         <mark key="^" line="39" column="8" />
         <mark key="." line="36" column="21" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/dao/KylinRebuildJobDao.java" timestamp="1535355116817">
-        <mark key="[" line="56" column="6" />
-        <mark key="]" line="56" column="6" />
-        <mark key="." line="56" column="6" />
-        <mark key="^" line="55" column="28" />
+      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/dao/KylinRebuildJobDao.java" timestamp="1535442172362">
+        <mark key="[" line="74" column="32" />
+        <mark key="]" line="74" column="43" />
+        <mark key="." line="74" column="43" />
+        <mark key="^" line="74" column="43" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/job-schedule.js" timestamp="1535440909580">
-        <mark key="[" line="31" column="32" />
-        <mark key="]" line="31" column="32" />
-        <mark key="^" line="31" column="30" />
-        <mark key="." line="31" column="32" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/job-schedule.js" timestamp="1535442701193">
+        <mark key="[" line="26" column="46" />
+        <mark key="]" line="27" column="55" />
+        <mark key="." line="27" column="55" />
+        <mark key="^" line="27" column="55" />
       </file>
       <file name="C:/code/MagicSquareV1/src/main/webapp/config.js" timestamp="1535438957914">
         <mark key="[" line="1" column="30" />
@@ -107,17 +107,22 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535440948090">
+      <file name="/Dummy.txt" timestamp="1535441587840">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="46" />
         <mark key="." line="0" column="46" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/KylinRebuildService.java" timestamp="1535425097050">
+      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/JobScheduleController.java" timestamp="1535442498945">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/KylinRebuildService.java" timestamp="1535441743343">
         <mark key="'" line="143" column="45" />
-        <mark key="[" line="154" column="105" />
-        <mark key="]" line="154" column="106" />
-        <mark key="." line="154" column="106" />
-        <mark key="^" line="127" column="87" />
+        <mark key="[" line="169" column="40" />
+        <mark key="]" line="169" column="43" />
+        <mark key="." line="169" column="43" />
+        <mark key="^" line="169" column="43" />
       </file>
       <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/java/com/miras/data/storm/UploadJczhBolt.java" timestamp="1535360955849">
         <mark key="[" line="486" column="54" />
@@ -175,10 +180,10 @@
         <mark key="." line="4" column="72" />
         <mark key="^" line="3" column="68" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/resources/mapper/KylinRebuildJobDao.xml" timestamp="1535355098436">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="C:/code/MagicSquareV1/src/main/resources/mapper/KylinRebuildJobDao.xml" timestamp="1535442013400">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="46" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="C:/code/MagicSquareV1/src/main/webapp/model/index.html" timestamp="1535438432843">
         <mark key="'" line="391" column="0" />
@@ -307,44 +312,44 @@
       <jump line="116" column="21" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/job.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>$scope.jobScheduleList.push)</text>
       </register>
       <register name="/" type="4">
         <text>Post</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8a3lsaW4tcGFnaW5hdGlvbiBkYXRhPSJqb2JTY2hlZHVsZUxpc3QiIGxvYWQtZnVuYz0ibG9hZERhdGEiIGFjdGlvbj0iYWN0aW9uIj48L2t5bGluLXBhZ2luYXRpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3AuZm9yRWFjaCgkc2NvcGUuam9iU2NoZWR1bGVMaXN0LnB1c2gpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWV0dXJuICRzY29wZS5qb2JTY2hlZHVsZUxpc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRzY29wZS5qb2JTY2hlZHVsZUxpc3Q7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmdW5jdGlvbiAoKSB7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRzY29wZS5qb2JTY2hlZHVsZUxpc3QucHVzaCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZmVyLmUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB7IH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZy1jbGFzcz0ie2FjY29yZGlvbjp0cnVlfSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmZXIucmVzb2x2ZSgkc2NvcGUuam9iU2NoZWR1bGVMaXN0Lmxlbmd0aCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/Post/Put/g</text>
