@@ -55,17 +55,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535420420522">
+      <file name="/Dummy.txt" timestamp="1535425161810">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="46" />
         <mark key="." line="0" column="46" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/KylinRebuildService.java" timestamp="1535355138558">
-        <mark key="'" line="70" column="16" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="82" />
-        <mark key="." line="102" column="0" />
-        <mark key="^" line="101" column="55" />
+      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/KylinRebuildService.java" timestamp="1535425097050">
+        <mark key="'" line="143" column="45" />
+        <mark key="[" line="154" column="105" />
+        <mark key="]" line="154" column="106" />
+        <mark key="." line="154" column="106" />
+        <mark key="^" line="127" column="87" />
       </file>
       <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/java/com/miras/data/storm/UploadJczhBolt.java" timestamp="1535360955849">
         <mark key="[" line="486" column="54" />
@@ -140,9 +140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="39" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/OnlineVehicleIn.java" />
-      <jump line="80" column="16" filename="C:/code/MDH_ILLEGAL_DATA/mdh_data_common/src/main/java/com/miras/data/utils/ImageUtils.java" />
-      <jump line="121" column="17" filename="C:/Program Files/Java/jdk1.8.0_172/jre/lib/rt.jar!/sun/net/www/protocol/http/HttpURLConnection.class" />
       <jump line="57" column="57" filename="C:/code/MDH_DATA/mdh_data_common/src/main/java/com/miras/data/utils/ImageUtils.java" />
       <jump line="221" column="28" filename="C:/Program Files/Java/jdk1.8.0_172/jre/lib/rt.jar!/sun/net/www/protocol/http/HttpURLConnection.class" />
       <jump line="54" column="0" filename="C:/code/MDH_DATA/mdh_data_common/src/main/java/com/miras/data/utils/ImageUtils.java" />
@@ -240,10 +237,13 @@
       <jump line="64" column="41" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/KylinRebuildService.java" />
       <jump line="23" column="32" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/pojo/KylinRebuildJob.java" />
       <jump line="70" column="16" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/KylinRebuildService.java" />
+      <jump line="76" column="20" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/KylinRebuildService.java" />
+      <jump line="87" column="38" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/KylinRebuildService.java" />
+      <jump line="143" column="45" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/KylinRebuildService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZi5zZXRSCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -252,34 +252,34 @@
         <text>Post</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5pu05paw5oyH5a6a55qEIGpvYiDkuIvmrKHmiafooYzml6XmnJ8KICAgICAqCiAgICAgKiBAcGFyYW0gaWQgICAgIGlkCiAgICAgKiBAcGFyYW0gdXVpZCAgIHV1aWQKICAgICAqIEBwYXJhbSBzdGF0dXMgc3RhdHVzCiAgICAgKiBAcmV0dXJuIOWPl+W9seWTjeihjOaVsAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGpzb25SZXNwID0gRW50aXR5VXRpbHMudG9TdHJpbmcoaHR0cFJlc3BvbnNlLmdldEVudGl0eSgpKTsKICAgICAgICAgICAgICAgICAgICBMLmluZm8oImt5bGluIOaOpeWPo+W8guW4uOi/lOWbnuWAvDoiICsganNvblJlc3ApOwogICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBMLmluZm8oImt5bGluIOaOpeWPo+W8guW4uOi/lOWbnuWAvDoiICsgaHR0cFJlc3BvbnNlLmdldFN0YXR1c0xpbmUoKS5nZXRTdGF0dXNDb2RlKCkpOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZi5zZXRSCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nKC5pKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGpzb25SZXNwID0gRW50aXR5VXRpbHMudG9TdHJpbmcoaHR0cFJlc3BvbnNlLmdldEVudGl0eSgpKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGpzb25SZXNwID0gRW50aXR5VXRpbHMudG9TdHJpbmcoaHR0cFJlc3BvbnNlLmdldEVudGl0eSgpKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGh0dHBSZXNwb25zZQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBmaW5hbGx5IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaHR0cFB1dC5nZXRICg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZi5zZXRSCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSAoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nKC5pKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0Q29sbGVjdG9yLmFjayhpbnB1dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name=":" type="4">
         <text>s/Post/Put/g</text>
