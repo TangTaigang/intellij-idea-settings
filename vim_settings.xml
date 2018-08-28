@@ -6,6 +6,12 @@
       <file name="/start_script.py" timestamp="1535004222399">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/code/fast-test/src/main/java/NumberTests.java" timestamp="1535426708036">
+        <mark key="[" line="13" column="33" />
+        <mark key="]" line="14" column="48" />
+        <mark key="^" line="14" column="48" />
+        <mark key="." line="14" column="48" />
+      </file>
       <file name="/a.dummy" timestamp="1535349899536">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -25,6 +31,7 @@
         <mark key="]" line="29" column="55" />
         <mark key="." line="29" column="55" />
       </file>
+      <file name="$USER_HOME$/Downloads/jetbrains-agent-v2018.2.2/jetbrains-agent-master/jetbrains-agent/fuck_the_regulations/j7.class" timestamp="1535426514016" />
       <file name="C:/code/OnlineCarousel/src/main/resources/spring-context.xml" timestamp="1535082669204">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -126,7 +133,7 @@
         <mark key="^" line="40" column="67" />
         <mark key="." line="40" column="67" />
       </file>
-      <file name="/fragment.java" timestamp="1535338952909">
+      <file name="/fragment.java" timestamp="1535426573044">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/job-kylin-rebuild/src/main/resources/application.properties" timestamp="1535337488872">
@@ -243,10 +250,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Post</text>
