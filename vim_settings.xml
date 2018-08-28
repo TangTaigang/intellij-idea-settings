@@ -17,6 +17,25 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedule/job-schedules.html" timestamp="1535428654282">
+        <mark key="[" line="4" column="69" />
+        <mark key="]" line="4" column="69" />
+        <mark key="." line="4" column="69" />
+        <mark key="^" line="4" column="69" />
+      </file>
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleList.html" timestamp="1535428824469">
+        <mark key="'" line="141" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="144" column="6" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/config.js" timestamp="1535428669010">
+        <mark key="[" line="58" column="47" />
+        <mark key="]" line="58" column="47" />
+        <mark key="." line="58" column="47" />
+        <mark key="^" line="58" column="47" />
+      </file>
       <file name="C:/code/job-kylin-rebuild/src/main/java/com/huitong/miras/magicsquare/kylin/Application.java" timestamp="1535337396113">
         <mark key="[" line="5" column="26" />
       </file>
@@ -52,8 +71,8 @@
         <mark key="." line="56" column="6" />
         <mark key="^" line="55" column="28" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/sourceMeta.js" timestamp="1535351728356">
-        <mark key="'" line="451" column="62" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/sourceMeta.js" timestamp="1535427848435">
+        <mark key="'" line="539" column="43" />
         <mark key="[" line="492" column="52" />
         <mark key="]" line="492" column="65" />
         <mark key="." line="492" column="65" />
@@ -102,6 +121,11 @@
         <mark key="." line="56" column="90" />
         <mark key="^" line="56" column="90" />
       </file>
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedule/jobs.html" timestamp="1535428600744">
+        <mark key="[" line="10" column="71" />
+        <mark key="]" line="10" column="71" />
+        <mark key="." line="10" column="71" />
+      </file>
       <file name="C:/code/job-kylin-rebuild/pom.xml" timestamp="1535337515397">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="20" column="26" />
@@ -124,10 +148,23 @@
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="7" />
       </file>
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/job-schedules.html" timestamp="1535428749137">
+        <mark key="[" line="3" column="59" />
+        <mark key="]" line="3" column="68" />
+        <mark key="." line="3" column="68" />
+        <mark key="^" line="3" column="68" />
+      </file>
       <file name="C:/code/MagicSquareV1/src/main/resources/mapper/KylinRebuildJobDao.xml" timestamp="1535355098436">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
+      </file>
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/index.html" timestamp="1535428448777">
+        <mark key="'" line="74" column="38" />
+        <mark key="[" line="276" column="36" />
+        <mark key="]" line="276" column="36" />
+        <mark key="." line="276" column="36" />
+        <mark key="^" line="276" column="45" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/instrument/Instrumentation.java" timestamp="1535427220206" />
       <file name="C:/code/OnlineCarousel/src/main/java/com/htsite/common/jdbc/DynamicDataSource.java" timestamp="1535086018705">
@@ -150,14 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="28" filename="C:/Program Files/Java/jdk1.8.0_172/jre/lib/rt.jar!/sun/net/www/protocol/http/HttpURLConnection.class" />
-      <jump line="54" column="0" filename="C:/code/MDH_DATA/mdh_data_common/src/main/java/com/miras/data/utils/ImageUtils.java" />
-      <jump line="152" column="68" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/OnlineVehicleIn.java" />
-      <jump line="246" column="45" filename="C:/code/OnlineVehicle/OnlineVehicleHub/online-vehicle-out/src/main/java/com/miras/ftp/OnlineVehicleIn.java" />
-      <jump line="97" column="35" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_common/src/main/java/com/miras/data/utils/ImageUtils.java" />
-      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
-      <jump line="15" column="30" filename="C:/code/fast-test/src/main/java/Tests.java" />
-      <jump line="258" column="0" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_monitor/src/main/java/com/miras/data/passinf/monitor/bolt/VehiclePassFilterBolt.java" />
       <jump line="194" column="52" filename="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/3.0.1.RELEASE/spring-ws-core-3.0.1.RELEASE-sources.jar!/org/springframework/ws/soap/SoapVersion.java" />
       <jump line="18" column="0" filename="C:/code/ws-upload-api/src/main/webapp/WEB-INF/services/vehicle/services.xml" />
       <jump line="528" column="0" filename="C:/code/ws-upload-api/src/main/webapp/WEB-INF/axis2.xml" />
@@ -250,46 +279,54 @@
       <jump line="87" column="38" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/KylinRebuildService.java" />
       <jump line="143" column="45" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/KylinRebuildService.java" />
       <jump line="930" column="0" filename="$USER_HOME$/Downloads/jetbrains-agent-v2018.2.2/jetbrains-agent-master/jetbrains-agent/fuck_the_regulations/j7.class" />
+      <jump line="539" column="43" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/sourceMeta.js" />
+      <jump line="104" column="11" filename="C:/code/MagicSquareV1/src/main/webapp/model/index.html" />
+      <jump line="74" column="38" filename="C:/code/MagicSquareV1/src/main/webapp/model/index.html" />
+      <jump line="144" column="34" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleList.html" />
+      <jump line="4" column="0" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleList.html" />
+      <jump line="173" column="6" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleList.html" />
+      <jump line="6" column="21" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleList.html" />
+      <jump line="145" column="0" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleList.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS1DdWJlIE5hbWU6IC0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text>Post</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGpzb25SZXNwID0gRW50aXR5VXRpbHMudG9TdHJpbmcoaHR0cFJlc3BvbnNlLmdldEVudGl0eSgpKTsKICAgICAgICAgICAgICAgICAgICBMLmluZm8oImt5bGluIOaOpeWPo+W8guW4uOi/lOWbnuWAvDoiICsganNvblJlc3ApOwogICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBMLmluZm8oImt5bGluIOaOpeWPo+W8guW4uOi/lOWbnuWAvDoiICsgaHR0cFJlc3BvbnNlLmdldFN0YXR1c0xpbmUoKS5nZXRTdGF0dXNDb2RlKCkpOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAuc3RhdGUoJ3Byb2plY3RzJywgewogICAgICAgICAgICB1cmw6ICcvcHJvamVjdHMnLAogICAgICAgICAgICB0ZW1wbGF0ZVVybDogJ3BhcnRpYWxzL3Byb2plY3RzL3Byb2plY3RzLmh0bWwnLAogICAgICAgICAgICBjb250cm9sbGVyOiAnUHJvamVjdEN0cmwnCiAgICAgICAgfSkKICAgICAgICAuc3RhdGUoJ3RhYmxlcycsIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS1DdWJlIE5hbWU6IC0tPgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGpzb25SZXNwID0gRW50aXR5VXRpbHMudG9TdHJpbmcoaHR0cFJlc3BvbnNlLmdldEVudGl0eSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLUpvYnMgVGFibGUgSGVhZGVyLS0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGpzb25SZXNwID0gRW50aXR5VXRpbHMudG9TdHJpbmcoaHR0cFJlc3BvbnNlLmdldEVudGl0eSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08ZGl2IGNsYXNzPSJjb2wteHMtMiI+PGxhYmVsIGNsYXNzPSJ0YWJsZS1oZWFkZXItdGV4dCI+Sm9iczwvbGFiZWw+PC9kaXY+LS0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGh0dHBSZXNwb25zZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tPGxpPi0tPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08YSBuZy1jbGljaz0iZGlhZ25vc2lzSm9iKGpvYikiIHRvb2x0aXA9IkRvd25sb2FkIERpYWdub3NpcyBJbmZvIEZvciBUaGlzIEpvYiI+RGlhZ25vc2lzPC9hPi0tPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08L2xpPi0tPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHR0cFB1dC5nZXRICg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tPC90ZD4tLT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZi5zZXRSCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tPHRkPi0tPgogICAgICAgICAgICAgICAgICAgIDwhLS08YnV0dG9uIGNsYXNzPSJidG4gYnRuLWluZm8gYnRuLXhzIiBuZy1jbGljaz0ic3RhdGUuc2hvd1N0ZXBzPSAhc3RhdGUuc2hvd1N0ZXBzOyBzdGF0ZS5zZWxlY3RlZEpvYiA9IGpvYiI+LS0+CiAgICAgICAgICAgICAgICAgICAgPCEtLTxpIGNsYXNzPSJmYSBmYS1jaGV2cm9uLWNpcmNsZS1yaWdodCI+PC9pPi0tPgogICAgICAgICAgICAgICAgICAgIDwhLS08L2J1dHRvbj4tLT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nKC5pKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">PCEtLUpvYnMgVGFibGUtLT4K</text>
       </register>
       <register name=":" type="4">
         <text>s/Post/Put/g</text>
