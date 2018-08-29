@@ -14,6 +14,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/directives/directives.js" timestamp="1535513071691" />
       <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/test.html" timestamp="1535439724960">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="7" column="10" />
@@ -40,8 +41,12 @@
         <mark key="." line="59" column="68" />
         <mark key="^" line="59" column="68" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/model/jobListModel.js" timestamp="1535440832170" />
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/projects/projects.html" timestamp="1535439606857" />
+      <file name="$APPLICATION_CONFIG_DIR$/idea.exe.vmoptions" timestamp="1535513636356">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="14" column="20" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/pojo/JobKylinRebuild.java" timestamp="1535339029771">
         <mark key="[" line="7" column="25" />
         <mark key="]" line="7" column="13" />
@@ -67,7 +72,6 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/model/jobConfig.js" timestamp="1535437311346" />
       <file name="C:/code/MagicSquareV1/src/main/resources/config.properties" timestamp="1535438903926">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="36" column="20" />
@@ -81,11 +85,11 @@
         <mark key="." line="81" column="37" />
         <mark key="^" line="81" column="37" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/job-schedule.js" timestamp="1535448032669">
-        <mark key="[" line="47" column="34" />
-        <mark key="]" line="47" column="35" />
-        <mark key="." line="47" column="35" />
-        <mark key="^" line="47" column="35" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/job-schedule.js" timestamp="1535513528633">
+        <mark key="[" line="38" column="19" />
+        <mark key="]" line="38" column="20" />
+        <mark key="." line="38" column="19" />
+        <mark key="^" line="52" column="20" />
       </file>
       <file name="C:/code/MagicSquareV1/src/main/webapp/config.js" timestamp="1535438957914">
         <mark key="[" line="1" column="30" />
@@ -104,12 +108,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleDetail.html" timestamp="1535510975843">
-        <mark key="'" line="51" column="29" />
-        <mark key="[" line="56" column="11" />
-        <mark key="]" line="56" column="13" />
-        <mark key="." line="56" column="13" />
-        <mark key="^" line="56" column="13" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleDetail.html" timestamp="1535513556693">
+        <mark key="'" line="62" column="29" />
+        <mark key="[" line="53" column="57" />
+        <mark key="]" line="53" column="57" />
+        <mark key="." line="53" column="57" />
+        <mark key="^" line="53" column="51" />
       </file>
       <file name="/Dummy.txt" timestamp="1535504435196">
         <mark key="[" line="0" column="0" />
@@ -122,7 +126,6 @@
         <mark key="." line="28" column="68" />
         <mark key="^" line="28" column="68" />
       </file>
-      <file name="/sourceMeta.js" timestamp="1535447626589" />
       <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/KylinRebuildService.java" timestamp="1535443738252">
         <mark key="'" line="143" column="45" />
         <mark key="[" line="173" column="47" />
@@ -136,6 +139,7 @@
         <mark key="." line="486" column="85" />
         <mark key="^" line="486" column="85" />
       </file>
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/directives/select.js" timestamp="1535513228277" />
       <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/util/JobTimeType.java" timestamp="1535341481935">
         <mark key="'" line="63" column="22" />
         <mark key="[" line="53" column="45" />
@@ -199,7 +203,6 @@
         <mark key="." line="401" column="43" />
         <mark key="^" line="401" column="42" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/instrument/Instrumentation.java" timestamp="1535427220206" />
       <file name="C:/code/OnlineCarousel/src/main/java/com/htsite/common/jdbc/DynamicDataSource.java" timestamp="1535086018705">
         <mark key="[" line="39" column="45" />
         <mark key="]" line="40" column="67" />
@@ -319,44 +322,44 @@
       <jump line="51" column="29" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleDetail.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>start</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text encoding="base64">IHwgaGlnaGxpZ2h0OiAkc2VsZWN0LnNlYXJjaA==</text>
       </register>
       <register name="/" type="4">
         <text>Post</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8dHI+CiAgICAgICAgICAgIDx0ZD7lvIDlp4vml6XmnJ/lgY/np7vnsbvlnos8L3RkPgogICAgICAgICAgICA8dGQ+e3sgZGF0YS5zdGFydFRpbWVUeXBlfX08L3RkPgogICAgICAgIDwvdHI+CiAgICAgICAgPHRyPgogICAgICAgICAgICA8dGQ+5byA5aeL5pel5pyf5YGP56e75pWw5YC8PC90ZD4KICAgICAgICAgICAgPHRkPnt7IGRhdGEuc3RhcnRUaW1lTnVtfX08L3RkPgogICAgICAgIDwvdHI+Cg==</text>
+        <text encoding="base64">ICAgICAgICB9LCB7CiAgICAgICAgICAgIGlkOiAnSE9VUicsCiAgICAgICAgICAgIG5hbWUgOiAnyrEnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8dHI+CiAgICAgICAgICAgIDx0ZD7kuIrmrKHmiafooYxVVUlEPC90ZD4KICAgICAgICAgICAgPHRkPnt7IGRhdGEubGFzdFVVSUR9fTwvdGQ+CiAgICAgICAgPC90cj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkPuS4iuasoeaJp+ihjFVVSUQ8L3RkPgo=</text>
+        <text encoding="base64">IyBjdXN0b20gSW50ZWxsaUogSURFQSBWTSBvcHRpb25zCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIOWQjeensDoge3tkYXRhLm5hbWV9fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">LVhYOi1PbWl0U3RhY2tUcmFjZUluRmFzdFRocm93Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">LVhYOitIZWFwRHVtcE9uT3V0T2ZNZW1vcnlFcnJvcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxicj4K</text>
+        <text encoding="base64">LURqZGsuaHR0cC5hdXRoLnR1bm5lbGluZy5kaXNhYmxlZFNjaGVtZXM9IiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlkOnt7ZGF0YS5pZH19Cg==</text>
+        <text encoding="base64">LVhYOlNvZnRSZWZMUlVQb2xpY3lNU1Blck1CPTUwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHt7bG9hZGluZ319Cg==</text>
+        <text encoding="base64">LVhYOitVc2VDb25jTWFya1N3ZWVwR0MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LVhYOlJlc2VydmVkQ29kZUNhY2hlU2l6ZT0yNDBtCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/Post/Put/g</text>
