@@ -120,7 +120,7 @@
         <mark key="." line="53" column="57" />
         <mark key="^" line="53" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535529420220">
+      <file name="/Dummy.txt" timestamp="1535530773066">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="46" />
         <mark key="." line="0" column="46" />
@@ -181,6 +181,12 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
         <mark key="^" line="44" column="13" />
+      </file>
+      <file name="C:/code/fast-test/.gitignore" timestamp="1535530651669">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="6" column="4" />
+        <mark key="^" line="6" column="4" />
+        <mark key="." line="6" column="4" />
       </file>
       <file name="C:/code/job-kylin-rebuild/src/main/java/com/huitong/miras/magicsquare/kylin/KylinRebuildJob.java" timestamp="1535337444940">
         <mark key="[" line="7" column="27" />
@@ -326,11 +332,11 @@
       <jump line="51" column="29" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleDetail.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aWRlYS5sb2cucGF0aD1NOi9pZGVhZC9zeXN0ZW0vbG9nCg==</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>IntelliJIDEA</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>Post</text>
