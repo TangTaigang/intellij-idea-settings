@@ -131,6 +131,12 @@
         <mark key="." line="28" column="68" />
         <mark key="^" line="28" column="68" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1535531070491">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+      </file>
       <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/KylinRebuildService.java" timestamp="1535443738252">
         <mark key="'" line="143" column="45" />
         <mark key="[" line="173" column="47" />
@@ -333,10 +339,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>end</text>
+        <text>2048</text>
       </register>
       <register name="-" type="4">
-        <text>end</text>
+        <text>2048</text>
       </register>
       <register name="/" type="4">
         <text>Post</text>
