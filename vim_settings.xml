@@ -113,12 +113,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleDetail.html" timestamp="1535513556693">
-        <mark key="'" line="62" column="29" />
-        <mark key="[" line="53" column="57" />
-        <mark key="]" line="53" column="57" />
-        <mark key="." line="53" column="57" />
-        <mark key="^" line="53" column="51" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleDetail.html" timestamp="1535530889325">
+        <mark key="'" line="71" column="29" />
+        <mark key="[" line="43" column="42" />
+        <mark key="]" line="43" column="46" />
+        <mark key="." line="43" column="46" />
+        <mark key="^" line="43" column="46" />
       </file>
       <file name="/Dummy.txt" timestamp="1535530773066">
         <mark key="[" line="0" column="0" />
@@ -333,10 +333,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>end</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>end</text>
       </register>
       <register name="/" type="4">
         <text>Post</text>
