@@ -95,6 +95,12 @@
         <mark key="]" line="1" column="31" />
         <mark key="." line="1" column="31" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1535529865518">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="21" />
+      </file>
       <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/sourceMeta.js" timestamp="1535427848435">
         <mark key="'" line="539" column="43" />
         <mark key="[" line="492" column="52" />
@@ -320,11 +326,11 @@
       <jump line="51" column="29" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleDetail.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aWRlYS5sb2cucGF0aD1NOi9pZGVhZC9zeXN0ZW0vbG9nCg==</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>IntelliJIDEA</text>
       </register>
       <register name="/" type="4">
         <text>Post</text>
@@ -333,31 +339,31 @@
         <text encoding="base64">Iy1YWDorVXNlQ29uY01hcmtTd2VlcEdDCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWRlYS5sb2cucGF0aD1NOi9pZGVhZC9zeXN0ZW0vbG9nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBjdXN0b20gSW50ZWxsaUogSURFQSBWTSBvcHRpb25zCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyBjdXN0b20gSW50ZWxsaUogSURFQSBWTSBvcHRpb25zCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">LVhYOi1PbWl0U3RhY2tUcmFjZUluRmFzdFRocm93Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LVhYOitIZWFwRHVtcE9uT3V0T2ZNZW1vcnlFcnJvcgo=</text>
+        <text encoding="base64">LVhYOi1PbWl0U3RhY2tUcmFjZUluRmFzdFRocm93Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LURqZGsuaHR0cC5hdXRoLnR1bm5lbGluZy5kaXNhYmxlZFNjaGVtZXM9IiIK</text>
+        <text encoding="base64">LVhYOitIZWFwRHVtcE9uT3V0T2ZNZW1vcnlFcnJvcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LVhYOlNvZnRSZWZMUlVQb2xpY3lNU1Blck1CPTUwCg==</text>
+        <text encoding="base64">LURqZGsuaHR0cC5hdXRoLnR1bm5lbGluZy5kaXNhYmxlZFNjaGVtZXM9IiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LVhYOitVc2VDb25jTWFya1N3ZWVwR0MK</text>
+        <text encoding="base64">LVhYOlNvZnRSZWZMUlVQb2xpY3lNU1Blck1CPTUwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LVhYOlJlc2VydmVkQ29kZUNhY2hlU2l6ZT0yNDBtCg==</text>
+        <text encoding="base64">LVhYOitVc2VDb25jTWFya1N3ZWVwR0MK</text>
       </register>
       <register name=":" type="4">
         <text>s/Post/Put/g</text>
