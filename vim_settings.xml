@@ -104,7 +104,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleDetail.html" timestamp="1535448581949">
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleDetail.html" timestamp="1535510975843">
+        <mark key="'" line="51" column="29" />
         <mark key="[" line="56" column="11" />
         <mark key="]" line="56" column="13" />
         <mark key="." line="56" column="13" />
@@ -216,7 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="38" filename="C:/code/upload-ws-api/src/main/java/com/miras/uploadwsapi/VehicleService.java" />
       <jump line="78" column="37" filename="C:/code/upload-ws-api/src/main/java/com/miras/uploadwsapi/VehicleService.java" />
       <jump line="57" column="11" filename="C:/code/fast-test/src/main/java/Decrypt.java" />
       <jump line="445" column="12" filename="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/java/com/miras/data/storm/UploadJczhBolt.java" />
@@ -316,6 +316,7 @@
       <jump line="250" column="59" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/config.js" />
       <jump line="116" column="21" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/job.js" />
       <jump line="47" column="33" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleList.html" />
+      <jump line="51" column="29" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleDetail.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
