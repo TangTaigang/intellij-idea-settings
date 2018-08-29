@@ -14,7 +14,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/directives/directives.js" timestamp="1535513071691" />
       <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/test.html" timestamp="1535439724960">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="7" column="10" />
@@ -41,11 +40,11 @@
         <mark key="." line="59" column="68" />
         <mark key="^" line="59" column="68" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.exe.vmoptions" timestamp="1535513636356">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="14" column="20" />
-        <mark key="." line="1" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/idea.exe.vmoptions" timestamp="1535515076830">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="11" />
+        <mark key="^" line="6" column="11" />
+        <mark key="." line="6" column="11" />
       </file>
       <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/pojo/JobKylinRebuild.java" timestamp="1535339029771">
         <mark key="[" line="7" column="25" />
@@ -139,7 +138,6 @@
         <mark key="." line="486" column="85" />
         <mark key="^" line="486" column="85" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/directives/select.js" timestamp="1535513228277" />
       <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/util/JobTimeType.java" timestamp="1535341481935">
         <mark key="'" line="63" column="22" />
         <mark key="[" line="53" column="45" />
@@ -322,17 +320,17 @@
       <jump line="51" column="29" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleDetail.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>+</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHwgaGlnaGxpZ2h0OiAkc2VsZWN0LnNlYXJjaA==</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>Post</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB9LCB7CiAgICAgICAgICAgIGlkOiAnSE9VUicsCiAgICAgICAgICAgIG5hbWUgOiAnyrEnCg==</text>
+        <text encoding="base64">Iy1YWDorVXNlQ29uY01hcmtTd2VlcEdDCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
