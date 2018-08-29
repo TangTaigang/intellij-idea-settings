@@ -84,11 +84,11 @@
         <mark key="." line="81" column="37" />
         <mark key="^" line="81" column="37" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/job-schedule.js" timestamp="1535513528633">
-        <mark key="[" line="38" column="19" />
-        <mark key="]" line="38" column="20" />
-        <mark key="." line="38" column="19" />
-        <mark key="^" line="52" column="20" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/job-schedule.js" timestamp="1535531818165">
+        <mark key="[" line="51" column="12" />
+        <mark key="]" line="51" column="15" />
+        <mark key="." line="51" column="15" />
+        <mark key="^" line="51" column="15" />
       </file>
       <file name="C:/code/MagicSquareV1/src/main/webapp/config.js" timestamp="1535438957914">
         <mark key="[" line="1" column="30" />
@@ -113,14 +113,14 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleDetail.html" timestamp="1535530889325">
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleDetail.html" timestamp="1535531832381">
         <mark key="'" line="71" column="29" />
-        <mark key="[" line="43" column="42" />
-        <mark key="]" line="43" column="46" />
-        <mark key="." line="43" column="46" />
-        <mark key="^" line="43" column="46" />
+        <mark key="[" line="47" column="58" />
+        <mark key="]" line="47" column="58" />
+        <mark key="." line="47" column="58" />
+        <mark key="^" line="63" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535530773066">
+      <file name="/Dummy.txt" timestamp="1535531991339">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="46" />
         <mark key="." line="0" column="46" />
@@ -339,10 +339,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2048</text>
+        <text>| highlight: $select.search</text>
       </register>
       <register name="-" type="4">
-        <text>2048</text>
+        <text>| highlight: $select.search</text>
       </register>
       <register name="/" type="4">
         <text>Post</text>
