@@ -26,12 +26,12 @@
         <mark key="." line="4" column="69" />
         <mark key="^" line="4" column="69" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleList.html" timestamp="1535594025452">
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleList.html" timestamp="1535597665230">
         <mark key="'" line="32" column="16" />
-        <mark key="[" line="31" column="90" />
-        <mark key="]" line="31" column="90" />
-        <mark key="." line="31" column="90" />
-        <mark key="^" line="31" column="116" />
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+        <mark key="^" line="5" column="31" />
       </file>
       <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/config.js" timestamp="1535439796129">
         <mark key="'" line="250" column="59" />
@@ -87,12 +87,6 @@
         <mark key="." line="90" column="0" />
         <mark key="^" line="88" column="22" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/job-schedule.js" timestamp="1535594315384">
-        <mark key="[" line="58" column="14" />
-        <mark key="]" line="60" column="15" />
-        <mark key="." line="60" column="15" />
-        <mark key="^" line="60" column="15" />
-      </file>
       <file name="C:/code/MagicSquareV1/src/main/webapp/config.js" timestamp="1535438957914">
         <mark key="[" line="1" column="30" />
         <mark key="]" line="1" column="31" />
@@ -117,7 +111,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleDetail.html" timestamp="1535591083786" />
-      <file name="/Dummy.txt" timestamp="1535534696464">
+      <file name="/Dummy.txt" timestamp="1535597957287">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="46" />
         <mark key="." line="0" column="46" />
@@ -233,8 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="52" filename="C:/code/jczh-upload-fix/src/main/webapp/index.html" />
-      <jump line="111" column="24" filename="C:/code/jczh-upload-fix/src/main/webapp/index.html" />
       <jump line="2" column="31" filename="C:/code/jczh-upload-fix/src/main/resources/application.properties" />
       <jump line="66" column="27" filename="C:/code/jczh-upload-fix/src/main/java/com/miras/jczhuploadfix/JczhUploadFixApplication.java" />
       <jump line="11" column="0" filename="C:/code/jczh-upload-fix/src/main/resources/log4j.properties" />
@@ -333,63 +325,64 @@
       <jump line="78" column="9" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleList.html" />
       <jump line="79" column="35" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleList.html" />
       <jump line="31" column="16" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleList.html" />
+      <jump line="59" column="22" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/job-schedule.js" />
+      <jump line="62" column="16" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/job-schedule.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmVmb3JlCg==</text>
+        <text encoding="base64">ICAgIC8vIOivpuaDheafpeeciwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Load</text>
+        <text>show</text>
       </register>
       <register name="/" type="4">
-        <text>Post</text>
+        <text>end</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD57eyBqb2JTY2hlZHVsZURldGFpbC5kYXRhLmVuYWJsZWRTdGF0dXN9fTwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzY2hlZHVsZURldGFpbC5kaXNhYmxlRW5kVGltZU51bSA9IGZhbHNlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmVmb3JlCg==</text>
+        <text encoding="base64">ICAgIC8vIOivpuaDheafpeeciwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWZ0ZXIK</text>
+        <text encoding="base64">ICAgIC8vIOWIh+aNouWIh+aNouW8gOWFswo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbmctZGlzYWJsZWQ9IiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbmctc2hvdz0iam9iU2NoZWR1bGVEZXRhaWwuZGlzYWJsZVN0YXJ0VGltZU51bSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YToge30sCiAgICAgICAgICAgIGZ1bmN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbmctc2hvdz0iam9iU2NoZWR1bGVEZXRhaWwuZGlzYWJsZVN0YXJ0VGltZU51bSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2xvYWQgZGF0YScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgPHRkPue7k+adn+aXpeacn+WBj+enu+aVsOWAvDwvdGQ+CiAgICAgICAgICAgIDwvdHI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD57eyBqb2JTY2hlZHVsZURldGFpbC5kYXRhLmVuYWJsZWRTdGF0dXN9fTwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdGQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD4K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZW5kVGltZVR5cGU6IGF2YWlsYWJsZVRpbWVUeXBlc1syXSwK</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD48aW5wdXQgdHlwZT0idGV4dCIgbmctbW9kZWw9ImpvYlNjaGVkdWxlRGV0YWlsLmRhdGEuZW5kVGltZU51bSI+PC90ZD4K</text>
       </register>
       <register name=":" type="4">
-        <text>s/Post/Put/g</text>
+        <text>s/end/start/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Post</last-search>
+      <last-search>end</last-search>
       <last-offset />
-      <last-pattern>Post</last-pattern>
-      <last-replace>Put</last-replace>
-      <last-substitute>Post</last-substitute>
+      <last-pattern>end</last-pattern>
+      <last-replace>start</last-replace>
+      <last-substitute>end</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>from.</entry>
         <entry>stdTime</entry>
         <entry>\?</entry>
         <entry>From</entry>
@@ -409,9 +402,9 @@
         <entry>Start</entry>
         <entry>start</entry>
         <entry>Post</entry>
+        <entry>end</entry>
       </history-search>
       <history-cmd>
-        <entry>s/,/\n,/g</entry>
         <entry>s/\t/ /g</entry>
         <entry>s/0/1/g</entry>
         <entry>s/0/2/g</entry>
@@ -431,6 +424,7 @@
         <entry>s/Start/End/g</entry>
         <entry>s/start/end/g</entry>
         <entry>s/Post/Put/g</entry>
+        <entry>s/end/start/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
