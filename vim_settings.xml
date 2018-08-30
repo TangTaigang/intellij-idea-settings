@@ -3,75 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1535349899536">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/directives/directives.js" timestamp="1535614315691" />
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/test.html" timestamp="1535439724960">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="7" column="10" />
-        <mark key="." line="7" column="10" />
-        <mark key="^" line="7" column="10" />
-      </file>
-      <file name="C:/code/OnlineCarousel/src/main/resources/spring-context.xml" timestamp="1535082669204">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1535529865518">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="21" />
-      </file>
-      <file name="/jobScheduleList.html" timestamp="1535614094124" />
-      <file name="/Dummy.regexp" timestamp="1535354821727">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleDetail.html" timestamp="1535591083786" />
-      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/JobScheduleController.java" timestamp="1535609008439">
-        <mark key="[" line="35" column="29" />
-        <mark key="]" line="35" column="39" />
-        <mark key="." line="35" column="39" />
-        <mark key="^" line="35" column="39" />
-      </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/components/angular-bootstrap-datetimepicker/src/js/datetimepicker.js" timestamp="1535614661059">
-        <mark key="'" line="48" column="61" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1535621226646">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="5" column="1" />
-        <mark key="^" line="5" column="1" />
-        <mark key="." line="5" column="1" />
-      </file>
-      <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/java/com/miras/data/storm/utils/WsClient.java" timestamp="1535361743044">
-        <mark key="[" line="56" column="51" />
-        <mark key="]" line="56" column="90" />
-        <mark key="." line="56" column="90" />
-        <mark key="^" line="56" column="90" />
-      </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedule/jobs.html" timestamp="1535428600744">
-        <mark key="[" line="10" column="71" />
-        <mark key="]" line="10" column="71" />
-        <mark key="." line="10" column="71" />
-      </file>
-      <file name="C:/code/job-kylin-rebuild/pom.xml" timestamp="1535337515397">
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="20" column="26" />
-        <mark key="^" line="20" column="26" />
-        <mark key="." line="20" column="26" />
-      </file>
       <file name="C:/code/fast-test/src/main/java/NumberTests.java" timestamp="1535617109015">
         <mark key="[" line="13" column="8" />
         <mark key="]" line="13" column="13" />
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/js/common/util.js" timestamp="1535609975516" />
+      <file name="/a.dummy" timestamp="1535349899536">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/test.html" timestamp="1535439724960">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+      </file>
       <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedule/job-schedules.html" timestamp="1535428654282">
         <mark key="[" line="4" column="69" />
         <mark key="]" line="4" column="69" />
@@ -94,7 +42,6 @@
       <file name="C:/code/MagicSquareV1/src/main/webapp/model/components/bootstrap-sweetalert/lib/sweet-alert.js" timestamp="1535613138173">
         <mark key="'" line="712" column="0" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/components/angular-tree-control/demo/angular.1.3.12.js" timestamp="1535618972714" />
       <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/pojo/JobKylinRebuild.java" timestamp="1535339029771">
         <mark key="[" line="7" column="25" />
         <mark key="]" line="7" column="13" />
@@ -112,6 +59,11 @@
         <mark key="." line="10" column="1" />
         <mark key="^" line="10" column="1" />
       </file>
+      <file name="C:/code/OnlineCarousel/src/main/resources/spring-context.xml" timestamp="1535082669204">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/directives/datetimepicker.js" timestamp="1535532408671">
         <mark key="'" line="403" column="35" />
       </file>
@@ -128,16 +80,41 @@
         <mark key="^" line="121" column="38" />
         <mark key="." line="121" column="38" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1535529865518">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="21" />
+      </file>
       <file name="C:/code/MagicSquareV1/src/main/webapp/config.js" timestamp="1535438957914">
         <mark key="[" line="1" column="30" />
         <mark key="]" line="1" column="31" />
         <mark key="." line="1" column="31" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/cubeEdit.js" timestamp="1535610656803" />
-      <file name="/Dummy.txt" timestamp="1535613498736">
+      <file name="/Dummy.regexp" timestamp="1535354821727">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/JobScheduleController.java" timestamp="1535609008439">
+        <mark key="[" line="35" column="29" />
+        <mark key="]" line="35" column="39" />
+        <mark key="." line="35" column="39" />
+        <mark key="^" line="35" column="39" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1535621641648">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="46" />
         <mark key="." line="0" column="46" />
+      </file>
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/components/angular-bootstrap-datetimepicker/src/js/datetimepicker.js" timestamp="1535614661059">
+        <mark key="'" line="48" column="61" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1535621226646">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="5" column="1" />
       </file>
       <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/KylinRebuildService.java" timestamp="1535608994478">
         <mark key="'" line="143" column="45" />
@@ -146,7 +123,6 @@
         <mark key="." line="184" column="0" />
         <mark key="^" line="184" column="65" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/components/angular-sweetalert/SweetAlert.js" timestamp="1535612552359" />
       <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/java/com/miras/data/storm/UploadJczhBolt.java" timestamp="1535360955849">
         <mark key="[" line="486" column="54" />
         <mark key="]" line="486" column="85" />
@@ -158,6 +134,23 @@
         <mark key="[" line="136" column="0" />
         <mark key="]" line="136" column="0" />
         <mark key="." line="136" column="0" />
+      </file>
+      <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/java/com/miras/data/storm/utils/WsClient.java" timestamp="1535361743044">
+        <mark key="[" line="56" column="51" />
+        <mark key="]" line="56" column="90" />
+        <mark key="." line="56" column="90" />
+        <mark key="^" line="56" column="90" />
+      </file>
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedule/jobs.html" timestamp="1535428600744">
+        <mark key="[" line="10" column="71" />
+        <mark key="]" line="10" column="71" />
+        <mark key="." line="10" column="71" />
+      </file>
+      <file name="C:/code/job-kylin-rebuild/pom.xml" timestamp="1535337515397">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="20" column="26" />
+        <mark key="^" line="20" column="26" />
+        <mark key="." line="20" column="26" />
       </file>
       <file name="C:/code/fast-test/.gitignore" timestamp="1535530651669">
         <mark key="[" line="5" column="5" />
@@ -177,7 +170,6 @@
         <mark key="." line="4" column="72" />
         <mark key="^" line="3" column="68" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/components/angular-sweetalert/SweetAlert.min.js" timestamp="1535610369867" />
       <file name="C:/code/MagicSquareV1/src/main/resources/mapper/KylinRebuildJobDao.xml" timestamp="1535608275208">
         <mark key="[" line="129" column="13" />
         <mark key="]" line="129" column="27" />
@@ -301,7 +293,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>UseConcMarkSweepGC</text>
+        <text encoding="base64">Ci1YWDotVXNlUGFyYWxsZWxHQwotWFg6LVVzZUNvbmNNYXJrU3dlZXBHQwotWFg6K1VzZUcxR0M=</text>
       </register>
       <register name="-" type="4">
         <text>UseConcMarkSweepGC</text>
@@ -312,32 +304,32 @@
       <register name="0" type="2">
         <text encoding="base64">Iy1YWDorVXNlQ29uY01hcmtTd2VlcEdDCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc28K</text>
+      <register name="1" type="4">
+        <text encoding="base64">Ci1YWDotVXNlUGFyYWxsZWxHQwotWFg6LVVzZUNvbmNNYXJrU3dlZXBHQwotWFg6K1VzZUcxR0M=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc28K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGR0ICsgJyAnICsgdG0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgLCBmdW5jdGlvbiAoc3RyLCBkdCwgdG0pIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGR0ICsgJyAnICsgdG0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLmpvYlNjaGVkdWxlRGV0YWlsLmRhdGEubmV4dFRpbWVzdGFtcCA9IGRhdGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgLCBmdW5jdGlvbiAoc3RyLCBkdCwgdG0pIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLmpvYlNjaGVkdWxlRGV0YWlsLmRhdGEubmV4dFRpbWVzdGFtcCA9IGRhdGU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0ZVN0ci5yZXBsYWNlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLmpvYlNjaGVkdWxlRGV0YWlsLmRhdGVQaWNrZXJWYWx1ZSA9IG5ldyBEYXRlKHYpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0ZVN0ci5yZXBsYWNlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGEtZGF0ZXRpbWVwaWNrZXItY29uZmlnPSIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLmpvYlNjaGVkdWxlRGV0YWlsLmRhdGVQaWNrZXJWYWx1ZSA9IG5ldyBEYXRlKHYpCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/end/start/g</text>
