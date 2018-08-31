@@ -80,11 +80,11 @@
         <mark key="^" line="121" column="38" />
         <mark key="." line="121" column="38" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1535529865518">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="21" />
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1535679489056">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="21" />
       </file>
       <file name="C:/code/MagicSquareV1/src/main/webapp/config.js" timestamp="1535438957914">
         <mark key="[" line="1" column="30" />
@@ -292,8 +292,8 @@
       <jump line="146" column="0" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/job-schedule.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Ci1YWDotVXNlUGFyYWxsZWxHQwotWFg6LVVzZUNvbmNNYXJrU3dlZXBHQwotWFg6K1VzZUcxR0M=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>UseConcMarkSweepGC</text>
@@ -304,32 +304,32 @@
       <register name="0" type="2">
         <text encoding="base64">Iy1YWDorVXNlQ29uY01hcmtTd2VlcEdDCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ci1YWDotVXNlUGFyYWxsZWxHQwotWFg6LVVzZUNvbmNNYXJrU3dlZXBHQwotWFg6K1VzZUcxR0M=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc28K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGR0ICsgJyAnICsgdG0pCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgLCBmdW5jdGlvbiAoc3RyLCBkdCwgdG0pIHsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLmpvYlNjaGVkdWxlRGV0YWlsLmRhdGEubmV4dFRpbWVzdGFtcCA9IGRhdGU7Cg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aWRlYS5zeXN0ZW0ucGF0aD1NOi9pZGVhL3N5c3RlbQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aWRlYS5zeXN0ZW0ucGF0aD1NOi9pZGVhL3N5c3RlbQo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">Ci1YWDotVXNlUGFyYWxsZWxHQwotWFg6LVVzZUNvbmNNYXJrU3dlZXBHQwotWFg6K1VzZUcxR0M=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc28K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGR0ICsgJyAnICsgdG0pCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0ZVN0ci5yZXBsYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgLCBmdW5jdGlvbiAoc3RyLCBkdCwgdG0pIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLmpvYlNjaGVkdWxlRGV0YWlsLmRhdGVQaWNrZXJWYWx1ZSA9IG5ldyBEYXRlKHYpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLmpvYlNjaGVkdWxlRGV0YWlsLmRhdGEubmV4dFRpbWVzdGFtcCA9IGRhdGU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/end/start/g</text>
