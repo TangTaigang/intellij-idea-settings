@@ -180,8 +180,8 @@
         <mark key="." line="4" column="72" />
         <mark key="^" line="3" column="68" />
       </file>
-      <file name="C:/code/MagicSquareV1/pom.xml" timestamp="1535684276293">
-        <mark key="'" line="318" column="18" />
+      <file name="C:/code/MagicSquareV1/pom.xml" timestamp="1535960242190">
+        <mark key="'" line="139" column="35" />
         <mark key="[" line="378" column="28" />
         <mark key="]" line="378" column="47" />
         <mark key="." line="378" column="47" />
@@ -207,7 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="216" column="66" filename="C:/code/trafficCP/src/main/java/com/miras/data/modules/trafficcontrol/web/CurrentTrafficWebSocketHandler.java" />
       <jump line="167" column="27" filename="C:/code/trafficCP/src/main/resources/jeesite.properties" />
       <jump line="298" column="0" filename="C:/code/trafficCP/src/main/java/com/miras/data/modules/trafficcontrol/web/CurrentTrafficWebSocketHandler.java" />
       <jump line="121" column="4" filename="C:/code/MDH_PASSINF_DATA/mdh_data_passinf_image/src/main/java/com/miras/data/passinf/image/PassinfImageBolt.java" />
@@ -307,6 +306,7 @@
       <jump line="318" column="18" filename="C:/code/MagicSquareV1/pom.xml" />
       <jump line="36" column="0" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/jobs/job_submit.html" />
       <jump line="91" column="13" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleList.html" />
+      <jump line="139" column="35" filename="C:/code/MagicSquareV1/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
