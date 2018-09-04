@@ -107,7 +107,7 @@
         <mark key="." line="35" column="39" />
         <mark key="^" line="35" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535946529504">
+      <file name="/Dummy.txt" timestamp="1536023741390">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="46" />
         <mark key="." line="0" column="46" />
@@ -126,6 +126,7 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="1" />
       </file>
+      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/jdbc/JdbcDataProvider.java" timestamp="1536023659730" />
       <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/KylinRebuildService.java" timestamp="1535608994478">
         <mark key="'" line="143" column="45" />
         <mark key="[" line="184" column="0" />
@@ -155,6 +156,12 @@
         <mark key="[" line="10" column="71" />
         <mark key="]" line="10" column="71" />
         <mark key="." line="10" column="71" />
+      </file>
+      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/jdbc/OracleJdbcDataProvider.java" timestamp="1536023703679">
+        <mark key="[" line="33" column="29" />
+        <mark key="]" line="33" column="31" />
+        <mark key="^" line="33" column="31" />
+        <mark key="." line="33" column="31" />
       </file>
       <file name="C:/code/job-kylin-rebuild/pom.xml" timestamp="1535337515397">
         <mark key="[" line="16" column="21" />
@@ -204,6 +211,9 @@
         <mark key="]" line="1" column="26" />
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="26" />
+      </file>
+      <file name="/fragment.java" timestamp="1536023667932">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -310,10 +320,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dbc</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dbc</text>
       </register>
       <register name="/" type="4">
         <text>end</text>
