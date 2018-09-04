@@ -88,12 +88,12 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="31" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" timestamp="1536040770712">
-        <mark key="'" line="1132" column="26" />
-        <mark key="[" line="1047" column="56" />
-        <mark key="]" line="1047" column="72" />
-        <mark key="." line="1047" column="72" />
-        <mark key="^" line="1047" column="72" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" timestamp="1536042386965">
+        <mark key="'" line="1125" column="26" />
+        <mark key="[" line="1033" column="6" />
+        <mark key="]" line="1028" column="17" />
+        <mark key="." line="1028" column="17" />
+        <mark key="^" line="1028" column="17" />
       </file>
       <file name="C:/code/job-kylin-rebuild/pom.xml" timestamp="1535337515397">
         <mark key="[" line="16" column="21" />
@@ -121,11 +121,11 @@
         <mark key="^" line="67" column="56" />
         <mark key="." line="59" column="35" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" timestamp="1536026309423">
-        <mark key="[" line="10" column="57" />
-        <mark key="]" line="10" column="57" />
-        <mark key="^" line="10" column="65" />
-        <mark key="." line="10" column="57" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" timestamp="1536041584455">
+        <mark key="[" line="10" column="65" />
+        <mark key="]" line="10" column="70" />
+        <mark key="^" line="10" column="70" />
+        <mark key="." line="10" column="70" />
       </file>
       <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedule/job-schedules.html" timestamp="1535428654282">
         <mark key="[" line="4" column="69" />
@@ -371,43 +371,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>app/problems.json</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>app/problems.json</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>username</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkKICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJ0YWJsZXMve2RhdGFTZXRJZH0iLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLkdFVCkKICAgIHB1YmxpYyBMaXN0PE1hcDxTdHJpbmcsIFN0cmluZz4+IGxpc3RUYWJsZXMoQFBhdGhWYXJpYWJsZSBpbnQgZGF0YVNldElkKSB7CiAgICAgICAgcmV0dXJuIGRhdGFzZXRTZXJ2aWNlLmxpc3RUYWJsZXMoZGF0YVNldElkKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9ImNvbXBvbmVudHMvZXh0anMvZXh0LWFsbC5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdXJsOiAnL2Rhc2hTZXQvdGFibGVzLycgKyB1eC5xYi5kYXRhU2V0SWQgKyAiLmRvIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGVhZjogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpZWxkczogWyd0ZXh0JywgJ2FsbG93RHJvcCcsICdsZWFmJ10sCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RvcmU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdXJsOiAnL2Rhc2hTZXQvdGFibGVzLycgKyB1eC5xYi5kYXRhU2V0SWQgKyAiLmRvIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGVhZjogZmFsc2UsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYXV0b0xvYWQ6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgIGZpZWxkczogWyd0ZXh0JywgJ2FsbG93RHJvcCcsICdsZWFmJ10sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZGF0YVNldElkID0gZXhlY1sxXTsKICAgICAgICB1eC5xYi5kYXRhU2V0SWQgPSBkYXRhU2V0SWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RvcmU6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRhYmxlTmFtZXMuYWRkKEltbXV0YWJsZU1hcC5vZigidGV4dCIsIHJlc3VsdFNldC5nZXRTdHJpbmcoIm5hbWUiKSwKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImFsbG93RHJvcCIsICJmYWxzZSIsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJsZWFmIiwgInRydWUiKSk7Cg==</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYXV0b0xvYWQ6IHRydWUsCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/username/driver/g</text>
