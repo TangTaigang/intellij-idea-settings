@@ -89,11 +89,11 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="31" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" timestamp="1536048933495">
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" timestamp="1536051664836">
         <mark key="'" line="174" column="8" />
-        <mark key="[" line="1914" column="0" />
-        <mark key="]" line="1914" column="0" />
-        <mark key="." line="1914" column="0" />
+        <mark key="[" line="1616" column="0" />
+        <mark key="]" line="1616" column="0" />
+        <mark key="." line="1616" column="0" />
       </file>
       <file name="C:/code/job-kylin-rebuild/pom.xml" timestamp="1535337515397">
         <mark key="[" line="16" column="21" />
@@ -365,7 +365,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGljb246ICJjb21wb25lbnRzL2V4dGpzL3Jlc291cmNlcy9pbWFnZXMvaWNvbi1zYXZlLmdpZiIsCg==</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>添加 Oracle 专用 JDBC 连接配置信息</text>
@@ -377,31 +377,31 @@
         <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9ImNvbXBvbmVudHMvZXh0anMvZXh0LWFsbC5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGljb246ICJjb21wb25lbnRzL2V4dGpzL3Jlc291cmNlcy9pbWFnZXMvaWNvbi1zYXZlLmdpZiIsCg==</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGF1dG9Mb2FkOiAiL2Rhc2hTZXQvdGFibGVzLmRvP2RhdGFTZXRJZD0iICsgdXgucWIuZGF0YVNldElkLAo=</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvb3Q6ICfooagnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGljb246ICJjb21wb25lbnRzL2V4dGpzL3Jlc291cmNlcy9pbWFnZXMvaWNvbi1zYXZlLmdpZiIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiZWZvcmVsb2FkOiBmdW5jdGlvbiAoc3RvcmUsIG9wZXJhdGlvbiwgZU9wdHMpIHsKICAgICAgICAgICAgY29uc29sZS5sb2coc3RvcmUsIG9wZXJhdGlvbiwgZU9wdHMpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIC8vIGF1dG9Mb2FkOiAiL2Rhc2hTZXQvdGFibGVzLmRvP2RhdGFTZXRJZD0iICsgdXgucWIuZGF0YVNldElkLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHN1Y2Nlc3NQcm9wZXJ0eTogJ3N1Y2Nlc3MnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHJvb3Q6ICdyb290JywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvb3Q6ICfooagnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/username/driver/g</text>
