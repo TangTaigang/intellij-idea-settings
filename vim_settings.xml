@@ -71,6 +71,7 @@
         <mark key="]" line="25" column="35" />
         <mark key="." line="25" column="35" />
       </file>
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/components/extjs/resources/css/ext-all.css" timestamp="1536047406090" />
       <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/java/com/miras/data/storm/utils/WsClient.java" timestamp="1535361743044">
         <mark key="[" line="56" column="51" />
         <mark key="]" line="56" column="90" />
@@ -88,13 +89,7 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="31" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" timestamp="1536042386965">
-        <mark key="'" line="1125" column="26" />
-        <mark key="[" line="1033" column="6" />
-        <mark key="]" line="1028" column="17" />
-        <mark key="." line="1028" column="17" />
-        <mark key="^" line="1028" column="17" />
-      </file>
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" timestamp="1536047604978" />
       <file name="C:/code/job-kylin-rebuild/pom.xml" timestamp="1535337515397">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="20" column="26" />
@@ -114,18 +109,12 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/DashSetController.java" timestamp="1536039764938">
-        <mark key="'" line="135" column="44" />
-        <mark key="[" line="59" column="35" />
-        <mark key="]" line="59" column="35" />
-        <mark key="^" line="67" column="56" />
-        <mark key="." line="59" column="35" />
-      </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" timestamp="1536041584455">
-        <mark key="[" line="10" column="65" />
-        <mark key="]" line="10" column="70" />
-        <mark key="^" line="10" column="70" />
-        <mark key="." line="10" column="70" />
+      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/DashSetController.java" timestamp="1536047051530">
+        <mark key="'" line="137" column="44" />
+        <mark key="[" line="63" column="39" />
+        <mark key="]" line="63" column="44" />
+        <mark key="." line="63" column="47" />
+        <mark key="^" line="63" column="44" />
       </file>
       <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedule/job-schedules.html" timestamp="1535428654282">
         <mark key="[" line="4" column="69" />
@@ -199,7 +188,7 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536039771539">
+      <file name="/Dummy.txt" timestamp="1536047649453">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -268,7 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="42" filename="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/java/com/miras/data/storm/utils/WsClient.java" />
       <jump line="480" column="0" filename="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/java/com/miras/data/storm/UploadJczhBolt.java" />
       <jump line="292" column="22" filename="C:/code/mdh_data_6in1api/src/main/java/com/miras/data/api/mdh_data_6in1api/ws/WsClient.java" />
       <jump line="41" column="21" filename="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/java/com/miras/data/storm/UploadJczhBolt.java" />
@@ -368,13 +356,14 @@
       <jump line="93" column="0" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/DatasetService.java" />
       <jump line="110" column="20" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/DatasetService.java" />
       <jump line="1114" column="26" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
+      <jump line="1219" column="36" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>添加 Oracle 专用 JDBC 连接配置信息</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>添加 Oracle 专用 JDBC 连接配置信息</text>
       </register>
       <register name="/" type="4">
         <text>username</text>
@@ -383,31 +372,31 @@
         <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9ImNvbXBvbmVudHMvZXh0anMvZXh0LWFsbC5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGF1dG9Mb2FkOiAiL2Rhc2hTZXQvdGFibGVzLmRvP2RhdGFTZXRJZD0iICsgdXgucWIuZGF0YVNldElkLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvb3Q6ICfooagnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdXJsOiAnL2Rhc2hTZXQvdGFibGVzLycgKyB1eC5xYi5kYXRhU2V0SWQgKyAiLmRvIgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGVhZjogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgICBiZWZvcmVsb2FkOiBmdW5jdGlvbiAoc3RvcmUsIG9wZXJhdGlvbiwgZU9wdHMpIHsKICAgICAgICAgICAgY29uc29sZS5sb2coc3RvcmUsIG9wZXJhdGlvbiwgZU9wdHMpCiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpZWxkczogWyd0ZXh0JywgJ2FsbG93RHJvcCcsICdsZWFmJ10sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHN1Y2Nlc3NQcm9wZXJ0eTogJ3N1Y2Nlc3MnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RvcmU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHJvb3Q6ICdyb290JywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">ICAgICAgICB0aGkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYXV0b0xvYWQ6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RleHQnCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/username/driver/g</text>
