@@ -89,11 +89,12 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="31" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" timestamp="1536053425613">
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" timestamp="1536108393574">
         <mark key="'" line="174" column="8" />
-        <mark key="[" line="1616" column="0" />
-        <mark key="]" line="1616" column="0" />
-        <mark key="." line="1616" column="0" />
+        <mark key="[" line="1219" column="56" />
+        <mark key="]" line="1219" column="56" />
+        <mark key="." line="1219" column="56" />
+        <mark key="^" line="1219" column="56" />
       </file>
       <file name="C:/code/job-kylin-rebuild/pom.xml" timestamp="1535337515397">
         <mark key="[" line="16" column="21" />
