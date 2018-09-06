@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/app.js" timestamp="1536109362325">
-        <mark key="[" line="20" column="12" />
-        <mark key="]" line="20" column="19" />
-        <mark key="." line="20" column="19" />
-        <mark key="^" line="20" column="19" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/app.js" timestamp="1536203810549">
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="28" column="28" />
+        <mark key="." line="28" column="28" />
+        <mark key="^" line="28" column="27" />
       </file>
       <file name="/File Header.txt.ft" timestamp="1536142947665">
         <mark key="[" line="0" column="0" />
@@ -47,11 +47,12 @@
         <mark key="." line="35" column="39" />
         <mark key="^" line="35" column="39" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/view/config/dataset.html" timestamp="1536029943732">
-        <mark key="'" line="146" column="49" />
-        <mark key="[" line="92" column="55" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/view/config/dataset.html" timestamp="1536203879252">
+        <mark key="'" line="273" column="72" />
+        <mark key="[" line="109" column="59" />
+        <mark key="]" line="109" column="59" />
+        <mark key="." line="109" column="59" />
+        <mark key="^" line="109" column="112" />
       </file>
       <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ext-all.css" timestamp="1536025977638" />
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1535621226646">
@@ -73,8 +74,8 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="31" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" timestamp="1536199799109">
-        <mark key="'" line="290" column="47" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" timestamp="1536203565117">
+        <mark key="'" line="1918" column="0" />
         <mark key="[" line="1918" column="0" />
         <mark key="]" line="1918" column="0" />
         <mark key="." line="1918" column="0" />
@@ -107,7 +108,8 @@
         <mark key="." line="63" column="47" />
         <mark key="^" line="63" column="44" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" timestamp="1536201495521">
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" timestamp="1536203555629">
+        <mark key="'" line="70" column="39" />
         <mark key="[" line="195" column="24" />
         <mark key="]" line="195" column="24" />
         <mark key="." line="195" column="24" />
@@ -249,10 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="51" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/DataElementController.java" />
-      <jump line="77" column="24" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/DataElementController.java" />
-      <jump line="67" column="15" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/common/biz/BaseBiz.java" />
-      <jump line="13" column="29" filename="C:/code/car-qrcode-decrypt/src/main/java/com/github/kischn/carqrcodedecrypt/CarQrcodeDecryptApplication.java" />
       <jump line="12" column="4" filename="C:/code/car-qrcode-decrypt/src/main/java/com/github/kischn/carqrcodedecrypt/CarQrcodeDecryptApplication.java" />
       <jump line="31" column="19" filename="C:/code/MDH_PASSINF_DATA/jczh-upload-fix/pom.xml" />
       <jump line="1061" column="29" filename="$MAVEN_REPOSITORY$/org/apache/commons/commons-dbcp2/2.2.0/commons-dbcp2-2.2.0-sources.jar!/org/apache/commons/dbcp2/BasicDataSource.java" />
@@ -349,13 +347,17 @@
       <jump line="18" column="20" filename="C:/code/fast-test/src/main/java/Test2.java" />
       <jump line="182" column="78" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/DashSetController.java" />
       <jump line="111" column="66" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/DatasetService.java" />
+      <jump line="225" column="72" filename="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/view/config/dataset.html" />
+      <jump line="70" column="39" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" />
+      <jump line="1264" column="49" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
+      <jump line="1918" column="0" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>table</text>
+        <text>100%</text>
       </register>
       <register name="-" type="4">
-        <text>table</text>
+        <text>100%</text>
       </register>
       <register name="/" type="4">
         <text>username</text>
@@ -364,31 +366,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHRhYmxlR3JpZCA9IHRhYmxlLml0ZW1zLml0ZW1zWzBdOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU9ImhlaWdodDo2MDBweCI+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHRhYmxlTmFtZSA9IHNwbGl0WzBdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHRhYmxlTmFtZSA9IHNwbGl0WzBdOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gdGFibGUuc2VsTW9kZWwuc2VsZWN0KHRhYmxlRmllbGRzW2ldKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhYmxlcy5zZQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gdGFibGUuc2VsTW9kZWwuc2VsZWN0KHRhYmxlRmllbGRzW2ldKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFibGVzLmZvckUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhYmxlcy5zZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yKHZhciB0IGluIHRhKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/username/driver/g</text>
