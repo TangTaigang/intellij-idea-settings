@@ -239,10 +239,10 @@
         <mark key="." line="40" column="67" />
       </file>
       <file name="C:/code/job-kylin-rebuild/src/main/resources/application.properties" timestamp="1535337488872">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="26" />
-        <mark key="^" line="1" column="26" />
-        <mark key="." line="1" column="26" />
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="/fragment.java" timestamp="1536196374100">
         <mark key="[" line="0" column="0" />
