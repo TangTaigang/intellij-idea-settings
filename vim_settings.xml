@@ -73,7 +73,7 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="31" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" timestamp="1536137707087">
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" timestamp="1536199799109">
         <mark key="'" line="290" column="47" />
         <mark key="[" line="1918" column="0" />
         <mark key="]" line="1918" column="0" />
@@ -107,11 +107,11 @@
         <mark key="." line="63" column="47" />
         <mark key="^" line="63" column="44" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" timestamp="1536138393165">
-        <mark key="[" line="70" column="12" />
-        <mark key="]" line="70" column="17" />
-        <mark key="^" line="70" column="17" />
-        <mark key="." line="70" column="17" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" timestamp="1536201495521">
+        <mark key="[" line="195" column="24" />
+        <mark key="]" line="195" column="24" />
+        <mark key="." line="195" column="24" />
+        <mark key="^" line="195" column="28" />
       </file>
       <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedule/job-schedules.html" timestamp="1535428654282">
         <mark key="[" line="4" column="69" />
@@ -172,7 +172,7 @@
       <file name="/HTML File.txt.ft" timestamp="1536143010779">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536195916668">
+      <file name="/Dummy.txt" timestamp="1536201500920">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -351,44 +351,44 @@
       <jump line="111" column="66" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/DatasetService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTcHJpbmdBcHBsaWNhdGlvbi5ydW4oRGVtb0FwcGxpY2F0aW9uLmNsYXNzLCBhcmdzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>table</text>
       </register>
       <register name="-" type="4">
-        <text>12312</text>
+        <text>table</text>
       </register>
       <register name="/" type="4">
         <text>username</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0LmFkZCgiMTIzMTIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHRhYmxlR3JpZCA9IHRhYmxlLml0ZW1zLml0ZW1zWzBdOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTcHJpbmdBcHBsaWNhdGlvbi5ydW4oRGVtb0FwcGxpY2F0aW9uLmNsYXNzLCBhcmdzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QHNsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHRhYmxlTmFtZSA9IHNwbGl0WzBdOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBuZXcgU3RyaW5nKCkKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gdGFibGUuc2VsTW9kZWwuc2VsZWN0KHRhYmxlRmllbGRzW2ldKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvKgoKICAgICAgICAgKi8KICAgICAgICAvLyBhZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhYmxlcy5zZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhcmdzLmxlbmd0aCA9PSAxLmlmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFibGVzLmZvckUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBzaW1wbGVEYXRlRm9ybWF0LnBhcnNlKCIiKTsKICAgICAgICB9IGNhdGNoIChQYXJzZUV4Y2VwdGlvbiBlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yKHZhciB0IGluIHRhKQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/username/driver/g</text>
