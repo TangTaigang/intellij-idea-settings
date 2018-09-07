@@ -18,12 +18,11 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="10" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/controller/config/datasetCtrl.js" timestamp="1536292745264">
-        <mark key="'" line="266" column="51" />
-        <mark key="[" line="214" column="0" />
-        <mark key="]" line="214" column="0" />
-        <mark key="." line="214" column="0" />
-        <mark key="^" line="213" column="45" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/controller/config/datasetCtrl.js" timestamp="1536295051349">
+        <mark key="'" line="268" column="51" />
+        <mark key="[" line="216" column="15" />
+        <mark key="]" line="216" column="16" />
+        <mark key="." line="216" column="16" />
       </file>
       <file name="/Catch Statement Body.txt.ft" timestamp="1536143010852">
         <mark key="[" line="0" column="0" />
@@ -123,11 +122,11 @@
         <mark key="." line="63" column="47" />
         <mark key="^" line="63" column="44" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" timestamp="1536292849528">
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" timestamp="1536295092438">
         <mark key="'" line="70" column="39" />
-        <mark key="[" line="210" column="0" />
-        <mark key="]" line="210" column="21" />
-        <mark key="." line="210" column="0" />
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="204" column="0" />
+        <mark key="." line="204" column="0" />
       </file>
       <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedule/job-schedules.html" timestamp="1535428654282">
         <mark key="[" line="4" column="69" />
@@ -188,7 +187,7 @@
       <file name="/HTML File.txt.ft" timestamp="1536143010779">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536290318672">
+      <file name="/Dummy.txt" timestamp="1536295352540">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -366,10 +365,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwgMTAwMCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>username</text>
@@ -378,31 +377,31 @@
         <text encoding="base64">ICAgICAgIlNRTFRFWFQiOiAi5p+l6K+i6K+t5Y+lIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwgMTAwMCk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2VsZWN0Q29uZmlnKSB7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNlbGVjdENvbmZpZykgewo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnYScsIHNlbGVjdENvbmZpZykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnNlbGVjdENvbmZpZyA9IHNlbGVjdENvbmZpZzsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSwgMTAwMCk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9LCAxMDAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSwgMTAwMCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc2VsZWN0Q29uZmlnKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbGVydCgnYWFhJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA9IGZ1bmN0aW9uICgpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNlbGVjdENvbmZpZykgewo=</text>
       </register>
       <register name=":" type="4">
         <text>s/username/driver/g</text>
