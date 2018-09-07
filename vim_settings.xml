@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/app.js" timestamp="1536299530169">
-        <mark key="[" line="34" column="31" />
-        <mark key="]" line="34" column="49" />
-        <mark key="." line="34" column="49" />
-        <mark key="^" line="34" column="49" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/app.js" timestamp="1536307832007">
+        <mark key="[" line="26" column="27" />
+        <mark key="]" line="26" column="27" />
+        <mark key="." line="26" column="27" />
+        <mark key="^" line="26" column="27" />
       </file>
       <file name="/File Header.txt.ft" timestamp="1536142947665">
         <mark key="[" line="0" column="0" />
@@ -18,7 +18,7 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="10" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/controller/config/datasetCtrl.js" timestamp="1536306514465">
+      <file name="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/controller/config/datasetCtrl.js" timestamp="1536307702055">
         <mark key="'" line="223" column="32" />
       </file>
       <file name="/Catch Statement Body.txt.ft" timestamp="1536143010852">
@@ -60,12 +60,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/view/config/dataset.html" timestamp="1536306140050">
-        <mark key="'" line="295" column="55" />
-        <mark key="[" line="107" column="113" />
-        <mark key="]" line="107" column="127" />
-        <mark key="." line="107" column="127" />
-        <mark key="^" line="107" column="127" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/view/config/dataset.html" timestamp="1536307704754">
+        <mark key="'" line="296" column="55" />
+        <mark key="[" line="74" column="67" />
+        <mark key="]" line="75" column="52" />
+        <mark key="." line="75" column="52" />
+        <mark key="^" line="75" column="52" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1535621226646">
         <mark key="[" line="5" column="1" />
@@ -86,7 +86,7 @@
         <mark key="^" line="83" column="43" />
         <mark key="." line="83" column="43" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" timestamp="1536306086714">
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" timestamp="1536307654624">
         <mark key="'" line="1299" column="30" />
         <mark key="[" line="665" column="19" />
         <mark key="]" line="665" column="25" />
@@ -357,10 +357,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>username</text>
