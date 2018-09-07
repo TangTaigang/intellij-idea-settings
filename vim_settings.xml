@@ -18,6 +18,13 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="10" />
       </file>
+      <file name="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/controller/config/datasetCtrl.js" timestamp="1536287745272">
+        <mark key="'" line="664" column="35" />
+        <mark key="[" line="227" column="28" />
+        <mark key="]" line="227" column="39" />
+        <mark key="^" line="227" column="39" />
+        <mark key="." line="227" column="39" />
+      </file>
       <file name="/Catch Statement Body.txt.ft" timestamp="1536143010852">
         <mark key="[" line="0" column="0" />
       </file>
@@ -46,12 +53,17 @@
         <mark key="." line="35" column="39" />
         <mark key="^" line="35" column="39" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/view/config/dataset.html" timestamp="1536284388223">
-        <mark key="'" line="273" column="72" />
-        <mark key="[" line="106" column="100" />
-        <mark key="]" line="106" column="100" />
-        <mark key="." line="106" column="100" />
-        <mark key="^" line="106" column="116" />
+      <file name="C:/code/MagicSquareV1/src/main/resources/template/config/query.vm" timestamp="1536288106472">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+      </file>
+      <file name="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/view/config/dataset.html" timestamp="1536286669745">
+        <mark key="'" line="295" column="55" />
+        <mark key="[" line="109" column="62" />
+        <mark key="]" line="109" column="63" />
+        <mark key="." line="109" column="63" />
+        <mark key="^" line="109" column="62" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1535621226646">
         <mark key="[" line="5" column="1" />
@@ -71,11 +83,11 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="31" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" timestamp="1536284532561">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1911" column="55" />
-        <mark key="]" line="1912" column="39" />
-        <mark key="." line="1912" column="39" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" timestamp="1536286595416">
+        <mark key="'" line="372" column="59" />
+        <mark key="[" line="1912" column="0" />
+        <mark key="]" line="1912" column="0" />
+        <mark key="." line="1912" column="0" />
         <mark key="^" line="1912" column="39" />
       </file>
       <file name="C:/code/job-kylin-rebuild/pom.xml" timestamp="1535337515397">
@@ -203,6 +215,7 @@
         <mark key="." line="486" column="85" />
         <mark key="^" line="486" column="85" />
       </file>
+      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/dataprovider/DataProviderViewManager.java" timestamp="1536286317742" />
       <file name="C:/code/fast-test/.gitignore" timestamp="1535530651669">
         <mark key="[" line="5" column="5" />
         <mark key="]" line="6" column="4" />
@@ -244,10 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="19" filename="C:/code/MDH_PASSINF_DATA/jczh-upload-fix/pom.xml" />
-      <jump line="1061" column="29" filename="$MAVEN_REPOSITORY$/org/apache/commons/commons-dbcp2/2.2.0/commons-dbcp2-2.2.0-sources.jar!/org/apache/commons/dbcp2/BasicDataSource.java" />
-      <jump line="467" column="0" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/dataprovider/druid/DruidDataProvider.java" />
-      <jump line="148" column="38" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/model/tableModel.js" />
       <jump line="192" column="8" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/model/tableModel.js" />
       <jump line="151" column="49" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/tables/table_detail.html" />
       <jump line="147" column="98" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/tables/table_detail.html" />
@@ -344,46 +353,50 @@
       <jump line="1264" column="49" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
       <jump line="1918" column="0" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
       <jump line="0" column="0" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
+      <jump line="294" column="55" filename="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/view/config/dataset.html" />
+      <jump line="372" column="59" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
+      <jump line="483" column="12" filename="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/controller/config/datasetCtrl.js" />
+      <jump line="664" column="35" filename="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/controller/config/datasetCtrl.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b2RvICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Save</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>username</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHRhYmxlR3JpZCA9IHRhYmxlLml0ZW1zLml0ZW1zWzBdOwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IHVpLWFjZT0icXVlcnlBY2VPcHQiIG5nLW1vZGVsPSJjdXJXaWRnZXQucXVlcnkuJHBhcmFtLm5hbWUiIGNsYXNzPSJmb3JtLWNvbnRyb2wiID48L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b2RvICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3FsT2JqLnNxbC5uYW1lID0gc3FsUXVlcnk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh1eC52cWJ1aWxkZXIuc3FsU2VsZWN0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcXVlcnlPYmouc3FsID0gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZTogc3FsUXVlcnkKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU9ImhlaWdodDo2MDBweCI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzcWxPYmoubmFtZSA9IHNxbFF1ZXJ5Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHRhYmxlTmFtZSA9IHNwbGl0WzBdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFsnc3FsJ107Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gdGFibGUuc2VsTW9kZWwuc2VsZWN0KHRhYmxlRmllbGRzW2ldKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>s/username/driver/g</text>
