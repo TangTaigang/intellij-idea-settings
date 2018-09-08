@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/app.js" timestamp="1536307832007">
-        <mark key="[" line="26" column="27" />
-        <mark key="]" line="26" column="27" />
-        <mark key="." line="26" column="27" />
-        <mark key="^" line="26" column="27" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/app.js" timestamp="1536391281615">
+        <mark key="[" line="23" column="78" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="0" />
       </file>
       <file name="/File Header.txt.ft" timestamp="1536142947665">
         <mark key="[" line="0" column="0" />
@@ -18,11 +18,12 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="10" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/controller/config/datasetCtrl.js" timestamp="1536389424838">
+      <file name="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/controller/config/datasetCtrl.js" timestamp="1536393198756">
         <mark key="'" line="223" column="32" />
-        <mark key="[" line="673" column="0" />
-        <mark key="]" line="673" column="43" />
-        <mark key="." line="673" column="0" />
+        <mark key="[" line="234" column="41" />
+        <mark key="]" line="234" column="55" />
+        <mark key="." line="234" column="55" />
+        <mark key="^" line="234" column="55" />
       </file>
       <file name="/Catch Statement Body.txt.ft" timestamp="1536143010852">
         <mark key="[" line="0" column="0" />
@@ -63,12 +64,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/view/config/dataset.html" timestamp="1536389069795">
-        <mark key="'" line="296" column="55" />
-        <mark key="[" line="107" column="135" />
-        <mark key="]" line="107" column="138" />
-        <mark key="." line="107" column="138" />
-        <mark key="^" line="107" column="138" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/view/config/dataset.html" timestamp="1536395083603">
+        <mark key="'" line="297" column="55" />
+        <mark key="[" line="108" column="104" />
+        <mark key="]" line="108" column="104" />
+        <mark key="." line="108" column="104" />
+        <mark key="^" line="108" column="107" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1535621226646">
         <mark key="[" line="5" column="1" />
@@ -89,12 +90,12 @@
         <mark key="^" line="83" column="43" />
         <mark key="." line="83" column="43" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" timestamp="1536389759794">
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" timestamp="1536393972522">
         <mark key="'" line="705" column="33" />
-        <mark key="[" line="665" column="19" />
-        <mark key="]" line="665" column="25" />
-        <mark key="." line="665" column="25" />
-        <mark key="^" line="665" column="25" />
+        <mark key="[" line="1881" column="21" />
+        <mark key="]" line="1881" column="32" />
+        <mark key="." line="1881" column="32" />
+        <mark key="^" line="1881" column="32" />
       </file>
       <file name="C:/code/job-kylin-rebuild/pom.xml" timestamp="1535337515397">
         <mark key="[" line="16" column="21" />
@@ -115,12 +116,12 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" timestamp="1536368695157">
-        <mark key="'" line="131" column="29" />
-        <mark key="[" line="32" column="33" />
-        <mark key="]" line="33" column="42" />
-        <mark key="^" line="33" column="42" />
-        <mark key="." line="33" column="42" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" timestamp="1536394150429">
+        <mark key="'" line="26" column="12" />
+        <mark key="[" line="232" column="58" />
+        <mark key="]" line="232" column="73" />
+        <mark key="^" line="232" column="73" />
+        <mark key="." line="232" column="73" />
       </file>
       <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedule/job-schedules.html" timestamp="1535428654282">
         <mark key="[" line="4" column="69" />
@@ -181,7 +182,7 @@
       <file name="/HTML File.txt.ft" timestamp="1536143010779">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536389555553">
+      <file name="/Dummy.txt" timestamp="1536394761660">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -252,14 +253,11 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1536389884957">
+      <file name="/fragment.java" timestamp="1536395399858">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="42" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/model/tableModel.js" />
-      <jump line="51" column="28" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/sourceMeta.js" />
-      <jump line="40" column="4" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/model/tableModel.js" />
       <jump line="206" column="9" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/tables/column_mapping.html" />
       <jump line="46" column="43" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/tables/column_mapping.html" />
       <jump line="45" column="72" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/tables/column_mapping.html" />
@@ -357,46 +355,49 @@
       <jump line="223" column="32" filename="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/controller/config/datasetCtrl.js" />
       <jump line="705" column="33" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
       <jump line="128" column="29" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" />
+      <jump line="73" column="46" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" />
+      <jump line="58" column="36" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" />
+      <jump line="26" column="12" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gJHNjb3BlLnJlc3RvcmVEcmFnQW5kRHJvcCgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>restoreDragAndDrop</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>username</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc2NvcGUuc3Fsdmlld0hpZGUgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICBzZXRUaW1lb3V0KHJlc3RvcmVGaWVsZEFsaWFzLCAxNTAwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gJHNjb3BlLnJlc3RvcmVEcmFnQW5kRHJvcCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0VGltZW91dChmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfSwgMjAwMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLmRhdGFzb3VyY2VUcyA9IG5ldyBEYXRlKCkuZ2V0VGltZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmdW5jdGlvbiByZXN0b3JlVGFibGVBbGlhcygpIHsKICAgICAgICB9CiAgICAgICAgc2V0VGltZW91dChyZXN0b3JlRmllbGRBbGlhcywgMTUwMCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLmRhdGFzb3VyY2VUcyA9IG5ldyBEYXRlKCkuZ2V0VGltZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbmYuaGFzT3duUHJvcGVydHkoJ2NvbmYnKSkgewogICAgICAgICAgICAgICAgY29uZi50YWJsZXMuZm9yRWFjaChmdW5jdGlvbiAodGJsKSB7CiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLmRhdGFzb3VyY2VUcyA9IG5ldyBEYXRlKCkuZ2V0VGltZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZi50YWJsZXMuZm9yRWFjaCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLmRhdGFzb3VyY2VUcyA9IG5ldyBEYXRlKCkuZ2V0VGltZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXgudnFidWlsZGVyLnNxbFNlbGVjdC5nZXRUYWJsZUJ5SWQodGhpcy50YWJsZUlkKQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/username/driver/g</text>
