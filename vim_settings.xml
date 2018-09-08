@@ -86,8 +86,8 @@
         <mark key="^" line="83" column="43" />
         <mark key="." line="83" column="43" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" timestamp="1536307654624">
-        <mark key="'" line="1299" column="30" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" timestamp="1536366929073">
+        <mark key="'" line="705" column="33" />
         <mark key="[" line="665" column="19" />
         <mark key="]" line="665" column="25" />
         <mark key="." line="665" column="25" />
@@ -254,7 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="38" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/tables/table_detail.html" />
       <jump line="887" column="86" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/sourceMeta.js" />
       <jump line="198" column="42" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/model/tableModel.js" />
       <jump line="51" column="28" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/sourceMeta.js" />
@@ -354,6 +353,7 @@
       <jump line="38" column="18" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
       <jump line="1295" column="30" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
       <jump line="223" column="32" filename="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/controller/config/datasetCtrl.js" />
+      <jump line="705" column="33" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
