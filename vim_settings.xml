@@ -18,8 +18,8 @@
       <file name="/File Header.txt.ft" timestamp="1536142947665">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" timestamp="1536394150429">
-        <mark key="'" line="26" column="12" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" timestamp="1536398316723">
+        <mark key="'" line="218" column="45" />
         <mark key="[" line="232" column="58" />
         <mark key="]" line="232" column="73" />
         <mark key="^" line="232" column="73" />
@@ -90,6 +90,11 @@
         <mark key="." line="102" column="10" />
         <mark key="^" line="102" column="10" />
       </file>
+      <file name="C:/code/MagicSquareV1/src/main/webapp/WEB-INF/web.xml" timestamp="1536398149915">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="C:/code/MagicSquareV1/src/main/webapp/i18n/cn/magicsquare.json" timestamp="1536291946482">
         <mark key="[" line="397" column="29" />
         <mark key="]" line="397" column="29" />
@@ -131,7 +136,7 @@
         <mark key="." line="35" column="39" />
         <mark key="^" line="35" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536395974703">
+      <file name="/Dummy.txt" timestamp="1536398334417">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -202,6 +207,11 @@
         <mark key="." line="1881" column="32" />
         <mark key="^" line="1881" column="32" />
       </file>
+      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/util/CrossDomainFilter.java" timestamp="1536398236709">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="C:/code/job-kylin-rebuild/pom.xml" timestamp="1535337515397">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="20" column="26" />
@@ -256,8 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="9" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/tables/column_mapping.html" />
-      <jump line="46" column="43" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/tables/column_mapping.html" />
       <jump line="45" column="72" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/tables/column_mapping.html" />
       <jump line="489" column="53" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/sourceMeta.js" />
       <jump line="494" column="42" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/sourceMeta.js" />
@@ -356,13 +364,15 @@
       <jump line="73" column="46" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" />
       <jump line="58" column="36" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" />
       <jump line="26" column="12" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" />
+      <jump line="115" column="0" filename="C:/code/MagicSquareV1/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="218" column="45" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlNBTUVPUklHSU4iKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>com.huitong.miras.magicsquare.util.CrossDomainFilteruu</text>
       </register>
       <register name="/" type="4">
         <text>username</text>
@@ -371,31 +381,31 @@
         <text encoding="base64">ICAgICAgICBzZXRUaW1lb3V0KHJlc3RvcmVGaWVsZEFsaWFzLCAxNTAwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlNBTUVPUklHSU4iKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2bGV0UmVzcG9uc2UxLmFkZEhlYWRlcigiWC1GcmFtZS1PcHRpb25zIiwgIlNBTUVPUklHSU4iKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmdW5jdGlvbiByZXN0b3JlVGFibGVBbGlhcygpIHsKICAgICAgICB9CiAgICAgICAgc2V0VGltZW91dChyZXN0b3JlRmllbGRBbGlhcywgMTUwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBIdHRwU2VydmxldFJlc3BvbnNlIHNlcnZsZXRSZXNwb25zZTEgPSAoSHR0cFNlcnZsZXRSZXNwb25zZSkgc2VydmxldFJlc3BvbnNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbmYuaGFzT3duUHJvcGVydHkoJ2NvbmYnKSkgewogICAgICAgICAgICAgICAgY29uZi50YWJsZXMuZm9yRWFjaChmdW5jdGlvbiAodGJsKSB7CiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">CiAgICA8ZmlsdGVyPgogICAgICAgIDxmaWx0ZXItbmFtZT54ZG9tYWluPC9maWx0ZXItbmFtZT4KICAgICAgICA8ZmlsdGVyLWNsYXNzPmNvbS5odWl0b25nLm1pcmFzLm1hZ2ljc3F1YXJlLnV0aWwuQ3Jvc3NEb21haW5GaWx0ZXI8L2ZpbHRlci1jbGFzcz4KICAgIDwvZmlsdGVyPgogICAgPGZpbHRlci1tYXBwaW5nPgogICAgICAgIDxmaWx0ZXItbmFtZT54ZG9tYWluPC9maWx0ZXItbmFtZT4KICAgICAgICA8dXJsLXBhdHRlcm4+Lyo8L3VybC1wYXR0ZXJuPgogICAgPC9maWx0ZXItbWFwcGluZz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgogICAgPGZpbHRlcj4KICAgICAgICA8ZmlsdGVyLW5hbWU+eGRvbWFpbjwvZmlsdGVyLW5hbWU+CiAgICAgICAgPGZpbHRlci1jbGFzcz5jb20uaHVpdG9uZy5taXJhcy5tYWdpY3NxdWFyZS51dGlsLkNyb3NzRG9tYWluRmlsdGVyPC9maWx0ZXItY2xhc3M+CiAgICA8L2ZpbHRlcj4KICAgIDxmaWx0ZXItbWFwcGluZz4KICAgICAgICA8ZmlsdGVyLW5hbWU+eGRvbWFpbjwvZmlsdGVyLW5hbWU+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Zgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZi50YWJsZXMuZm9yRWFjaCgpCg==</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXgudnFidWlsZGVyLnNxbFNlbGVjdC5nZXRUYWJsZUJ5SWQodGhpcy50YWJsZUlkKQo=</text>
+        <text encoding="base64">ICAgICAgICAoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/username/driver/g</text>
