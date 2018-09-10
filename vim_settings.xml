@@ -97,10 +97,10 @@
         <mark key="^" line="83" column="43" />
         <mark key="." line="83" column="43" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" timestamp="1536544642673">
-        <mark key="'" line="722" column="8" />
-        <mark key="[" line="1213" column="40" />
-        <mark key="]" line="1213" column="43" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" timestamp="1536548651594">
+        <mark key="'" line="1883" column="0" />
+        <mark key="[" line="241" column="0" />
+        <mark key="]" line="241" column="34" />
         <mark key="." line="1213" column="43" />
         <mark key="^" line="1213" column="43" />
       </file>
@@ -123,12 +123,12 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" timestamp="1536545718764">
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" timestamp="1536548600840">
         <mark key="'" line="143" column="1" />
-        <mark key="[" line="157" column="58" />
-        <mark key="]" line="157" column="62" />
-        <mark key="." line="157" column="62" />
-        <mark key="^" line="157" column="62" />
+        <mark key="[" line="196" column="24" />
+        <mark key="]" line="196" column="24" />
+        <mark key="." line="196" column="24" />
+        <mark key="^" line="196" column="24" />
       </file>
       <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedule/job-schedules.html" timestamp="1535428654282">
         <mark key="[" line="4" column="69" />
@@ -274,7 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="494" column="42" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/sourceMeta.js" />
       <jump line="451" column="62" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/sourceMeta.js" />
       <jump line="37" column="24" filename="C:/code/OnlineCarousel/src/main/resources/mappings/modules/onlineCarousel/VioIllegalMapper.xml" />
       <jump line="71" column="0" filename="C:/code/OnlineCarousel/src/main/java/com/htsite/modules/onlineCarousel/service/VioIllegalService.java" />
@@ -374,46 +373,47 @@
       <jump line="218" column="45" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" />
       <jump line="172" column="1" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" />
       <jump line="722" column="8" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
+      <jump line="1883" column="0" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fieldName</text>
+        <text>tableById</text>
       </register>
       <register name="-" type="4">
-        <text>fieldName</text>
+        <text>tableById</text>
       </register>
       <register name="/" type="4">
         <text>Name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbmYuaGFzT3duUHJvcGVydHkoJ2ZpZWxkcycpID09PSBmYWxzZSkgewogICAgICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGFibGVCeUlkLmJlZ2luRWRpdCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">5L+u5pS5IHNwcmluZyBzZWN1cml0eSDnmoQgaGVhZGVyIOS4rSBYLUZyYW1lLU9wdGlvbnM6IFNBTUVPUklHSU4g6L+Z5qC35Y+v5Lul6K6p56uZ5YaF5Y+v5Lul5L2/55SoIGlmcmFtZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpdGxlVGV4dDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNlY3VyaXR5OmZyYW1lLW9wdGlvbnMgcG9saWN5PSJTQU1FT1JJR0lOIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpdGxlVGV4dCA9IHRibE5ldy5nZXQoJ3RhYmxlQWxpYXMnKSArICcgKCAnICsgdGJsTmV3LmdldCgndGFibGVOYW1lJykgKyAnICknOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGZpZWxkTmFtZSA9IHNwbGl0WzFdOwo=</text>
+        <text encoding="base64">5L+u5pS5IHNwcmluZyBzZWN1cml0eSDnmoQgaGVhZGVyIOS4rSBYLUZyYW1lLU9wdGlvbnM6IFNBTUVPUklHSU4g6L+Z5qC35Y+v5Lul6K6p56uZ5YaF5Y+v5Lul5L2/55SoIGlmcmFtZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNlY3VyaXR5OmZyYW1lLW9wdGlvbnMgcG9saWN5PSJTQU1FT1JJR0lOIi8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGZpZWxkTmFtZSA9IHNwbGl0WzFdOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0YWJsZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB0YWJsZUFsaWFzTWFwID0ge307Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0YWJsZXMK</text>
       </register>
       <register name=":" type="4">
         <text>s/Name/Alias/g</text>
