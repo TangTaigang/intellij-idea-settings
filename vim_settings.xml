@@ -123,12 +123,12 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" timestamp="1536544878660">
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" timestamp="1536545718764">
         <mark key="'" line="143" column="1" />
-        <mark key="[" line="203" column="85" />
-        <mark key="]" line="203" column="91" />
-        <mark key="." line="203" column="91" />
-        <mark key="^" line="203" column="91" />
+        <mark key="[" line="157" column="58" />
+        <mark key="]" line="157" column="62" />
+        <mark key="." line="157" column="62" />
+        <mark key="^" line="157" column="62" />
       </file>
       <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedule/job-schedules.html" timestamp="1535428654282">
         <mark key="[" line="4" column="69" />
@@ -188,8 +188,8 @@
       <file name="/HTML File.txt.ft" timestamp="1536143010779">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536544382882">
-        <mark key="[" line="0" column="47" />
+      <file name="/Dummy.txt" timestamp="1536545992586">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="." line="0" column="47" />
       </file>
@@ -377,10 +377,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>id</text>
+        <text>fieldName</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>fieldName</text>
       </register>
       <register name="/" type="4">
         <text>Name</text>
