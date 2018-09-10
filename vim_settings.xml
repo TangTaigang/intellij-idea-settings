@@ -85,6 +85,7 @@
         <mark key="." line="5" column="1" />
       </file>
       <file name="C:/code/MagicSquareV1/src/main/resources/spring-security.xml" timestamp="1536539374822" />
+      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/TranslateService.java" timestamp="1536564878932" />
       <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/java/com/miras/data/storm/utils/WsClient.java" timestamp="1535361743044">
         <mark key="[" line="56" column="51" />
         <mark key="]" line="56" column="90" />
@@ -98,12 +99,12 @@
         <mark key="^" line="83" column="43" />
         <mark key="." line="83" column="43" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" timestamp="1536562827753">
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" timestamp="1536564475051">
         <mark key="'" line="694" column="42" />
-        <mark key="[" line="1749" column="0" />
-        <mark key="]" line="1749" column="0" />
-        <mark key="^" line="1753" column="30" />
-        <mark key="." line="1749" column="0" />
+        <mark key="[" line="1616" column="47" />
+        <mark key="]" line="1617" column="15" />
+        <mark key="^" line="1617" column="15" />
+        <mark key="." line="1617" column="15" />
       </file>
       <file name="C:/code/job-kylin-rebuild/pom.xml" timestamp="1535337515397">
         <mark key="[" line="16" column="21" />
@@ -189,7 +190,7 @@
       <file name="/HTML File.txt.ft" timestamp="1536143010779">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536560770146">
+      <file name="/Dummy.txt" timestamp="1536564470031">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="." line="0" column="47" />
