@@ -70,12 +70,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/view/config/dataset.html" timestamp="1536631570715">
+      <file name="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/view/config/dataset.html" timestamp="1536633661038">
         <mark key="'" line="108" column="146" />
-        <mark key="[" line="108" column="146" />
-        <mark key="]" line="108" column="146" />
-        <mark key="." line="108" column="146" />
-        <mark key="^" line="108" column="146" />
+        <mark key="[" line="107" column="36" />
+        <mark key="]" line="107" column="35" />
+        <mark key="." line="107" column="35" />
+        <mark key="^" line="107" column="35" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1535621226646">
         <mark key="[" line="5" column="1" />
@@ -122,8 +122,8 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" timestamp="1536632355901">
-        <mark key="'" line="215" column="35" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" timestamp="1536633527445">
+        <mark key="'" line="235" column="0" />
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="17" />
         <mark key="." line="4" column="17" />
@@ -187,7 +187,7 @@
       <file name="/HTML File.txt.ft" timestamp="1536143010779">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536564470031">
+      <file name="/Dummy.txt" timestamp="1536633674226">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="." line="0" column="47" />
@@ -272,7 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="C:/code/MagicSquareV1/src/main/resources/config.properties" />
       <jump line="40" column="40" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/kylin/KylinRebuildService.java" />
       <jump line="68" column="11" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/kylin/KylinRebuildService.java" />
       <jump line="43" column="3" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/kylin/KylinRebuildService.java" />
@@ -372,10 +371,11 @@
       <jump line="108" column="146" filename="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/view/config/dataset.html" />
       <jump line="1786" column="51" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
       <jump line="215" column="35" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" />
+      <jump line="235" column="0" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>123</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxpZnJhbWUgbmctc3JjPSJ7eydtb2RlbC9zcWxCdWlsZGVyLmh0bWw/ZGF0YVNldElkPScgKyBkYXRhc291cmNlLmlkICsgJyZfdj0nICsgZGF0YXNvdXJjZVRzfX0iLS0+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>123</text>
@@ -387,31 +387,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdXgucWIuZGF0YVNldElkID0gZXhlY1sxXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxpZnJhbWUgbmctc3JjPSJ7eydtb2RlbC9zcWxCdWlsZGVyLmh0bWw/ZGF0YVNldElkPScgKyBkYXRhc291cmNlLmlkICsgJyZfdj0nICsgZGF0YXNvdXJjZVRzfX0iLS0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsZWFySW50ZXJ2YWwocXVldWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZuKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsZWFySW50ZXJ2YWwocXVldWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm4oKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm4oKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtb2RlbC5nZXQoJ2tleScpID09PSAnUFJJJykgewogICAgICAgICAgICAgICAgICAgIHJldHVybiAnPHNwYW4gc3R5bGU9ImZvbnQtd2VpZ2h0OiBib2xkOyI+JyArIHZhbCArICc8L3NwYW4+ICcgKyBtb2RlbC5nZXQoJ2NoaW5lc2UnKSArICcgIDxzcGFuIHN0eWxlPSJjb2xvcjojYWFhOyI+JyArIG1vZGVsLmdldCgndHlwZScpICsgJzwvc3Bhbj4nOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtb2RlbC5nZXQoJ2tleScpID09PSAnUFJJJykgewogICAgICAgICAgICAgICAgICAgIHJldHVybiAnPHNwYW4gc3R5bGU9ImZvbnQtd2VpZ2h0OiBib2xkOyI+JyArIHZhbCArICc8L3NwYW4+ICcgKyBtb2RlbC5nZXQoJ2NoaW5lc2UnKSArICcgIDxzcGFuIHN0eWxlPSJjb2xvcjojYWFhOyI+JyArIG1vZGVsLmdldCgndHlwZScpICsgJzwvc3Bhbj4nOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9LCB7CiAgICAgICAgICAgIHh0eXBlOiAnZ3JpZGNvbHVtbicsCiAgICAgICAgICAgIGZsZXg6IDEsCiAgICAgICAgICAgIGRhdGFJbmRleDogJ2FsaWFzJywKICAgICAgICAgICAgcmVuZGVyZXI6IGZ1bmN0aW9uICh2YWwsIG1ldGEsIG1vZGVsKSB7CiAgICAgICAgICAgICAgICBpZiAobW9kZWwuZ2V0KCdrZXknKSA9PT0gJ1BSSScpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gJzxzcGFuIHN0eWxlPSJmb250LXdlaWdodDogYm9sZDsiPicgKyB2YWwgKyAnPC9zcGFuPiAgPHNwYW4gc3R5bGU9ImNvbG9yOiNhYWE7Ij4nICsgbW9kZWwuZ2V0KCd0eXBlJykgKyAnPC9zcGFuPic7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/Name/Alias/g</text>
