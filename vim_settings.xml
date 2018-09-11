@@ -122,8 +122,8 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" timestamp="1536631667199">
-        <mark key="'" line="170" column="12" />
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" timestamp="1536632355901">
+        <mark key="'" line="215" column="35" />
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="17" />
         <mark key="." line="4" column="17" />
@@ -272,7 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="59" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/dataprovider/druid/DruidDataProvider.java" />
       <jump line="19" column="0" filename="C:/code/MagicSquareV1/src/main/resources/config.properties" />
       <jump line="40" column="40" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/kylin/KylinRebuildService.java" />
       <jump line="68" column="11" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/kylin/KylinRebuildService.java" />
@@ -372,6 +371,7 @@
       <jump line="171" column="12" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" />
       <jump line="108" column="146" filename="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/view/config/dataset.html" />
       <jump line="1786" column="51" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
+      <jump line="215" column="35" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
