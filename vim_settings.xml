@@ -221,7 +221,7 @@
         <mark key="^" line="121" column="38" />
         <mark key="." line="121" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537168333622">
+      <file name="/Dummy.txt" timestamp="1537172319201">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="." line="0" column="47" />
@@ -232,12 +232,20 @@
         <mark key="^" line="34" column="29" />
         <mark key="." line="34" column="29" />
       </file>
+      <file name="C:/code/github/Lealone-Platform/.gitignore" timestamp="1537172310641">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="7" column="4" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+      </file>
       <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/dto/TableField.java" timestamp="1536143623713">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="^" line="20" column="7" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="C:/code/github/Lealone-Platform/lealone-vertx/src/main/java/org/lealone/vertx/LealoneHttpServer.java" timestamp="1537172412938" />
       <file name="C:/code/MagicSquareV1/src/main/resources/spring-security-cas.xml" timestamp="1536539469135">
         <mark key="[" line="31" column="35" />
         <mark key="]" line="31" column="36" />
@@ -306,7 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="38" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/KylinRebuildService.java" />
       <jump line="143" column="45" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/KylinRebuildService.java" />
       <jump line="930" column="0" filename="$USER_HOME$/Downloads/jetbrains-agent-v2018.2.2/jetbrains-agent-master/jetbrains-agent/fuck_the_regulations/j7.class" />
       <jump line="539" column="43" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/sourceMeta.js" />
@@ -406,6 +413,7 @@
       <jump line="47" column="81" filename="C:/code/mdh_data_6in1api/src/main/java/com/miras/data/api/mdh_data_6in1api/controller/ApiController.java" />
       <jump line="42" column="11" filename="C:/code/fast-test/pom.xml" />
       <jump line="0" column="0" filename="C:/code/fast-test/pom.xml" />
+      <jump line="0" column="0" filename="C:/code/github/Lealone-Platform/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
