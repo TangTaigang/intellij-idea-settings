@@ -47,6 +47,12 @@
         <mark key="." line="397" column="29" />
         <mark key="^" line="397" column="29" />
       </file>
+      <file name="C:/code/fast-test/src/main/java/DruidSegmentMeta.java" timestamp="1537169028684">
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="25" column="17" />
+        <mark key="." line="25" column="17" />
+        <mark key="^" line="19" column="118" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1535679489056">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -189,8 +195,12 @@
         <mark key="." line="10" column="1" />
         <mark key="^" line="10" column="1" />
       </file>
-      <file name="C:/code/fast-test/pom.xml" timestamp="1536740431635">
+      <file name="C:/code/fast-test/pom.xml" timestamp="1537166951399">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="22" column="18" />
+        <mark key="]" line="26" column="26" />
+        <mark key="." line="26" column="26" />
+        <mark key="^" line="26" column="26" />
       </file>
       <file name="C:/code/web-demo/src/main/webapp/WEB-INF/web.xml" timestamp="1536802057769">
         <mark key="[" line="45" column="22" />
@@ -211,7 +221,7 @@
         <mark key="^" line="121" column="38" />
         <mark key="." line="121" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536803820685">
+      <file name="/Dummy.txt" timestamp="1537168333622">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="." line="0" column="47" />
@@ -296,8 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="16" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/KylinRebuildService.java" />
-      <jump line="76" column="20" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/KylinRebuildService.java" />
       <jump line="87" column="38" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/KylinRebuildService.java" />
       <jump line="143" column="45" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/KylinRebuildService.java" />
       <jump line="930" column="0" filename="$USER_HOME$/Downloads/jetbrains-agent-v2018.2.2/jetbrains-agent-master/jetbrains-agent/fuck_the_regulations/j7.class" />
@@ -396,46 +404,48 @@
       <jump line="1801" column="0" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
       <jump line="206" column="0" filename="C:/code/mdh_data_6in1api/src/main/java/com/miras/data/api/mdh_data_6in1api/controller/ApiController.java" />
       <jump line="47" column="81" filename="C:/code/mdh_data_6in1api/src/main/java/com/miras/data/api/mdh_data_6in1api/controller/ApiController.java" />
+      <jump line="42" column="11" filename="C:/code/fast-test/pom.xml" />
+      <jump line="0" column="0" filename="C:/code/fast-test/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>WEB-INF/views/</text>
+        <text>L</text>
       </register>
       <register name="-" type="4">
-        <text>WEB-INF/views/</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text>Name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxtdmM6cmVzb3VyY2VzIG1hcHBpbmc9Ii9zdGF0aWMvKioiIGxvY2F0aW9uPSIvc3RhdGljLyIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBpZCA9IHJlc3VsdFNldC5nZXRTdHJpbmcoImlkIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxtdmM6cmVzb3VyY2VzIG1hcHBpbmc9Ii9XZS8qKiIgbG9jYXRpb249Ii9zdGF0aWMvIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBwYXlsb2FkU3RyID0gSGV4LmRlY28K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBwYXlMb2FkID0gcmVzdWx0U2V0LigiaWQiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICRnZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGUK</text>
       </register>
       <register name=":" type="4">
         <text>s/Name/Alias/g</text>
