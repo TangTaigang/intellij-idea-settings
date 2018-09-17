@@ -227,6 +227,13 @@
         <mark key="^" line="121" column="38" />
         <mark key="." line="121" column="38" />
       </file>
+      <file name="C:/code/github/Lealone-Platform/lealone-js/src/main/js/lealone-5.0.0.js" timestamp="1537195462112">
+        <mark key="'" line="206" column="0" />
+        <mark key="[" line="43" column="107" />
+        <mark key="]" line="43" column="107" />
+        <mark key="^" line="20" column="19" />
+        <mark key="." line="43" column="107" />
+      </file>
       <file name="/Dummy.txt" timestamp="1537172319201">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
@@ -320,7 +327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="45" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/KylinRebuildService.java" />
       <jump line="930" column="0" filename="$USER_HOME$/Downloads/jetbrains-agent-v2018.2.2/jetbrains-agent-master/jetbrains-agent/fuck_the_regulations/j7.class" />
       <jump line="539" column="43" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/sourceMeta.js" />
       <jump line="104" column="11" filename="C:/code/MagicSquareV1/src/main/webapp/model/index.html" />
@@ -420,13 +426,14 @@
       <jump line="42" column="11" filename="C:/code/fast-test/pom.xml" />
       <jump line="0" column="0" filename="C:/code/fast-test/pom.xml" />
       <jump line="0" column="0" filename="C:/code/github/Lealone-Platform/.gitignore" />
+      <jump line="213" column="0" filename="C:/code/github/Lealone-Platform/lealone-js/src/main/js/lealone-5.0.0.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3dhcChhcnIsIGksIDApOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Name</text>
