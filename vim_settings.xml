@@ -41,6 +41,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="52" />
       </file>
+      <file name="C:/code/fast-test/src/main/java/QuanPailei.java" timestamp="1537194630320">
+        <mark key="[" line="13" column="43" />
+        <mark key="]" line="14" column="29" />
+        <mark key="." line="14" column="29" />
+        <mark key="^" line="14" column="29" />
+      </file>
       <file name="C:/code/MagicSquareV1/src/main/webapp/i18n/cn/magicsquare.json" timestamp="1536291946482">
         <mark key="[" line="397" column="29" />
         <mark key="]" line="397" column="29" />
@@ -416,44 +422,44 @@
       <jump line="0" column="0" filename="C:/code/github/Lealone-Platform/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>L</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3dhcChhcnIsIGksIDApOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>Name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBpZCA9IHJlc3VsdFNldC5nZXRTdHJpbmcoImlkIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3dhcChhcnIsIGksIDApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHRlbXAgPSBhcnJbMF07CiAgICAgICAgICAgIGFyclswXSA9IGFycltpXTsKICAgICAgICAgICAgYXJyW2ldID0gdGVtcDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3YXAoYXJyW10pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBwYXlsb2FkU3RyID0gSGV4LmRlY28K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBwYXlMb2FkID0gcmVzdWx0U2V0LigiaWQiKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHRlbXAgPSBhcnJbaV07CiAgICAgICAgICAgIGFycltpXQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yICgpCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGUK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/Name/Alias/g</text>
