@@ -10,6 +10,7 @@
         <mark key="^" line="18" column="25" />
       </file>
       <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/splitflow/web/MonitorController.java" timestamp="1537234977196" />
+      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/db/web/ManagerController.java" timestamp="1537239883029" />
       <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/test.html" timestamp="1535439724960">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="7" column="10" />
@@ -90,6 +91,7 @@
         <mark key="^" line="13" column="13" />
       </file>
       <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/common/mapper/JsonMapper.java" timestamp="1537233762253" />
+      <file name="/CrowIndexService.java" timestamp="1537240120458" />
       <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/web/HomeController.java" timestamp="1537234386506" />
       <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/pojo/JobKylinRebuild.java" timestamp="1535339029771">
         <mark key="[" line="7" column="25" />
@@ -164,6 +166,7 @@
         <mark key="^" line="40" column="67" />
         <mark key="." line="40" column="67" />
       </file>
+      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/gen/web/GenTableController.java" timestamp="1537240220088" />
       <file name="C:/code/MDHTrafficDB/.gitignore" timestamp="1537231887533">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="2" column="5" />
@@ -228,7 +231,7 @@
       <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/InductionService.java" timestamp="1537233768283" />
       <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" timestamp="1537234880837" />
       <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/sys/utils/UserUtils.java" timestamp="1537234660693" />
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/web/CrowIndexController.java" timestamp="1537234787773" />
+      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/web/CrowIndexController.java" timestamp="1537240135000" />
       <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedule/job-schedules.html" timestamp="1535428654282">
         <mark key="[" line="4" column="69" />
         <mark key="]" line="4" column="69" />
@@ -245,7 +248,7 @@
       <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/gen/dao/GenDataBaseDictDao.java" timestamp="1537234200447" />
       <file name="C:/code/MDHTrafficDB/src/main/java/org/apache/ibatis/session/Configuration.java" timestamp="1537235019484" />
       <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/web/AccidentController.java" timestamp="1537234768908" />
-      <file name="/Dummy.txt" timestamp="1537238947043">
+      <file name="/Dummy.txt" timestamp="1537240046144">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="." line="0" column="47" />
@@ -262,18 +265,13 @@
         <mark key="." line="26" column="44" />
         <mark key="^" line="16" column="34" />
       </file>
-      <file name="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/web.xml" timestamp="1537236611120">
+      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/sys/web/LoginController.java" timestamp="1537240329779" />
+      <file name="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/web.xml" timestamp="1537239788732">
         <mark key="'" line="89" column="13" />
         <mark key="[" line="54" column="22" />
         <mark key="]" line="54" column="77" />
         <mark key="." line="54" column="77" />
         <mark key="^" line="54" column="77" />
-      </file>
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" timestamp="1537234826404">
-        <mark key="'" line="209" column="48" />
-        <mark key="[" line="209" column="37" />
-        <mark key="]" line="209" column="37" />
-        <mark key="." line="209" column="37" />
       </file>
       <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/sys/web/UserController.java" timestamp="1537234303470" />
       <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/common/supcan/treelist/TreeList.java" timestamp="1537234160375" />
