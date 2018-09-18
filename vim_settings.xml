@@ -9,8 +9,6 @@
         <mark key="." line="12" column="1" />
         <mark key="^" line="18" column="25" />
       </file>
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/splitflow/web/MonitorController.java" timestamp="1537234977196" />
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/db/web/ManagerController.java" timestamp="1537239883029" />
       <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/test.html" timestamp="1535439724960">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="7" column="10" />
@@ -22,6 +20,15 @@
         <mark key="]" line="15" column="26" />
         <mark key="." line="15" column="26" />
         <mark key="^" line="30" column="26" />
+      </file>
+      <file name="/trafficdb.crow_index_detail [trafficdb@192.168.101.141]" timestamp="1537242820456">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/code/MDHTrafficDB/.gitignore" timestamp="1537231887533">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="2" column="5" />
+        <mark key="^" line="2" column="5" />
+        <mark key="." line="2" column="5" />
       </file>
       <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/common/utils/excel/ExportExcel.java" timestamp="1537234494124">
         <mark key="[" line="436" column="14" />
@@ -40,13 +47,17 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="29" />
       </file>
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/splitflow/servcie/CheckPointService.java" timestamp="1537234237260" />
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/RoadService.java" timestamp="1537234359816" />
       <file name="C:/code/fast-test/src/main/java/DruidSegmentMeta.java" timestamp="1537169028684">
         <mark key="[" line="25" column="17" />
         <mark key="]" line="25" column="17" />
         <mark key="." line="25" column="17" />
         <mark key="^" line="19" column="118" />
+      </file>
+      <file name="C:/code/MagicSquareV1/src/main/webapp/i18n/cn/magicsquare.json" timestamp="1536291946482">
+        <mark key="[" line="397" column="29" />
+        <mark key="]" line="397" column="29" />
+        <mark key="." line="397" column="29" />
+        <mark key="^" line="397" column="29" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1535679489056">
         <mark key="[" line="2" column="0" />
@@ -54,136 +65,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="C:/code/MagicSquareV1/src/main/resources/template/config/query.vm" timestamp="1536289724855">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/view/config/dataset.html" timestamp="1536653192213">
-        <mark key="[" line="1" column="41" />
-        <mark key="]" line="1" column="69" />
-        <mark key="^" line="1" column="69" />
-        <mark key="." line="1" column="69" />
-      </file>
-      <file name="C:/code/fast-test/src/main/java/HexConvert.java" timestamp="1536739956289">
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="16" column="31" />
-        <mark key="." line="16" column="31" />
-        <mark key="^" line="16" column="31" />
-      </file>
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/dao/DeviceDao.java" timestamp="1537233901145" />
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/gen/web/GenSchemeController.java" timestamp="1537241023946" />
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/BaseService.java" timestamp="1537232875540">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="C:/code/web-demo/src/main/webapp/index.html" timestamp="1536802439469">
-        <mark key="[" line="24" column="69" />
-        <mark key="]" line="24" column="79" />
-        <mark key="." line="24" column="79" />
-        <mark key="^" line="24" column="79" />
-      </file>
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/common/supcan/annotation/common/properties/SupProperties.java" timestamp="1537233600602" />
-      <file name="C:/code/fast-test/src/main/java/NumberTests.java" timestamp="1535617109015">
-        <mark key="[" line="13" column="8" />
-        <mark key="]" line="13" column="13" />
-        <mark key="." line="13" column="13" />
-        <mark key="^" line="13" column="13" />
-      </file>
-      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/common/mapper/JsonMapper.java" timestamp="1537233762253" />
-      <file name="/CrowIndexService.java" timestamp="1537240120458" />
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/web/HomeController.java" timestamp="1537234386506" />
-      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/pojo/JobKylinRebuild.java" timestamp="1535339029771">
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="7" column="13" />
-        <mark key="^" line="7" column="13" />
-        <mark key="." line="7" column="13" />
-      </file>
-      <file name="C:/code/MagicSquareV1/src/main/webapp/model/routes.json" timestamp="1535439804621">
-        <mark key="[" line="8" column="6" />
-        <mark key="]" line="10" column="1" />
-        <mark key="." line="10" column="1" />
-        <mark key="^" line="10" column="1" />
-      </file>
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/dao/MonitorPointMapper.java" timestamp="1537236967366" />
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/sys/service/SystemService.java" timestamp="1537234269407" />
-      <file name="C:/code/web-demo/src/main/webapp/WEB-INF/web.xml" timestamp="1536802057769">
-        <mark key="[" line="45" column="22" />
-        <mark key="]" line="45" column="26" />
-        <mark key="." line="45" column="26" />
-        <mark key="^" line="45" column="26" />
-      </file>
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/DetectSpeedDataService.java" timestamp="1537233876732" />
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/common/persistence/interceptor/BaseInterceptor.java" timestamp="1537234026963" />
-      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/dao/KylinRebuildJobDao.java" timestamp="1535608006489">
-        <mark key="[" line="102" column="7" />
-        <mark key="]" line="102" column="10" />
-        <mark key="." line="102" column="10" />
-        <mark key="^" line="102" column="10" />
-      </file>
-      <file name="C:/code/MDHTrafficDB/src/main/resources/spring-mvc.xml" timestamp="1537236648718" />
-      <file name="C:/code/demo/pom.xml" timestamp="1536196123867">
-        <mark key="[" line="34" column="43" />
-        <mark key="]" line="34" column="29" />
-        <mark key="^" line="34" column="29" />
-        <mark key="." line="34" column="29" />
-      </file>
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/common/supcan/common/Common.java" timestamp="1537234078969" />
-      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/dto/TableField.java" timestamp="1536143623713">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="7" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/common/utils/StringUtils.java" timestamp="1537234502741">
-        <mark key="[" line="62" column="14" />
-        <mark key="]" line="62" column="14" />
-        <mark key="." line="62" column="14" />
-      </file>
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/common/web/BaseController.java" timestamp="1537233729649" />
-      <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/java/com/miras/data/storm/UploadJczhBolt.java" timestamp="1535360955849">
-        <mark key="[" line="486" column="54" />
-        <mark key="]" line="486" column="85" />
-        <mark key="." line="486" column="85" />
-        <mark key="^" line="486" column="85" />
-      </file>
-      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/util/CrossDomainFilter.java" timestamp="1536398236709">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/splitflow/servcie/KylinService.java" timestamp="1537234954629" />
-      <file name="C:/code/fast-test/.gitignore" timestamp="1535530651669">
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="6" column="4" />
-        <mark key="^" line="6" column="4" />
-        <mark key="." line="6" column="4" />
-      </file>
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/common/supcan/SupcanController.java" timestamp="1537234139751" />
-      <file name="C:/code/OnlineCarousel/src/main/java/com/htsite/common/jdbc/DynamicDataSource.java" timestamp="1535086018705">
-        <mark key="[" line="39" column="45" />
-        <mark key="]" line="40" column="67" />
-        <mark key="^" line="40" column="67" />
-        <mark key="." line="40" column="67" />
-      </file>
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/gen/web/GenTableController.java" timestamp="1537240220088" />
-      <file name="C:/code/MDHTrafficDB/.gitignore" timestamp="1537231887533">
-        <mark key="[" line="1" column="5" />
-        <mark key="]" line="2" column="5" />
-        <mark key="^" line="2" column="5" />
-        <mark key="." line="2" column="5" />
-      </file>
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/web/FlowController.java" timestamp="1537233859219" />
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/common/persistence/dialect/db/H2Dialect.java" timestamp="1537233999325" />
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/common/persistence/proxy/PaginationMapperProxy.java" timestamp="1537235087964" />
-      <file name="C:/code/MagicSquareV1/src/main/webapp/i18n/cn/magicsquare.json" timestamp="1536291946482">
-        <mark key="[" line="397" column="29" />
-        <mark key="]" line="397" column="29" />
-        <mark key="." line="397" column="29" />
-        <mark key="^" line="397" column="29" />
-      </file>
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/common/persistence/proxy/PaginationMapperRegistry.java" timestamp="1537235054829" />
       <file name="C:/code/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1536195984042">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="59" />
@@ -196,12 +77,28 @@
         <mark key="." line="35" column="39" />
         <mark key="^" line="35" column="39" />
       </file>
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/common/utils/JedisUtils.java" timestamp="1537236214903" />
+      <file name="C:/code/MagicSquareV1/src/main/resources/template/config/query.vm" timestamp="1536289724855">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/view/config/dataset.html" timestamp="1536653192213">
+        <mark key="[" line="1" column="41" />
+        <mark key="]" line="1" column="69" />
+        <mark key="^" line="1" column="69" />
+        <mark key="." line="1" column="69" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1535621226646">
         <mark key="[" line="5" column="1" />
         <mark key="]" line="5" column="1" />
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="1" />
+      </file>
+      <file name="C:/code/fast-test/src/main/java/HexConvert.java" timestamp="1536739956289">
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="16" column="31" />
+        <mark key="." line="16" column="31" />
+        <mark key="^" line="16" column="31" />
       </file>
       <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/java/com/miras/data/storm/utils/WsClient.java" timestamp="1535361743044">
         <mark key="[" line="56" column="51" />
@@ -221,38 +118,89 @@
         <mark key="." line="179" column="14" />
         <mark key="^" line="168" column="21" />
       </file>
+      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/BaseService.java" timestamp="1537232875540">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="C:/code/web-demo/src/main/webapp/index.html" timestamp="1536802439469">
+        <mark key="[" line="24" column="69" />
+        <mark key="]" line="24" column="79" />
+        <mark key="." line="24" column="79" />
+        <mark key="^" line="24" column="79" />
+      </file>
       <file name="C:/code/web-demo/src/main/java/com/demo/DemoBean.java" timestamp="1536800103891">
         <mark key="[" line="7" column="24" />
         <mark key="]" line="9" column="41" />
         <mark key="^" line="9" column="41" />
         <mark key="." line="9" column="41" />
       </file>
-      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/syncInterface/utils/HttpBackendFilter.java" timestamp="1537236431798" />
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/web/DeviceController.java" timestamp="1537234930151" />
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/InductionService.java" timestamp="1537233768283" />
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" timestamp="1537234880837" />
-      <file name="C:/code/shanghefenghui/MDHTrafficSplitflow/src/main/java/com/htsite/modules/sys/utils/UserUtils.java" timestamp="1537234660693" />
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/web/CrowIndexController.java" timestamp="1537240135000" />
+      <file name="C:/code/fast-test/src/main/java/NumberTests.java" timestamp="1535617109015">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+        <mark key="^" line="13" column="13" />
+      </file>
       <file name="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedule/job-schedules.html" timestamp="1535428654282">
         <mark key="[" line="4" column="69" />
         <mark key="]" line="4" column="69" />
         <mark key="." line="4" column="69" />
         <mark key="^" line="4" column="69" />
       </file>
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/dao/ESDao.java" timestamp="1537233965609" />
       <file name="$APPLICATION_CONFIG_DIR$/idea.exe.vmoptions" timestamp="1535515076830">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="6" column="11" />
         <mark key="^" line="6" column="11" />
         <mark key="." line="6" column="11" />
       </file>
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/gen/dao/GenDataBaseDictDao.java" timestamp="1537234200447" />
-      <file name="C:/code/MDHTrafficDB/src/main/java/org/apache/ibatis/session/Configuration.java" timestamp="1537235019484" />
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/web/AccidentController.java" timestamp="1537234768908" />
-      <file name="/Dummy.txt" timestamp="1537242471216">
+      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/pojo/JobKylinRebuild.java" timestamp="1535339029771">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="13" />
+        <mark key="^" line="7" column="13" />
+        <mark key="." line="7" column="13" />
+      </file>
+      <file name="C:/code/MagicSquareV1/src/main/webapp/model/routes.json" timestamp="1535439804621">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="10" column="1" />
+        <mark key="." line="10" column="1" />
+        <mark key="^" line="10" column="1" />
+      </file>
+      <file name="C:/code/web-demo/src/main/webapp/WEB-INF/web.xml" timestamp="1536802057769">
+        <mark key="[" line="45" column="22" />
+        <mark key="]" line="45" column="26" />
+        <mark key="." line="45" column="26" />
+        <mark key="^" line="45" column="26" />
+      </file>
+      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/dao/KylinRebuildJobDao.java" timestamp="1535608006489">
+        <mark key="[" line="102" column="7" />
+        <mark key="]" line="102" column="10" />
+        <mark key="." line="102" column="10" />
+        <mark key="^" line="102" column="10" />
+      </file>
+      <file name="/dummy.sql" timestamp="1537242822283">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/code/demo/pom.xml" timestamp="1536196123867">
+        <mark key="[" line="34" column="43" />
+        <mark key="]" line="34" column="29" />
+        <mark key="^" line="34" column="29" />
+        <mark key="." line="34" column="29" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1537242913907">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="." line="0" column="47" />
+      </file>
+      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/dto/TableField.java" timestamp="1536143623713">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="7" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/common/utils/StringUtils.java" timestamp="1537234502741">
+        <mark key="[" line="62" column="14" />
+        <mark key="]" line="62" column="14" />
+        <mark key="." line="62" column="14" />
       </file>
       <file name="C:/code/MagicSquareV1/src/main/resources/spring-security-cas.xml" timestamp="1536539469135">
         <mark key="[" line="31" column="35" />
@@ -266,7 +214,12 @@
         <mark key="." line="26" column="44" />
         <mark key="^" line="16" column="34" />
       </file>
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/sys/web/LoginController.java" timestamp="1537240329779" />
+      <file name="C:/code/MDH_DATA/mdh_data_kafka_storm_jczh/src/main/java/com/miras/data/storm/UploadJczhBolt.java" timestamp="1535360955849">
+        <mark key="[" line="486" column="54" />
+        <mark key="]" line="486" column="85" />
+        <mark key="." line="486" column="85" />
+        <mark key="^" line="486" column="85" />
+      </file>
       <file name="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/web.xml" timestamp="1537239788732">
         <mark key="'" line="89" column="13" />
         <mark key="[" line="54" column="22" />
@@ -274,8 +227,18 @@
         <mark key="." line="54" column="77" />
         <mark key="^" line="54" column="77" />
       </file>
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/sys/web/UserController.java" timestamp="1537234303470" />
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/common/supcan/treelist/TreeList.java" timestamp="1537234160375" />
+      <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/util/CrossDomainFilter.java" timestamp="1536398236709">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" timestamp="1537242894170" />
+      <file name="C:/code/fast-test/.gitignore" timestamp="1535530651669">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="6" column="4" />
+        <mark key="^" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+      </file>
       <file name="C:/code/job-kylin-rebuild/src/main/java/com/huitong/miras/magicsquare/kylin/KylinRebuildJob.java" timestamp="1535337444940">
         <mark key="[" line="7" column="27" />
         <mark key="]" line="8" column="7" />
@@ -294,6 +257,12 @@
         <mark key="^" line="129" column="27" />
         <mark key="." line="129" column="27" />
       </file>
+      <file name="C:/code/OnlineCarousel/src/main/java/com/htsite/common/jdbc/DynamicDataSource.java" timestamp="1535086018705">
+        <mark key="[" line="39" column="45" />
+        <mark key="]" line="40" column="67" />
+        <mark key="^" line="40" column="67" />
+        <mark key="." line="40" column="67" />
+      </file>
       <file name="C:/code/job-kylin-rebuild/src/main/resources/application.properties" timestamp="1535337488872">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="26" />
@@ -303,7 +272,6 @@
       <file name="/fragment.java" timestamp="1537240936767">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/dao/TrafficAreaStatMapper.java" timestamp="1537233822347" />
     </filemarks>
     <jumps>
       <jump line="144" column="34" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleList.html" />
