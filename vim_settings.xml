@@ -5,7 +5,14 @@
     <filemarks>
       <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/common/persistence/Page.java" timestamp="1537348090687" />
       <file name="/basicNodeList2.jsp" timestamp="1537404748579" />
-      <file name="/Dummy.txt" timestamp="1537339669209">
+      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" timestamp="1537410393808">
+        <mark key="'" line="74" column="13" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="12" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="76" column="33" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1537410132596">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="." line="0" column="47" />
@@ -76,6 +83,10 @@
         <mark key="." line="19" column="107" />
         <mark key="^" line="23" column="90" />
       </file>
+      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" timestamp="1537410388465">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="12" />
+      </file>
       <file name="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicLinkList.jsp" timestamp="1537328047415">
         <mark key="[" line="32" column="18" />
         <mark key="]" line="32" column="27" />
@@ -103,7 +114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="21" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleList.html" />
       <jump line="145" column="0" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleList.html" />
       <jump line="44" column="26" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleList.html" />
       <jump line="0" column="0" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/model/tableConCtrl.js" />
@@ -203,46 +213,47 @@
       <jump line="36" column="40" filename="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/splitflow/config/pointList.jsp" />
       <jump line="63" column="36" filename="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/splitflow/config/pointList.jsp" />
       <jump line="10" column="70" filename="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/view/config/dataset.html" />
+      <jump line="72" column="13" filename="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8b3V0cHV0RGlyZWN0b3J5Pk06L21hdmVuLyR7cHJvamVjdC5iYXNlZGlyfTwvb3V0cHV0RGlyZWN0b3J5Pgo=</text>
+        <text encoding="base64">QExhenkoZmFsc2UpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>outputDirectory</text>
+        <text>'refre'</text>
       </register>
       <register name="/" type="4">
         <text>per</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8b3V0cHV0RGlyZWN0b3J5Pk06L21hdmVuLyR7cHJvamVjdC5hcnRpZmFjdElkfTwvb3V0cHV0RGlyZWN0b3J5PgogICAgICAgIDxkaXJlY3Rvcnk+TTovbWF2ZW48L2RpcmVjdG9yeT4K</text>
+        <text encoding="base64">QExhenkoZmFsc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8b3V0cHV0RGlyZWN0b3J5Pk06L21hdmVuLyR7cHJvamVjdC5iYXNlZGlyfTwvb3V0cHV0RGlyZWN0b3J5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8Pk06L21hdmVuLyR7cHJvamVjdC5iYXNlZGlyfTwvb3U+Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDmr48gMyDliIbpkp/lkIzmraXkuIDmrKHmlbDmja7lupMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgMEwsIDNMLCBUaW1lVW5pdC5NSU5VVEVTKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgID8gc3FsIDogcXVlcnlPYmouc3FsICsgJyAnOwo=</text>
+        <text encoding="base64">ICAgICAgICBzeW5jRnJvbURiVGFzay5zY2hlZHVsZUF0Rml4ZWRSYXRlKCgpIC0+IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL+mhteeggeeahOWPguaVsOWQjeensO+8jOm7mOiupO+8mnBhZ2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoInBhZ2UiLCBwYWdlKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU2NoZWR1bGVkRXhlY3V0b3JTZXJ2aWNlIHN5bmNGcm9tRGJUYXNrID0gRXhlY3V0b3JzLm5ld1NpbmdsZVRocmVhZFNjaGVkdWxlZEV4ZWN1dG9yKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9IHsibGlzdCJ9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVzb2x1dGlvbnM6IHJlc29sdXRpb25zLAogICAgICAgICAgICAgICAgICAgICAgICBtYXRyaXhJZHM6IG1hdHJpeElkcwogICAgICAgICAgICAgICAgICAgIH0pLAogICAgICAgICAgICAgICAgICAgIHN0eWxlOiAnJHtmbnM6Z2V0Q29uZmlnKCd3bXRzLnN0eWxlJyl9JwoKICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgb3NtbGF5ZXIgPSBuZXcgb2wubGF5ZXIuVGlsZSgKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgc291cmNlOiBuZXcgb2wuc291cmNlLldNVFMoewogICAgICAgICAgICAgICAgICAgIHVybDogJyR7Zm5zOmdldENvbmZpZygnd210cy51cmwnKX0nLAogICAgICAgICAgICAgICAgICAgIGxheWVyOiAnJHtmbnM6Z2V0Q29uZmlnKCd3bXRzLmxheWVyJyl9JywKICAgICAgICAgICAgICAgICAgICBtYXRyaXhTZXQ6ICcke2ZuczpnZXRDb25maWcoJ3dtdHMubWF0cml4U2V0Jyl9JywKICAgICAgICAgICAgICAgICAgICBmb3JtYXQ6ICcke2ZuczpnZXRDb25maWcoJ3dtdHMuZm9ybWF0Jyl9JywKICAgICAgICAgICAgICAgICAgICBwcm9qZWN0aW9uOiBwcm9qZWN0aW9uLAogICAgICAgICAgICAgICAgICAgIHRpbGVHcmlkOiBuZXcgb2wudGlsZWdyaWQuV01UUyh7CiAgICAgICAgICAgICAgICAgICAgICAgIG9yaWdpbjogb2wuZXh0ZW50LmdldFRvcExlZnQocHJvamVjdGlvbkV4dGVudCksCg==</text>
+        <text encoding="base64">ICAgIEBQcmVEZXN0cm95CiAgICBwdWJsaWMgdm9pZCBiZWZvcmVEZXN0cm95KCkgewogICAgICAgIHN5bmNGcm9tRGJUYXNrLnNodXRkb3duKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/Name/Alias/g</text>
