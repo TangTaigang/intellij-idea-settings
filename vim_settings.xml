@@ -44,12 +44,12 @@
         <mark key="^" line="28" column="51" />
         <mark key="." line="30" column="73" />
       </file>
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/web/BasicNodeController.java" timestamp="1537430813866">
-        <mark key="'" line="51" column="41" />
-        <mark key="[" line="54" column="34" />
-        <mark key="]" line="54" column="34" />
-        <mark key="." line="54" column="34" />
-        <mark key="^" line="55" column="36" />
+      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/web/BasicNodeController.java" timestamp="1537432478232">
+        <mark key="'" line="51" column="4" />
+        <mark key="[" line="49" column="8" />
+        <mark key="]" line="49" column="7" />
+        <mark key="^" line="49" column="7" />
+        <mark key="." line="49" column="7" />
       </file>
       <file name="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicLinkList.jsp" timestamp="1537328047415">
         <mark key="[" line="32" column="18" />
@@ -60,7 +60,8 @@
       <file name="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/splitflow/config/pointList.jsp" timestamp="1537328688894">
         <mark key="'" line="63" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537430819331">
+      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/sys/utils/DictUtils.java" timestamp="1537432394168" />
+      <file name="/Dummy.txt" timestamp="1537433001394">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="." line="0" column="47" />
@@ -124,7 +125,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="42" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleList.html" />
       <jump line="250" column="59" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/config.js" />
       <jump line="116" column="21" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/job.js" />
       <jump line="47" column="33" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleList.html" />
@@ -224,46 +224,47 @@
       <jump line="89" column="103" filename="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicNodeList2.jsp" />
       <jump line="59" column="41" filename="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/web/BasicNodeController.java" />
       <jump line="143" column="26" filename="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicNodeList2.jsp" />
+      <jump line="67" column="4" filename="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/web/BasicNodeController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;CROSS_TYPE&quot;</text>
+        <text>nodeList</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;CROSS_TYPE&quot;</text>
+        <text>nodeList</text>
       </register>
       <register name="/" type="4">
         <text>per</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG5vZGVUeXBlOyAgICAgICAgLy8g5Lqk5Y+J5Y+j57G75Z6LCg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PERpY3Q+IGRpY3RMaXN0ID0gRGljdFV0aWxzLmdldERpY3RMaXN0KCJDUk9TU19UWVBFIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9NYXAoRGljdDo6Z2V0VmFsdWUsIERpY3Q6OmdldExhYmVsKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAgICAgLy8gbG9hZCBkaWN0IHR5cGUgbmFtZQogICAgICAgIE1hcDxTdHJpbmcsIFN0cmluZz4gZGljdE1hcCA9IERpY3RVdGlscy5nZXREaWN0TGlzdCgiQ1JPU1NfVFlQRSIpLnN0cmVhbSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLm1hcCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PERpY3Q+IGNyb3NzX3R5cGUgPSAK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PERpY3Q+IGRpY3RMaXN0ID0gRGljdFV0aWxzLmdldERpY3RMaXN0KCJDUk9TU19UWVBFIik7CiAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBkaWN0TWFwID0gbmV3IEhhc2hNYXA8PihkaWN0TGlzdC5zaXplKCkgKyA1KTsKICAgICAgICBmb3IgKERpY3QgZGljdCA6IGRpY3RMaXN0KSB7CiAgICAgICAgICAgIGRpY3RNYXAucHV0KGRpY3QuZ2V0VmFsdWUoKSwgZGljdC5nZXRMYWJlbCgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkaWN0LnNldFR5cGUoIkNST1NTX1RZUEUiKTsK</text>
+        <text encoding="base64">CiAgICBAUmVzb3VyY2UKICAgIHByaXZhdGUgRGljdFNlcnZpY2UgZGljdFNlcnZpY2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBEaWN0IGNyb3NzVHlwZSA9IG5ldyBEaWN0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBEaWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBjcm9zc1R5cGUuc2V0VHlwZSgiQ1JPU1NfVFlQRSIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9wb2ludGRpY3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/Name/Alias/g</text>
