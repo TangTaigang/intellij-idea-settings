@@ -17,12 +17,12 @@
         <mark key="." line="33" column="36" />
         <mark key="^" line="33" column="36" />
       </file>
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/web/BasicMonitorController.java" timestamp="1537500892531">
-        <mark key="'" line="62" column="84" />
-        <mark key="[" line="105" column="63" />
-        <mark key="]" line="105" column="63" />
-        <mark key="." line="105" column="63" />
-        <mark key="^" line="107" column="61" />
+      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/web/BasicMonitorController.java" timestamp="1537510112154">
+        <mark key="'" line="64" column="4" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="37" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="106" column="61" />
       </file>
       <file name="C:/code/MDHTrafficDB/pom.xml" timestamp="1537498881305">
         <mark key="[" line="408" column="0" />
@@ -65,7 +65,13 @@
         <mark key="." line="32" column="27" />
         <mark key="^" line="32" column="27" />
       </file>
-      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/service/BasicMonitorService.java" timestamp="1537500800581">
+      <file name="C:/code/MDHTrafficDB/src/main/resources/mappings/modules/basic_data/BasicMonitorDao.xml" timestamp="1537510653460">
+        <mark key="[" line="87" column="32" />
+        <mark key="]" line="87" column="32" />
+        <mark key="." line="87" column="32" />
+        <mark key="^" line="22" column="27" />
+      </file>
+      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/service/BasicMonitorService.java" timestamp="1537509493409">
         <mark key="[" line="54" column="15" />
         <mark key="]" line="54" column="25" />
         <mark key="." line="54" column="25" />
@@ -89,12 +95,12 @@
       </file>
       <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/dao/RoadItemMapper.java" timestamp="1537430679121" />
       <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/entity/BasicZone.java" timestamp="1537499586248" />
-      <file name="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicMonitorList.jsp" timestamp="1537501492100">
-        <mark key="'" line="385" column="0" />
-        <mark key="[" line="155" column="50" />
-        <mark key="]" line="155" column="51" />
-        <mark key="." line="155" column="51" />
-        <mark key="^" line="156" column="59" />
+      <file name="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicMonitorList.jsp" timestamp="1537510985393">
+        <mark key="'" line="95" column="31" />
+        <mark key="[" line="163" column="20" />
+        <mark key="]" line="163" column="23" />
+        <mark key="^" line="163" column="23" />
+        <mark key="." line="163" column="23" />
       </file>
       <file name="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/util/CrossDomainFilter.java" timestamp="1536398236709">
         <mark key="[" line="20" column="0" />
@@ -107,11 +113,11 @@
         <mark key="." line="4" column="15" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/db/manager/index.jsp" timestamp="1537343291700">
-        <mark key="[" line="19" column="107" />
-        <mark key="]" line="19" column="107" />
-        <mark key="." line="19" column="107" />
-        <mark key="^" line="23" column="90" />
+      <file name="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/db/manager/index.jsp" timestamp="1537508842443">
+        <mark key="[" line="30" column="99" />
+        <mark key="]" line="30" column="99" />
+        <mark key="." line="30" column="99" />
+        <mark key="^" line="30" column="104" />
       </file>
       <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/CrowIndexService.java" timestamp="1537410388465">
         <mark key="[" line="40" column="0" />
@@ -141,9 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="33" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleList.html" />
-      <jump line="51" column="29" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleDetail.html" />
-      <jump line="403" column="35" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/directives/datetimepicker.js" />
       <jump line="78" column="9" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleList.html" />
       <jump line="79" column="35" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleList.html" />
       <jump line="31" column="16" filename="C:/code/MagicSquareV1/src/main/webapp/model/partials/job-schedules/jobScheduleList.html" />
@@ -241,65 +244,65 @@
       <jump line="67" column="4" filename="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/web/BasicNodeController.java" />
       <jump line="388" column="0" filename="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicMonitorList.jsp" />
       <jump line="63" column="84" filename="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/web/BasicMonitorController.java" />
+      <jump line="249" column="52" filename="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicMonitorList.jsp" />
+      <jump line="65" column="4" filename="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/web/BasicMonitorController.java" />
+      <jump line="95" column="31" filename="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicMonitorList.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>node</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>node</text>
       </register>
       <register name="/" type="4">
-        <text>per</text>
+        <text>Id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ZmllbGQ6ICd0aXRsZScsIHRpdGxlOiAn5pON5L2cJywgd2lkdGg6ICIyMiUiLCB0ZW1wbGV0OiAnI3RpdGxlVHBsJywgYWxpZ246ICJjZW50ZXIifQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgbmFtZT0ibW9uaUlkIiBpZD0ibW9uaUlkIiBjbGFzcz0ibGF5dWktaW5wdXQiIGF1dG9jb21wbGV0ZT0ib2ZmIj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ZmllbGQ6ICJ6b25lSWQiLCB3aWR0aDogIjEzJSIsIHRpdGxlOiAi5omA5bGe5bCP5Yy657yW5Y+3Iiwgc29ydGFibGU6ICJ0cnVlIiwgYWxpZ246ICJjZW50ZXIifSwKICAgICAgICAgICAgICAgICAgICB7ZmllbGQ6ICd0aXRsZScsIHRpdGxlOiAn5pON5L2cJywgd2lkdGg6ICIyMiUiLCB0ZW1wbGV0OiAnI3RpdGxlVHBsJywgYWxpZ246ICJjZW50ZXIifQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L3NlbGVjdD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ZmllbGQ6ICJub2RlVHlwZVRleHQiLCB3aWR0aDogIjEzJSIsIHRpdGxlOiAi6K6+5pa957G75Z6LIiwgc29ydGFibGU6ICJ0cnVlIiwgYWxpZ246ICJjZW50ZXIifSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9jOmZvckVhY2g+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ZmllbGQ6ICJub2RlTmFtZSIsIHdpZHRoOiAiMTMlIiwgdGl0bGU6ICLorr7mlr3lkI3np7AiLCBzb3J0YWJsZTogInRydWUiLCBhbGlnbjogImNlbnRlciJ9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c2VsZWN0IHR5cGU9InRleHQiIG5hbWU9Im1vbmlPYmoiIGlkPSJtb25pT2JqIiBjbGFzcz0ibGF5dWktaW5wdXQiPgogICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIiPuivt+mAieaLqeiuvuaWveS9jee9rjwvb3B0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8Yzpmb3JFYWNoIGl0ZW1zPSIke2ZuczpnZXREaWN0TGlzdCgnREVWSUNFX0xPQycpfSIgdmFyPSJkaWN0Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IiR7ZGljdC52YWx1ZX0iPiR7ZGljdC5sYWJlbH08L29wdGlvbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gSQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGxheWVyLm1zZygi6K6+5pa957yW5Y+35LiN6IO95Li656m6Iik7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRNZXNzYWdlKHJlZGlyZWN0QXR0cmlidXRlcywgIuWIoOmZpGJhc2ljX2RhdGHmiJDlip8iKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJCgiI2lkIikudmFsKCkpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gInJlZGlyZWN0OiIgKyBHbG9iYWwuZ2V0QWRtaW5QYXRoKCkgKyAiL2Jhc2ljX2RhdGEvYmFzaWNNb25pdG9yLz9yZXBhZ2UiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGpzb24ubW9uaUlkKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbWFwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGIgPSBbIm5vZGVJZCIsICJub2RlTmFtZSIsICJub2RlVHlwZSIsICJsb24iLCAibGF0IiwgInpvbmVJZCJdOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNYXAgbWFwID0gbmV3IEhhc2hNYXAoKTsK</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJ1cGRhdGUiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAucHV0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ZmllbGQ6ICJ6b25lSWQiLCB3aWR0aDogIjEzJSIsIHRpdGxlOiAi5omA5bGe5bCP5Yy657yW5Y+3Iiwgc29ydGFibGU6ICJ0cnVlIiwgYWxpZ246ICJjZW50ZXIifSwKICAgICAgICAgICAgICAgICAgICB7ZmllbGQ6ICd0aXRsZScsIHRpdGxlOiAn5pON5L2cJywgd2lkdGg6ICIyMiUiLCB0ZW1wbGV0OiAnI3RpdGxlVHBsJywgYWxpZ246ICJjZW50ZXIifQo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/Name/Alias/g</text>
+        <text>s/Id/Obj/g</text>
       </register>
     </registers>
     <search>
-      <last-search>per</last-search>
+      <last-search>Id</last-search>
       <last-offset />
-      <last-pattern>per</last-pattern>
-      <last-replace>Alias</last-replace>
-      <last-substitute>Name</last-substitute>
+      <last-pattern>Id</last-pattern>
+      <last-replace>Obj</last-replace>
+      <last-substitute>Id</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>9080</entry>
-        <entry>i</entry>
-        <entry>\t</entry>
         <entry>0</entry>
         <entry>from</entry>
         <entry>insertVehicleInfo</entry>
@@ -317,11 +320,11 @@
         <entry>username</entry>
         <entry>Name</entry>
         <entry>per</entry>
+        <entry>node</entry>
+        <entry>Loc</entry>
+        <entry>Id</entry>
       </history-search>
       <history-cmd>
-        <entry>s/0/2/g</entry>
-        <entry>s/0/3/g</entry>
-        <entry>s/,/\r,/g</entry>
         <entry encoding="base64">PDM4Myw0MTk+ZGQ=</entry>
         <entry>s/ /,/g</entry>
         <entry>s/from/to/g</entry>
@@ -339,6 +342,9 @@
         <entry>s/end/start/g</entry>
         <entry>s/username/driver/g</entry>
         <entry>s/Name/Alias/g</entry>
+        <entry>s/node/moni/g</entry>
+        <entry>s/Loc/Obj/g</entry>
+        <entry>s/Id/Obj/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
