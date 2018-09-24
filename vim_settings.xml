@@ -144,6 +144,12 @@
         <mark key="^" line="48" column="14" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE.jar!/org/springframework/web/SpringServletContainerInitializer.class" timestamp="1537761779427" />
+      <file name="C:/code/test-mybatis/pom.xml" timestamp="1537762162392">
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="21" column="25" />
+        <mark key="^" line="21" column="25" />
+        <mark key="." line="21" column="25" />
+      </file>
       <file name="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicMonitorList.jsp" timestamp="1537516774496">
         <mark key="'" line="276" column="22" />
         <mark key="[" line="279" column="20" />
@@ -279,11 +285,11 @@
       <jump line="36" column="21" filename="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/web/BasicOdController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QEVuYWJsZUMK</text>
+      <register name="&quot;" type="4">
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>www.example.com</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>Type</text>
