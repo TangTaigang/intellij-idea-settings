@@ -34,6 +34,9 @@
             <Goal>
               <option name="commandLine" value="clean install" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="tomcat7:run" />
+            </Goal>
           </list>
         </option>
       </Goals>
