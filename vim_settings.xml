@@ -15,9 +15,6 @@
         <mark key="." line="29" column="46" />
         <mark key="^" line="29" column="46" />
       </file>
-      <file name="/a.dummy" timestamp="1537841760627">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicMonitorList.jsp" timestamp="1537854488727">
         <mark key="[" line="133" column="37" />
         <mark key="]" line="133" column="43" />
@@ -82,9 +79,6 @@
         <mark key="^" line="14" column="153" />
         <mark key="." line="14" column="153" />
       </file>
-      <file name="C:/code/learn-mybatis/src/main/java/com/kischn/learnmybatis/LearnMybatisApplication.java" timestamp="1537783517592">
-        <mark key="[" line="6" column="38" />
-      </file>
       <file name="C:/code/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1538030293442">
         <mark key="[" line="8" column="44" />
         <mark key="]" line="9" column="38" />
@@ -105,6 +99,7 @@
         <mark key="^" line="4" column="14" />
       </file>
       <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/web/CrowIndexController.java" timestamp="1538032993034" />
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/sys/utils/DictUtils.java" timestamp="1538039629028" />
       <file name="C:/code/mybatis-test/src/main/java/com/kischn/BootstrapServlet.java" timestamp="1537761781160">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="6" column="73" />
@@ -140,11 +135,6 @@
         <mark key="]" line="21" column="25" />
         <mark key="^" line="21" column="25" />
         <mark key="." line="21" column="25" />
-      </file>
-      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/sys/web/OfficeController.java" timestamp="1537847522465">
-        <mark key="[" line="162" column="42" />
-        <mark key="]" line="162" column="42" />
-        <mark key="." line="162" column="42" />
       </file>
       <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/resources/htsite.properties" timestamp="1538035504457">
         <mark key="[" line="14" column="92" />
@@ -188,9 +178,6 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="C:/code/mybatis-test/src/main/java/com/kischn/App.java" timestamp="1537762052580">
-        <mark key="[" line="4" column="3" />
-      </file>
       <file name="C:/code/MDHTrafficDB/pom.xml" timestamp="1537498881305">
         <mark key="[" line="408" column="0" />
         <mark key="]" line="408" column="28" />
@@ -221,13 +208,20 @@
         <mark key="^" line="28" column="51" />
         <mark key="." line="30" column="73" />
       </file>
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/common/persistence/interceptor/BaseInterceptor.java" timestamp="1538040007210" />
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/common/persistence/interceptor/PaginationInterceptor.java" timestamp="1538040643825">
+        <mark key="[" line="72" column="31" />
+        <mark key="]" line="104" column="36" />
+        <mark key="." line="104" column="36" />
+        <mark key="^" line="104" column="36" />
+      </file>
       <file name="C:/code/learn-mybatis/src/main/java/com/kischn/learnmybatis/dao/TestDao.java" timestamp="1537862328081">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="18" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="19" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538030404020">
+      <file name="/Dummy.txt" timestamp="1538040595528">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -243,11 +237,6 @@
         <mark key="]" line="5" column="4" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="5" column="4" />
-      </file>
-      <file name="C:/code/BIGDATA/MDHTrafficDB/pom.xml" timestamp="1537839275869">
-        <mark key="[" line="33" column="29" />
-        <mark key="]" line="33" column="30" />
-        <mark key="." line="33" column="30" />
       </file>
       <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/dao/RoadItemMapper.java" timestamp="1538033539827" />
       <file name="C:/code/learn-mybatis/pom.xml" timestamp="1537783389372">
@@ -281,6 +270,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.18/druid-1.0.18-sources.jar!/com/alibaba/druid/pool/DruidAbstractDataSource.java" timestamp="1538039874778">
+        <mark key="'" line="1089" column="8" />
       </file>
       <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/dao/BasicOdDao.java" timestamp="1537518109644">
         <mark key="[" line="18" column="52" />
@@ -318,6 +310,7 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/production-resources/htsite.properties" timestamp="1538038949702" />
       <file name="C:/code/learn-hibernate/src/main/java/com/kischn/learnhibernate/bean/Person.java" timestamp="1537861105689">
         <mark key="[" line="17" column="12" />
         <mark key="]" line="17" column="19" />
@@ -330,9 +323,6 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="33" column="34" />
       </file>
-      <file name="/fragment.java" timestamp="1537866165028">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/entity/BasicMonitor.java" timestamp="1537501226436">
         <mark key="[" line="33" column="5" />
         <mark key="]" line="35" column="36" />
@@ -341,7 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="61" filename="C:/code/MagicSquareV1/src/main/webapp/model/components/angular-bootstrap-datetimepicker/src/js/datetimepicker.js" />
       <jump line="146" column="0" filename="C:/code/MagicSquareV1/src/main/webapp/model/js/controllers/job-schedule.js" />
       <jump line="216" column="20" filename="C:/code/MagicSquareV1/pom.xml" />
       <jump line="318" column="18" filename="C:/code/MagicSquareV1/pom.xml" />
@@ -441,46 +430,47 @@
       <jump line="9" column="5" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/traffic_monitor/illegal/list.jsp" />
       <jump line="359" column="23" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/traffic_monitor/illegal/list.jsp" />
       <jump line="10" column="0" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/dao/IllegalDataDao.java" />
+      <jump line="1089" column="8" filename="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.18/druid-1.0.18-sources.jar!/com/alibaba/druid/pool/DruidAbstractDataSource.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>数据查询页面链接修改以及添加权限</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>数据查询页面链接修改以及添加权限</text>
       </register>
       <register name="/" type="4">
         <text>Type</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YVNvdXJjZS5zZXRkYXRhU291cmNlVHdvKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZ2VTcWwgPSBTUUxIZWxwZXIuZ2VuZXJhdGVQYWdlU3FsKG9yaWdpbmFsU3FsLCBwYWdlLCBESUFMRUNUKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPcmFjbGVEaWFsZWN0IG9yYWNsZURpYWxlY3QgPSBuZXcgT3JhY2xlRGlhbGVjdCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNeVNRTERpYWxlY3QgZGlhbGVjdCA9IG5ldyBNeVNRTERpYWxlY3QoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFnZS5zZXRMaXN0KGlsbGVnYWxEYXRhRGFvLmZpbmRMaXN0KGlsbGVnYWxEYXRhKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGF0YVNvdXJjZSBiZWFuID0gU3ByaW5nQ29udGV4dEhvbGRlci5nZXRCZWFuKER5bmFtaWNEYXRhU291cmNlLmdldEN1cnJlbnRMb29rdXBLZXkoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWxsZWdhbERhdGEuc2V0UGFnZShwYWdlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YVNvdXJjZS5zZXRkYXRhU291cmNlVHdvKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFnZVNxbCA9IFNRTEhlbHBlci5nZW5lcmF0ZVBhZ2VTcWwob3JpZ2luYWxTcWwsIHBhZ2UsIERJQUxFQ1QpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGFnZTxJbGxlZ2FsRGF0YT4gcGFnZSA9IG5ldyBQYWdlPD4ocmVxdWVzdCwgcmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBESUFMRUNUID0gbmV3IE15U1FMRGlhbGVjdCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICBEeW5hbWljRGF0YVNvdXJjZS5zZXRkYXRhU291cmNlT25lKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBESUFMRUNUID0gbmV3IE9yYWNsZURpYWxlY3QoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/Type/Loca/g</text>
