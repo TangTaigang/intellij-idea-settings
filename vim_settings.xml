@@ -91,12 +91,11 @@
         <mark key="^" line="14" column="33" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/traffic_monitor/illegal/list.jsp" timestamp="1538033270318">
-        <mark key="'" line="281" column="23" />
-        <mark key="[" line="199" column="0" />
-        <mark key="]" line="199" column="0" />
-        <mark key="." line="40" column="61" />
-        <mark key="^" line="4" column="14" />
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/traffic_monitor/illegal/list.jsp" timestamp="1538098289477">
+        <mark key="[" line="2261" column="30" />
+        <mark key="]" line="2261" column="30" />
+        <mark key="^" line="385" column="14" />
+        <mark key="." line="2261" column="30" />
       </file>
       <file name="C:/code/mybatis-test/src/main/java/com/kischn/BootstrapServlet.java" timestamp="1537761781160">
         <mark key="[" line="6" column="30" />
@@ -427,10 +426,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>数据查询页面链接修改以及添加权限</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>数据查询页面链接修改以及添加权限</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>Type</text>
