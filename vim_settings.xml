@@ -104,12 +104,12 @@
         <mark key="^" line="14" column="33" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/traffic_monitor/illegal/list.jsp" timestamp="1538210624944">
-        <mark key="'" line="104" column="123" />
-        <mark key="[" line="27" column="4" />
-        <mark key="]" line="27" column="29" />
-        <mark key="." line="27" column="29" />
-        <mark key="^" line="27" column="29" />
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/traffic_monitor/illegal/list.jsp" timestamp="1538212379912">
+        <mark key="'" line="101" column="51" />
+        <mark key="[" line="171" column="16" />
+        <mark key="]" line="171" column="21" />
+        <mark key="." line="171" column="21" />
+        <mark key="^" line="171" column="21" />
       </file>
       <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/sys/utils/DictUtils.java" timestamp="1538206295054" />
       <file name="C:/code/mybatis-test/src/main/java/com/kischn/BootstrapServlet.java" timestamp="1537761781160">
@@ -346,7 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1219" column="36" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
       <jump line="1843" column="11" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
       <jump line="174" column="8" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
       <jump line="1830" column="38" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
@@ -446,63 +445,63 @@
       <jump line="55" column="68" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/traffic_monitor/illegal/list.jsp" />
       <jump line="241" column="73" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicLinkList.jsp" />
       <jump line="104" column="123" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/traffic_monitor/illegal/list.jsp" />
+      <jump line="101" column="51" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/traffic_monitor/illegal/list.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0b2RvICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>Type</text>
+        <text>font</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWU6IG5ldyBEYXRlKG5ldyBEYXRlKCkuZ2V0VGltZSgpICsgMTAwMCAqIDYwICogNjAgKiA4KS50b0lTT1N0cmluZygpLnJlcGxhY2UoL14oW1xkLV0rKVQuKyQvLCAiJDEgMjM6NTk6NTkiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3BhbiBpZD0idl9jY2FybnVtYmVyIj48L3NwYW4+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWU6IDAK</text>
+        <text encoding="base64">ICAgICAgICB0b2RvICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgbGF5ZGF0ZSA9IGxheXVpLmxheWRhdGU7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCVAIHBhZ2UgY29udGVudFR5cGU9InRleHQvaHRtbDtjaGFyc2V0PVVURi04IiAlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2xhYmVsPgo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImxheXVpLWZvcm0tbGFiZWwiPgo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAg5Y+354mM5Y+356CBOgo=</text>
+        <text encoding="base64">ICAgIC8qCiAgICAKICAgICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAg5Y+354mM5Y+356CBOgo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICoK</text>
       </register>
       <register name=":" type="4">
-        <text>s/Type/Loca/g</text>
+        <text>s/font/span/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Type</last-search>
+      <last-search>font</last-search>
       <last-offset />
-      <last-pattern>Type</last-pattern>
-      <last-replace>Loca</last-replace>
-      <last-substitute>Type</last-substitute>
+      <last-pattern>font</last-pattern>
+      <last-replace>span</last-replace>
+      <last-substitute>font</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>insertVehicleInfo</entry>
         <entry encoding="base64">IA==</entry>
         <entry>2</entry>
         <entry>1</entry>
@@ -522,9 +521,9 @@
         <entry>Id</entry>
         <entry>&quot;m</entry>
         <entry>Type</entry>
+        <entry>font</entry>
       </history-search>
       <history-cmd>
-        <entry>s/insertVehicleInfo/initSystem/g</entry>
         <entry>s/ //g</entry>
         <entry>s/2/3/g</entry>
         <entry>s/1/2/g</entry>
@@ -544,6 +543,7 @@
         <entry>s/&quot;m/&quot;vm/g</entry>
         <entry>/s/Type/Loca/g</entry>
         <entry>s/Type/Loca/g</entry>
+        <entry>s/font/span/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
