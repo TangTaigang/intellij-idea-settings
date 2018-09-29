@@ -104,11 +104,12 @@
         <mark key="^" line="14" column="33" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/traffic_monitor/illegal/list.jsp" timestamp="1538208267064">
-        <mark key="[" line="84" column="34" />
-        <mark key="]" line="83" column="58" />
-        <mark key="." line="83" column="58" />
-        <mark key="^" line="83" column="58" />
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/traffic_monitor/illegal/list.jsp" timestamp="1538210624944">
+        <mark key="'" line="104" column="123" />
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="27" column="29" />
+        <mark key="." line="27" column="29" />
+        <mark key="^" line="27" column="29" />
       </file>
       <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/sys/utils/DictUtils.java" timestamp="1538206295054" />
       <file name="C:/code/mybatis-test/src/main/java/com/kischn/BootstrapServlet.java" timestamp="1537761781160">
@@ -153,11 +154,11 @@
         <mark key="^" line="14" column="126" />
         <mark key="." line="14" column="126" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/db/search/index.jsp" timestamp="1538032493767">
-        <mark key="[" line="39" column="90" />
-        <mark key="]" line="39" column="91" />
-        <mark key="^" line="39" column="91" />
-        <mark key="." line="39" column="91" />
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/db/search/index.jsp" timestamp="1538210550768">
+        <mark key="[" line="80" column="68" />
+        <mark key="]" line="80" column="68" />
+        <mark key="^" line="80" column="68" />
+        <mark key="." line="80" column="68" />
       </file>
       <file name="C:/code/learn-spring/src/main/java/com/kischn/ls/controller/TestController.java" timestamp="1537856624822">
         <mark key="[" line="15" column="26" />
@@ -165,7 +166,7 @@
         <mark key="^" line="16" column="28" />
         <mark key="." line="16" column="28" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/web/IllegalController.java" timestamp="1538208370958">
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/web/IllegalController.java" timestamp="1538210274473">
         <mark key="[" line="59" column="12" />
         <mark key="]" line="59" column="18" />
         <mark key="." line="59" column="18" />
@@ -237,7 +238,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="19" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538208063310">
+      <file name="/Dummy.txt" timestamp="1538210645116">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -345,7 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1114" column="26" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
       <jump line="1219" column="36" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
       <jump line="1843" column="11" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
       <jump line="174" column="8" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
@@ -445,13 +445,14 @@
       <jump line="590" column="23" filename="C:/code/BIGDATA/trafficCP/src/main/webapp/WEB-INF/views/modules/trafficcontrol/cctv/search.jsp" />
       <jump line="55" column="68" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/traffic_monitor/illegal/list.jsp" />
       <jump line="241" column="73" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicLinkList.jsp" />
+      <jump line="104" column="123" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/traffic_monitor/illegal/list.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>Type</text>
