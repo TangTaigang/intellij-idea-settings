@@ -26,6 +26,7 @@
         <mark key="." line="133" column="43" />
         <mark key="^" line="133" column="43" />
       </file>
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/common/elasticsearch/EsClientBuilder.java" timestamp="1538977170383" />
       <file name="C:/code/learn-mybatis/src/main/resources/application.properties" timestamp="1537757636049">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="51" />
@@ -148,11 +149,11 @@
         <mark key="^" line="21" column="25" />
         <mark key="." line="21" column="25" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/resources/htsite.properties" timestamp="1538035504457">
-        <mark key="[" line="14" column="92" />
-        <mark key="]" line="14" column="126" />
-        <mark key="^" line="14" column="126" />
-        <mark key="." line="14" column="126" />
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/resources/htsite.properties" timestamp="1538977326540">
+        <mark key="[" line="255" column="26" />
+        <mark key="]" line="255" column="27" />
+        <mark key="^" line="255" column="27" />
+        <mark key="." line="255" column="27" />
       </file>
       <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/db/search/index.jsp" timestamp="1538210550768">
         <mark key="[" line="80" column="68" />
@@ -238,7 +239,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="19" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538297400239">
+      <file name="/Dummy.txt" timestamp="1538976789133">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -446,11 +447,11 @@
       <jump line="101" column="51" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/traffic_monitor/illegal/list.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1vZGUK</text>
+      <register name="&quot;" type="4">
+        <text>huitong</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>huitong</text>
       </register>
       <register name="/" type="4">
         <text>font</text>
