@@ -224,12 +224,6 @@
         <mark key="^" line="28" column="51" />
         <mark key="." line="30" column="73" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/dao/DetectSpeedDataDao.java" timestamp="1539141056661">
-        <mark key="[" line="91" column="71" />
-        <mark key="]" line="91" column="78" />
-        <mark key="." line="91" column="78" />
-        <mark key="^" line="91" column="78" />
-      </file>
       <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/common/persistence/interceptor/PaginationInterceptor.java" timestamp="1538100336777">
         <mark key="[" line="73" column="124" />
         <mark key="]" line="73" column="136" />
