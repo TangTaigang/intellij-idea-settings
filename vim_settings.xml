@@ -93,7 +93,6 @@
         <mark key="^" line="14" column="153" />
         <mark key="." line="14" column="153" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/DetectSpeedDataService.java" timestamp="1539140406475" />
       <file name="C:/code/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1538030293442">
         <mark key="[" line="8" column="44" />
         <mark key="]" line="9" column="38" />
@@ -149,8 +148,6 @@
         <mark key="^" line="21" column="25" />
         <mark key="." line="21" column="25" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/entity/BasicBus.java" timestamp="1539133995218" />
-      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/web/BasicBusController.java" timestamp="1539134332593" />
       <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/resources/htsite.properties" timestamp="1538977326540">
         <mark key="[" line="255" column="26" />
         <mark key="]" line="255" column="27" />
@@ -217,7 +214,6 @@
         <mark key="." line="140" column="36" />
         <mark key="^" line="140" column="36" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/web/ESController.java" timestamp="1539140387660" />
       <file name="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicNodeForm.jsp" timestamp="1537327240149">
         <mark key="[" line="30" column="73" />
         <mark key="]" line="30" column="73" />
@@ -242,7 +238,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="19" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539160618339">
+      <file name="/Dummy.txt" timestamp="1539226365114">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -298,7 +294,6 @@
         <mark key="^" line="18" column="65" />
         <mark key="." line="18" column="65" />
       </file>
-      <file name="/BasicBus.java" timestamp="1539133825708" />
       <file name="C:/code/BIGDATA/trafficCP/src/main/webapp/WEB-INF/views/modules/trafficcontrol/cctv/search.jsp" timestamp="1538201730444">
         <mark key="'" line="590" column="23" />
       </file>
