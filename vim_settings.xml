@@ -26,6 +26,12 @@
         <mark key="." line="133" column="43" />
         <mark key="^" line="133" column="43" />
       </file>
+      <file name="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/HdfsService.java" timestamp="1539569257010">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="54" />
+        <mark key="^" line="15" column="3" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="C:/code/learn-mybatis/src/main/resources/application.properties" timestamp="1537757636049">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="51" />
@@ -38,12 +44,12 @@
         <mark key="." line="12" column="76" />
         <mark key="^" line="12" column="76" />
       </file>
-      <file name="C:/code/BIGDATA/MagicSquareV1/pom.xml" timestamp="1538191907239">
+      <file name="C:/code/BIGDATA/MagicSquareV1/pom.xml" timestamp="1539570993742">
         <mark key="'" line="151" column="47" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="^" line="138" column="25" />
-        <mark key="." line="140" column="0" />
+        <mark key="[" line="392" column="21" />
+        <mark key="]" line="392" column="25" />
+        <mark key="." line="392" column="25" />
+        <mark key="^" line="392" column="25" />
       </file>
       <file name="C:/code/learn-mybatis/src/test/java/com/kischn/learnmybatis/LearnMybatisApplicationTests.java" timestamp="1537784386217">
         <mark key="[" line="31" column="57" />
@@ -93,11 +99,21 @@
         <mark key="^" line="14" column="153" />
         <mark key="." line="14" column="153" />
       </file>
+      <file name="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/persist/excel/XLSX2CSV.java" timestamp="1539569790025">
+        <mark key="'" line="287" column="11" />
+      </file>
       <file name="C:/code/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1538030293442">
         <mark key="[" line="8" column="44" />
         <mark key="]" line="9" column="38" />
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
+      </file>
+      <file name="C:/code/BIGDATA/MagicSquareV1/src/main/resources/config.properties" timestamp="1539570908633">
+        <mark key="'" line="20" column="6" />
+        <mark key="[" line="67" column="9" />
+        <mark key="]" line="67" column="122" />
+        <mark key="^" line="67" column="122" />
+        <mark key="." line="67" column="122" />
       </file>
       <file name="C:/code/learn-spring/src/main/resources/springmvc-servlet.xml" timestamp="1537858110605">
         <mark key="[" line="15" column="0" />
@@ -123,6 +139,12 @@
         <mark key="]" line="21" column="47" />
         <mark key="." line="21" column="47" />
         <mark key="^" line="21" column="47" />
+      </file>
+      <file name="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/persist/excel/Excel2CSV.java" timestamp="1539570128557">
+        <mark key="[" line="79" column="49" />
+        <mark key="]" line="79" column="49" />
+        <mark key="." line="79" column="49" />
+        <mark key="^" line="79" column="49" />
       </file>
       <file name="C:/code/learn-mybatis/src/main/resources/application.yml" timestamp="1537759278972">
         <mark key="[" line="4" column="10" />
@@ -225,12 +247,12 @@
         <mark key="." line="140" column="36" />
         <mark key="^" line="140" column="36" />
       </file>
-      <file name="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" timestamp="1539567955384">
+      <file name="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" timestamp="1539570957043">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="28" column="53" />
-        <mark key="]" line="28" column="15" />
-        <mark key="^" line="28" column="15" />
-        <mark key="." line="28" column="52" />
+        <mark key="[" line="26" column="22" />
+        <mark key="]" line="26" column="22" />
+        <mark key="." line="26" column="22" />
+        <mark key="^" line="26" column="22" />
       </file>
       <file name="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicNodeForm.jsp" timestamp="1537327240149">
         <mark key="[" line="30" column="73" />
@@ -368,8 +390,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1830" column="38" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
-      <jump line="142" column="8" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" />
       <jump line="1877" column="27" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
       <jump line="290" column="47" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
       <jump line="18" column="20" filename="C:/code/fast-test/src/main/java/Test2.java" />
@@ -468,46 +488,48 @@
       <jump line="101" column="51" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/traffic_monitor/illegal/list.jsp" />
       <jump line="55" column="40" filename="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" />
       <jump line="1" column="0" filename="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" />
+      <jump line="287" column="11" filename="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/persist/excel/XLSX2CSV.java" />
+      <jump line="20" column="6" filename="C:/code/BIGDATA/MagicSquareV1/src/main/resources/config.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1.2.0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1.2.0</text>
       </register>
       <register name="/" type="4">
         <text>font</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJlYWRPbmx5ID0gdHJ1ZSwgcHJvcGFnYXRpb24gPSBQcm9wYWdhdGlvbi5SRVFVSVJFU19ORVcpCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBoZWFkZXJzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFJlc3BvbnNlQm9keQpAUmVzdENvbnRyb2xsZXIK</text>
+        <text encoding="base64">ICBqZGJjOmhpdmU6Ly8xMC4wLjYuMTAxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIvZXhjZWwiKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL3RvZG8g5byA5Y+R5rWL6K+V55So5YC8CiAgICAgICAgaWxsZWdhbEluZGV4LnNldERpbGxlZ2FsZGF0ZSgiMjAxNi0wNS0xOSIpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkbCBjbGFzcz0ibGF5dWktbmF2LWNoaWxkIj4K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDop6PmnpDliJflkI0KICAgICAgICAgICAgICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiBoZWFkZXI7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiBoZWFkZXI7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOino+aekOWIl+WQjQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICA8L2RsPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJsYXl1aS1uYXYtaXRlbSI+PGEgaHJlZj0iamF2YXNjcmlwdDo7Ij48Y2l0ZT7ln7rnoYDmlbDmja48L2NpdGU+PHNwYW4gY2xhc3M9ImxheXVpLW5hdi1tb3JlIj48L3NwYW4+PC9hPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlYWRlciA9IEV4Y2VsMkNTVi5nZXRDc3YoZmlsZS5nZXRPcmlnaW5hbEZpbGVuYW1lKCksIGZpbGUuZ2V0SW5wdXRTdHJlYW0oKSwgb3V0aGRmcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/font/span/g</text>
