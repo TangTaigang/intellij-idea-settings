@@ -44,12 +44,12 @@
         <mark key="." line="12" column="76" />
         <mark key="^" line="12" column="76" />
       </file>
-      <file name="C:/code/BIGDATA/MagicSquareV1/pom.xml" timestamp="1539575437896">
+      <file name="C:/code/BIGDATA/MagicSquareV1/pom.xml" timestamp="1539584950462">
         <mark key="'" line="151" column="47" />
-        <mark key="[" line="392" column="25" />
-        <mark key="]" line="392" column="26" />
-        <mark key="." line="392" column="26" />
+        <mark key="[" line="392" column="21" />
+        <mark key="]" line="392" column="25" />
         <mark key="^" line="392" column="25" />
+        <mark key="." line="392" column="25" />
       </file>
       <file name="C:/code/learn-mybatis/src/test/java/com/kischn/learnmybatis/LearnMybatisApplicationTests.java" timestamp="1537784386217">
         <mark key="[" line="31" column="57" />
@@ -108,12 +108,12 @@
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="C:/code/BIGDATA/MagicSquareV1/src/main/resources/config.properties" timestamp="1539570908633">
-        <mark key="'" line="20" column="6" />
-        <mark key="[" line="67" column="9" />
-        <mark key="]" line="67" column="122" />
-        <mark key="^" line="67" column="122" />
-        <mark key="." line="67" column="122" />
+      <file name="C:/code/BIGDATA/MagicSquareV1/src/main/resources/config.properties" timestamp="1539585451100">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="65" column="55" />
+        <mark key="]" line="65" column="68" />
+        <mark key="^" line="65" column="68" />
+        <mark key="." line="65" column="68" />
       </file>
       <file name="C:/code/learn-spring/src/main/resources/springmvc-servlet.xml" timestamp="1537858110605">
         <mark key="[" line="15" column="0" />
@@ -128,6 +128,7 @@
         <mark key="." line="171" column="21" />
         <mark key="^" line="171" column="21" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/2.6.0/curator-recipes-2.6.0.pom" timestamp="1539583277323" />
       <file name="C:/code/mybatis-test/src/main/java/com/kischn/BootstrapServlet.java" timestamp="1537761781160">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="6" column="73" />
@@ -247,12 +248,14 @@
         <mark key="." line="140" column="36" />
         <mark key="^" line="140" column="36" />
       </file>
-      <file name="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" timestamp="1539570957043">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="26" column="22" />
-        <mark key="]" line="26" column="22" />
-        <mark key="." line="26" column="22" />
-        <mark key="^" line="26" column="22" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/2.7.1/curator-framework-2.7.1-sources.jar!/org/apache/curator/framework/imps/NamespaceImpl.java" timestamp="1539583207045">
+        <mark key="'" line="17" column="2" />
+      </file>
+      <file name="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" timestamp="1539585484284">
+        <mark key="[" line="102" column="41" />
+        <mark key="]" line="102" column="43" />
+        <mark key="." line="102" column="43" />
+        <mark key="^" line="102" column="43" />
       </file>
       <file name="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicNodeForm.jsp" timestamp="1537327240149">
         <mark key="[" line="30" column="73" />
@@ -301,6 +304,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="5" column="4" />
       </file>
+      <file name="C:/code/BIGDATA/MagicSquareV1/src/main/resources/core-site.xml" timestamp="1539583971118" />
       <file name="C:/code/learn-mybatis/pom.xml" timestamp="1537783389372">
         <mark key="[" line="37" column="21" />
         <mark key="]" line="36" column="26" />
@@ -328,6 +332,7 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.18/druid-1.0.18-sources.jar!/com/alibaba/druid/pool/DruidAbstractDataSource.java" timestamp="1538039874778">
         <mark key="'" line="1089" column="8" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.1/hadoop-common-2.6.1.pom" timestamp="1539583253677" />
       <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/dao/BasicOdDao.java" timestamp="1537518109644">
         <mark key="[" line="18" column="52" />
         <mark key="]" line="18" column="65" />
@@ -390,10 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1877" column="27" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
-      <jump line="290" column="47" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
-      <jump line="18" column="20" filename="C:/code/fast-test/src/main/java/Test2.java" />
-      <jump line="182" column="78" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/DashSetController.java" />
       <jump line="111" column="66" filename="C:/code/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/DatasetService.java" />
       <jump line="225" column="72" filename="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/view/config/dataset.html" />
       <jump line="70" column="39" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" />
@@ -490,46 +491,50 @@
       <jump line="1" column="0" filename="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" />
       <jump line="287" column="11" filename="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/persist/excel/XLSX2CSV.java" />
       <jump line="20" column="6" filename="C:/code/BIGDATA/MagicSquareV1/src/main/resources/config.properties" />
+      <jump line="65" column="0" filename="C:/code/BIGDATA/MagicSquareV1/src/main/resources/config.properties" />
+      <jump line="66" column="0" filename="$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/2.7.1/curator-framework-2.7.1-sources.jar!/org/apache/curator/framework/imps/NamespaceImpl.java" />
+      <jump line="17" column="2" filename="$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/2.7.1/curator-framework-2.7.1-sources.jar!/org/apache/curator/framework/imps/NamespaceImpl.java" />
+      <jump line="67" column="11" filename="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1.2.0</text>
+        <text>2.3.2</text>
       </register>
       <register name="-" type="4">
-        <text>1.2.0</text>
+        <text>2.3.2</text>
       </register>
       <register name="/" type="4">
         <text>font</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBoZWFkZXJzCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBoZWFkZXJzICAg5YiXCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBqZGJjOmhpdmU6Ly8xMC4wLjYuMTAxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEZpbGVOb3RGb3VuZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewoKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDop6PmnpDliJflkI0KICAgICAgICAgICAgICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiBoZWFkZXI7Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4g5Yib5bu65L+h5oGvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiBoZWFkZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOino+aekOWIl+WQjQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgaGl2ZVRhYmxlIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlYWRlciA9IEV4Y2VsMkNTVi5nZXRDc3YoZmlsZS5nZXRPcmlnaW5hbEZpbGVuYW1lKCksIGZpbGUuZ2V0SW5wdXRTdHJlYW0oKSwgb3V0aGRmcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEwuaW5mbygiIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/font/span/g</text>
