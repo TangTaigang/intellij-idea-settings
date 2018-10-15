@@ -225,6 +225,13 @@
         <mark key="." line="140" column="36" />
         <mark key="^" line="140" column="36" />
       </file>
+      <file name="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" timestamp="1539567955384">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="28" column="53" />
+        <mark key="]" line="28" column="15" />
+        <mark key="^" line="28" column="15" />
+        <mark key="." line="28" column="52" />
+      </file>
       <file name="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicNodeForm.jsp" timestamp="1537327240149">
         <mark key="[" line="30" column="73" />
         <mark key="]" line="30" column="73" />
@@ -361,8 +368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1843" column="11" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
-      <jump line="174" column="8" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
       <jump line="1830" column="38" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
       <jump line="142" column="8" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder.html" />
       <jump line="1877" column="27" filename="C:/code/MagicSquareV1/src/main/webapp/model/sqlBuilder/ux/window/VisualSQLQueryBuilder.js" />
@@ -461,13 +466,15 @@
       <jump line="241" column="73" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicLinkList.jsp" />
       <jump line="104" column="123" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/traffic_monitor/illegal/list.jsp" />
       <jump line="101" column="51" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/traffic_monitor/illegal/list.jsp" />
+      <jump line="55" column="40" filename="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" />
+      <jump line="1" column="0" filename="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL3RvZG8g5byA5Y+R5rWL6K+V55So5YC8CiAgICAgICAgaWxsZWdhbEluZGV4LnNldERpbGxlZ2FsZGF0ZSgiMjAxNi0wNS0xOSIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>合并菜单</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>font</text>
@@ -476,31 +483,31 @@
         <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJlYWRPbmx5ID0gdHJ1ZSwgcHJvcGFnYXRpb24gPSBQcm9wYWdhdGlvbi5SRVFVSVJFU19ORVcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL3RvZG8g5byA5Y+R5rWL6K+V55So5YC8CiAgICAgICAgaWxsZWdhbEluZGV4LnNldERpbGxlZ2FsZGF0ZSgiMjAxNi0wNS0xOSIpOwo=</text>
+        <text encoding="base64">QFJlc3BvbnNlQm9keQpAUmVzdENvbnRyb2xsZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkbCBjbGFzcz0ibGF5dWktbmF2LWNoaWxkIj4K</text>
+        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIvZXhjZWwiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICA8L2RsPgo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJsYXl1aS1uYXYtaXRlbSI+PGEgaHJlZj0iamF2YXNjcmlwdDo7Ij48Y2l0ZT7ln7rnoYDmlbDmja48L2NpdGU+PHNwYW4gY2xhc3M9ImxheXVpLW5hdi1tb3JlIj48L3NwYW4+PC9hPgo=</text>
+        <text encoding="base64">ICAgICAgICAvL3RvZG8g5byA5Y+R5rWL6K+V55So5YC8CiAgICAgICAgaWxsZWdhbEluZGV4LnNldERpbGxlZ2FsZGF0ZSgiMjAxNi0wNS0xOSIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9saT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkbCBjbGFzcz0ibGF5dWktbmF2LWNoaWxkIj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICApIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0IDEgZnJvbSB0ZXN0IHdoZXJlIG5hbWUgPSAK</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA8L2RsPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I3toZWxsb30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJsYXl1aS1uYXYtaXRlbSI+PGEgaHJlZj0iamF2YXNjcmlwdDo7Ij48Y2l0ZT7ln7rnoYDmlbDmja48L2NpdGU+PHNwYW4gY2xhc3M9ImxheXVpLW5hdi1tb3JlIj48L3NwYW4+PC9hPgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/font/span/g</text>
