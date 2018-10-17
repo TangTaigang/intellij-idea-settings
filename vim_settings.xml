@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/code/java11/src/Application.java" timestamp="1538317170947">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="C:/code/learn-hibernate/src/main/java/com/kischn/learnhibernate/controller/PersonController.java" timestamp="1537861849098">
         <mark key="[" line="36" column="58" />
         <mark key="]" line="38" column="59" />
@@ -159,11 +154,6 @@
         <mark key="^" line="22" column="43" />
         <mark key="." line="22" column="43" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/schedule/IllegalIndexSchedule.java" timestamp="1539421735033">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
       <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/service/BasicOdService.java" timestamp="1537521958975">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="36" />
@@ -294,7 +284,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="19" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539738456098">
+      <file name="/Dummy.txt" timestamp="1539738791605">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -509,11 +499,11 @@
       <jump line="71" column="46" filename="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/util/Base16.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGRmc1N0cmVhbS5mbHVzaCgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>font</text>
