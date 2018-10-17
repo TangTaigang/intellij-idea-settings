@@ -3,6 +3,42 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/code/learn-hibernate/src/main/java/com/kischn/learnhibernate/controller/PersonController.java" timestamp="1537861849098">
+        <mark key="[" line="36" column="58" />
+        <mark key="]" line="38" column="59" />
+        <mark key="." line="38" column="59" />
+        <mark key="^" line="38" column="59" />
+      </file>
+      <file name="C:/code/learn-hibernate/pom.xml" timestamp="1537793933127">
+        <mark key="[" line="43" column="21" />
+        <mark key="]" line="29" column="46" />
+        <mark key="." line="29" column="46" />
+        <mark key="^" line="29" column="46" />
+      </file>
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicMonitorList.jsp" timestamp="1537854488727">
+        <mark key="[" line="133" column="37" />
+        <mark key="]" line="133" column="43" />
+        <mark key="." line="133" column="43" />
+        <mark key="^" line="133" column="43" />
+      </file>
+      <file name="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/HdfsService.java" timestamp="1539569257010">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="54" />
+        <mark key="^" line="15" column="3" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="C:/code/learn-mybatis/src/main/resources/application.properties" timestamp="1537757636049">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="51" />
+        <mark key="^" line="0" column="51" />
+        <mark key="." line="0" column="51" />
+      </file>
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/include/taglib.jsp" timestamp="1538115440732">
+        <mark key="[" line="12" column="76" />
+        <mark key="]" line="12" column="76" />
+        <mark key="." line="12" column="76" />
+        <mark key="^" line="12" column="76" />
+      </file>
       <file name="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/DataElementController.java" timestamp="1539674992914" />
       <file name="C:/code/BIGDATA/MagicSquareV1/pom.xml" timestamp="1539587408476">
         <mark key="'" line="151" column="47" />
@@ -12,13 +48,73 @@
         <mark key="." line="392" column="26" />
       </file>
       <file name="/app.js" timestamp="1539673281545" />
+      <file name="C:/code/learn-mybatis/src/test/java/com/kischn/learnmybatis/LearnMybatisApplicationTests.java" timestamp="1537784386217">
+        <mark key="[" line="31" column="57" />
+        <mark key="]" line="31" column="57" />
+        <mark key="." line="31" column="57" />
+        <mark key="^" line="31" column="57" />
+      </file>
+      <file name="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicLinkForm.jsp" timestamp="1537327771744">
+        <mark key="[" line="35" column="60" />
+        <mark key="]" line="35" column="109" />
+        <mark key="." line="35" column="109" />
+        <mark key="^" line="35" column="109" />
+      </file>
+      <file name="C:/code/learn-hibernate/src/main/resources/application.yaml" timestamp="1537785603598">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+        <mark key="^" line="4" column="13" />
+      </file>
+      <file name="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicLinkList.jsp" timestamp="1537328047415">
+        <mark key="[" line="32" column="18" />
+        <mark key="]" line="32" column="27" />
+        <mark key="." line="32" column="27" />
+        <mark key="^" line="32" column="27" />
+      </file>
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicNodeList2.jsp" timestamp="1537854853399">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="48" />
+        <mark key="^" line="115" column="35" />
+        <mark key="." line="115" column="35" />
+      </file>
+      <file name="C:/code/learn-hibernate/src/main/java/com/kischn/learnhibernate/dao/PersonRepo.java" timestamp="1537864176231">
+        <mark key="[" line="10" column="50" />
+        <mark key="]" line="10" column="64" />
+        <mark key="." line="10" column="64" />
+        <mark key="^" line="10" column="64" />
+      </file>
       <file name="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/TranslateController.java" timestamp="1539674722024" />
+      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/service/BasicMonitorService.java" timestamp="1537509493409">
+        <mark key="[" line="54" column="15" />
+        <mark key="]" line="54" column="25" />
+        <mark key="." line="54" column="25" />
+        <mark key="^" line="54" column="25" />
+      </file>
+      <file name="C:/code/fast-test/src/main/java/DruidSegmentMeta.java" timestamp="1537866482204">
+        <mark key="[" line="14" column="138" />
+        <mark key="]" line="14" column="153" />
+        <mark key="^" line="14" column="153" />
+        <mark key="." line="14" column="153" />
+      </file>
+      <file name="C:/code/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1538030293442">
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="9" column="38" />
+        <mark key="^" line="9" column="38" />
+        <mark key="." line="9" column="38" />
+      </file>
       <file name="C:/code/BIGDATA/MagicSquareV1/src/main/resources/config.properties" timestamp="1539670060813">
         <mark key="'" line="62" column="0" />
         <mark key="[" line="63" column="133" />
         <mark key="]" line="38" column="21" />
         <mark key="^" line="65" column="68" />
         <mark key="." line="38" column="21" />
+      </file>
+      <file name="C:/code/learn-spring/src/main/resources/springmvc-servlet.xml" timestamp="1537858110605">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="14" column="33" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/traffic_monitor/illegal/list.jsp" timestamp="1538212379912">
         <mark key="'" line="101" column="51" />
@@ -27,17 +123,131 @@
         <mark key="." line="171" column="21" />
         <mark key="^" line="171" column="21" />
       </file>
+      <file name="C:/code/mybatis-test/src/main/java/com/kischn/BootstrapServlet.java" timestamp="1537761781160">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="73" />
+        <mark key="^" line="6" column="73" />
+        <mark key="." line="6" column="73" />
+      </file>
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/resources/log4j2.xml" timestamp="1537846549554">
+        <mark key="[" line="21" column="47" />
+        <mark key="]" line="21" column="47" />
+        <mark key="." line="21" column="47" />
+        <mark key="^" line="21" column="47" />
+      </file>
+      <file name="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/persist/excel/Excel2CSV.java" timestamp="1539570128557">
+        <mark key="[" line="79" column="49" />
+        <mark key="]" line="79" column="49" />
+        <mark key="." line="79" column="49" />
+        <mark key="^" line="79" column="49" />
+      </file>
       <file name="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/pojo/TableFieldNameMapping.java" timestamp="1539674736729" />
+      <file name="C:/code/learn-mybatis/src/main/resources/application.yml" timestamp="1537759278972">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="5" column="22" />
+        <mark key="." line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+      </file>
+      <file name="C:/code/learn-hibernate/src/test/java/com/kischn/learnhibernate/LearnHibernateApplicationTests.java" timestamp="1537785443935">
+        <mark key="[" line="21" column="57" />
+        <mark key="]" line="22" column="43" />
+        <mark key="^" line="22" column="43" />
+        <mark key="." line="22" column="43" />
+      </file>
+      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/service/BasicOdService.java" timestamp="1537521958975">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="36" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="48" column="14" />
+      </file>
+      <file name="C:/code/test-mybatis/pom.xml" timestamp="1537782504403">
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="21" column="25" />
+        <mark key="^" line="21" column="25" />
+        <mark key="." line="21" column="25" />
+      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/io/File.java" timestamp="1539590933382">
         <mark key="'" line="274" column="11" />
       </file>
       <file name="C:/code/BIGDATA/MagicSquareV1/src/main/resources/mapper/TableFieldNameMapping.xml" timestamp="1539673440948" />
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/resources/htsite.properties" timestamp="1538977326540">
+        <mark key="[" line="255" column="26" />
+        <mark key="]" line="255" column="27" />
+        <mark key="^" line="255" column="27" />
+        <mark key="." line="255" column="27" />
+      </file>
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/db/search/index.jsp" timestamp="1539160434260">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="70" column="68" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/service/IllegalIndexService.java" timestamp="1539421142998">
+        <mark key="[" line="56" column="35" />
+        <mark key="]" line="56" column="74" />
+        <mark key="^" line="56" column="74" />
+        <mark key="." line="56" column="74" />
+      </file>
+      <file name="C:/code/learn-spring/src/main/java/com/kischn/ls/controller/TestController.java" timestamp="1537856624822">
+        <mark key="[" line="15" column="26" />
+        <mark key="]" line="16" column="28" />
+        <mark key="^" line="16" column="28" />
+        <mark key="." line="16" column="28" />
+      </file>
       <file name="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/util/Base16.java" timestamp="1539675890896">
         <mark key="'" line="50" column="46" />
         <mark key="[" line="8" column="43" />
         <mark key="]" line="9" column="11" />
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
+      </file>
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/web/IllegalController.java" timestamp="1538210274473">
+        <mark key="[" line="59" column="12" />
+        <mark key="]" line="59" column="18" />
+        <mark key="." line="59" column="18" />
+        <mark key="^" line="59" column="18" />
+      </file>
+      <file name="C:/code/learn-hibernate/src/main/resources/logback.xml" timestamp="1537794606895">
+        <mark key="[" line="25" column="32" />
+        <mark key="]" line="25" column="34" />
+        <mark key="." line="25" column="34" />
+        <mark key="^" line="25" column="34" />
+      </file>
+      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/entity/BasicNode.java" timestamp="1537429955641">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="33" column="36" />
+        <mark key="." line="33" column="36" />
+        <mark key="^" line="33" column="36" />
+      </file>
+      <file name="C:/code/learn-mybatis/src/main/java/com/kischn/learnmybatis/bean/Test.java" timestamp="1537783397310">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+        <mark key="^" line="7" column="4" />
+      </file>
+      <file name="C:/code/MDHTrafficDB/pom.xml" timestamp="1537498881305">
+        <mark key="[" line="408" column="0" />
+        <mark key="]" line="408" column="28" />
+        <mark key="." line="408" column="0" />
+        <mark key="^" line="394" column="25" />
+      </file>
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/IllegalService.java" timestamp="1538036587608">
+        <mark key="[" line="30" column="60" />
+        <mark key="]" line="31" column="19" />
+        <mark key="^" line="31" column="19" />
+        <mark key="." line="31" column="19" />
+      </file>
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/sys/web/RoleController.java" timestamp="1537854283711">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="74" column="11" />
+      </file>
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicZoneList.jsp" timestamp="1537854871164">
+        <mark key="[" line="140" column="33" />
+        <mark key="]" line="140" column="36" />
+        <mark key="." line="140" column="36" />
+        <mark key="^" line="140" column="36" />
       </file>
       <file name="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/dao/TableFieldNameMappingDao.java" timestamp="1539673412971" />
       <file name="$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/2.7.1/curator-framework-2.7.1-sources.jar!/org/apache/curator/framework/imps/NamespaceImpl.java" timestamp="1539583207045">
@@ -50,28 +260,148 @@
         <mark key="." line="137" column="43" />
         <mark key="^" line="137" column="43" />
       </file>
+      <file name="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicNodeForm.jsp" timestamp="1537327240149">
+        <mark key="[" line="30" column="73" />
+        <mark key="]" line="30" column="73" />
+        <mark key="^" line="28" column="51" />
+        <mark key="." line="30" column="73" />
+      </file>
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/common/persistence/interceptor/PaginationInterceptor.java" timestamp="1538100336777">
+        <mark key="[" line="73" column="124" />
+        <mark key="]" line="73" column="136" />
+        <mark key="." line="73" column="136" />
+        <mark key="^" line="73" column="136" />
+      </file>
       <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/traffic_monitor/illegal/head.jsp" timestamp="1538102628578">
         <mark key="'" line="87" column="39" />
       </file>
       <file name="C:/code/BIGDATA/trafficCP/src/main/webapp/WEB-INF/views/modules/electroniclaw/sjcl/sjcs.jsp" timestamp="1538201639237">
         <mark key="'" line="997" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539742706032">
+      <file name="C:/code/BIGDATA/MDHTrafficDB/dist/package-production.cmd" timestamp="1539754291383">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="28" />
+        <mark key="^" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+      </file>
+      <file name="C:/code/learn-mybatis/src/main/java/com/kischn/learnmybatis/dao/TestDao.java" timestamp="1537862328081">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="18" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="19" column="18" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1539754343387">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5b2366b2-cb5d-4406-8b8e-6da759a58711/console.sql" timestamp="1539004394742">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/code/mybatis-test/pom.xml" timestamp="1537761756735">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="29" />
+        <mark key="." line="11" column="29" />
+        <mark key="^" line="11" column="29" />
+      </file>
+      <file name="C:/code/learn-hibernate/src/main/resources/application.properties" timestamp="1537785483337">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="4" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="5" column="4" />
+      </file>
+      <file name="C:/code/learn-mybatis/pom.xml" timestamp="1537783389372">
+        <mark key="[" line="37" column="21" />
+        <mark key="]" line="36" column="26" />
+        <mark key="." line="36" column="26" />
+        <mark key="^" line="36" column="26" />
+      </file>
+      <file name="C:/code/learn-mybatis/src/main/resources/application.yaml" timestamp="1537784178137">
+        <mark key="[" line="3" column="113" />
+        <mark key="]" line="3" column="138" />
+        <mark key="." line="3" column="138" />
+        <mark key="^" line="3" column="138" />
+      </file>
+      <file name="C:/code/learn-mybatis/src/main/java/com/kischn/learnmybatis/Test.java" timestamp="1537760918868">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+      </file>
+      <file name="C:/code/learn-spring/src/main/webapp/index.jsp" timestamp="1537858129601">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="13" column="10" />
+        <mark key="." line="13" column="10" />
+        <mark key="^" line="13" column="10" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.18/druid-1.0.18-sources.jar!/com/alibaba/druid/pool/DruidAbstractDataSource.java" timestamp="1538039874778">
         <mark key="'" line="1089" column="8" />
+      </file>
+      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/dao/BasicOdDao.java" timestamp="1537518109644">
+        <mark key="[" line="18" column="52" />
+        <mark key="]" line="18" column="65" />
+        <mark key="^" line="18" column="65" />
+        <mark key="." line="18" column="65" />
       </file>
       <file name="C:/code/BIGDATA/trafficCP/src/main/webapp/WEB-INF/views/modules/trafficcontrol/cctv/search.jsp" timestamp="1538201730444">
         <mark key="'" line="590" column="23" />
       </file>
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicOdList.jsp" timestamp="1537854519084">
+        <mark key="[" line="86" column="37" />
+        <mark key="]" line="86" column="38" />
+        <mark key="." line="86" column="38" />
+        <mark key="^" line="86" column="38" />
+      </file>
+      <file name="C:/code/learn-spring/pom.xml" timestamp="1538030201404">
+        <mark key="[" line="26" column="57" />
+        <mark key="]" line="26" column="43" />
+        <mark key="^" line="26" column="43" />
+        <mark key="." line="26" column="43" />
+      </file>
       <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicLinkList.jsp" timestamp="1538207366047">
         <mark key="'" line="241" column="73" />
       </file>
+      <file name="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicNodeList.jsp" timestamp="1537328664930">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+      </file>
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/resources/mappings/modules/traffic_monitor/IllegalDataDao.xml" timestamp="1538036105771">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="71" />
+        <mark key="." line="2" column="71" />
+        <mark key="^" line="2" column="71" />
+      </file>
+      <file name="C:/code/MDHTrafficDB/src/main/resources/mappings/modules/basic_data/BasicOdDao.xml" timestamp="1537520989924">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+      </file>
       <file name="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/dataprovider/druid/DruidDataProvider.java" timestamp="1539741510452" />
+      <file name="C:/code/learn-hibernate/src/main/java/com/kischn/learnhibernate/bean/Person.java" timestamp="1537861105689">
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="17" column="19" />
+        <mark key="^" line="17" column="19" />
+        <mark key="." line="17" column="19" />
+      </file>
       <file name="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/common/biz/DataElementBiz.java" timestamp="1539674880200" />
+      <file name="C:/code/learn-hibernate/src/main/resources/log4j2.xml" timestamp="1537793846300">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="33" column="34" />
+      </file>
+      <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/entity/BasicMonitor.java" timestamp="1537501226436">
+        <mark key="[" line="33" column="5" />
+        <mark key="]" line="35" column="36" />
+        <mark key="." line="35" column="36" />
+        <mark key="^" line="35" column="36" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="512" column="41" filename="C:/code/MagicSquareV1/src/main/webapp/org/magicsquare/controller/config/datasetCtrl.js" />
