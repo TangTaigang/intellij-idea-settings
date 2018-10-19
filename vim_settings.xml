@@ -39,6 +39,12 @@
         <mark key="." line="12" column="76" />
         <mark key="^" line="12" column="76" />
       </file>
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/db/analyse/index.jsp" timestamp="1539925695482">
+        <mark key="[" line="25" column="47" />
+        <mark key="]" line="26" column="23" />
+        <mark key="." line="26" column="46" />
+        <mark key="^" line="26" column="23" />
+      </file>
       <file name="C:/code/BIGDATA/MagicSquareV1/pom.xml" timestamp="1539587408476">
         <mark key="'" line="151" column="47" />
         <mark key="[" line="392" column="25" />
@@ -172,7 +178,7 @@
         <mark key="^" line="255" column="27" />
         <mark key="." line="255" column="27" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/db/search/index.jsp" timestamp="1539921561661">
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/db/search/index.jsp" timestamp="1539925937554">
         <mark key="'" line="22" column="51" />
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -286,7 +292,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="19" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539915578526">
+      <file name="/Dummy.txt" timestamp="1539927085054">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -385,11 +391,11 @@
         <mark key="^" line="17" column="19" />
         <mark key="." line="17" column="19" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/db/index.jsp" timestamp="1539921634188">
-        <mark key="[" line="225" column="167" />
-        <mark key="]" line="225" column="169" />
-        <mark key="^" line="225" column="169" />
-        <mark key="." line="225" column="169" />
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/db/index.jsp" timestamp="1539927082791">
+        <mark key="[" line="242" column="56" />
+        <mark key="]" line="242" column="57" />
+        <mark key="." line="242" column="57" />
+        <mark key="^" line="242" column="56" />
       </file>
       <file name="C:/code/learn-hibernate/src/main/resources/log4j2.xml" timestamp="1537793846300">
         <mark key="[" line="36" column="0" />
@@ -508,43 +514,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ij48Lw==</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>no</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>font</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Ij48Lw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQoIiNpZnJhbWVjb250ZW50IikuY3NzKCJoZWlnaHQiLCAiOTAwcHgiKS5jc3MoIm1hcmdpbi10b3AiLCAiLTUwcHg7Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGRmc1N0cmVhbS5mbHVzaCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jc3MoIm1hcmdpbi10b3AiLCAiLTUwcHg7Iik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmVhbVV0aWxzLmNvcHkoZmlsZUlucHV0U3RyZWFtLCBoZGZzU3RyZWFtKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmNzcygibWFyZ2luLXRvcCIsICItNTBweDsiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCIjaWZyYW1lY29udGVudCIpLmNzcygiaGVpZ2h0IiwgIjkwMHB4Iik7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEZpbGVOb3RGb3VuZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmFseXNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGRmc1N0cmVhbS5mbHVzaCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmVhbVV0aWxzLmNvcHkoZmlsZUlucHV0U3RyZWFtLCBoZGZzU3RyZWFtKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/font/span/g</text>
