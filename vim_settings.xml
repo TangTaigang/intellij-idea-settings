@@ -406,6 +406,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="19" column="18" />
       </file>
+      <file name="/Dummy.txt" timestamp="1540371097378">
+        <mark key="a" line="0" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5b2366b2-cb5d-4406-8b8e-6da759a58711/console.sql" timestamp="1539004394742">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
