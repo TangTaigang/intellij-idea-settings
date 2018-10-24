@@ -39,11 +39,11 @@
         <mark key="." line="26" column="46" />
         <mark key="^" line="26" column="23" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/common/persistence/DataEntity.java" timestamp="1540365614305">
-        <mark key="[" line="33" column="4" />
-        <mark key="]" line="32" column="21" />
-        <mark key="^" line="32" column="21" />
-        <mark key="." line="32" column="21" />
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/common/persistence/DataEntity.java" timestamp="1540366668434">
+        <mark key="[" line="42" column="5" />
+        <mark key="]" line="33" column="21" />
+        <mark key="^" line="33" column="21" />
+        <mark key="." line="33" column="21" />
       </file>
       <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicNodeList2.jsp" timestamp="1540273764847">
         <mark key="[" line="395" column="33" />
@@ -82,7 +82,6 @@
         <mark key="^" line="14" column="33" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/traffic_monitor/deviceMap.jsp" timestamp="1540357727753" />
       <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/resources/mappings/modules/traffic_monitor/RoadItemMapper.xml" timestamp="1540365752119">
         <mark key="[" line="58" column="20" />
         <mark key="]" line="62" column="12" />
@@ -125,8 +124,6 @@
         <mark key="^" line="56" column="74" />
         <mark key="." line="56" column="74" />
       </file>
-      <file name="/MonitorPointService.java" timestamp="1540353177345" />
-      <file name="/MonitorPointMapper.java" timestamp="1540353043032" />
       <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/web/IllegalController.java" timestamp="1538210274473">
         <mark key="[" line="59" column="12" />
         <mark key="]" line="59" column="18" />
@@ -160,7 +157,6 @@
       <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/web/HomeController.java" timestamp="1540352895824">
         <mark key="'" line="33" column="24" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficDruidMonitor/src/main/resources/mappings/modules/traffic_monitor/RoadItemMapper.xml" timestamp="1540365754482" />
       <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/webservice/DruidCon.java" timestamp="1540347213123">
         <mark key="[" line="104" column="0" />
         <mark key="]" line="104" column="0" />
@@ -178,7 +174,6 @@
         <mark key="^" line="62" column="37" />
         <mark key="." line="62" column="37" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficDruidMonitor/src/main/java/com/htsite/modules/traffic_monitor/dao/RoadItemMapper.java" timestamp="1540365721644" />
       <file name="C:/code/learn-hibernate/src/main/resources/application.properties" timestamp="1537785483337">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="4" />
@@ -199,7 +194,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficDruidMonitor/src/main/java/com/htsite/modules/traffic_monitor/web/HomeController.java" timestamp="1540352862240" />
       <file name="C:/code/BIGDATA/MDHTrafficDruidMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/RoadItemService.java" timestamp="1540365700821">
         <mark key="'" line="105" column="31" />
         <mark key="[" line="23" column="0" />
@@ -246,10 +240,11 @@
         <mark key="." line="62" column="54" />
         <mark key="^" line="62" column="54" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" timestamp="1540358590396">
-        <mark key="[" line="2156" column="0" />
-        <mark key="]" line="2156" column="0" />
-        <mark key="." line="2156" column="0" />
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" timestamp="1540366778481">
+        <mark key="[" line="1548" column="25" />
+        <mark key="]" line="1548" column="24" />
+        <mark key="." line="1548" column="24" />
+        <mark key="^" line="1548" column="24" />
       </file>
       <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/include/taglib.jsp" timestamp="1538115440732">
         <mark key="[" line="12" column="76" />
@@ -281,7 +276,6 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="/index.jsp" timestamp="1540360395370" />
       <file name="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicLinkList.jsp" timestamp="1537328047415">
         <mark key="[" line="32" column="18" />
         <mark key="]" line="32" column="27" />
@@ -331,7 +325,6 @@
       <file name="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/io/File.java" timestamp="1539590933382">
         <mark key="'" line="274" column="11" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficDruidMonitor/src/main/java/com/htsite/modules/traffic_monitor/entity/AddressTagData.java" timestamp="1540365512146" />
       <file name="C:/code/learn-spring/src/main/java/com/kischn/ls/controller/TestController.java" timestamp="1537856624822">
         <mark key="[" line="15" column="26" />
         <mark key="]" line="16" column="28" />
@@ -344,7 +337,6 @@
         <mark key="." line="16" column="87" />
         <mark key="^" line="16" column="87" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficDruidMonitor/src/main/production-resources/htsite.properties" timestamp="1540353317009" />
       <file name="C:/code/BIGDATA/MDHTrafficDruidMonitor/src/main/java/com/htsite/modules/traffic_monitor/web/AddressZoneDataController.java" timestamp="1540365635254">
         <mark key="'" line="68" column="19" />
       </file>
@@ -375,7 +367,6 @@
         <mark key="^" line="28" column="51" />
         <mark key="." line="30" column="73" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/dao/DetectSpeedDataDao.java" timestamp="1540352924520" />
       <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/common/persistence/interceptor/PaginationInterceptor.java" timestamp="1538100336777">
         <mark key="[" line="73" column="124" />
         <mark key="]" line="73" column="136" />
@@ -394,20 +385,18 @@
         <mark key="^" line="1" column="40" />
         <mark key="." line="1" column="43" />
       </file>
-      <file name="/MonitorPointMapper.xml" timestamp="1540353134552" />
       <file name="C:/code/learn-mybatis/src/main/java/com/kischn/learnmybatis/dao/TestDao.java" timestamp="1537862328081">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="18" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="19" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540366106575">
+      <file name="/Dummy.txt" timestamp="1540366840550">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/common/jdbc/DynamicDataSource.java" timestamp="1540346601167" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5b2366b2-cb5d-4406-8b8e-6da759a58711/console.sql" timestamp="1539004394742">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -446,6 +435,12 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.18/druid-1.0.18-sources.jar!/com/alibaba/druid/pool/DruidAbstractDataSource.java" timestamp="1538039874778">
         <mark key="'" line="1089" column="8" />
+      </file>
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/entity/RoadFlowBean.java" timestamp="1540366733277">
+        <mark key="[" line="39" column="23" />
+        <mark key="]" line="39" column="26" />
+        <mark key="." line="39" column="26" />
+        <mark key="^" line="39" column="26" />
       </file>
       <file name="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/dao/BasicOdDao.java" timestamp="1537518109644">
         <mark key="[" line="18" column="52" />
@@ -603,10 +598,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>endname</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>endname</text>
       </register>
       <register name="/" type="4">
         <text>font</text>
@@ -615,31 +610,31 @@
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIEFwcGxpY2F0aW9uQ29udGV4dCBhcHBsaWNhdGlvbkNvbnRleHQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFJvYWRJdGVtPiBnZXRSb2FkQnlBcmVhKFJvYWRJdGVtIHJvYWRJdGVtKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBBcHBsaWNhdGlvbkNvbnRleHQgZ2V0QXBwbGljYXRpb25Db250ZXh0KCkgewogICAgICAgIHJldHVybiBhcHBsaWNhdGlvbkNvbnRleHQ7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXJ0ID0gc3RhcnQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDsKCg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldFN0YXJ0KCkgewogICAgICAgIHJldHVybiBTdHJpbmcudmFsdWVPZihzdGFydCk7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0U3RhcnQoU3RyaW5nIHN0YXJ0KSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFJvYWRJdGVtPiBmaW5kQWxsTGlzdCgpIHsKICAgICAgICByZXR1cm4gcm9hZEl0ZW1NYXBwZXIuZmluZEFsbExpc3QoKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFJvYWRJdGVtPiBnZXRSb2FkQnlBcmVhKFJvYWRJdGVtIHJvYWRJdGVtKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBBcHBsaWNhdGlvbkNvbnRleHQgZ2V0QXBwbGljYXRpb25Db250ZXh0KCkgewogICAgICAgIHJldHVybiBhcHBsaWNhdGlvbkNvbnRleHQ7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDsK</text>
+        <text encoding="base64">ICAgIDsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRHJ1aWRDb24gZHJ1aWRDb247Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFJvYWRJdGVtPiBmaW5kQWxsTGlzdCgpIHsKICAgICAgICByZXR1cm4gcm9hZEl0ZW1NYXBwZXIuZmluZEFsbExpc3QoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDsK</text>
       </register>
       <register name=":" type="4">
         <text>s/font/span/g</text>
