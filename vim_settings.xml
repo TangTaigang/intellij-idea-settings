@@ -148,11 +148,11 @@
         <mark key="." line="176" column="73" />
         <mark key="^" line="176" column="73" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/resources/htsite.properties" timestamp="1540344214180">
-        <mark key="[" line="68" column="18" />
-        <mark key="]" line="68" column="19" />
-        <mark key="^" line="255" column="27" />
-        <mark key="." line="68" column="19" />
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/resources/htsite.properties" timestamp="1540536739396">
+        <mark key="[" line="60" column="22" />
+        <mark key="]" line="60" column="25" />
+        <mark key="^" line="60" column="25" />
+        <mark key="." line="60" column="25" />
       </file>
       <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/service/IllegalIndexService.java" timestamp="1539421142998">
         <mark key="[" line="56" column="35" />
@@ -242,8 +242,8 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/production-resources/htsite.properties" timestamp="1540533601115">
-        <mark key="'" line="53" column="0" />
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/production-resources/htsite.properties" timestamp="1540536727027">
+        <mark key="'" line="110" column="17" />
         <mark key="[" line="10" column="21" />
         <mark key="]" line="10" column="21" />
         <mark key="." line="10" column="21" />
@@ -274,12 +274,12 @@
         <mark key="." line="62" column="54" />
         <mark key="^" line="62" column="54" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" timestamp="1540533836101">
+      <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" timestamp="1540536372317">
         <mark key="'" line="1654" column="0" />
-        <mark key="[" line="1532" column="32" />
-        <mark key="]" line="1532" column="32" />
-        <mark key="^" line="1531" column="78" />
-        <mark key="." line="1532" column="32" />
+        <mark key="[" line="415" column="42" />
+        <mark key="]" line="415" column="65" />
+        <mark key="." line="415" column="65" />
+        <mark key="^" line="415" column="65" />
       </file>
       <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/include/taglib.jsp" timestamp="1538115440732">
         <mark key="[" line="12" column="76" />
@@ -463,7 +463,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="19" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540534696426">
+      <file name="/Dummy.txt" timestamp="1540536761439">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -592,7 +592,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="13" filename="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
       <jump line="115" column="34" filename="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/sys/web/DictController.java" />
       <jump line="36" column="45" filename="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/sys/web/DictController.java" />
       <jump line="89" column="103" filename="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicNodeList2.jsp" />
@@ -692,13 +691,14 @@
       <jump line="47" column="0" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/production-resources/htsite.properties" />
       <jump line="347" column="50" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/resources/spring-context.xml" />
       <jump line="1663" column="0" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
+      <jump line="110" column="17" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/production-resources/htsite.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DATASOURCE_X</text>
+        <text>huitong2017</text>
       </register>
       <register name="-" type="4">
-        <text>DATASOURCE_X</text>
+        <text>huitong2017</text>
       </register>
       <register name="/" type="4">
         <text>value.dcoll</text>
@@ -707,25 +707,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxlbnRyeSBrZXk9ImRhdGFTb3VyY2UxMCIgdmFsdWUtcmVmPSJkYXRhU291cmNlMTAiLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmKGRhdGFNYXA9PW51bGx8fGRhdGFNYXAuZ2V0KCJkYXRhTWFwIik9PW51bGwpewovLyAgICAgICAgICAgcm9hZExhbmVMaXN0PXJvYWRSZWxhdGlvbkRhby5nZXRBbGxMYW5lUm9hZCgpOwovLyAgICAgICAgICAgIGRhdGFNYXAucHV0KCJkYXRhTWFwIixyb2FkTGFuZUxpc3QpOwovLyAgICAgICAgfWVsc2V7Ci8vICAgICAgICAgICAgcm9hZExhbmVMaXN0PWRhdGFNYXAuZ2V0KCJkYXRhTWFwIik7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RhcnQgPSByZXF1ZXN0LmdldFBhcmFtZXRlcigic3RhcnQiKTsKICAgICAgICBTdHJpbmcgZW5kID0gcmVxdWVzdC5nZXRQYXJhbWV0ZXIoImVuZCIpOwogICAgICAgIFN0cmluZyB0eXBlID0gcmVxdWVzdC5nZXRQYXJhbWV0ZXIoInR5cGUiKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmKGRhdGFNYXA9PW51bGx8fGRhdGFNYXAuZ2V0KCJkYXRhTWFwIik9PW51bGwpewovLyAgICAgICAgICAgcm9hZExhbmVMaXN0PXJvYWRSZWxhdGlvbkRhby5nZXRBbGxMYW5lUm9hZCgpOwovLyAgICAgICAgICAgIGRhdGFNYXAucHV0KCJkYXRhTWFwIixyb2FkTGFuZUxpc3QpOwovLyAgICAgICAgfWVsc2V7Ci8vICAgICAgICAgICAgcm9hZExhbmVMaXN0PWRhdGFNYXAuZ2V0KCJkYXRhTWFwIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICBEeW5hbWljRGF0YVNvdXJjZS5zZXRkYXRhU291cmNlT25lKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RhcnQgPSByZXF1ZXN0LmdldFBhcmFtZXRlcigic3RhcnQiKTsKICAgICAgICBTdHJpbmcgZW5kID0gcmVxdWVzdC5nZXRQYXJhbWV0ZXIoImVuZCIpOwogICAgICAgIFN0cmluZyB0eXBlID0gcmVxdWVzdC5nZXRQYXJhbWV0ZXIoInR5cGUiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBEeW5hbWljRGF0YVNvdXJjZS5zZXREYXRhU291cmNlWCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICBEeW5hbWljRGF0YVNvdXJjZS5zZXRkYXRhU291cmNlT25lKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBEeW5hbWljRGF0YVNvdXJjZS5zZXREYXRhU291cmNlWCgpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
