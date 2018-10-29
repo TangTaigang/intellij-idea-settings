@@ -401,7 +401,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="19" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540543251160">
+      <file name="/Dummy.txt" timestamp="1540778525311">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -651,10 +651,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>YEAR</text>
+        <text>dev</text>
       </register>
       <register name="-" type="4">
-        <text>YEAR</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>value.dcoll</text>
