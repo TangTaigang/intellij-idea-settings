@@ -401,8 +401,8 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="19" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540778525311">
-        <mark key="a" line="0" column="2" />
+      <file name="/Dummy.txt" timestamp="1540780178553">
+        <mark key="a" line="0" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -442,6 +442,12 @@
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="4" />
+      </file>
+      <file name="C:/code/BIGDATA/MDH_PASSINF_DATA/pom.xml" timestamp="1540780556137">
+        <mark key="[" line="33" column="23" />
+        <mark key="]" line="33" column="27" />
+        <mark key="." line="33" column="27" />
+        <mark key="^" line="33" column="27" />
       </file>
       <file name="C:/code/learn-mybatis/pom.xml" timestamp="1537783389372">
         <mark key="[" line="37" column="21" />
@@ -651,10 +657,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text>1.0.1.2.5.0.0-1245</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>1.0.1.2.5.0.0-1245</text>
       </register>
       <register name="/" type="4">
         <text>value.dcoll</text>
