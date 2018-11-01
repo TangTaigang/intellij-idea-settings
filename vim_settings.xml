@@ -31,11 +31,11 @@
         <mark key="." line="21" column="81" />
         <mark key="^" line="21" column="81" />
       </file>
-      <file name="C:/code/BIGDATA/sso-test/src/main/webapp/WEB-INF/web.xml" timestamp="1541053472313">
-        <mark key="[" line="26" column="35" />
-        <mark key="]" line="26" column="35" />
-        <mark key="." line="26" column="35" />
-        <mark key="^" line="22" column="41" />
+      <file name="C:/code/BIGDATA/sso-test/src/main/webapp/WEB-INF/web.xml" timestamp="1541053999463">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="55" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="13" column="56" />
       </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_hdfs/pom.xml" timestamp="1540799092498">
         <mark key="[" line="108" column="33" />
@@ -74,7 +74,7 @@
         <mark key="^" line="147" column="3" />
         <mark key="." line="147" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541052504708">
+      <file name="/Dummy.txt" timestamp="1541053841080">
         <mark key="a" line="0" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -130,11 +130,12 @@
         <mark key="]" line="111" column="34" />
         <mark key="." line="111" column="34" />
       </file>
-      <file name="C:/code/BIGDATA/sso-test/pom.xml" timestamp="1541053516842">
-        <mark key="[" line="16" column="36" />
-        <mark key="]" line="16" column="25" />
-        <mark key="^" line="16" column="25" />
-        <mark key="." line="16" column="25" />
+      <file name="C:/code/BIGDATA/sso-test/pom.xml" timestamp="1541053736026">
+        <mark key="'" line="41" column="18" />
+        <mark key="[" line="18" column="33" />
+        <mark key="]" line="18" column="34" />
+        <mark key="." line="18" column="34" />
+        <mark key="^" line="18" column="34" />
       </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_graylist/pom.xml" timestamp="1540799058586">
         <mark key="[" line="57" column="33" />
@@ -163,7 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="4" filename="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/web/BasicMonitorController.java" />
       <jump line="95" column="31" filename="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicMonitorList.jsp" />
       <jump line="162" column="20" filename="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicMonitorList.jsp" />
       <jump line="275" column="22" filename="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicMonitorList.jsp" />
@@ -263,22 +263,23 @@
       <jump line="388" column="60" filename="$MAVEN_REPOSITORY$/org/freemarker/freemarker/2.3.20/freemarker-2.3.20.jar!/freemarker/ext/jsp/web-app_2_5.xsd" />
       <jump line="155" column="15" filename="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/java/com/miras/data/modules/sys/web/impl/LoginInfoRegisterImpl.java" />
       <jump line="147" column="57" filename="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/java/com/miras/data/modules/sys/web/impl/LoginInfoRegisterImpl.java" />
+      <jump line="29" column="18" filename="C:/code/BIGDATA/sso-test/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHBhcmFtLXZhbHVlPjEwLjQ4LjIwLjYzOjM4MDE8L3BhcmFtLXZhbHVlPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>10.48.141.175:3700</text>
       </register>
       <register name="/" type="4">
         <text>value.dcoll</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJsYXl1aS1uYXYtaXRlbSBsYXl1aS1uYXYtaXRlbWVkIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBhcmFtLXZhbHVlPjEwLjQ4LjIwLjYzOjM4MDE8L3BhcmFtLXZhbHVlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Y29tcGlsZVNvdXJjZVJvb3RzCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -290,16 +291,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCUtLQogIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICBVc2VyOiBraXNjaG4KICBEYXRlOiAxOC8xMS8wMQogIFRpbWU6IDE0OjIzCiAgVG8gY2hhbmdlIHRoaXMgdGVtcGxhdGUgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgotLSU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwvZmlsdGVyPgo=</text>
+        <text encoding="base64">PCUtLQogIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICBVc2VyOiBraXNjaG4KICBEYXRlOiAxOC8xMS8wMQogIFRpbWU6IDE0OjIzCiAgVG8gY2hhbmdlIHRoaXMgdGVtcGxhdGUgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgotLSU+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxmaWx0ZXI+CiAgICAgICAgPGZpbHRlci1uYW1lPjwvZmlsdGVyLW5hbWU+CiAgICAgICAgPGZpbHRlci1jbGFzcz48L2ZpbHRlci1jbGFzcz4K</text>
+        <text encoding="base64">ICAgIDwvZmlsdGVyPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxmaWx0ZXI+CiAgICAgICAgPGZpbHRlci1uYW1lPjwvZmlsdGVyLW5hbWU+CiAgICAgICAgPGZpbHRlci1jbGFzcz48L2ZpbHRlci1jbGFzcz4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
