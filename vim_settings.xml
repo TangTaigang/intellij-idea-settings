@@ -35,6 +35,12 @@
         <mark key="]" line="108" column="34" />
         <mark key="." line="108" column="34" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-cas/1.2.3/shiro-cas-1.2.3-sources.jar!/org/apache/shiro/cas/CasFilter.java" timestamp="1541129861853" />
+      <file name="/spring-context-shiro.xml" timestamp="1541130966078" />
+      <file name="$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5-sources.jar!/javax/servlet/Filter.java" timestamp="1541126057630">
+        <mark key="[" line="85" column="16" />
+        <mark key="]" line="85" column="23" />
+      </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_firstincity/pom.xml" timestamp="1540798989123">
         <mark key="[" line="104" column="33" />
         <mark key="]" line="104" column="34" />
@@ -59,20 +65,24 @@
       <file name="$MAVEN_REPOSITORY$/org/freemarker/freemarker/2.3.20/freemarker-2.3.20.jar!/freemarker/ext/jsp/web-app_2_5.xsd" timestamp="1541049958614">
         <mark key="'" line="388" column="60" />
       </file>
-      <file name="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/java/com/miras/data/modules/sys/web/impl/LoginInfoRegisterImpl.java" timestamp="1541059501559">
-        <mark key="'" line="134" column="57" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/java/com/miras/data/modules/sys/web/impl/LoginInfoRegisterImpl.java" timestamp="1541130904885">
+        <mark key="'" line="71" column="57" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="58" column="84" />
       </file>
-      <file name="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/webapp/WEB-INF/web.xml" timestamp="1541058546511">
+      <file name="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/java/com/miras/data/modules/sys/web/LoginController.java" timestamp="1541130199733">
+        <mark key="'" line="170" column="37" />
+      </file>
+      <file name="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/webapp/WEB-INF/web.xml" timestamp="1541130991949">
         <mark key="'" line="22" column="36" />
-        <mark key="[" line="82" column="25" />
-        <mark key="]" line="82" column="41" />
-        <mark key="." line="82" column="41" />
-        <mark key="^" line="82" column="41" />
+        <mark key="[" line="91" column="25" />
+        <mark key="]" line="91" column="26" />
+        <mark key="." line="91" column="26" />
+        <mark key="^" line="91" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541121285041">
+      <file name="/Dummy.txt" timestamp="1541131001319">
         <mark key="a" line="0" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -89,6 +99,13 @@
         <mark key="]" line="13" column="17" />
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
+      </file>
+      <file name="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/java/com/miras/data/modules/sys/web/impl/HttpBackendFilter.java" timestamp="1541126816350">
+        <mark key="'" line="54" column="18" />
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="32" column="11" />
+        <mark key="^" line="32" column="11" />
+        <mark key="." line="32" column="11" />
       </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_kafka_kerberos2kafka/pom.xml" timestamp="1540797731715">
         <mark key="[" line="105" column="33" />
@@ -111,6 +128,11 @@
         <mark key="." line="28" column="22" />
         <mark key="^" line="28" column="22" />
       </file>
+      <file name="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/resources/logback.xml" timestamp="1541127217759">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="C:/code/BIGDATA/Miras_ChecksystemTwo/pom.xml" timestamp="1541053235454">
         <mark key="'" line="336" column="28" />
         <mark key="[" line="779" column="0" />
@@ -122,6 +144,9 @@
         <mark key="[" line="107" column="33" />
         <mark key="]" line="107" column="34" />
         <mark key="." line="107" column="34" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.3/shiro-core-1.2.3-sources.jar!/org/apache/shiro/subject/Subject.java" timestamp="1541130334053">
+        <mark key="[" line="60" column="26" />
       </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_mq_hdfs/pom.xml" timestamp="1540799121322">
         <mark key="[" line="111" column="33" />
@@ -150,20 +175,29 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
+      <file name="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/java/com/miras/data/modules/sys/utils/UserUtils.java" timestamp="1541130281765">
+        <mark key="'" line="235" column="60" />
+      </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_redis_hbase/pom.xml" timestamp="1540859409393">
         <mark key="[" line="13" column="26" />
         <mark key="]" line="13" column="29" />
         <mark key="." line="13" column="29" />
         <mark key="^" line="13" column="29" />
       </file>
+      <file name="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/resources/spring-context-shiro.xml" timestamp="1541130973604">
+        <mark key="[" line="45" column="56" />
+        <mark key="]" line="45" column="59" />
+        <mark key="." line="45" column="59" />
+        <mark key="^" line="45" column="59" />
+      </file>
       <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/dao/AddressZoneMapper.java" timestamp="1541040765314">
         <mark key="'" line="100" column="29" />
       </file>
+      <file name="/fragment.java" timestamp="1541129539505">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="20" filename="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicMonitorList.jsp" />
-      <jump line="275" column="22" filename="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicMonitorList.jsp" />
-      <jump line="34" column="13" filename="C:/code/MDHTrafficDB/src/main/resources/mappings/modules/basic_data/BasicMonitorDao.xml" />
       <jump line="382" column="0" filename="C:/code/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicOdList.jsp" />
       <jump line="66" column="34" filename="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/web/BasicOdController.java" />
       <jump line="36" column="21" filename="C:/code/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/web/BasicOdController.java" />
@@ -261,46 +295,49 @@
       <jump line="147" column="57" filename="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/java/com/miras/data/modules/sys/web/impl/LoginInfoRegisterImpl.java" />
       <jump line="29" column="18" filename="C:/code/BIGDATA/sso-test/pom.xml" />
       <jump line="22" column="36" filename="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="53" column="18" filename="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/java/com/miras/data/modules/sys/web/impl/HttpBackendFilter.java" />
+      <jump line="170" column="37" filename="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/java/com/miras/data/modules/sys/web/LoginController.java" />
+      <jump line="235" column="60" filename="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/java/com/miras/data/modules/sys/utils/UserUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>单点登录调整</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>单点登录调整</text>
       </register>
       <register name="/" type="4">
         <text>cas</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBhcmFtLXZhbHVlPjEwLjQ4LjE0MS4xNzU6MzcwMDwvcGFyYW0tdmFsdWU+Cg==</text>
+        <text encoding="base64">CQk8cHJvcGVydHkgbmFtZT0iZmFpbHVyZVVybCIgdmFsdWU9IiR7YWRtaW5QYXRofS9zc28vbG9naW4iLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iZmFpbHVyZVVybCIgdmFsdWU9Ii9zdGF0aWMvbGF5dWkuanMiLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJzZW5kIHJlZGlyZWN0IHRvIGRlZmF1bHQgcGF0aCAvIiArIHJlcXVlc3QuZ2V0Q29udGV4dFBhdGgoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MgPSBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoIXBhc3MpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3Quc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCB3cml0ZVJlc3BvbnNlKFNlcnZsZXRSZXNwb25zZSByZXNwb25zZSwgU3RyaW5nIHJlc3BvbnNlU3RyaW5nKQogICAgICAgICAgICB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIFByaW50V3JpdGVyIG91dCA9IHJlc3BvbnNlLmdldFdyaXRlcigpOwogICAgICAgIG91dC5wcmludChyZXNwb25zZVN0cmluZyk7CiAgICAgICAgb3V0LmZsdXNoKCk7CiAgICAgICAgb3V0LmNsb3NlKCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOiOt+WPlumhtemdouaOpeWPoyDkv67mlLl1cmkKICAgICAgICAgICAgICAgIGlmIChyZXF1ZXN0LmdldFJlcXVlc3RVUkkoKS5jb250YWlucygiL3Nzby8iKSkgewogICAgICAgICAgICAgICAgICAgIFN0cmluZyByZWRpcmVjdFRvVXJsID0gcmVxdWVzdC5nZXRTY2hlbWUoKSArICI6Ly8iICsgcmVxdWVzdC5nZXRTZXJ2ZXJOYW1lKCkgKyAiOiIgKyByZXF1ZXN0LmdldFNlcnZlclBvcnQoKSArIHJlcXVlc3QuZ2V0Q29udGV4dFBhdGgoKSArICIvIiArIHJlcXVlc3QuZ2V0UmVxdWVzdFVSSSgpLnJlcGxhY2UoIi9wLyIsICIvYS8iKTsKICAgICAgICAgICAgICAgICAgICAoKEh0dHBTZXJ2bGV0UmVzcG9uc2UpIHJlc3BvbnNlKS5zZW5kUmVkaXJlY3QocmVkaXJlY3RUb1VybCk7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCB3cml0ZVJlc3BvbnNlKFNlcnZsZXRSZXNwb25zZSByZXNwb25zZSwgU3RyaW5nIHJlc3BvbnNlU3RyaW5nKQogICAgICAgICAgICB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIFByaW50V3JpdGVyIG91dCA9IHJlc3BvbnNlLmdldFdyaXRlcigpOwogICAgICAgIG91dC5wcmludChyZXNwb25zZVN0cmluZyk7CiAgICAgICAgb3V0LmZsdXNoKCk7CiAgICAgICAgb3V0LmNsb3NlKCk7CiAgICB9Cgp9Cgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAxMjcuMC4wLjE6ODE4MC9jYXMK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFVzZXIgcmVzdWx0VXNlciA9IHVzZXJEYW8uZ2V0QnlMb2dpbk5hbWUodXNlclRlbXApOwo=</text>
+        <text encoding="base64">ICAvY2FzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQktLT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
