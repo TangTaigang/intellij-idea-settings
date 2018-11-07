@@ -57,7 +57,7 @@
         <mark key="." line="91" column="26" />
         <mark key="^" line="91" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541574115133">
+      <file name="/Dummy.txt" timestamp="1541575743683">
         <mark key="a" line="0" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -150,10 +150,10 @@
         <mark key="^" line="132" column="36" />
         <mark key="." line="132" column="36" />
       </file>
-      <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_redis_hbase/pom.xml" timestamp="1541569940397">
-        <mark key="[" line="13" column="26" />
-        <mark key="]" line="13" column="29" />
-        <mark key="." line="13" column="29" />
+      <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_redis_hbase/pom.xml" timestamp="1541575941138">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
         <mark key="^" line="13" column="29" />
       </file>
       <file name="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/resources/spring-context-shiro.xml" timestamp="1541407199527">
@@ -278,8 +278,8 @@
       <jump line="204" column="28" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/bolt/IllegalCheckBolt.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>清理掉号</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmpldGJyYWlucy5rb3RsaW48L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmtvdGxpbi1zdGRsaWItanJlODwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+JHtrb3RsaW4udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="-" type="4">
         <text>清理掉号</text>
@@ -291,31 +291,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYm9vbGVhbiB2YWxpZGF0ZVVuTG9jYWxDYXIgPSBMaW1pdFR5cGUudmFsdWVPZigiVFlQRSIgKyB0eHpSb2FkLmdldExpbWl0VHlwZSgpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC52YWxpZGF0ZVVuTG9jYWxDYXIob2JqZWN0TWFwLCB0cnVua1R5cGVzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gZG8gc2VuZCBtZXNzYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmpldGJyYWlucy5rb3RsaW48L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmtvdGxpbi1zdGRsaWItanJlODwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+JHtrb3RsaW4udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gZG8gc2VuZCBtZXNzYWdlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoaXNMb2NhbENhcikgeyAvL+acrOWcsOi9pui+hgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7IC8vIOWkluWcsOi9pui+hgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBib29sZWFuIHZhbGlkYXRlVW5Mb2NhbENhciA9IGxpbWl0VHlwZS52YWxpZGF0ZVVuTG9jYWxDYXIob2JqZWN0TWFwLCB0cnVua1R5cGVzKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHZhbGlkYXRlVW5Mb2NhbENhcikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gc2VuZCBpbGxlZ2FsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTGltaXRUeXBlIGxpbWl0VHlwZSA9IExpbWl0VHlwZS52YWx1ZU9mKCJUWVBFIiArIHR4elJvYWQuZ2V0TGltaXRUeXBlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoaXNMb2NhbENhcikgeyAvL+acrOWcsOi9pui+hgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7IC8vIOWkluWcsOi9pui+hgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBib29sZWFuIHZhbGlkYXRlVW5Mb2NhbENhciA9IGxpbWl0VHlwZS52YWxpZGF0ZVVuTG9jYWxDYXIob2JqZWN0TWFwLCB0cnVua1R5cGVzKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHZhbGlkYXRlVW5Mb2NhbENhcikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gc2VuZCBpbGxlZ2FsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTGltaXRUeXBlLnZhbHVlT2YoIlQiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTGltaXRUeXBlIGxpbWl0VHlwZSA9IExpbWl0VHlwZS52YWx1ZU9mKCJUWVBFIiArIHR4elJvYWQuZ2V0TGltaXRUeXBlKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBib29sZWFuIGlzTG9jYWxDYXIgPSBjYXJOdW1iZXIuc3RhcnRzV2l0aCgi6bKBWSIpIHx8IGNhck51bWJlci5zdGFydHNXaXRoKCLpsoFGIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTGltaXRUeXBlLnZhbHVlT2YoIlQiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgdHh6Um9hZHMuc3RyZWFtKCkgLmZpbHRlcih0eHpSb2FkIC0+IHsgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBib29sZWFuIGlzTG9jYWxDYXIgPSBjYXJOdW1iZXIuc3RhcnRzV2l0aCgi6bKBWSIpIHx8IGNhck51bWJlci5zdGFydHNXaXRoKCLpsoFGIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/ccarnumber/carNumber/g</text>
