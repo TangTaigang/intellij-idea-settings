@@ -36,12 +36,12 @@
         <mark key="." line="6" column="11" />
         <mark key="^" line="6" column="11" />
       </file>
-      <file name="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/bolt/IllegalCheckBolt.java" timestamp="1541557670621">
-        <mark key="'" line="74" column="34" />
-        <mark key="[" line="150" column="11" />
-        <mark key="]" line="150" column="10" />
-        <mark key="^" line="150" column="10" />
-        <mark key="." line="150" column="10" />
+      <file name="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/bolt/IllegalCheckBolt.java" timestamp="1541561222463">
+        <mark key="'" line="212" column="28" />
+        <mark key="[" line="204" column="13" />
+        <mark key="]" line="204" column="13" />
+        <mark key="." line="204" column="13" />
+        <mark key="^" line="204" column="21" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/freemarker/freemarker/2.3.20/freemarker-2.3.20.jar!/freemarker/ext/jsp/web-app_2_5.xsd" timestamp="1541049958614">
         <mark key="'" line="388" column="60" />
@@ -63,7 +63,7 @@
         <mark key="." line="91" column="26" />
         <mark key="^" line="91" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541554265793">
+      <file name="/Dummy.txt" timestamp="1541561407561">
         <mark key="a" line="0" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -96,12 +96,12 @@
         <mark key="." line="16" column="54" />
         <mark key="^" line="16" column="36" />
       </file>
-      <file name="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/CheckControl3Bolt.java" timestamp="1541555769737">
-        <mark key="'" line="331" column="24" />
-        <mark key="[" line="267" column="30" />
-        <mark key="]" line="267" column="31" />
-        <mark key="." line="267" column="31" />
-        <mark key="^" line="267" column="30" />
+      <file name="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/CheckControl3Bolt.java" timestamp="1541561017924">
+        <mark key="'" line="327" column="24" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="99" />
+        <mark key="." line="151" column="0" />
+        <mark key="^" line="159" column="27" />
       </file>
       <file name="C:/code/BIGDATA/MDH_PASSINF_DATA/pom.xml" timestamp="1541468273187">
         <mark key="[" line="98" column="25" />
@@ -121,11 +121,10 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="27" column="32" />
       </file>
-      <file name="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/bolt/PointLimitFilterBolt.java" timestamp="1541487069599">
-        <mark key="[" line="135" column="80" />
-        <mark key="]" line="136" column="28" />
-        <mark key="." line="136" column="28" />
-        <mark key="^" line="136" column="28" />
+      <file name="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/bolt/PointLimitFilterBolt.java" timestamp="1541561391448">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="C:/code/BIGDATA/Miras_ChecksystemTwo/pom.xml" timestamp="1541053235454">
         <mark key="'" line="336" column="28" />
@@ -182,8 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="9" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/traffic_monitor/illegal/list.jsp" />
-      <jump line="196" column="0" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicLinkList.jsp" />
       <jump line="997" column="0" filename="C:/code/BIGDATA/trafficCP/src/main/webapp/WEB-INF/views/modules/electroniclaw/sjcl/sjcs.jsp" />
       <jump line="590" column="23" filename="C:/code/BIGDATA/trafficCP/src/main/webapp/WEB-INF/views/modules/trafficcontrol/cctv/search.jsp" />
       <jump line="55" column="68" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/traffic_monitor/illegal/list.jsp" />
@@ -282,63 +279,64 @@
       <jump line="96" column="0" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/bolt/IllegalCheckBolt.java" />
       <jump line="117" column="16" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/bolt/IllegalCheckBolt.java" />
       <jump line="74" column="34" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/bolt/IllegalCheckBolt.java" />
+      <jump line="189" column="12" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/bolt/IllegalCheckBolt.java" />
+      <jump line="204" column="28" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/bolt/IllegalCheckBolt.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>值</text>
+        <text>清理掉号</text>
       </register>
       <register name="-" type="4">
-        <text>值</text>
+        <text>清理掉号</text>
       </register>
       <register name="/" type="4">
-        <text>kk</text>
+        <text>ccarnumber</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldmljZUNvZGVzLmFkZEFsbChBcnJheXMuYXNMaXN0KGtrRGV2aWNlQ29kZUFycikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjY2FybnVtYmVyLnN0YXJ0c1dpdGgoIumygVkiKSB8fCBjY2FybnVtYmVyLnN0YXJ0c1dpdGgoIumygUYiKSkgey8v5pys5ZywNuWQiDEK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2JqZWN0TWFwLnJlbW92ZShjb2x1bW5OYW1lKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwZWFrU21hbGwoaW5wdXQsIGRjb2xsZWN0aW9uZGF0ZSwgbmlkLCBjb2xsZWN0VGltZSwgbGltaXRUeXBlTGlzdCkpIHJldHVybjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0eHpSb2FkTGlzdAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHBlYWtTbWFsbChpbnB1dCwgZGNvbGxlY3Rpb25kYXRlLCBuaWQsIGNvbGxlY3RUaW1lLCBsaW1pdFR5cGVMaXN0KSkgcmV0dXJuOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHBlYWtTbWFsbChpbnB1dCwgZGNvbGxlY3Rpb25kYXRlLCBuaWQsIGNvbGxlY3RUaW1lLCBsaW1pdFR5cGVMaXN0KSkgcmV0dXJuOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0eHpSb2FkTGlzdC5mb3JFYWNoKHR4elJvYWQgLT4gewoKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAhaGFzUGFzc0NhcmQoY29ubmVjdGlvbiwgY2Nhcm51bWJlciwgY2xpY2Vuc2V0eXBlLCBjZGV2aWNlY29kZSwgbmVlZFR4elR5cGVMaXN0LCBkY29sbGVjdGlvbmRhdGUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzSWxsZWdhbCkgewogICAgICAgICAgICAgICAgb3V0cHV0Q29sbGVjdG9yLmVtaXQobmV3IFZhbHVlcyhpbnB1dC5nZXRTdHJpbmcoMCksIG5pZCwgY29sbGVjdFRpbWUpKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBpc0lsbGVnYWwgPSBmYWxzZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>s/kk/dj/g</text>
+        <text>s/ccarnumber/carNumber/g</text>
       </register>
     </registers>
     <search>
-      <last-search>kk</last-search>
+      <last-search>ccarnumber</last-search>
       <last-offset />
-      <last-pattern>kk</last-pattern>
-      <last-replace>dj</last-replace>
-      <last-substitute>kk</last-substitute>
+      <last-pattern>ccarnumber</last-pattern>
+      <last-replace>carNumber</last-replace>
+      <last-substitute>ccarnumber</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>.</entry>
         <entry>\.</entry>
         <entry>build</entry>
         <entry>,</entry>
@@ -358,9 +356,9 @@
         <entry>value.dcoll</entry>
         <entry>cas</entry>
         <entry>kk</entry>
+        <entry>ccarnumber</entry>
       </history-search>
       <history-cmd>
-        <entry>s/./-/g</entry>
         <entry>s/\./-/g</entry>
         <entry>s/,/,\r/g</entry>
         <entry>s/Start/End/g</entry>
@@ -380,6 +378,7 @@
         <entry encoding="base64">PDE5LDI5PnMvXi8j</entry>
         <entry>w</entry>
         <entry>s/kk/dj/g</entry>
+        <entry>s/ccarnumber/carNumber/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
