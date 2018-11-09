@@ -46,12 +46,12 @@
         <mark key="." line="6" column="11" />
         <mark key="^" line="6" column="11" />
       </file>
-      <file name="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/bolt/IllegalCheckBolt.java" timestamp="1541667773660">
-        <mark key="'" line="199" column="32" />
-        <mark key="[" line="202" column="98" />
-        <mark key="]" line="203" column="77" />
-        <mark key="." line="203" column="77" />
-        <mark key="^" line="203" column="77" />
+      <file name="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/bolt/IllegalCheckBolt.java" timestamp="1541738566661">
+        <mark key="'" line="202" column="29" />
+        <mark key="[" line="203" column="32" />
+        <mark key="]" line="203" column="31" />
+        <mark key="." line="203" column="31" />
+        <mark key="^" line="203" column="31" />
       </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_adaptor/pom.xml" timestamp="1541579539290">
         <mark key="[" line="101" column="35" />
@@ -59,11 +59,12 @@
         <mark key="^" line="101" column="41" />
         <mark key="." line="101" column="41" />
       </file>
-      <file name="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/Application.java" timestamp="1541735972380">
-        <mark key="[" line="27" column="45" />
-        <mark key="]" line="27" column="66" />
-        <mark key="." line="27" column="66" />
-        <mark key="^" line="27" column="66" />
+      <file name="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/Application.java" timestamp="1541738323021">
+        <mark key="'" line="35" column="10" />
+        <mark key="[" line="35" column="68" />
+        <mark key="]" line="35" column="68" />
+        <mark key="." line="35" column="68" />
+        <mark key="^" line="40" column="51" />
       </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_taopai/src/main/production-resources/application.properties" timestamp="1541638121642">
         <mark key="[" line="2" column="0" />
@@ -92,6 +93,9 @@
         <mark key="]" line="21" column="0" />
         <mark key="^" line="16" column="41" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/bolt/PointLimitFilterBolt.java" timestamp="1541737866880">
+        <mark key="'" line="138" column="0" />
       </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_es/pom.xml" timestamp="1541579740880">
         <mark key="[" line="111" column="35" />
@@ -163,7 +167,7 @@
         <mark key="." line="44" column="30" />
         <mark key="^" line="44" column="30" />
       </file>
-      <file name="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/bolt/PassportCheckBolt.java" timestamp="1541667320630">
+      <file name="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/bolt/PassportCheckBolt.java" timestamp="1541737955407">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
@@ -213,7 +217,7 @@
         <mark key="^" line="32" column="11" />
         <mark key="." line="32" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541667777565">
+      <file name="/Dummy.txt" timestamp="1541738024263">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -305,9 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="C:/code/BIGDATA/MagicSquareV1/src/main/resources/config.properties" />
-      <jump line="66" column="0" filename="$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/2.7.1/curator-framework-2.7.1-sources.jar!/org/apache/curator/framework/imps/NamespaceImpl.java" />
-      <jump line="17" column="2" filename="$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/2.7.1/curator-framework-2.7.1-sources.jar!/org/apache/curator/framework/imps/NamespaceImpl.java" />
       <jump line="67" column="11" filename="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" />
       <jump line="274" column="11" filename="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/io/File.java" />
       <jump line="22" column="31" filename="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" />
@@ -405,13 +406,16 @@
       <jump line="27" column="0" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/utils/JdbcUtils.java" />
       <jump line="0" column="0" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/CheckControl3Bolt.java" />
       <jump line="137" column="28" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_common/src/main/java/com/miras/data/passinf/common/enums/PassinfDataField.java" />
+      <jump line="138" column="0" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/bolt/PointLimitFilterBolt.java" />
+      <jump line="202" column="29" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/bolt/IllegalCheckBolt.java" />
+      <jump line="37" column="10" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/Application.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>), 6</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>), 6</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -420,19 +424,19 @@
         <text encoding="base64">ICAgICAgICBidWlsZGVyLnNldEJvbHQoImNoZWNrQ29udHJvbCIsIG5ldyBDaGVja0NvbnRyb2wzQm9sdCgpLCA2KS5zaHVmZmxlR3JvdXBpbmcoImthZmthU3BvdXQiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL2J1aWxkZXIuc2V0U3BvdXQoImthZmthU3BvdXQiLG5ldyBUZXN0U3BvdXQoKSwgMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIExpc3Q8UGFpcjxJbnRlZ2VyLCBJbnRlZ2VyPj4gdHh6Um9hZCwK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIDE4LzExLzA5IGtpc2NobiDnvJblhpkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIExpc3Q8UGFpcjxJbnRlZ2VyLCBJbnRlZ2VyPj4gdGltZVJhbmdlcywK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgQWRtaW5pc3RyYXRvciBvbiAyMDE2LzMvOC4KICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIExpc3Q8UGFpcjxJbnRlZ2VyLCBJbnRlZ2VyPj4gdGltZVJhbmdlcywK</text>
+        <text encoding="base64">ICAgICAgICAvL2J1aWxkZXIuc2V0U3BvdXQoImthZmthU3BvdXQiLG5ldyBUZXN0U3BvdXQoKSwgMSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIExpc3Q8UGFpcjxJbnRlZ2VyLCBJbnRlZ2VyPj4gdGltZVJhbmdlcywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIExpc3Q8UGFpcjxJbnRlZ2VyLCBJbnRlZ2VyPj4gdHh6Um9hZCwK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIExpc3Q8UGFpcjxJbnRlZ2VyLCBJbnRlZ2VyPj4gdGltZVJhbmdlcywK</text>
@@ -444,7 +448,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIExpc3Q8UGFpcjxJbnRlZ2VyLCBJbnRlZ2VyPj4gdGltZVJhbmdlcywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB0aW1lUmFuZ2VzIOeUn+aViOWMuumXtAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIExpc3Q8UGFpcjxJbnRlZ2VyLCBJbnRlZ2VyPj4gdGltZVJhbmdlcywK</text>
       </register>
       <register name=":" type="4">
         <text>s/,/,\r/g</text>
