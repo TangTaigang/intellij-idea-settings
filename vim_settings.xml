@@ -69,6 +69,9 @@
         <mark key="." line="35" column="68" />
         <mark key="^" line="40" column="51" />
       </file>
+      <file name="C:/code/BIGDATA/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" timestamp="1541831748001">
+        <mark key="'" line="314" column="46" />
+      </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_taopai/src/main/production-resources/application.properties" timestamp="1541638121642">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -314,7 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" />
       <jump line="133" column="12" filename="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" />
       <jump line="10" column="0" filename="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" />
       <jump line="112" column="48" filename="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" />
@@ -414,6 +416,7 @@
       <jump line="26" column="0" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/syncInterface/utils/EncryptUtil.java" />
       <jump line="444" column="35" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicNodeList2.jsp" />
       <jump line="147" column="4" filename="C:/code/BIGDATA/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/service/TravelService.java" />
+      <jump line="314" column="46" filename="C:/code/BIGDATA/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
