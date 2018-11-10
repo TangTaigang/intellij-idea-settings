@@ -134,6 +134,9 @@
         <mark key="^" line="274" column="34" />
         <mark key="." line="274" column="34" />
       </file>
+      <file name="C:/code/BIGDATA/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/service/TravelService.java" timestamp="1541831524563">
+        <mark key="'" line="147" column="4" />
+      </file>
       <file name="C:/code/BIGDATA/sso-test/src/main/java/com/miras/LoginInfoRegisterImpl.java" timestamp="1541053650964">
         <mark key="[" line="21" column="82" />
         <mark key="]" line="21" column="81" />
@@ -309,12 +312,8 @@
         <mark key="." line="114" column="0" />
         <mark key="^" line="13" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1541659870746">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="38" filename="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" />
       <jump line="51" column="0" filename="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" />
       <jump line="133" column="12" filename="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" />
       <jump line="10" column="0" filename="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" />
@@ -414,6 +413,7 @@
       <jump line="207" column="44" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/bolt/IllegalCheckBolt.java" />
       <jump line="26" column="0" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/syncInterface/utils/EncryptUtil.java" />
       <jump line="444" column="35" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/basicNodeList2.jsp" />
+      <jump line="147" column="4" filename="C:/code/BIGDATA/MDHTrafficDataJudgment/src/main/java/com/htsite/modules/traffic_monitor/service/TravelService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
