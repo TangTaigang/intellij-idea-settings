@@ -194,13 +194,18 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/JttsService.java" timestamp="1542070775863" />
       <file name="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/java/com/miras/data/modules/sys/web/LoginController.java" timestamp="1541140225390">
         <mark key="'" line="170" column="37" />
         <mark key="[" line="60" column="69" />
         <mark key="]" line="60" column="70" />
         <mark key="." line="60" column="70" />
         <mark key="^" line="60" column="70" />
+      </file>
+      <file name="C:/code/fasttest/pom.xml" timestamp="1542078430055">
+        <mark key="[" line="14" column="41" />
+        <mark key="]" line="14" column="40" />
+        <mark key="^" line="14" column="40" />
+        <mark key="." line="14" column="40" />
       </file>
       <file name="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/webapp/WEB-INF/web.xml" timestamp="1541130991949">
         <mark key="'" line="22" column="36" />
@@ -421,10 +426,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text>2.6.1</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>2.6.1</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
