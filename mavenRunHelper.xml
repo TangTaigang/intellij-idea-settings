@@ -34,6 +34,12 @@
             <Goal>
               <option name="commandLine" value="clean install" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="tomcat7:run" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="clean package -DskipTests" />
+            </Goal>
           </list>
         </option>
       </Goals>
