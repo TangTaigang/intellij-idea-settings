@@ -97,11 +97,12 @@
         <mark key="^" line="1" column="75" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-hbase/src/main/java/com/miras/maprd/CarRouteHBase.java" timestamp="1543020891037">
-        <mark key="[" line="20" column="28" />
-        <mark key="]" line="118" column="4" />
-        <mark key="^" line="118" column="4" />
-        <mark key="." line="118" column="4" />
+      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-hbase/src/main/java/com/miras/maprd/CarRouteHBase.java" timestamp="1543022982790">
+        <mark key="'" line="42" column="43" />
+        <mark key="[" line="32" column="101" />
+        <mark key="]" line="32" column="101" />
+        <mark key="^" line="32" column="99" />
+        <mark key="." line="32" column="101" />
       </file>
       <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/basic_data/index.jsp" timestamp="1541384716321">
         <mark key="'" line="16" column="37" />
@@ -126,6 +127,7 @@
         <mark key="." line="172" column="30" />
         <mark key="^" line="172" column="30" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/hbase/hbase-server/1.1.2.2.5.0.0-1245/hbase-server-1.1.2.2.5.0.0-1245-sources.jar!/org/apache/hadoop/hbase/mapreduce/TableReducer.java" timestamp="1543022632589" />
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_fakenocars/pom.xml" timestamp="1541579726665">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -384,8 +386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" />
-      <jump line="112" column="48" filename="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" />
       <jump line="137" column="52" filename="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" />
       <jump line="52" column="41" filename="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" />
       <jump line="71" column="46" filename="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/util/Base16.java" />
@@ -484,13 +484,15 @@
       <jump line="314" column="46" filename="C:/code/BIGDATA/MDHTrafficRealtimeMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
       <jump line="41" column="16" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/db/monitor/index.jsp" />
       <jump line="529" column="32" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/CheckControl3Bolt.java" />
+      <jump line="103" column="18" filename="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-hbase/src/main/java/com/miras/maprd/CarRouteHBase.java" />
+      <jump line="33" column="43" filename="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-hbase/src/main/java/com/miras/maprd/CarRouteHBase.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LATEST</text>
+        <text>,[3333,3333]</text>
       </register>
       <register name="-" type="4">
-        <text>LATEST</text>
+        <text>,[3333,3333]</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -499,31 +501,31 @@
         <text encoding="base64">Ly8gICAgICAgIHNwb3V0Q29uZmlnLnN0YXJ0T2Zmc2V0VGltZSA9IGthZmthLmFwaS5PZmZzZXRSZXF1ZXN0LkxhdGVzdFRpbWUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5oYmFzZTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+aGJhc2UtY2xpZW50PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjEuMi4yLjUuMC4wLTEyNDU8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBrZXlTdHIgPSBrZXkudG9TdHJpbmcoKTsKICAgICAgICAgICAgICAgIGlmIChrZXlTdHIubGVuZ3RoKCkgLSBrZXlTdHIubGFzdEluZGV4T2YoJ18nKSA+IDMpIHsKICAgICAgICAgICAgICAgICAgICBrZXlTdHIgPSBrZXlTdHIuc3Vic3RyaW5nKDAsIGtleVN0ci5sYXN0SW5kZXhPZignXycpICsgMyk7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I++/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/vc2j77+977+977+977+977+977+977+977+977+92LPvv73vv73vv73vv73vv73vv73Qts+j77+9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgc3Vic3RyaW5nMSA9IGNvbGxlY3REYXRlLnN1YnN0cmluZygieXl5eS1NTS1kZCAiLmxlbmd0aCgpLCAieXl5eS1NTS1kZCBISCIubGVuZ3RoKCkpOwogICAgICAgICAgICAgICAgICAgIFN0cmluZyBzdWJzdHJpbmcgPSBjb2xsZWN0RGF0ZS5zdWJzdHJpbmcoInl5eXktTU0tZGQgSEg6Ii5sZW5ndGgoKSwgInl5eXktTU0tZGQgSEg6bW0iLmxlbmd0aCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHNwb3V0Q29uZmlnLnN0YXJ0T2Zmc2V0VGltZSA9IGthZmthLmFwaS5PZmZzZXRSZXF1ZXN0LkxhdGVzdFRpbWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgbWludXRlID0gSW50ZWdlci52YWx1ZU9mKHN1YnN0cmluZyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZmlsZU5hbWUgPSBhcmdzWzBdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgaG91ciA9IEludGVnZXIudmFsdWVPZihzdWJzdHJpbmcxKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlSGFuZGxlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgTUFYX0xJQ0VOU0VfVFlQRV9MRU4gPSAyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBtaW5MZW5ndGhPZkRhdGEgPSAxMDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3ByaW5nLmthZmthLmNsaWVudC1pZD0K</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5oYmFzZTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+aGJhc2UtY2xpZW50PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjEuMi4yLjUuMC4wLTEyNDU8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/,/,\r/g</text>
