@@ -15,7 +15,6 @@
         <mark key="^" line="101" column="41" />
         <mark key="." line="101" column="41" />
       </file>
-      <file name="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/build-scripts/build-test.bat" timestamp="1542954585493" />
       <file name="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/utils/KafkaSpoutUtils.java" timestamp="1542955572927">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -126,7 +125,6 @@
         <mark key="." line="172" column="30" />
         <mark key="^" line="172" column="30" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/hbase/hbase-server/1.1.2.2.5.0.0-1245/hbase-server-1.1.2.2.5.0.0-1245-sources.jar!/org/apache/hadoop/hbase/mapreduce/TableReducer.java" timestamp="1543022632589" />
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_fakenocars/pom.xml" timestamp="1541579726665">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -351,6 +349,12 @@
         <mark key="]" line="76" column="0" />
         <mark key="^" line="71" column="41" />
         <mark key="." line="76" column="0" />
+      </file>
+      <file name="C:/code/demo/src/main/java/com/kischn/demo/Bean.java" timestamp="1543027126302">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="7" column="3" />
       </file>
       <file name="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/utils/JdbcUtils.java" timestamp="1541666663629">
         <mark key="'" line="29" column="0" />
