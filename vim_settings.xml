@@ -21,11 +21,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="75" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapduce/CombineType.java" timestamp="1543031994615">
-        <mark key="[" line="37" column="9" />
-        <mark key="]" line="43" column="8" />
-        <mark key="." line="43" column="8" />
-        <mark key="^" line="43" column="8" />
+      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapduce/CombineType.java" timestamp="1543033359911">
+        <mark key="[" line="53" column="15" />
+        <mark key="]" line="53" column="18" />
+        <mark key="." line="53" column="18" />
+        <mark key="^" line="53" column="18" />
       </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_control/pom.xml" timestamp="1541579696065">
         <mark key="[" line="19" column="33" />
@@ -307,8 +307,8 @@
         <mark key="." line="19" column="11" />
         <mark key="^" line="19" column="11" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapduce/CarRouteCombine.java" timestamp="1543031990325">
-        <mark key="'" line="86" column="50" />
+      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapduce/CarRouteCombine.java" timestamp="1543033373058">
+        <mark key="'" line="76" column="50" />
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
@@ -503,11 +503,11 @@
       <jump line="79" column="50" filename="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapduce/CarRouteCombine.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>array</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
