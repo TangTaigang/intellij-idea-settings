@@ -276,7 +276,7 @@
         <mark key="^" line="32" column="11" />
         <mark key="." line="32" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543042767908">
+      <file name="/Dummy.txt" timestamp="1543295467315">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
@@ -301,11 +301,11 @@
         <mark key="]" line="10" column="36" />
         <mark key="." line="10" column="36" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapreduce/CombineType.java" timestamp="1543041836593">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="25" />
+      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapreduce/CombineType.java" timestamp="1543295465076">
+        <mark key="[" line="151" column="28" />
+        <mark key="]" line="151" column="28" />
         <mark key="^" line="38" column="8" />
-        <mark key="." line="30" column="0" />
+        <mark key="." line="151" column="28" />
       </file>
       <file name="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/resources/logback.xml" timestamp="1541145777142">
         <mark key="[" line="35" column="0" />
@@ -523,10 +523,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>prev</text>
