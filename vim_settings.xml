@@ -33,6 +33,9 @@
         <mark key="^" line="15" column="41" />
         <mark key="." line="19" column="34" />
       </file>
+      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapreduce/PassInfo.java" timestamp="1543302127959">
+        <mark key="^" line="11" column="37" />
+      </file>
       <file name="C:/code/BIGDATA/sso-test/src/main/webapp/WEB-INF/web.xml" timestamp="1541058510901">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="57" />
@@ -140,11 +143,10 @@
         <mark key="^" line="111" column="41" />
         <mark key="." line="111" column="41" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapreduce/CarRouteCombine.java" timestamp="1543299314814">
-        <mark key="[" line="48" column="35" />
-        <mark key="]" line="48" column="35" />
-        <mark key="." line="48" column="35" />
-        <mark key="^" line="48" column="41" />
+      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapreduce/CarRouteCombine.java" timestamp="1543302867545">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-hbase/pom.xml" timestamp="1543028355476">
         <mark key="[" line="32" column="0" />
@@ -276,7 +278,7 @@
         <mark key="^" line="32" column="11" />
         <mark key="." line="32" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543295467315">
+      <file name="/Dummy.txt" timestamp="1543302871543">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
@@ -301,11 +303,12 @@
         <mark key="]" line="10" column="36" />
         <mark key="." line="10" column="36" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapreduce/CombineType.java" timestamp="1543295465076">
-        <mark key="[" line="151" column="28" />
-        <mark key="]" line="151" column="28" />
-        <mark key="^" line="38" column="8" />
-        <mark key="." line="151" column="28" />
+      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapreduce/CombineType.java" timestamp="1543302241725">
+        <mark key="'" line="157" column="0" />
+        <mark key="[" line="182" column="62" />
+        <mark key="]" line="182" column="67" />
+        <mark key="." line="182" column="67" />
+        <mark key="^" line="182" column="67" />
       </file>
       <file name="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/resources/logback.xml" timestamp="1541145777142">
         <mark key="[" line="35" column="0" />
@@ -412,15 +415,14 @@
         <mark key="." line="141" column="35" />
         <mark key="^" line="141" column="35" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/pom.xml" timestamp="1543039946556">
-        <mark key="[" line="33" column="49" />
+      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/pom.xml" timestamp="1543301291877">
+        <mark key="[" line="29" column="18" />
         <mark key="]" line="34" column="26" />
         <mark key="." line="34" column="26" />
         <mark key="^" line="34" column="26" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="24" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/db/search/index.jsp" />
       <jump line="155" column="0" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/splitflow/webservice/DruidConnect.java" />
       <jump line="33" column="24" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/web/HomeController.java" />
       <jump line="59" column="56" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/resources/mappings/modules/traffic_monitor/MonitorPointMapper.xml" />
@@ -520,46 +522,47 @@
       <jump line="153" column="32" filename="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapduce/CarRouteCombine.java" />
       <jump line="79" column="50" filename="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapduce/CarRouteCombine.java" />
       <jump line="68" column="44" filename="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapduce/CarRouteCombine.java" />
+      <jump line="149" column="0" filename="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapreduce/CombineType.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text>prev</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5hZGRBbGwoU1RPUC5idWlsZENzdkxpbmUoY2FyTnVtYmVyRnVsbCwgcHJldiwgY3VyciwgbmV4dCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmV2LmdldEFkZHJlc3NDb2RlKCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb2RlLAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb2RlLAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb2RlLAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb2RlLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmRlcmVkTWFwLnB1dChwYXNzVGltZSwgbmV3IFBhc3NJbmZvKHZhbHVlQXJyYXlbMV0sIHBhc3NUaW1lLCB2YWx1ZUFycmF5WzBdLCB2YWx1ZUFycmF5WzJdKSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBQYXNzSW5mbyhTdHJpbmcgY29sbGVjdERhdGUsIExvbmcgdGltZXN0YW1wLCBTdHJpbmcgYWRkcmVzc0NvZGUpIHsKICAgICAgICB0aGlzLmNvbGxlY3REYXRlID0gY29sbGVjdERhdGU7CiAgICAgICAgdGhpcy50aW1lc3RhbXAgPSB0aW1lc3RhbXA7CiAgICAgICAgdGhpcy5hZGRyZXNzQ29kZSA9IGFkZHJlc3NDb2RlOwogICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY3N2TGluZS5mb3JFYWNoKFN5c3RlbS5vdXQ6OnByaW50bG4pOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWVzLmZvckVhY2goaXRlbSAtPiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyDlj7fniYzlj7fnoIFf5Y+354mM57G75Z6LCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBuZXh0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBjdXJyCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/prev/next/g</text>
