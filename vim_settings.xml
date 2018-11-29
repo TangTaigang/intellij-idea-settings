@@ -42,6 +42,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="13" column="56" />
       </file>
+      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" timestamp="1543471698254">
+        <mark key="[" line="139" column="34" />
+        <mark key="]" line="139" column="52" />
+        <mark key="^" line="139" column="52" />
+        <mark key="." line="139" column="52" />
+      </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_firstincity/pom.xml" timestamp="1541579756200">
         <mark key="[" line="108" column="35" />
         <mark key="]" line="108" column="41" />
@@ -123,6 +129,12 @@
         <mark key="]" line="32" column="0" />
         <mark key="^" line="35" column="25" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/pom.xml" timestamp="1543471680119">
+        <mark key="[" line="60" column="21" />
+        <mark key="]" line="64" column="26" />
+        <mark key="." line="64" column="26" />
+        <mark key="^" line="64" column="26" />
       </file>
       <file name="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/resources/spring-context-shiro.xml" timestamp="1541407199527">
         <mark key="[" line="19" column="0" />
@@ -437,10 +449,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>addressCode</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>addressCode</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>prev</text>
@@ -449,31 +461,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICLojrHlsbHljLoiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm9yYWNsZTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+b2pkYmMxNDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MTAuMi4wLjQuMDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChhcmVhTmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC53cml0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoQ2xhc3NOb3RGb3VuZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxTdHJpbmc+IGRpc3RpbmN0TGlzdCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoQ2xhc3NOb3RGb3VuZEV4Y2VwdGlvbiB8IFNRTEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBhdGhMaXN0LnNpemUoKSA+IDEpIHsK</text>
+        <text encoding="base64">ICAgICAgICBwcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChhcmVhTmFtZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC53cml0ZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc3RpbmN0UGF0aC5hZGQocGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxTdHJpbmc+IGRpc3RpbmN0TGlzdCA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/prev/next/g</text>
