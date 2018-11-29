@@ -194,11 +194,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-zone/src/main/java/com/miras/mapreduce/CarRouteCombine.java" timestamp="1543395483700">
-        <mark key="[" line="125" column="60" />
-        <mark key="]" line="125" column="61" />
-        <mark key="." line="125" column="61" />
-        <mark key="^" line="85" column="38" />
+      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-zone/src/main/java/com/miras/mapreduce/CarRouteCombine.java" timestamp="1543452101270">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="72" column="54" />
       </file>
       <file name="C:/code/fasttest/pom.xml" timestamp="1542078430055">
         <mark key="[" line="14" column="41" />
@@ -436,44 +436,44 @@
       <jump line="149" column="0" filename="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapreduce/CombineType.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChTdHJpbmcgcGF0aHMgOiBkaXN0aW5jdExpc3QpIHsKICAgICAgICAgICAgICAgIGlmICghcGF0aHMuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>prev</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyB1cmwgPSAiamRiYzpvcmFjbGU6dGhpbjpAMTAuMjMxLjQ5LjE5OToxNTIxOm9yY2wiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXJyYXlMaXN0PExvbmc+IHRzTGlzdCA9IG5ldyBBcnJheUxpc3Q8PihvcmRlcmVkTWFwLmtleVNldCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChTdHJpbmcgcGF0aHMgOiBkaXN0aW5jdExpc3QpIHsKICAgICAgICAgICAgICAgIGlmICghcGF0aHMuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0LndyaXRlKE51bGxXcml0YWJsZS5nZXQoKSwgbmV3IFRleHQoY2FyTnVtYmVyRnVsbCArICcsJyArIFN0cmluZ1V0aWxzLmpvaW4ocGF0aHMsICc+JykpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGlzdGluY3RMaXN0LmFkZChvcmRlcmVkTWFwLmdldChjdXJyVHMpLmdldENvbGxlY3RBZ2VuY3koKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5bCG6L+H6L2m5oyJ5pe26Ze06L+b6KGM5YiG54mH77yM6LaF6L+HNDDliIbpkp/nmoTlsLHliIbkuIDniYcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUT0RPIDE4LzExLzI4IGtpc2NobiDmraTlpITnmoTph4fpm4bmnLrlhbPkuI3lpb3kvb8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFBhc3NJbmZvKFN0cmluZyBjb2xsZWN0RGF0ZSwgTG9uZyB0aW1lc3RhbXAsIFN0cmluZyBjb2xsZWN0QWdlbmN5KSB7CiAgICAgICAgdGhpcy5jb2xsZWN0RGF0ZSA9IGNvbGxlY3REYXRlOwogICAgICAgIHRoaXMudGltZXN0YW1wID0gdGltZXN0YW1wOwogICAgICAgIHRoaXMuY29sbGVjdEFnZW5jeSA9IGNvbGxlY3RBZ2VuY3k7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWmguaenOWkp+S6jiA0MCDliIbpkp/liJnov5vooYzkuIDmrKHliIbniYcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjdXJyVHMgLSBwcmV2VHMgPiA0MCAqIDYwICogMTAwMCkgewogICAgICAgICAgICAgICAgICAgIGRpc3RpbmN0TGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgICAgICAgICAgICAgIHRzTGlzdFNsaWNlLmFkZChkaXN0aW5jdExpc3QpOwogICAgICAgICAgICAgICAgICAgIGRpc3RpbmN0TGlzdC5hZGQob3JkZXJlZE1hcC5nZXQoY3VyclRzKS5nZXRBcmVhKCkpOwogICAgICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5nZXRDCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/prev/next/g</text>
