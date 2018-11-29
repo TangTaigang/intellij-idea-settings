@@ -218,7 +218,7 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543395478451">
+      <file name="/Dummy.txt" timestamp="1543451858301">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
@@ -236,12 +236,12 @@
         <mark key="]" line="10" column="36" />
         <mark key="." line="10" column="36" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapreduce/CombineType.java" timestamp="1543369853421">
-        <mark key="'" line="183" column="0" />
-        <mark key="[" line="124" column="5" />
-        <mark key="]" line="124" column="6" />
-        <mark key="." line="124" column="6" />
-        <mark key="^" line="94" column="28" />
+      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapreduce/CombineType.java" timestamp="1543451881887">
+        <mark key="'" line="207" column="0" />
+        <mark key="[" line="86" column="14" />
+        <mark key="]" line="86" column="15" />
+        <mark key="." line="86" column="15" />
+        <mark key="^" line="86" column="5" />
       </file>
       <file name="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/resources/logback.xml" timestamp="1541145777142">
         <mark key="[" line="35" column="0" />
@@ -437,10 +437,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>prev</text>
