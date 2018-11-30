@@ -143,6 +143,7 @@
         <mark key="." line="64" column="26" />
         <mark key="^" line="64" column="26" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/xiaoleilu/hutool-geo/3.3.2/hutool-geo-3.3.2-sources.jar!/com/xiaoleilu/hutool/geo/GeoHash.java" timestamp="1543550424529" />
       <file name="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/resources/spring-context-shiro.xml" timestamp="1541407199527">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -184,11 +185,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="75" />
       </file>
-      <file name="C:/code/fasttest/src/main/java/com/miras/GeoHashGenerate.java" timestamp="1543550038465">
-        <mark key="[" line="13" column="82" />
-        <mark key="]" line="14" column="66" />
-        <mark key="." line="14" column="66" />
-        <mark key="^" line="14" column="66" />
+      <file name="C:/code/fasttest/src/main/java/com/miras/GeoHashGenerate.java" timestamp="1543550426121">
+        <mark key="'" line="24" column="20" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="26" column="66" />
       </file>
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-timerange/pom.xml" timestamp="1543029376096">
         <mark key="[" line="27" column="21" />
@@ -232,11 +234,11 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="C:/code/fasttest/pom.xml" timestamp="1543549690785">
-        <mark key="[" line="25" column="21" />
-        <mark key="]" line="28" column="30" />
-        <mark key="." line="28" column="30" />
-        <mark key="^" line="28" column="30" />
+      <file name="C:/code/fasttest/pom.xml" timestamp="1543550204194">
+        <mark key="[" line="16" column="38" />
+        <mark key="]" line="17" column="28" />
+        <mark key="." line="17" column="28" />
+        <mark key="^" line="17" column="28" />
       </file>
       <file name="C:/code/demo/pom.xml" timestamp="1542962031662">
         <mark key="[" line="23" column="23" />
@@ -365,7 +367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="46" filename="C:/code/BIGDATA/MDHTrafficDB/pom.xml" />
       <jump line="194" column="20" filename="C:/code/BIGDATA/MDHTrafficDB/pom.xml" />
       <jump line="76" column="22" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/web/RoadSectionController.java" />
       <jump line="68" column="21" filename="C:/code/BIGDATA/MDHTrafficDruidMonitor/src/main/java/com/htsite/common/persistence/DataEntity.java" />
@@ -465,28 +466,29 @@
       <jump line="202" column="57" filename="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" />
       <jump line="10" column="3" filename="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/PassInfo.java" />
       <jump line="151" column="70" filename="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" />
+      <jump line="22" column="20" filename="C:/code/fasttest/src/main/java/com/miras/GeoHashGenerate.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>prepareCall</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>prepareCall</text>
+        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>longi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUGFzc0luZm8gcHJldlAgPSBwYXRoTGlzdC5nZXQoaSAtIDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb3VibGUgbG9uZ2l0dWRlID0gcmVzdWx0U2V0LmdldERvdWJsZSgibG9uZ2l0dWRlIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDbGFzcy5mb3JOYW1lKCJvcmFjbGUuamRiYy5kcml2ZXIuT3JhY2xlRHJpdmVyIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobGF0aXR1ZGUgPiAwRCAmJiBsYXRpdHVkZSA+IDBEKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIEdlb0hhc2goKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEb3VibGUgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -495,33 +497,32 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQud3JpdGUoTnVsbFdyaXRhYmxlLmdldCgpLCBuZXcgVGV4dChTdHJpbmdVdGlscy5qb2luKHBhdGhMaXN0LnRvQXJyYXkoKSwgJywnKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29ubmVjdGlvbiBjb25uZWN0aW9uID0gRHJpdmVyTWFuYWdlci5nZXRDb25uZWN0aW9uKHVybCwgInRyYWZmaWNfY2xvdWQiLCAiSHVpdG9uZ1lUSkoyMDE4Iik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2hhciBzZXBhcmF0b3IgPSAnLCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29ubmVjdGlvbiBjb25uZWN0aW9uID0gRHJpdmVyTWFuYWdlci5nZXRDb25uZWN0aW9uKHVybCwgInRyYWZmaWNfY2xvdWQiLCAiSHVpdG9uZ1lUSkoyMDE4Iik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAodmFsdWVBcnJheS5sZW5ndGggPiA0KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gImpkYmM6b3JhY2xlOnRoaW46QDEwLjIzMS40OS4xOTY6MTUyMTpvcmNsIjsK</text>
       </register>
       <register name=":" type="4">
-        <text>s/,/,\r/g</text>
+        <text>s/longi/lati/g</text>
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>longi</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
-      <last-replace>,\r</last-replace>
-      <last-substitute>,</last-substitute>
+      <last-pattern>longi</last-pattern>
+      <last-replace>lati</last-replace>
+      <last-substitute>longi</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>start</entry>
         <entry>Post</entry>
         <entry>end</entry>
         <entry>username</entry>
@@ -541,9 +542,9 @@
         <entry>clientId</entry>
         <entry>prev</entry>
         <entry>,</entry>
+        <entry>longi</entry>
       </history-search>
       <history-cmd>
-        <entry>s/Post/Put/g</entry>
         <entry>s/end/start/g</entry>
         <entry>s/username/driver/g</entry>
         <entry>s/Name/Alias/g</entry>
@@ -563,6 +564,7 @@
         <entry>s/clientId/autoResetConfig/g</entry>
         <entry>s/prev/next/g</entry>
         <entry>s/,/,\r/g</entry>
+        <entry>s/longi/lati/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
