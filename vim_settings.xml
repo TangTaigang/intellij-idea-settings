@@ -42,8 +42,8 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="13" column="56" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" timestamp="1543477692238">
-        <mark key="'" line="150" column="70" />
+      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" timestamp="1543562245805">
+        <mark key="'" line="148" column="58" />
         <mark key="[" line="84" column="21" />
         <mark key="]" line="85" column="31" />
         <mark key="^" line="85" column="31" />
@@ -257,7 +257,7 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543555614227">
+      <file name="/Dummy.txt" timestamp="1543561931241">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
@@ -372,7 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="19" filename="C:/code/BIGDATA/MDHTrafficDruidMonitor/src/main/java/com/htsite/modules/traffic_monitor/web/AddressZoneDataController.java" />
       <jump line="126" column="24" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/RoadItemService.java" />
       <jump line="105" column="31" filename="C:/code/BIGDATA/MDHTrafficDruidMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/RoadItemService.java" />
       <jump line="42" column="23" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/web/AddressZoneDataController.java" />
@@ -472,6 +471,7 @@
       <jump line="28" column="29" filename="C:/code/fasttest/src/main/java/com/miras/GeoHashGenerate.java" />
       <jump line="29" column="24" filename="C:/code/fasttest/src/main/java/com/miras/GeoHashGenerate.java" />
       <jump line="27" column="24" filename="C:/code/fasttest/src/main/java/com/miras/GeoHashGenerate.java" />
+      <jump line="148" column="58" filename="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
