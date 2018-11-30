@@ -185,12 +185,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="75" />
       </file>
-      <file name="C:/code/fasttest/src/main/java/com/miras/GeoHashGenerate.java" timestamp="1543550426121">
-        <mark key="'" line="24" column="20" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="26" column="66" />
+      <file name="C:/code/fasttest/src/main/java/com/miras/GeoHashGenerate.java" timestamp="1543554935794">
+        <mark key="[" line="34" column="86" />
+        <mark key="]" line="34" column="96" />
+        <mark key="." line="34" column="96" />
+        <mark key="^" line="34" column="96" />
       </file>
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-timerange/pom.xml" timestamp="1543029376096">
         <mark key="[" line="27" column="21" />
@@ -221,7 +220,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-zone/src/main/java/com/miras/mapreduce/CarRouteCombine.java" timestamp="1543549984690">
+      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-zone/src/main/java/com/miras/mapreduce/CarRouteCombine.java" timestamp="1543554702362">
         <mark key="[" line="156" column="8" />
         <mark key="]" line="156" column="15" />
         <mark key="." line="156" column="15" />
@@ -234,8 +233,8 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="C:/code/fasttest/pom.xml" timestamp="1543550204194">
-        <mark key="[" line="16" column="38" />
+      <file name="C:/code/fasttest/pom.xml" timestamp="1543554583330">
+        <mark key="[" line="27" column="18" />
         <mark key="]" line="17" column="28" />
         <mark key="." line="17" column="28" />
         <mark key="^" line="17" column="28" />
@@ -367,9 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="20" filename="C:/code/BIGDATA/MDHTrafficDB/pom.xml" />
-      <jump line="76" column="22" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/web/RoadSectionController.java" />
-      <jump line="68" column="21" filename="C:/code/BIGDATA/MDHTrafficDruidMonitor/src/main/java/com/htsite/common/persistence/DataEntity.java" />
       <jump line="68" column="19" filename="C:/code/BIGDATA/MDHTrafficDruidMonitor/src/main/java/com/htsite/modules/traffic_monitor/web/AddressZoneDataController.java" />
       <jump line="126" column="24" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/RoadItemService.java" />
       <jump line="105" column="31" filename="C:/code/BIGDATA/MDHTrafficDruidMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/RoadItemService.java" />
@@ -467,64 +463,65 @@
       <jump line="10" column="3" filename="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/PassInfo.java" />
       <jump line="151" column="70" filename="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" />
       <jump line="22" column="20" filename="C:/code/fasttest/src/main/java/com/miras/GeoHashGenerate.java" />
+      <jump line="28" column="29" filename="C:/code/fasttest/src/main/java/com/miras/GeoHashGenerate.java" />
+      <jump line="29" column="24" filename="C:/code/fasttest/src/main/java/com/miras/GeoHashGenerate.java" />
+      <jump line="27" column="24" filename="C:/code/fasttest/src/main/java/com/miras/GeoHashGenerate.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>longi</text>
+        <text>4</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb3VibGUgbG9uZ2l0dWRlID0gcmVzdWx0U2V0LmdldERvdWJsZSgibG9uZ2l0dWRlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHVybCA9ICJqZGJjOm9yYWNsZTp0aGluOkAxMC4yMzEuNDkuMTk2OjE1MjE6b3JjbCI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnZW9IYXNoLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobGF0aXR1ZGUgPiAwRCAmJiBsYXRpdHVkZSA+IDBEKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIEdlb0hhc2goKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBHZW9IYXNoLndpdGhDaGFyYWN0ZXJQcmVjaXNpb24obGF0aXR1ZGUsIGxvbmdpdHVkZSwgNCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEb3VibGUgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgR2VvSGFzaCBnZW9IYXNoID0gCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgR2VvSGFzaCBnZW9IYXNoNCA9IEdlb0hhc2gud2l0aENoYXJhY3RlclByZWNpc2lvbihsYXRpdHVkZSwgbG9uZ2l0dWRlLCA0KTsKICAgICAgICAgICAgICAgICAgICAgICAgR2VvSGFzaCBnZW9IYXNoNSA9IEdlb0hhc2gud2l0aENoYXJhY3RlclByZWNpc2lvbihsYXRpdHVkZSwgbG9uZ2l0dWRlLCA1KTsKICAgICAgICAgICAgICAgICAgICAgICAgR2VvSGFzaCBnZW9IYXNoNiA9IEdlb0hhc2gud2l0aENoYXJhY3RlclByZWNpc2lvbihsYXRpdHVkZSwgbG9uZ2l0dWRlLCA2KTsKICAgICAgICAgICAgICAgICAgICAgICAgR2VvSGFzaCBnZW9IYXNoNyA9IEdlb0hhc2gud2l0aENoYXJhY3RlclByZWNpc2lvbihsYXRpdHVkZSwgbG9uZ2l0dWRlLCA3KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29ubmVjdGlvbiBjb25uZWN0aW9uID0gRHJpdmVyTWFuYWdlci5nZXRDb25uZWN0aW9uKHVybCwgInRyYWZmaWNfY2xvdWQiLCAiSHVpdG9uZ1lUSkoyMDE4Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHBvaW50Q29kZSArICk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29ubmVjdGlvbiBjb25uZWN0aW9uID0gRHJpdmVyTWFuYWdlci5nZXRDb25uZWN0aW9uKHVybCwgInRyYWZmaWNfY2xvdWQiLCAiSHVpdG9uZ1lUSkoyMDE4Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobGF0aXR1ZGUgPiAwRCAmJiBsYXRpdHVkZSA+IDBEKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIEdlb0hhc2goKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gImpkYmM6b3JhY2xlOnRoaW46QDEwLjIzMS40OS4xOTY6MTUyMTpvcmNsIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEb3VibGUgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/longi/lati/g</text>
+        <text>s/4/5/g</text>
       </register>
     </registers>
     <search>
-      <last-search>longi</last-search>
+      <last-search>4</last-search>
       <last-offset />
-      <last-pattern>longi</last-pattern>
-      <last-replace>lati</last-replace>
-      <last-substitute>longi</last-substitute>
+      <last-pattern>4</last-pattern>
+      <last-replace>5</last-replace>
+      <last-substitute>4</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Post</entry>
-        <entry>end</entry>
         <entry>username</entry>
         <entry>Name</entry>
         <entry>per</entry>
@@ -543,11 +540,10 @@
         <entry>prev</entry>
         <entry>,</entry>
         <entry>longi</entry>
+        <entry>s</entry>
+        <entry>4</entry>
       </history-search>
       <history-cmd>
-        <entry>s/end/start/g</entry>
-        <entry>s/username/driver/g</entry>
-        <entry>s/Name/Alias/g</entry>
         <entry>s/node/moni/g</entry>
         <entry>s/Loc/Obj/g</entry>
         <entry>s/Id/Obj/g</entry>
@@ -565,6 +561,9 @@
         <entry>s/prev/next/g</entry>
         <entry>s/,/,\r/g</entry>
         <entry>s/longi/lati/g</entry>
+        <entry>s/4/6/g</entry>
+        <entry>s/4/7/g</entry>
+        <entry>s/4/5/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
