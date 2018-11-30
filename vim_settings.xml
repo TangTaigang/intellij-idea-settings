@@ -184,6 +184,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="75" />
       </file>
+      <file name="C:/code/fasttest/src/main/java/com/miras/GeoHashGenerate.java" timestamp="1543549871288">
+        <mark key="[" line="10" column="58" />
+        <mark key="]" line="10" column="72" />
+        <mark key="." line="10" column="72" />
+        <mark key="^" line="10" column="72" />
+      </file>
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-timerange/pom.xml" timestamp="1543029376096">
         <mark key="[" line="27" column="21" />
         <mark key="]" line="27" column="38" />
@@ -226,11 +232,11 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="C:/code/fasttest/pom.xml" timestamp="1542078430055">
-        <mark key="[" line="14" column="41" />
-        <mark key="]" line="14" column="40" />
-        <mark key="^" line="14" column="40" />
-        <mark key="." line="14" column="40" />
+      <file name="C:/code/fasttest/pom.xml" timestamp="1543549690785">
+        <mark key="[" line="25" column="21" />
+        <mark key="]" line="28" column="30" />
+        <mark key="." line="28" column="30" />
+        <mark key="^" line="28" column="30" />
       </file>
       <file name="C:/code/demo/pom.xml" timestamp="1542962031662">
         <mark key="[" line="23" column="23" />
@@ -293,7 +299,6 @@
         <mark key="." line="135" column="118" />
         <mark key="^" line="135" column="119" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-zone/src/test/java/RingTest.java" timestamp="1543453745103" />
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-timerange/src/main/java/com/miras/mapreduce/car/CarRouteCombineMR.java" timestamp="1543029791619">
         <mark key="[" line="16" column="38" />
         <mark key="]" line="16" column="39" />
@@ -478,28 +483,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQud3JpdGUoTnVsbFdyaXRhYmxlLmdldCgpLCBuZXcgVGV4dChTdHJpbmdVdGlscy5qb2luKHBhdGhMaXN0LnRvQXJyYXkoKSwgJywnKSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2hhciBzZXBhcmF0b3IgPSAnLCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQud3JpdGUoTnVsbFdyaXRhYmxlLmdldCgpLCBuZXcgVGV4dChTdHJpbmdVdGlscy5qb2luKHBhdGhMaXN0LnRvQXJyYXkoKSwgJywnKSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAodmFsdWVBcnJheS5sZW5ndGggPiA0KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2hhciBzZXBhcmF0b3IgPSAnLCc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGRhdGUsIHRvcGljSWQsIHRhZ0lkLCBwb2ludENvZGUsIGRpcmVjdGlvbiwgbGFuZU51bWJlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAodmFsdWVBcnJheS5sZW5ndGggPiA0KSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGRhdGUsIHRvcGljSWQsIHRhZ0lkLCBwb2ludENvZGUsIGRpcmVjdGlvbiwgbGFuZU51bWJlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/,/,\r/g</text>
