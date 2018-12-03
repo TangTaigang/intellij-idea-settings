@@ -135,10 +135,11 @@
         <mark key="^" line="111" column="41" />
         <mark key="." line="111" column="41" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapreduce/CarRouteCombine.java" timestamp="1543388260143">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapreduce/CarRouteCombine.java" timestamp="1543805810976">
+        <mark key="[" line="161" column="105" />
+        <mark key="]" line="162" column="26" />
+        <mark key="." line="162" column="26" />
+        <mark key="^" line="162" column="26" />
       </file>
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-hbase/pom.xml" timestamp="1543028355476">
         <mark key="[" line="32" column="0" />
@@ -229,7 +230,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-zone/src/main/java/com/miras/mapreduce/CarRouteCombine.java" timestamp="1543554702362">
+      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-zone/src/main/java/com/miras/mapreduce/CarRouteCombine.java" timestamp="1543805826437">
         <mark key="[" line="156" column="8" />
         <mark key="]" line="156" column="15" />
         <mark key="." line="156" column="15" />
@@ -260,7 +261,7 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543568802043">
+      <file name="/Dummy.txt" timestamp="1543805816686">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
@@ -479,11 +480,11 @@
       <jump line="148" column="58" filename="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Z29hbD5wYWNrYWdlPC9nb2FsPgo=</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>4</text>
