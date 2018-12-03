@@ -33,9 +33,6 @@
         <mark key="^" line="15" column="41" />
         <mark key="." line="19" column="34" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapreduce/PassInfo.java" timestamp="1543302127959">
-        <mark key="^" line="11" column="37" />
-      </file>
       <file name="C:/code/BIGDATA/sso-test/src/main/webapp/WEB-INF/web.xml" timestamp="1541058510901">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="57" />
@@ -220,6 +217,7 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="41" column="90" />
       </file>
+      <file name="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/DataProviderService.java" timestamp="1543805350256" />
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_monitor/pom.xml" timestamp="1541579633524">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
@@ -312,6 +310,7 @@
         <mark key="." line="135" column="118" />
         <mark key="^" line="135" column="119" />
       </file>
+      <file name="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/dao/DatasourceDao.java" timestamp="1543805394256" />
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-timerange/src/main/java/com/miras/mapreduce/car/CarRouteCombineMR.java" timestamp="1543029791619">
         <mark key="[" line="16" column="38" />
         <mark key="]" line="16" column="39" />
