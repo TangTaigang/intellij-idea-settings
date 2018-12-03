@@ -185,6 +185,7 @@
         <mark key="." line="34" column="96" />
         <mark key="^" line="34" column="96" />
       </file>
+      <file name="$USER_HOME$/Desktop/cartype.class" timestamp="1543827538742" />
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-timerange/pom.xml" timestamp="1543029376096">
         <mark key="[" line="27" column="21" />
         <mark key="]" line="27" column="38" />
@@ -247,7 +248,7 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543825486215">
+      <file name="/Dummy.txt" timestamp="1543827690505">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
@@ -321,6 +322,13 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
+      <file name="C:/code/BIGDATA/MagicSquareV1/.gitignore" timestamp="1543827665071">
+        <mark key="'" line="25" column="33" />
+        <mark key="[" line="98" column="34" />
+        <mark key="]" line="100" column="10" />
+        <mark key="^" line="100" column="10" />
+        <mark key="." line="100" column="10" />
+      </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_hdfs/src/main/java/com/miras/data/passinf/hdfs/BlankCharacterFilterBolt.java" timestamp="1541645666321">
         <mark key="[" line="45" column="32" />
         <mark key="]" line="45" column="32" />
@@ -353,7 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="31" filename="C:/code/BIGDATA/MDHTrafficDruidMonitor/src/main/java/com/htsite/modules/traffic_monitor/service/RoadItemService.java" />
       <jump line="42" column="23" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/web/AddressZoneDataController.java" />
       <jump line="84" column="31" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/web/AddressZoneDataController.java" />
       <jump line="209" column="49" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/db/index.jsp" />
@@ -453,6 +460,7 @@
       <jump line="27" column="24" filename="C:/code/fasttest/src/main/java/com/miras/GeoHashGenerate.java" />
       <jump line="148" column="58" filename="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" />
       <jump line="111" column="23" filename="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" />
+      <jump line="25" column="33" filename="C:/code/BIGDATA/MagicSquareV1/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
