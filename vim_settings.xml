@@ -46,6 +46,13 @@
         <mark key="^" line="85" column="31" />
         <mark key="." line="85" column="31" />
       </file>
+      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/webapp/plugins/crossTable/plugin.js" timestamp="1543903113360">
+        <mark key="'" line="89" column="26" />
+        <mark key="[" line="369" column="8" />
+        <mark key="]" line="369" column="11" />
+        <mark key="^" line="369" column="11" />
+        <mark key="." line="369" column="11" />
+      </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_firstincity/pom.xml" timestamp="1541579756200">
         <mark key="[" line="108" column="35" />
         <mark key="]" line="108" column="41" />
@@ -185,7 +192,6 @@
         <mark key="." line="34" column="96" />
         <mark key="^" line="34" column="96" />
       </file>
-      <file name="$USER_HOME$/Desktop/cartype.class" timestamp="1543827538742" />
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-timerange/pom.xml" timestamp="1543029376096">
         <mark key="[" line="27" column="21" />
         <mark key="]" line="27" column="38" />
@@ -198,6 +204,7 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
       </file>
+      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/webapp/org/magicsquare/service/data/dataService.js" timestamp="1543902488789" />
       <file name="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/bolt/PassportCheckBolt.java" timestamp="1542182818655">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -217,6 +224,7 @@
         <mark key="^" line="68" column="41" />
         <mark key="." line="93" column="0" />
       </file>
+      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/DashboardController.java" timestamp="1543902277254" />
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-zone/src/main/java/com/miras/mapreduce/CarRouteCombine.java" timestamp="1543815540179">
         <mark key="[" line="151" column="63" />
         <mark key="]" line="152" column="54" />
@@ -361,7 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="23" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/web/AddressZoneDataController.java" />
       <jump line="84" column="31" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/web/AddressZoneDataController.java" />
       <jump line="209" column="49" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/db/index.jsp" />
       <jump line="130" column="12" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/traffic_monitor/index.jsp" />
@@ -461,6 +468,7 @@
       <jump line="148" column="58" filename="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" />
       <jump line="111" column="23" filename="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" />
       <jump line="25" column="33" filename="C:/code/BIGDATA/MagicSquareV1/.gitignore" />
+      <jump line="89" column="26" filename="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/webapp/plugins/crossTable/plugin.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
