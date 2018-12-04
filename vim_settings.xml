@@ -46,8 +46,8 @@
         <mark key="^" line="85" column="31" />
         <mark key="." line="85" column="31" />
       </file>
-      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/webapp/plugins/crossTable/plugin.js" timestamp="1543903113360">
-        <mark key="'" line="89" column="26" />
+      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/webapp/plugins/crossTable/plugin.js" timestamp="1543904100556">
+        <mark key="'" line="308" column="36" />
         <mark key="[" line="369" column="8" />
         <mark key="]" line="369" column="11" />
         <mark key="^" line="369" column="11" />
@@ -369,8 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="31" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/web/AddressZoneDataController.java" />
-      <jump line="209" column="49" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/db/index.jsp" />
       <jump line="130" column="12" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/traffic_monitor/index.jsp" />
       <jump line="0" column="0" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/static/js/public.js" />
       <jump line="161" column="46" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/ESService.java" />
@@ -469,6 +467,8 @@
       <jump line="111" column="23" filename="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" />
       <jump line="25" column="33" filename="C:/code/BIGDATA/MagicSquareV1/.gitignore" />
       <jump line="89" column="26" filename="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/webapp/plugins/crossTable/plugin.js" />
+      <jump line="4" column="13" filename="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/webapp/plugins/crossTable/plugin.js" />
+      <jump line="308" column="36" filename="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/webapp/plugins/crossTable/plugin.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
