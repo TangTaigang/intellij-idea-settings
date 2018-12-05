@@ -78,11 +78,12 @@
         <mark key="." line="101" column="41" />
       </file>
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/webapp/org/magicsquare/util/MagicSquareTableRender.js" timestamp="1543911034683" />
-      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/pom.xml" timestamp="1543988215340">
-        <mark key="[" line="397" column="36" />
-        <mark key="]" line="397" column="36" />
-        <mark key="." line="397" column="36" />
-        <mark key="^" line="397" column="36" />
+      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/pom.xml" timestamp="1543991941369">
+        <mark key="'" line="373" column="54" />
+        <mark key="[" line="18" column="24" />
+        <mark key="]" line="18" column="39" />
+        <mark key="." line="18" column="39" />
+        <mark key="^" line="18" column="39" />
       </file>
       <file name="$USER_HOME$/code/fasttest/src/main/java/com/miras/Application.java" timestamp="1543969866766">
         <mark key="[" line="5" column="26" />
@@ -120,7 +121,7 @@
         <mark key="." line="20" column="28" />
         <mark key="^" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/Downloads/hive-test/pom.xml" timestamp="1543990119385">
+      <file name="$USER_HOME$/Downloads/hive-test/pom.xml" timestamp="1543991756866">
         <mark key="[" line="51" column="29" />
         <mark key="]" line="63" column="31" />
         <mark key="." line="63" column="31" />
@@ -290,7 +291,7 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543990158375">
+      <file name="/Dummy.txt" timestamp="1543991975432">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
@@ -397,7 +398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="8" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/dao/ESDao.java" />
       <jump line="15" column="2" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/common/utils/DateUtils.java" />
       <jump line="16" column="13" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/ESService.java" />
       <jump line="39" column="13" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/dao/ESDao.java" />
@@ -497,13 +497,14 @@
       <jump line="474" column="34" filename="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/webapp/starter.html" />
       <jump line="119" column="5" filename="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/webapp/org/magicsquare/controller/dashboard/dashboardViewCtrl.js" />
       <jump line="15" column="8" filename="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/webapp/org/magicsquare/service/data/dataService.js" />
+      <jump line="373" column="54" filename="$USER_HOME$/code/BIGDATA/MagicSquareV1/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS56b29rZWVwZXI8L2dyb3VwSWQ+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2.6.1</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>2.6.1</text>
       </register>
       <register name="/" type="4">
         <text>excel</text>
@@ -512,31 +513,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS56b29rZWVwZXI8L2dyb3VwSWQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHBoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGV4Y2x1c2lvbnM+PC9leGNsdXNpb25zPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHBoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGFkZERlZmF1bHRTcGVjaWZpY2F0aW9uRW50cmllcz50cnVlPC9hZGREZWZhdWx0U3BlY2lmaWNhdGlvbkVudHJpZXM+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGFkZERlZmF1bHRJbXBsZW1lbnRhdGlvbkVudHJpZXM+dHJ1ZTwvYWRkRGVmYXVsdEltcGxlbWVudGF0aW9uRW50cmllcz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGFkZERlZmF1bHRTcGVjaWZpY2F0aW9uRW50cmllcz50cnVlPC9hZGREZWZhdWx0U3BlY2lmaWNhdGlvbkVudHJpZXM+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGNsYXNzcGF0aFByZWZpeD5saWIvPC9jbGFzc3BhdGhQcmVmaXg+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGFkZERlZmF1bHRJbXBsZW1lbnRhdGlvbkVudHJpZXM+dHJ1ZTwvYWRkRGVmYXVsdEltcGxlbWVudGF0aW9uRW50cmllcz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGFkZENsYXNzcGF0aD50cnVlPC9hZGRDbGFzc3BhdGg+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGNsYXNzcGF0aFByZWZpeD5saWIvPC9jbGFzc3BhdGhQcmVmaXg+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLWNoYW5nZSBhZGRDbGFzc3BhdGggdG8gdHJ1ZSBpZiBkYWtzIGlzIGRlc2t0b3AgdmVyc2lvbi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGFkZENsYXNzcGF0aD50cnVlPC9hZGRDbGFzc3BhdGg+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L21hbmlmZXN0RW50cmllcz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLWNoYW5nZSBhZGRDbGFzc3BhdGggdG8gdHJ1ZSBpZiBkYWtzIGlzIGRlc2t0b3AgdmVyc2lvbi0tPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bWFuaWZlc3RFbnRyaWVzPgogICAgICAgICAgICAgICAgICAgICAgICA8UGVybWlzc2lvbnM+JHtQZXJtaXNzaW9uc308L1Blcm1pc3Npb25zPgogICAgICAgICAgICAgICAgICAgICAgICA8Q2FsbGVyLUFsbG93YWJsZS1Db2RlYmFzZT4ke0NhbGxlci1BbGxvd2FibGUtQ29kZWJhc2V9PC9DYWxsZXItQWxsb3dhYmxlLUNvZGViYXNlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L21hbmlmZXN0RW50cmllcz4K</text>
       </register>
       <register name=":" type="4">
         <text>s/4/5/g</text>
