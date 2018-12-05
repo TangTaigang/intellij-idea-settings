@@ -120,11 +120,11 @@
         <mark key="." line="20" column="28" />
         <mark key="^" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/Downloads/hive-test/pom.xml" timestamp="1543988819898">
-        <mark key="[" line="37" column="32" />
-        <mark key="]" line="38" column="37" />
-        <mark key="." line="38" column="37" />
-        <mark key="^" line="38" column="37" />
+      <file name="$USER_HOME$/Downloads/hive-test/pom.xml" timestamp="1543990119385">
+        <mark key="[" line="51" column="29" />
+        <mark key="]" line="63" column="31" />
+        <mark key="." line="63" column="31" />
+        <mark key="^" line="63" column="31" />
       </file>
       <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/resources/mappings/modules/basic_data/BasicNodeDao.xml" timestamp="1540947586863">
         <mark key="[" line="28" column="22" />
@@ -290,7 +290,7 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543989081434">
+      <file name="/Dummy.txt" timestamp="1543990158375">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
@@ -499,17 +499,17 @@
       <jump line="15" column="8" filename="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/webapp/org/magicsquare/service/data/dataService.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>shade</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS56b29rZWVwZXI8L2dyb3VwSWQ+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>shade</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>excel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIG5nLWlmPSJ3aWRnZXQuc2hvd0Rvd25sb2FkQnRuIiB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4gYnRuLWJveC10b29sIiBuZy1jbGljaz0icmVsb2FkKHdpZGdldCkiPjxpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzcz0ibWVudS1pY29uIGZhIj48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgIGRvd25sb2FkCiAgICAgICAgICAgICAgICAgICAgPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS56b29rZWVwZXI8L2dyb3VwSWQ+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHBoCg==</text>
