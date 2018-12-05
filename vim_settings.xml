@@ -39,13 +39,6 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="13" column="56" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" timestamp="1543562245805">
-        <mark key="'" line="148" column="58" />
-        <mark key="[" line="84" column="21" />
-        <mark key="]" line="85" column="31" />
-        <mark key="^" line="85" column="31" />
-        <mark key="." line="85" column="31" />
-      </file>
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/webapp/plugins/crossTable/plugin.js" timestamp="1543913240690">
         <mark key="'" line="45" column="33" />
         <mark key="[" line="90" column="21" />
@@ -85,6 +78,12 @@
         <mark key="." line="101" column="41" />
       </file>
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/webapp/org/magicsquare/util/MagicSquareTableRender.js" timestamp="1543911034683" />
+      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/pom.xml" timestamp="1543988215340">
+        <mark key="[" line="397" column="36" />
+        <mark key="]" line="397" column="36" />
+        <mark key="." line="397" column="36" />
+        <mark key="^" line="397" column="36" />
+      </file>
       <file name="$USER_HOME$/code/fasttest/src/main/java/com/miras/Application.java" timestamp="1543969866766">
         <mark key="[" line="5" column="26" />
         <mark key="]" line="7" column="38" />
@@ -103,13 +102,6 @@
         <mark key="^" line="1" column="75" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-hbase/src/main/java/com/miras/maprd/CarRouteHBase.java" timestamp="1543029186023">
-        <mark key="'" line="105" column="37" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="^" line="56" column="23" />
-        <mark key="." line="113" column="0" />
-      </file>
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapduce/PassInfo.java" timestamp="1543038231653">
         <mark key="[" line="8" column="31" />
         <mark key="]" line="9" column="35" />
@@ -127,6 +119,12 @@
         <mark key="]" line="20" column="28" />
         <mark key="." line="20" column="28" />
         <mark key="^" line="20" column="28" />
+      </file>
+      <file name="$USER_HOME$/Downloads/hive-test/pom.xml" timestamp="1543988819898">
+        <mark key="[" line="37" column="32" />
+        <mark key="]" line="38" column="37" />
+        <mark key="." line="38" column="37" />
+        <mark key="^" line="38" column="37" />
       </file>
       <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/resources/mappings/modules/basic_data/BasicNodeDao.xml" timestamp="1540947586863">
         <mark key="[" line="28" column="22" />
@@ -165,7 +163,7 @@
         <mark key="^" line="13" column="36" />
         <mark key="." line="13" column="36" />
       </file>
-      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" timestamp="1543975565267">
+      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" timestamp="1543988249038">
         <mark key="[" line="116" column="83" />
         <mark key="]" line="116" column="96" />
         <mark key="." line="116" column="96" />
@@ -250,13 +248,6 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="41" column="90" />
       </file>
-      <file name="C:/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" timestamp="1543824320353">
-        <mark key="'" line="112" column="23" />
-        <mark key="[" line="151" column="39" />
-        <mark key="]" line="152" column="44" />
-        <mark key="^" line="152" column="44" />
-        <mark key="." line="152" column="44" />
-      </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_monitor/pom.xml" timestamp="1541579633524">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
@@ -269,13 +260,6 @@
         <mark key="]" line="152" column="54" />
         <mark key="." line="152" column="54" />
         <mark key="^" line="152" column="54" />
-      </file>
-      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/PassInfo.java" timestamp="1543474948574">
-        <mark key="'" line="9" column="3" />
-        <mark key="[" line="16" column="69" />
-        <mark key="]" line="11" column="17" />
-        <mark key="^" line="11" column="17" />
-        <mark key="." line="11" column="17" />
       </file>
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/persist/excel/XLSX2CSV.java" timestamp="1543975694824">
         <mark key="[" line="402" column="0" />
@@ -306,24 +290,23 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543979731829">
+      <file name="/Dummy.txt" timestamp="1543989081434">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
+      </file>
+      <file name="$USER_HOME$/Downloads/hive-test/src/main/java/Application.java" timestamp="1543988686256">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+        <mark key="^" line="12" column="15" />
       </file>
       <file name="C:/code/BIGDATA/MDH_PASSINF_DATA/pom.xml" timestamp="1541468273187">
         <mark key="[" line="98" column="25" />
         <mark key="]" line="98" column="28" />
         <mark key="." line="98" column="28" />
         <mark key="^" line="98" column="28" />
-      </file>
-      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapreduce/CombineType.java" timestamp="1543451881887">
-        <mark key="'" line="207" column="0" />
-        <mark key="[" line="86" column="14" />
-        <mark key="]" line="86" column="15" />
-        <mark key="." line="86" column="15" />
-        <mark key="^" line="86" column="5" />
       </file>
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/webapp/org/magicsquare/controller/dashboard/dashboardViewCtrl.js" timestamp="1543913910082">
         <mark key="'" line="120" column="5" />
@@ -332,6 +315,7 @@
         <mark key="." line="469" column="7" />
         <mark key="^" line="469" column="7" />
       </file>
+      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/production-resources-bzzd/config.properties" timestamp="1543988410220" />
       <file name="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/resources/logback.xml" timestamp="1541145777142">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -349,13 +333,6 @@
         <mark key="]" line="19" column="11" />
         <mark key="." line="19" column="11" />
         <mark key="^" line="19" column="11" />
-      </file>
-      <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapduce/CarRouteCombine.java" timestamp="1543039531655">
-        <mark key="'" line="72" column="44" />
-        <mark key="[" line="135" column="118" />
-        <mark key="]" line="135" column="118" />
-        <mark key="." line="135" column="118" />
-        <mark key="^" line="135" column="119" />
       </file>
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/resources/log4j.properties" timestamp="1543973993057" />
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-timerange/src/main/java/com/miras/mapreduce/car/CarRouteCombineMR.java" timestamp="1543029791619">
@@ -387,13 +364,6 @@
         <mark key="]" line="11" column="3" />
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
-      </file>
-      <file name="C:/code/BIGDATA/MagicSquareV1/.gitignore" timestamp="1543827665071">
-        <mark key="'" line="25" column="33" />
-        <mark key="[" line="98" column="34" />
-        <mark key="]" line="100" column="10" />
-        <mark key="^" line="100" column="10" />
-        <mark key="." line="100" column="10" />
       </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_hdfs/src/main/java/com/miras/data/passinf/hdfs/BlankCharacterFilterBolt.java" timestamp="1541645666321">
         <mark key="[" line="45" column="32" />
@@ -529,11 +499,11 @@
       <jump line="15" column="8" filename="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/webapp/org/magicsquare/service/data/dataService.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>shade</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>shade</text>
       </register>
       <register name="/" type="4">
         <text>excel</text>
@@ -542,31 +512,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIG5nLWlmPSJ3aWRnZXQuc2hvd0Rvd25sb2FkQnRuIiB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4gYnRuLWJveC10b29sIiBuZy1jbGljaz0icmVsb2FkKHdpZGdldCkiPjxpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzcz0ibWVudS1pY29uIGZhIj48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgIGRvd25sb2FkCiAgICAgICAgICAgICAgICAgICAgPC9idXR0b24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHBoCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGFkZERlZmF1bHRTcGVjaWZpY2F0aW9uRW50cmllcz50cnVlPC9hZGREZWZhdWx0U3BlY2lmaWNhdGlvbkVudHJpZXM+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfSBjYXRjaCAoT3BlblhNTDRKRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGNhdGNoIChQYXJzZXJDb25maWd1cmF0aW9uRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGNhdGNoIChTQVhFeGNlcHRpb24gZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGFkZERlZmF1bHRJbXBsZW1lbnRhdGlvbkVudHJpZXM+dHJ1ZTwvYWRkRGVmYXVsdEltcGxlbWVudGF0aW9uRW50cmllcz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGNsYXNzcGF0aFByZWZpeD5saWIvPC9jbGFzc3BhdGhQcmVmaXg+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGFkZENsYXNzcGF0aD50cnVlPC9hZGRDbGFzc3BhdGg+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLWNoYW5nZSBhZGRDbGFzc3BhdGggdG8gdHJ1ZSBpZiBkYWtzIGlzIGRlc2t0b3AgdmVyc2lvbi0tPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIOmAgumFjeafpeivoueahOWPguaVsO+8jOWQjCByZWxvYWQg5LiA5qC3Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L21hbmlmZXN0RW50cmllcz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gMTgvMTIvMDQga2lzY2huIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bWFuaWZlc3RFbnRyaWVzPgogICAgICAgICAgICAgICAgICAgICAgICA8UGVybWlzc2lvbnM+JHtQZXJtaXNzaW9uc308L1Blcm1pc3Npb25zPgogICAgICAgICAgICAgICAgICAgICAgICA8Q2FsbGVyLUFsbG93YWJsZS1Db2RlYmFzZT4ke0NhbGxlci1BbGxvd2FibGUtQ29kZWJhc2V9PC9DYWxsZXItQWxsb3dhYmxlLUNvZGViYXNlPgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/4/5/g</text>
