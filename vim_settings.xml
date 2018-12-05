@@ -121,11 +121,8 @@
         <mark key="." line="20" column="28" />
         <mark key="^" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/Downloads/hive-test/pom.xml" timestamp="1543992663352">
-        <mark key="[" line="51" column="29" />
-        <mark key="]" line="63" column="31" />
-        <mark key="." line="63" column="31" />
-        <mark key="^" line="63" column="31" />
+      <file name="$USER_HOME$/Downloads/hive-test/pom.xml" timestamp="1543995710743">
+        <mark key="[" line="22" column="21" />
       </file>
       <file name="C:/code/BIGDATA/MDHTrafficDB/src/main/resources/mappings/modules/basic_data/BasicNodeDao.xml" timestamp="1540947586863">
         <mark key="[" line="28" column="22" />
@@ -292,7 +289,7 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543994409871">
+      <file name="/Dummy.txt" timestamp="1543995717656">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
