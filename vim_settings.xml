@@ -85,6 +85,12 @@
         <mark key="." line="101" column="41" />
       </file>
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/webapp/org/magicsquare/util/MagicSquareTableRender.js" timestamp="1543911034683" />
+      <file name="$USER_HOME$/code/fasttest/src/main/java/com/miras/Application.java" timestamp="1543969866766">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="7" column="38" />
+        <mark key="." line="7" column="38" />
+        <mark key="^" line="7" column="38" />
+      </file>
       <file name="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/resources/application.properties" timestamp="1542955982375">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -511,10 +517,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>sunzq</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>sunzq</text>
       </register>
       <register name="/" type="4">
         <text>excel</text>
