@@ -141,6 +141,12 @@
         <mark key="^" line="16" column="41" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/fast-test/pom.xml" timestamp="1543969983700">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="15" column="25" />
+        <mark key="^" line="15" column="25" />
+        <mark key="." line="15" column="25" />
+      </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_es/pom.xml" timestamp="1541579740880">
         <mark key="[" line="111" column="35" />
         <mark key="]" line="111" column="41" />
@@ -294,7 +300,7 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543969083937">
+      <file name="/Dummy.txt" timestamp="1543970310850">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
