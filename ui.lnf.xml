@@ -5,11 +5,13 @@
   </component>
   <component name="UISettings">
     <option name="ANIMATE_WINDOWS" value="false" />
+    <option name="CYCLE_SCROLLING" value="false" />
     <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="5" />
     <option name="FONT_FACE" value="MS Reference Sans Serif" />
     <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
+    <option name="MOVE_MOUSE_ON_DEFAULT_BUTTON" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="SHOW_TABS_TOOLTIPS" value="false" />
     <option name="smoothScrolling" value="true" />

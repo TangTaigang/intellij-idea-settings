@@ -144,11 +144,11 @@
       </file>
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/persist/excel/TableXlsProcesser.java" timestamp="1543908473227" />
       <file name="$USER_HOME$/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_hdfs/src/main/production-resources/application.properties" timestamp="1543993768610" />
-      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/DatasourceService.java" timestamp="1543999974429">
-        <mark key="[" line="46" column="41" />
-        <mark key="]" line="46" column="44" />
-        <mark key="^" line="46" column="44" />
-        <mark key="." line="46" column="44" />
+      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/DatasourceService.java" timestamp="1544061379934">
+        <mark key="[" line="43" column="26" />
+        <mark key="]" line="43" column="25" />
+        <mark key="^" line="43" column="25" />
+        <mark key="." line="43" column="25" />
       </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_fakenocars/pom.xml" timestamp="1541579726665">
         <mark key="[" line="21" column="0" />
@@ -362,7 +362,12 @@
         <mark key="." line="19" column="11" />
         <mark key="^" line="19" column="11" />
       </file>
-      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/resources/log4j.properties" timestamp="1543973993057" />
+      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/resources/log4j.properties" timestamp="1544061221611">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="34" />
+        <mark key="." line="9" column="34" />
+        <mark key="^" line="9" column="34" />
+      </file>
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-timerange/src/main/java/com/miras/mapreduce/car/CarRouteCombineMR.java" timestamp="1543029791619">
         <mark key="[" line="16" column="38" />
         <mark key="]" line="16" column="39" />
@@ -532,11 +537,11 @@
       <jump line="373" column="54" filename="$USER_HOME$/code/BIGDATA/MagicSquareV1/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhcnIuYWRkKDEpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PyBleHRlbmRzIA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>excel</text>
