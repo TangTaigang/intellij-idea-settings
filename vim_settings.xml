@@ -413,6 +413,9 @@
         <mark key="^" line="63" column="30" />
       </file>
       <file name="$USER_HOME$/code/WEIHAI/MDH_PASSINF_DATA_WH/mdh_data_passinf_redis_hbase/pom.xml" timestamp="1543994400838" />
+      <file name="/fragment.java" timestamp="1544056895037">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="15" column="2" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/common/utils/DateUtils.java" />
