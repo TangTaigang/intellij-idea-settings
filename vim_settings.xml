@@ -362,11 +362,11 @@
         <mark key="." line="19" column="11" />
         <mark key="^" line="19" column="11" />
       </file>
-      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/resources/log4j.properties" timestamp="1544061221611">
-        <mark key="[" line="9" column="34" />
-        <mark key="]" line="9" column="34" />
-        <mark key="." line="9" column="34" />
-        <mark key="^" line="9" column="34" />
+      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/resources/log4j.properties" timestamp="1544064089833">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="30" />
+        <mark key="." line="6" column="30" />
+        <mark key="^" line="6" column="30" />
       </file>
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-timerange/src/main/java/com/miras/mapreduce/car/CarRouteCombineMR.java" timestamp="1543029791619">
         <mark key="[" line="16" column="38" />
@@ -537,44 +537,44 @@
       <jump line="373" column="54" filename="$USER_HOME$/code/BIGDATA/MagicSquareV1/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAnLid5eXl5LU1NLWRkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>DatePattern</text>
       </register>
       <register name="/" type="4">
         <text>excel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBOdW1iZXIgbiA9IGdldEZpcnN0MShpbnRlZ2Vycyk7Cg==</text>
+        <text encoding="base64">bG9nNGouYXBwZW5kZXIuRmlsZS5EYXRlUGF0dGVybj0nLid5eXl5LU1NLWRkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcnIuYWRkKDEpOwo=</text>
+        <text encoding="base64">ICAnLid5eXl5LU1NLWRkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlZ2Vycy5hZGQoKQo=</text>
+        <text encoding="base64">I2xvZzRqLmFwcGVuZGVyLkNvbnNvbGU9b3JnLmFwYWNoZS5sb2c0ai5Db25zb2xlQXBwZW5kZXIKI2xvZzRqLmFwcGVuZGVyLkNvbnNvbGUuVGFyZ2V0PVN5c3RlbS5vdXQKI2xvZzRqLmFwcGVuZGVyLkNvbnNvbGUubGF5b3V0PW9yZy5hcGFjaGUubG9nNGouUGF0dGVybkxheW91dAojbG9nNGouYXBwZW5kZXIuQ29uc29sZS5sYXlvdXQuQ29udmVyc2lvblBhdHRlcm49WyVwXVslLWR7SEg6bW06c3N9XVslY3sxfS4lTSgpOiVMXSAlbSVuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBOdW1iCg==</text>
+        <text encoding="base64">bG9nNGouYXBwZW5kZXIuRmlsZS5NYXhGaWxlU2l6ZT0xMDBNQgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bG9nNGouYXBwZW5kZXIuRmlsZS5NYXhCYWNrdXBJbmRleD0xMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcnIuYWRkKDEpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBJbWFnZVV0aWxzIGltYWdlVXRpbHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRlZ2Vycy5hZGQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRoaXMuaW1hZ2VVdGlscyA9IG5ldyBJbWFnZVV0aWxzKHN0b3JtQ29uZik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBOdW1iCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/4/5/g</text>
