@@ -77,6 +77,12 @@
         <mark key="^" line="101" column="41" />
         <mark key="." line="101" column="41" />
       </file>
+      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/persist/excel/XlsProcessService.java" timestamp="1544055977198">
+        <mark key="[" line="82" column="42" />
+        <mark key="]" line="82" column="43" />
+        <mark key="." line="82" column="43" />
+        <mark key="^" line="82" column="42" />
+      </file>
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/webapp/org/magicsquare/util/MagicSquareTableRender.js" timestamp="1543911034683" />
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/pom.xml" timestamp="1543992589920">
         <mark key="'" line="373" column="54" />
@@ -90,6 +96,12 @@
         <mark key="]" line="7" column="38" />
         <mark key="." line="7" column="38" />
         <mark key="^" line="7" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/BoardService.java" timestamp="1544054663502">
+        <mark key="[" line="139" column="22" />
+        <mark key="]" line="139" column="35" />
+        <mark key="." line="139" column="35" />
+        <mark key="^" line="139" column="35" />
       </file>
       <file name="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/resources/application.properties" timestamp="1542955982375">
         <mark key="[" line="27" column="0" />
@@ -295,7 +307,7 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543999992795">
+      <file name="/Dummy.txt" timestamp="1544055983639">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -506,10 +518,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sunz</text>
+        <text>new JSONObject())</text>
       </register>
       <register name="-" type="4">
-        <text>sunz</text>
+        <text>new JSONObject())</text>
       </register>
       <register name="/" type="4">
         <text>excel</text>
@@ -518,31 +530,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS56b29rZWVwZXI8L2dyb3VwSWQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGV4Y2x1c2lvbnM+PC9leGNsdXNpb25zPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwZXJzaXN0Q29udGV4dC5zZXREYXRhKG5ldyBKU09OT2JqZWN0KCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHBoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGFkZERlZmF1bHRTcGVjaWZpY2F0aW9uRW50cmllcz50cnVlPC9hZGREZWZhdWx0U3BlY2lmaWNhdGlvbkVudHJpZXM+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGFkZERlZmF1bHRJbXBsZW1lbnRhdGlvbkVudHJpZXM+dHJ1ZTwvYWRkRGVmYXVsdEltcGxlbWVudGF0aW9uRW50cmllcz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChkYXRhICE9IG51bGwpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGNsYXNzcGF0aFByZWZpeD5saWIvPC9jbGFzc3BhdGhQcmVmaXg+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGFkZENsYXNzcGF0aD50cnVlPC9hZGRDbGFzc3BhdGg+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChkYXRhICE9IG51bGwpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLWNoYW5nZSBhZGRDbGFzc3BhdGggdG8gdHJ1ZSBpZiBkYWtzIGlzIGRlc2t0b3AgdmVyc2lvbi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICBib2FyZC5nZXRMYXlvdXQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L21hbmlmZXN0RW50cmllcz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGV4Y2x1c2lvbnM+PC9leGNsdXNpb25zPgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/4/5/g</text>
