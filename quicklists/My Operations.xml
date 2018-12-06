@@ -8,4 +8,5 @@
   <action id="QuickList.$Separator$" />
   <action id="Annotate" />
   <action id="ShowBookmarks" />
+  <action id="ViewBreakpoints" />
 </list>
