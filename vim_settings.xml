@@ -85,8 +85,8 @@
         <mark key="^" line="72" column="23" />
       </file>
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/webapp/org/magicsquare/util/MagicSquareTableRender.js" timestamp="1543911034683" />
-      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/pom.xml" timestamp="1543992589920">
-        <mark key="'" line="373" column="54" />
+      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/pom.xml" timestamp="1544080985461">
+        <mark key="'" line="489" column="16" />
         <mark key="[" line="18" column="24" />
         <mark key="]" line="18" column="39" />
         <mark key="." line="18" column="39" />
@@ -450,7 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="13" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/ESService.java" />
       <jump line="39" column="13" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/dao/ESDao.java" />
       <jump line="252" column="71" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
       <jump line="1551" column="36" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
@@ -550,6 +549,7 @@
       <jump line="15" column="8" filename="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/webapp/org/magicsquare/service/data/dataService.js" />
       <jump line="373" column="54" filename="$USER_HOME$/code/BIGDATA/MagicSquareV1/pom.xml" />
       <jump line="66" column="0" filename="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/persist/excel/XlsProcessService.java" />
+      <jump line="489" column="16" filename="$USER_HOME$/code/BIGDATA/MagicSquareV1/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
