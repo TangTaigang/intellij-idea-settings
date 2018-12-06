@@ -104,6 +104,12 @@
         <mark key="." line="131" column="125" />
         <mark key="^" line="131" column="123" />
       </file>
+      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/resources/config.properties" timestamp="1544070729459">
+        <mark key="[" line="10" column="52" />
+        <mark key="]" line="10" column="52" />
+        <mark key="^" line="10" column="52" />
+        <mark key="." line="10" column="52" />
+      </file>
       <file name="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/resources/application.properties" timestamp="1542955982375">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -187,7 +193,7 @@
         <mark key="." line="116" column="96" />
         <mark key="^" line="116" column="96" />
       </file>
-      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/PersistService.java" timestamp="1544068659297" />
+      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/PersistService.java" timestamp="1544070192972" />
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-hbase/pom.xml" timestamp="1543028355476">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -540,10 +546,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>phantomjs-2.1.1-windows/bin/</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>phantomjs-2.1.1-windows/bin/</text>
       </register>
       <register name="/" type="4">
         <text>excel</text>
