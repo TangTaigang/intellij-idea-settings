@@ -91,12 +91,12 @@
         <mark key="." line="72" column="23" />
         <mark key="^" line="72" column="23" />
       </file>
-      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/pom.xml" timestamp="1544080985461">
-        <mark key="'" line="489" column="16" />
-        <mark key="[" line="18" column="24" />
-        <mark key="]" line="18" column="39" />
-        <mark key="." line="18" column="39" />
-        <mark key="^" line="18" column="39" />
+      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/pom.xml" timestamp="1544162754334">
+        <mark key="'" line="494" column="16" />
+        <mark key="[" line="471" column="0" />
+        <mark key="]" line="471" column="0" />
+        <mark key="." line="471" column="0" />
+        <mark key="^" line="473" column="50" />
       </file>
       <file name="$USER_HOME$/code/fasttest/src/main/java/com/miras/Application.java" timestamp="1543969866766">
         <mark key="[" line="5" column="26" />
@@ -117,11 +117,11 @@
         <mark key="." line="131" column="125" />
         <mark key="^" line="131" column="123" />
       </file>
-      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/resources/config.properties" timestamp="1544070729459">
-        <mark key="[" line="10" column="52" />
-        <mark key="]" line="10" column="52" />
-        <mark key="^" line="10" column="52" />
-        <mark key="." line="10" column="52" />
+      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/resources/config.properties" timestamp="1544162074305">
+        <mark key="[" line="10" column="49" />
+        <mark key="]" line="10" column="49" />
+        <mark key="^" line="10" column="49" />
+        <mark key="." line="10" column="49" />
       </file>
       <file name="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/resources/application.properties" timestamp="1542955982375">
         <mark key="[" line="27" column="0" />
@@ -217,6 +217,7 @@
         <mark key="." line="116" column="96" />
         <mark key="^" line="116" column="96" />
       </file>
+      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/PersistService.java" timestamp="1544162316063" />
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-hbase/pom.xml" timestamp="1543028355476">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -354,7 +355,7 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544152367786">
+      <file name="/Dummy.txt" timestamp="1544162836079">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -397,11 +398,11 @@
         <mark key="." line="19" column="11" />
         <mark key="^" line="19" column="11" />
       </file>
-      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/resources/log4j.properties" timestamp="1544075124480">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="3" column="36" />
+      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/resources/log4j.properties" timestamp="1544162334744">
+        <mark key="[" line="11" column="66" />
+        <mark key="]" line="11" column="71" />
+        <mark key="." line="11" column="71" />
+        <mark key="^" line="11" column="71" />
       </file>
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-timerange/src/main/java/com/miras/mapreduce/car/CarRouteCombineMR.java" timestamp="1543029791619">
         <mark key="[" line="16" column="38" />
@@ -573,8 +574,8 @@
       <jump line="180" column="65" filename="$USER_HOME$/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/web/PassAnalyzeController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aW50IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">aW50IA==</text>
@@ -583,34 +584,34 @@
         <text>min</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1pbkxhdCA9IFN0cmluZy52YWx1ZU9mKGJvdW5kaW5nQm94LmdldE1pbkxhdCgpKTsKICAgICAgICB0aGlzLm1pbkxhdCA9IFN0cmluZy52YWx1ZU9mKGJvdW5kaW5nQm94LmdldE1heExvbigpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXJ0WQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXJ0WCA9IFN0cmluZy5mbwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUudG9tY2F0Lm1hdmVuPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+dG9tY2F0OC1tYXZlbi1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4zLjAtcjE3NTY0NjM8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhdGlvbiBwb2ludCA9IGdlby5nZXRQb2ludCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIDE4LzEyLzA3IGtpc2NobiDlrp7njrAgZ2VvSGFzaCDnmoTlpITnkIYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgR2VvSGFzaCgpCg==</text>
+        <text encoding="base64">IyAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXJ0WQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gMTgvMTIvMDYga2lzY2huIOWujOWWhOi/meS4quWcsOaWuQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXJ0WCA9IFN0cmluZy5mbwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgR2VvSGFzaCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2NhdGlvbiBwb2ludCA9IGdlby5nZXRQb2ludCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIDE4LzEyLzA3IGtpc2NobiDlrp7njrAgZ2VvSGFzaCDnmoTlpITnkIYK</text>
       </register>
       <register name=":" type="4">
         <text>s/min/max/g</text>
