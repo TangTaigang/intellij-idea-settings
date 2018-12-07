@@ -60,11 +60,11 @@
         <mark key="^" line="595" column="109" />
         <mark key="." line="595" column="109" />
       </file>
-      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/resources/phantom.js" timestamp="1544163696783">
-        <mark key="[" line="43" column="15" />
-        <mark key="]" line="43" column="15" />
-        <mark key="^" line="43" column="15" />
-        <mark key="." line="43" column="15" />
+      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/resources/phantom.js" timestamp="1544166743536">
+        <mark key="[" line="37" column="4" />
+        <mark key="]" line="37" column="4" />
+        <mark key="." line="37" column="4" />
+        <mark key="^" line="34" column="5" />
       </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_firstincity/pom.xml" timestamp="1541579756200">
         <mark key="[" line="108" column="35" />
@@ -90,7 +90,7 @@
         <mark key="^" line="101" column="41" />
         <mark key="." line="101" column="41" />
       </file>
-      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/persist/excel/XlsProcessService.java" timestamp="1544074508006">
+      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/persist/excel/XlsProcessService.java" timestamp="1544165774711">
         <mark key="'" line="73" column="0" />
         <mark key="[" line="70" column="55" />
         <mark key="]" line="72" column="23" />
@@ -117,11 +117,11 @@
         <mark key="." line="231" column="21" />
         <mark key="^" line="231" column="21" />
       </file>
-      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/BoardService.java" timestamp="1544067439002">
-        <mark key="[" line="131" column="124" />
-        <mark key="]" line="131" column="124" />
-        <mark key="." line="131" column="125" />
-        <mark key="^" line="131" column="123" />
+      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/BoardService.java" timestamp="1544166670934">
+        <mark key="[" line="129" column="73" />
+        <mark key="]" line="129" column="83" />
+        <mark key="." line="129" column="83" />
+        <mark key="^" line="129" column="83" />
       </file>
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/resources/config.properties" timestamp="1544162074305">
         <mark key="[" line="10" column="49" />
@@ -223,7 +223,12 @@
         <mark key="." line="116" column="96" />
         <mark key="^" line="116" column="96" />
       </file>
-      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/PersistService.java" timestamp="1544164875422" />
+      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/PersistService.java" timestamp="1544167243643">
+        <mark key="[" line="56" column="16" />
+        <mark key="]" line="56" column="19" />
+        <mark key="^" line="56" column="19" />
+        <mark key="." line="56" column="19" />
+      </file>
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-hbase/pom.xml" timestamp="1543028355476">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -320,6 +325,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/DashboardController.java" timestamp="1544166661217">
+        <mark key="[" line="385" column="82" />
+        <mark key="]" line="385" column="91" />
+        <mark key="." line="385" column="91" />
+        <mark key="^" line="385" column="91" />
+      </file>
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-zone/src/main/java/com/miras/mapreduce/CarRouteCombine.java" timestamp="1543815540179">
         <mark key="[" line="151" column="63" />
         <mark key="]" line="152" column="54" />
@@ -361,11 +372,17 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544162836079">
+      <file name="/Dummy.txt" timestamp="1544167302417">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/MailService.java" timestamp="1544166788037">
+        <mark key="[" line="72" column="98" />
+        <mark key="]" line="72" column="99" />
+        <mark key="." line="72" column="99" />
+        <mark key="^" line="72" column="99" />
       </file>
       <file name="$USER_HOME$/Downloads/hive-test/src/main/java/Application.java" timestamp="1543988686256">
         <mark key="[" line="12" column="16" />
@@ -379,7 +396,7 @@
         <mark key="." line="98" column="28" />
         <mark key="^" line="98" column="28" />
       </file>
-      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/CommonsController.java" timestamp="1544164887062" />
+      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/CommonsController.java" timestamp="1544166123624" />
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/webapp/org/magicsquare/controller/dashboard/dashboardViewCtrl.js" timestamp="1543913910082">
         <mark key="'" line="120" column="5" />
         <mark key="[" line="468" column="55" />
@@ -410,6 +427,11 @@
         <mark key="]" line="11" column="71" />
         <mark key="." line="11" column="71" />
         <mark key="^" line="11" column="71" />
+      </file>
+      <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/resources/spring-security-cas.xml" timestamp="1544166142017">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-timerange/src/main/java/com/miras/mapreduce/car/CarRouteCombineMR.java" timestamp="1543029791619">
         <mark key="[" line="16" column="38" />
@@ -474,7 +496,7 @@
       <file name="$USER_HOME$/code/BIGDATA/MDHTrafficDB/src/main/webapp/static/splitflow/js/index.js" timestamp="1544151670250">
         <mark key="'" line="45" column="18" />
       </file>
-      <file name="/fragment.java" timestamp="1544074567908">
+      <file name="/fragment.java" timestamp="1544166673489">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -581,44 +603,44 @@
       <jump line="180" column="65" filename="$USER_HOME$/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/web/PassAnalyzeController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>debug</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW50IA==</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
         <text>min</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4K</text>
+        <text encoding="base64">ICAgICduYW1lJzogJ2p1aWREYW5EaWFuJywKICAgICd2YWx1ZSc6IGp1aWREYW5EaWFuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgLyogcmVxdWlyZWQgcHJvcGVydHkgKi8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUudG9tY2F0Lm1hdmVuPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+dG9tY2F0OC1tYXZlbi1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4zLjAtcjE3NTY0NjM8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgIOeJiOadg+WjsOaYju+8muacrOaWh+S4uuWNmuS4u+WOn+WIm+aWh+eroO+8jOi9rOi9veivt+mZhOS4iuWNmuaWh+mTvuaOpe+8gQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0tLS0tLS0tLS0tLS0tLS0tLS0tLSAKICAgIOS9nOiAhe+8mnl4MDYyOCAKICAgIOadpea6kO+8mkNTRE4gCiAgICDljp/mlofvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQveXgwNjI4L2FydGljbGUvZGV0YWlscy83ODI3NTcxNCAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICduYW1lJzogJ2p1aWREYW5EaWFuJywKfSwgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAK</text>
+        <text encoding="base64">ICAgICd2YWx1ZSc6IHN5c3RlbS5hcmdzWzNdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXJ0WQo=</text>
+        <text encoding="base64">ICAgICd2YWx1ZSc6IHN5c3RlbS5hcmdzWzJdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXJ0WCA9IFN0cmluZy5mbwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhdGlvbiBwb2ludCA9IGdlby5nZXRQb2ludCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIDE4LzEyLzA3IGtpc2NobiDlrp7njrAgZ2VvSGFzaCDnmoTlpITnkIYK</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbC5vZk51bGxhYmxlKHJlcXVlc3QuZ2V0Q29va2llcygpKQogICAgICAgICAgICAgICAgLm1hcChjb29raWVzIC0+ICB7CgogICAgICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIFN0cmluZz4gY29va2llc01hcCA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICAgICAgICAgICAgICBmb3IgKENvb2tpZSBjb29raWUgOiBjb29raWVzKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChjb29raWUuZ2V0TmFtZSgpKQogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>s/min/max/g</text>
