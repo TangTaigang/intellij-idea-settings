@@ -49,6 +49,6 @@
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="GotoTest" />
-    <action id="VimPluginToggle" icon="C:/app/vim_shortcut.png" />
+    <action id="VimPluginToggle" icon="$USER_HOME$/OneDrive/Pictures/common/gvim.png" />
   </component>
 </application>
