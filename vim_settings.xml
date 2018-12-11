@@ -341,11 +341,11 @@
         <mark key="." line="152" column="54" />
         <mark key="^" line="152" column="54" />
       </file>
-      <file name="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" timestamp="1544497178122">
+      <file name="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" timestamp="1544499169254">
         <mark key="'" line="264" column="0" />
-        <mark key="[" line="145" column="56" />
-        <mark key="]" line="145" column="57" />
-        <mark key="." line="145" column="57" />
+        <mark key="[" line="151" column="97" />
+        <mark key="]" line="151" column="98" />
+        <mark key="." line="151" column="98" />
         <mark key="^" line="150" column="30" />
       </file>
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/persist/excel/XLSX2CSV.java" timestamp="1543975694824">
@@ -383,7 +383,7 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544497194511">
+      <file name="/Dummy.txt" timestamp="1544499158638">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
