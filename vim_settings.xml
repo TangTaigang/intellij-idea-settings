@@ -341,8 +341,8 @@
         <mark key="." line="152" column="54" />
         <mark key="^" line="152" column="54" />
       </file>
-      <file name="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" timestamp="1544411129723">
-        <mark key="'" line="245" column="38" />
+      <file name="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" timestamp="1544494974207">
+        <mark key="'" line="264" column="0" />
         <mark key="[" line="149" column="59" />
         <mark key="]" line="150" column="30" />
         <mark key="." line="150" column="30" />
@@ -511,9 +511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="8" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/web/RoadController.java" />
-      <jump line="0" column="0" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/modules/traffic_monitor/index.jsp" />
-      <jump line="47" column="44" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/web/HomeController.java" />
       <jump line="0" column="0" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/traffic_monitor/carMonitor.jsp" />
       <jump line="621" column="0" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/traffic_monitor/carMonitor.jsp" />
       <jump line="47" column="0" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/production-resources/htsite.properties" />
@@ -611,6 +608,9 @@
       <jump line="226" column="0" filename="/PassAnalyzeController.java" />
       <jump line="310" column="29" filename="$USER_HOME$/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/web/PassAnalyzeController.java" />
       <jump line="243" column="38" filename="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" />
+      <jump line="111" column="6" filename="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" />
+      <jump line="264" column="0" filename="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
