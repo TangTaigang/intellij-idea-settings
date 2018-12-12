@@ -267,6 +267,11 @@
         <mark key="." line="27" column="38" />
         <mark key="^" line="27" column="38" />
       </file>
+      <file name="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/PassInfo.java" timestamp="1544578175211">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_hdfs/src/main/resources/application.properties" timestamp="1541579506814">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="21" />
@@ -576,7 +581,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdVdGlscwo=</text>
+        <text encoding="base64">ICAgICAgICBDYWNoZQo=</text>
       </register>
       <register name="-" type="4">
         <text>@</text>
@@ -588,31 +593,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSAoQ29ubmVjdGlvbiBjb25uZWN0aW9uID0gRHJpdmVyTWFuYWdlci5nZXRDb25uZWN0aW9uKHVybCwgInJvb3QiLCAicm9vdCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdVdGlscwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUdXBsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5nb29nbGU6Z3VhdmEnCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUdXBsZQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBDYWNoZQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBJbW0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBJbW11dGFibGVNYXAK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmdVdGlscwo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBUdXBsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5nb29nbGU6Z3VhdmEnCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBUdXBsZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBDYWNoZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBJbW0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBJbW11dGFibGVNYXAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdVdGlscwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/min/max/g</text>
