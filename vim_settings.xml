@@ -186,10 +186,11 @@
         <mark key="." line="116" column="96" />
         <mark key="^" line="116" column="96" />
       </file>
-      <file name="$USER_HOME$/code/fast-test/src/main/java/Application.java" timestamp="1544578505520">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/code/fast-test/src/main/java/Application.java" timestamp="1544579905664">
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="5" column="39" />
+        <mark key="." line="5" column="39" />
+        <mark key="^" line="5" column="39" />
       </file>
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/PersistService.java" timestamp="1544167243643">
         <mark key="[" line="56" column="16" />
@@ -586,7 +587,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDYWNoZQo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJlYW0ub2YoIkhlbGxvLFdvcmxkIi50b0NoYXJBcnJheSgpKQo=</text>
       </register>
       <register name="-" type="4">
         <text>@</text>
@@ -598,31 +599,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSAoQ29ubmVjdGlvbiBjb25uZWN0aW9uID0gRHJpdmVyTWFuYWdlci5nZXRDb25uZWN0aW9uKHVybCwgInJvb3QiLCAicm9vdCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDYWNoZQo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJlYW0ub2YoIkhlbGxvLFdvcmxkIi50b0NoYXJBcnJheSgpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmdvb2dsZS5ndWF2YTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Z3VhdmE8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjIwLjA8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgPC9kZXBlbmRlbmNpZXM+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDYWNoZTxPYmplY3QsIE9iamVjdD4gYnVpbGQgPSBDYWNoZUJ1aWxkZXIubmV3QnVpbGRlcigpLmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mb3JFYWNoKFN5c3RlbS5vdXQ6OnByaW50KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDYWNoZQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhlbGxvLHdvcmxkIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdVdGlscwo=</text>
+        <text encoding="base64">ICAgICAgICBDYWNoZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUdXBsCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmdvb2dsZS5ndWF2YTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Z3VhdmE8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjIwLjA8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgPC9kZXBlbmRlbmNpZXM+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5nb29nbGU6Z3VhdmEnCg==</text>
+        <text encoding="base64">ICAgICAgICBDYWNoZTxPYmplY3QsIE9iamVjdD4gYnVpbGQgPSBDYWNoZUJ1aWxkZXIubmV3QnVpbGRlcigpLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUdXBsZQo=</text>
+        <text encoding="base64">ICAgICAgICBDYWNoZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDYWNoZQo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdVdGlscwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/min/max/g</text>
