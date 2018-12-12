@@ -193,6 +193,9 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
       </file>
+      <file name="$USER_HOME$/code/BIGDATA/MDHTrafficDB/src/main/production-resources/htsite.properties" timestamp="1544600461984">
+        <mark key="'" line="76" column="47" />
+      </file>
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/PersistService.java" timestamp="1544167243643">
         <mark key="[" line="56" column="16" />
         <mark key="]" line="56" column="19" />
@@ -492,7 +495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="347" column="50" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/resources/spring-context.xml" />
       <jump line="1663" column="0" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
       <jump line="110" column="17" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/production-resources/htsite.properties" />
       <jump line="10" column="14" filename="C:/code/clojure/clojure1/src/main.clj" />
@@ -592,6 +594,7 @@
       <jump line="2343" column="54" filename="$USER_HOME$/Downloads/Hybrid Assistant_V2.246.2/classes-dex2jar/priusfan/info/bthsd10/scanner.class" />
       <jump line="62" column="26" filename="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/pom.xml" />
       <jump line="141" column="47" filename="$USER_HOME$/code/BIGDATA/MDHTrafficDB/src/main/resources/spring-context.xml" />
+      <jump line="76" column="47" filename="$USER_HOME$/code/BIGDATA/MDHTrafficDB/src/main/production-resources/htsite.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
