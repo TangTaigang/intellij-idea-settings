@@ -193,8 +193,12 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/code/BIGDATA/MDHTrafficDB/src/main/production-resources/htsite.properties" timestamp="1544600461984">
+      <file name="$USER_HOME$/code/BIGDATA/MDHTrafficDB/src/main/production-resources/htsite.properties" timestamp="1544602314972">
         <mark key="'" line="76" column="47" />
+        <mark key="[" line="133" column="31" />
+        <mark key="]" line="133" column="44" />
+        <mark key="^" line="133" column="44" />
+        <mark key="." line="133" column="44" />
       </file>
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/PersistService.java" timestamp="1544167243643">
         <mark key="[" line="56" column="16" />
@@ -598,10 +602,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>huitong2017</text>
+        <text>10.0.6.103</text>
       </register>
       <register name="-" type="4">
-        <text>huitong2017</text>
+        <text>10.0.6.103</text>
       </register>
       <register name="/" type="4">
         <text>min</text>
