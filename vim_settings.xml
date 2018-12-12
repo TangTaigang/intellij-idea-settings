@@ -39,6 +39,7 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="13" column="56" />
       </file>
+      <file name="$USER_HOME$/code/BIGDATA/MDHTrafficDB/pom.xml" timestamp="1544594593213" />
       <file name="$USER_HOME$/Downloads/demo/src/main/kotlin/com/example/demo/DemoApplication.kt" timestamp="1544427028974">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="8" column="20" />
@@ -186,11 +187,11 @@
         <mark key="." line="116" column="96" />
         <mark key="^" line="116" column="96" />
       </file>
-      <file name="$USER_HOME$/code/fast-test/src/main/java/Application.java" timestamp="1544589727722">
-        <mark key="[" line="5" column="44" />
-        <mark key="]" line="6" column="7" />
-        <mark key="." line="6" column="7" />
-        <mark key="^" line="6" column="7" />
+      <file name="$USER_HOME$/code/fast-test/src/main/java/Application.java" timestamp="1544596470036">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="24" />
       </file>
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/PersistService.java" timestamp="1544167243643">
         <mark key="[" line="56" column="16" />
@@ -293,6 +294,9 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="41" column="90" />
       </file>
+      <file name="$USER_HOME$/code/BIGDATA/MDHTrafficDB/src/main/resources/spring-context.xml" timestamp="1544594420180">
+        <mark key="'" line="141" column="47" />
+      </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_monitor/pom.xml" timestamp="1541579633524">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
@@ -366,12 +370,12 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544589870006">
+      <file name="/Dummy.txt" timestamp="1544596773235">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-        <mark key="^" line="0" column="7" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+        <mark key="^" line="0" column="27" />
       </file>
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/MailService.java" timestamp="1544166788037">
         <mark key="[" line="72" column="98" />
@@ -488,7 +492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/production-resources/htsite.properties" />
       <jump line="347" column="50" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/resources/spring-context.xml" />
       <jump line="1663" column="0" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
       <jump line="110" column="17" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/production-resources/htsite.properties" />
@@ -588,6 +591,7 @@
       <jump line="264" column="0" filename="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" />
       <jump line="2343" column="54" filename="$USER_HOME$/Downloads/Hybrid Assistant_V2.246.2/classes-dex2jar/priusfan/info/bthsd10/scanner.class" />
       <jump line="62" column="26" filename="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/pom.xml" />
+      <jump line="141" column="47" filename="$USER_HOME$/code/BIGDATA/MDHTrafficDB/src/main/resources/spring-context.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
