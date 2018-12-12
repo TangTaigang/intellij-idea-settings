@@ -219,6 +219,9 @@
         <mark key="." line="64" column="26" />
         <mark key="^" line="64" column="26" />
       </file>
+      <file name="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/pom.xml" timestamp="1544590968811">
+        <mark key="'" line="62" column="26" />
+      </file>
       <file name="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/resources/spring-context-shiro.xml" timestamp="1541407199527">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -313,12 +316,12 @@
         <mark key="." line="152" column="54" />
         <mark key="^" line="152" column="54" />
       </file>
-      <file name="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" timestamp="1544576798595">
+      <file name="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" timestamp="1544590507304">
         <mark key="'" line="264" column="0" />
-        <mark key="[" line="151" column="97" />
-        <mark key="]" line="151" column="98" />
-        <mark key="." line="151" column="98" />
-        <mark key="^" line="150" column="30" />
+        <mark key="[" line="151" column="87" />
+        <mark key="]" line="151" column="92" />
+        <mark key="." line="151" column="92" />
+        <mark key="^" line="151" column="92" />
       </file>
       <file name="$USER_HOME$/code/gradle-project/src/main/java/Application.java" timestamp="1544511501180">
         <mark key="[" line="9" column="0" />
@@ -485,7 +488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="621" column="0" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/webapp/WEB-INF/views/traffic_monitor/carMonitor.jsp" />
       <jump line="47" column="0" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/production-resources/htsite.properties" />
       <jump line="347" column="50" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/resources/spring-context.xml" />
       <jump line="1663" column="0" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/service/JttsService.java" />
@@ -585,13 +587,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" />
       <jump line="264" column="0" filename="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" />
       <jump line="2343" column="54" filename="$USER_HOME$/Downloads/Hybrid Assistant_V2.246.2/classes-dex2jar/priusfan/info/bthsd10/scanner.class" />
+      <jump line="62" column="26" filename="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>huitong2017</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VXNlciA=</text>
+        <text>huitong2017</text>
       </register>
       <register name="/" type="4">
         <text>min</text>
