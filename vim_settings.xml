@@ -206,11 +206,11 @@
         <mark key="." line="116" column="96" />
         <mark key="^" line="116" column="96" />
       </file>
-      <file name="$USER_HOME$/code/fast-test/src/main/java/Application.java" timestamp="1544749626884">
-        <mark key="[" line="21" column="108" />
-        <mark key="]" line="22" column="50" />
-        <mark key="." line="22" column="50" />
-        <mark key="^" line="22" column="50" />
+      <file name="$USER_HOME$/code/fast-test/src/main/java/Application.java" timestamp="1544752297373">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="19" />
       </file>
       <file name="$USER_HOME$/code/BIGDATA/MDHTrafficDB/src/main/production-resources/htsite.properties" timestamp="1544604661525">
         <mark key="'" line="76" column="47" />
@@ -309,7 +309,7 @@
         <mark key="." line="27" column="38" />
         <mark key="^" line="27" column="38" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/io/ObjectOutputStream.java" timestamp="1544751164169" />
+      <file name="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/io/ObjectOutputStream.java" timestamp="1544752071263" />
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_hdfs/src/main/resources/application.properties" timestamp="1541579506814">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="21" />
@@ -407,7 +407,7 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544689543261">
+      <file name="/Dummy.txt" timestamp="1544752300635">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
@@ -520,7 +520,7 @@
         <mark key="." line="63" column="30" />
         <mark key="^" line="63" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1544749426551">
+      <file name="/fragment.java" timestamp="1544752494862">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -630,10 +630,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>String[] args</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>String[] args</text>
       </register>
       <register name="/" type="4">
         <text>min</text>
