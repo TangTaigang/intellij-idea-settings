@@ -134,6 +134,9 @@
         <mark key="." line="129" column="83" />
         <mark key="^" line="129" column="83" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1-sources.jar!/org/apache/commons/httpclient/HttpClient.java" timestamp="1545097420389">
+        <mark key="'" line="94" column="6" />
+      </file>
       <file name="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/resources/application.properties" timestamp="1542955982375">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -214,6 +217,12 @@
         <mark key="]" line="111" column="41" />
         <mark key="^" line="111" column="41" />
         <mark key="." line="111" column="41" />
+      </file>
+      <file name="$USER_HOME$/code/bus-status/src/main/resources/log4j2.xml" timestamp="1545098139780">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="62" />
+        <mark key="." line="9" column="62" />
+        <mark key="^" line="9" column="62" />
       </file>
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapreduce/CarRouteCombine.java" timestamp="1543805810976">
         <mark key="[" line="161" column="105" />
@@ -378,11 +387,30 @@
         <mark key="." line="52" column="22" />
         <mark key="^" line="52" column="22" />
       </file>
+      <file name="$USER_HOME$/code/bus-status/src/main/resources/application.properties" timestamp="1545098344695">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/code/WEIHAI/MDH_PASSINF_DATA_WH/mdh_data_passinf_es/src/main/java/com/miras/data/passinf/es/ESBolt.java" timestamp="1544057808750">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="^" line="45" column="117" />
         <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/bus-status/src/main/java/com/miras/bus/busstatus/BusStatusApplication.java" timestamp="1545098607556">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="26" column="3" />
+        <mark key="." line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/bus-status/src/main/resources/application.yaml" timestamp="1545098525484">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="72" />
+        <mark key="." line="1" column="72" />
+        <mark key="^" line="1" column="72" />
       </file>
       <file name="C:/code/fasttest/pom.xml" timestamp="1543555497162">
         <mark key="[" line="31" column="39" />
@@ -536,8 +564,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="40" filename="C:/code/java11/src/Application.java" />
-      <jump line="137" column="49" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/pom.xml" />
       <jump line="221" column="39" filename="C:/code/WEIHAI/MDH_PASSINF_DATA-master/pom.xml" />
       <jump line="100" column="29" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/dao/AddressZoneMapper.java" />
       <jump line="336" column="28" filename="C:/code/BIGDATA/Miras_ChecksystemTwo/pom.xml" />
@@ -636,46 +662,48 @@
       <jump line="26" column="20" filename="$USER_HOME$/code/fast-test/src/main/java/Application.java" />
       <jump line="27" column="20" filename="$USER_HOME$/code/fast-test/src/main/java/Application.java" />
       <jump line="116" column="18" filename="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/pom.xml" />
+      <jump line="94" column="6" filename="$MAVEN_REPOSITORY$/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1-sources.jar!/org/apache/commons/httpclient/HttpClient.java" />
+      <jump line="67" column="0" filename="$USER_HOME$/code/bus-status/src/main/java/com/miras/bus/busstatus/BusStatusApplication.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1.1.3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1.1.3</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>year</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludFdyaXRlci5wcmludCgyMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBJT0V4Y2VwdGlvbigi6K+35rGC6I635Y+WIHJhbmRvbSDmlbDmja7ml7blvILluLjmnI3liqHlmajov5Tlm57nirbmgIHnoIHlvILluLgiICsgc3RhdHVzQ29kZSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludFdyaXRlci5wcmludCh5ZWFyKTsKICAgICAgICAgICAgICAgICAgICBwcmludFdyaXRlci5wcmludCh5ZWFyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9zdE1ldGhvZC5zZXRSZXF1ZXN0RW50aXR5KAogICAgICAgICAgICAgICAgICAgIG5ldyBTdHJpbmdSZXF1ZXN0RW50aXR5KEdFVF9SQU5ET01fVEVNUExBVEUsICJ0ZXh0L3htbCIsICJVVEYtOCIpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50V3JpdGVyLndyaXRlKHMsIDAsIGkgKyAxKTsKICAgICAgICAgICAgICAgIHByaW50V3JpdGVyLnByaW50KDIwKTsKICAgICAgICAgICAgICAgIHByaW50V3JpdGVyLnByaW50KHllYXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwb3N0TWV0aG9kLmFkZFJlcXVlc3RIZWFkZXIoIlNPQVBBY3Rpb24iLCAiaHR0cDovL3d3dy5kb25nZmFuZy1jaGluYS5jb20vZ2V0X3JhbmRvbSIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBQb3N0TWV0aG9kIHBvc3RNZXRob2QgPSBuZXcgUG9zdE1ldGhvZChyYW5kb21OdW1iZXJBcGlVcmwpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBwcmVGaXggPSBzLnN1YnN0cmluZygwLCBpKTsK</text>
+        <text encoding="base64">ICBodHRwOi8vMjIzLjk5LjE3NC4yMzQ6NDk5Ny9idXNwb3NpdGlvbi5hc214Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZUZpeC4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgZGF5ID0gbWF0Y2hlci5ncm91cCgiZGF5Iik7Cg==</text>
+        <text encoding="base64">ICAgIGhvc3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgbW9udGggPSBtYXRjaGVyLmdyb3VwKCJtb250aCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IElPRXhjZXB0aW9uKCLor7fmsYLojrflj5YgcmFuZG9tIOaVsOaNruaXtuW8guW4uCIsIGUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvCg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/year/day/g</text>
