@@ -224,11 +224,11 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/code/bus-status/src/main/resources/application.yaml" timestamp="1545099406924">
-        <mark key="[" line="3" column="25" />
-        <mark key="]" line="4" column="27" />
-        <mark key="." line="4" column="27" />
-        <mark key="^" line="4" column="27" />
+      <file name="$USER_HOME$/code/bus-status/src/main/resources/application.yaml" timestamp="1545103381133">
+        <mark key="[" line="24" column="27" />
+        <mark key="]" line="24" column="36" />
+        <mark key="." line="24" column="36" />
+        <mark key="^" line="24" column="36" />
       </file>
       <file name="$USER_HOME$/code/WEIHAI/MDH_PASSINF_DATA_WH/mdh_data_passinf_firstincity/pom.xml" timestamp="1544681325792">
         <mark key="[" line="89" column="0" />
@@ -314,11 +314,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="75" />
       </file>
-      <file name="$USER_HOME$/code/bus-status/src/test/java/com/miras/bus/busstatus/BusStatusApplicationTests.java" timestamp="1545100199125">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="26" column="61" />
+      <file name="$USER_HOME$/code/bus-status/src/test/java/com/miras/bus/busstatus/BusStatusApplicationTests.java" timestamp="1545103826260">
+        <mark key="[" line="37" column="69" />
+        <mark key="]" line="38" column="39" />
+        <mark key="." line="38" column="39" />
+        <mark key="^" line="38" column="39" />
       </file>
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/resources/phantom.js" timestamp="1544166743536">
         <mark key="[" line="37" column="4" />
@@ -383,6 +383,12 @@
       <file name="$MAVEN_REPOSITORY$/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1-sources.jar!/org/apache/commons/httpclient/HttpClient.java" timestamp="1545097420389">
         <mark key="'" line="94" column="6" />
       </file>
+      <file name="$USER_HOME$/code/bus-status/src/main/resources/application-dev.yaml" timestamp="1545102922838">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+        <mark key="^" line="12" column="17" />
+      </file>
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-geo/pom.xml" timestamp="1543564250205">
         <mark key="[" line="44" column="32" />
         <mark key="]" line="45" column="37" />
@@ -430,6 +436,12 @@
         <mark key="]" line="162" column="26" />
         <mark key="." line="162" column="26" />
         <mark key="^" line="162" column="26" />
+      </file>
+      <file name="$USER_HOME$/code/bus-status/pom.xml" timestamp="1545103894092">
+        <mark key="[" line="54" column="21" />
+        <mark key="]" line="57" column="36" />
+        <mark key="." line="57" column="36" />
+        <mark key="^" line="57" column="36" />
       </file>
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/pom.xml" timestamp="1543471680119">
         <mark key="[" line="60" column="21" />
@@ -485,12 +497,12 @@
         <mark key="^" line="45" column="117" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/code/bus-status/src/main/java/com/miras/bus/busstatus/BusStatusApplication.java" timestamp="1545100176924">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="78" column="4" />
-        <mark key="]" line="78" column="10" />
-        <mark key="^" line="78" column="10" />
-        <mark key="." line="78" column="10" />
+      <file name="$USER_HOME$/code/bus-status/src/main/java/com/miras/bus/busstatus/BusStatusApplication.java" timestamp="1545104035192">
+        <mark key="'" line="107" column="77" />
+        <mark key="[" line="102" column="15" />
+        <mark key="]" line="102" column="15" />
+        <mark key="^" line="112" column="52" />
+        <mark key="." line="102" column="15" />
       </file>
       <file name="C:/code/fasttest/pom.xml" timestamp="1543555497162">
         <mark key="[" line="31" column="39" />
@@ -572,8 +584,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="29" filename="C:/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/traffic_monitor/dao/AddressZoneMapper.java" />
-      <jump line="336" column="28" filename="C:/code/BIGDATA/Miras_ChecksystemTwo/pom.xml" />
       <jump line="388" column="60" filename="$MAVEN_REPOSITORY$/org/freemarker/freemarker/2.3.20/freemarker-2.3.20.jar!/freemarker/ext/jsp/web-app_2_5.xsd" />
       <jump line="155" column="15" filename="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/java/com/miras/data/modules/sys/web/impl/LoginInfoRegisterImpl.java" />
       <jump line="147" column="57" filename="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/java/com/miras/data/modules/sys/web/impl/LoginInfoRegisterImpl.java" />
@@ -672,46 +682,49 @@
       <jump line="94" column="6" filename="$MAVEN_REPOSITORY$/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1-sources.jar!/org/apache/commons/httpclient/HttpClient.java" />
       <jump line="67" column="0" filename="$USER_HOME$/code/bus-status/src/main/java/com/miras/bus/busstatus/BusStatusApplication.java" />
       <jump line="61" column="0" filename="$USER_HOME$/code/bus-status/src/main/java/com/miras/bus/busstatus/BusStatusApplication.java" />
+      <jump line="109" column="86" filename="$USER_HOME$/code/bus-status/src/main/java/com/miras/bus/busstatus/BusStatusApplication.java" />
+      <jump line="107" column="77" filename="$USER_HOME$/code/bus-status/src/main/java/com/miras/bus/busstatus/BusStatusApplication.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>year</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiJHthcHBsaWNhdGlvbi5lbmNyeXB0LmtleX0iKQogICAgcHJpdmF0ZSBTdHJpbmcgZW5jcnlwdEtleTsK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBTdHJpbmcgYWVzRW5jb2RlID0gYnVzU3RhdHVzQXBwbGljYXRpb24uYWVzRW5jb2RlKCIyODI2MDIxMDgiKTsKICAgICAgICAgICAgYXNzZXJ0ICJaeFhjVEYzTTB0dGoxQ0ZpOFMzYWZ3PT0iLmVxdWFscyhhZXNFbmNvZGUpOwogICAgICAgIH0gY2F0Y2ggKEdlbmVyYWxTZWN1cml0eUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0RXF1YWxzCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0cwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0RXF1YWxzCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CSAgICBhZQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>I&quot;, &quot;&quot;);
+            params.put(&quot;strSession</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNYXRjaGVyIG1hdGNoZXIgPSBSQU5ET01fTlVNQkVSX1BBVFRFUk4ubWF0Y2hlcih4bWxSZXNwKTsKICAgICAgICAgICAgICAgICAgICBpZiAobWF0Y2hlci5maW5kKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgTC5pbmZvKCLojrflj5YgcmFuZG9tTnVtYmVyIOaIkOWKnzoiICsgcmFuZG9tTnVtYmVyKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSU9FeGNlcHRpb24oIuivt+axguiOt+WPliByYW5kb20g5pWw5o2u5pe25byC5bi45pyN5Yqh5Zmo6L+U5Zue5pWw5o2u5pegIHJhbmRvbU51bWJlciwgcmVzcDoiICsgeG1sUmVzcCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHJhbmRvbU51bWJlciA9IG1hdGNoZXIuZ3JvdXAoInJhbmRvbU51bWJlciIpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHJhbmRvbU51bWJlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>s/year/day/g</text>
