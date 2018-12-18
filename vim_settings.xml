@@ -195,19 +195,18 @@
         <mark key="^" line="68" column="41" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarActivity288.java" timestamp="1545112786076" />
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-zone/src/main/java/com/miras/mapreduce/CarRouteCombine.java" timestamp="1543815540179">
         <mark key="[" line="151" column="63" />
         <mark key="]" line="152" column="54" />
         <mark key="." line="152" column="54" />
         <mark key="^" line="152" column="54" />
       </file>
-      <file name="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/pom.xml" timestamp="1545112818468">
-        <mark key="'" line="122" column="18" />
-        <mark key="[" line="79" column="21" />
-        <mark key="]" line="79" column="38" />
-        <mark key="." line="79" column="38" />
-        <mark key="^" line="79" column="38" />
+      <file name="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/pom.xml" timestamp="1545113502884">
+        <mark key="'" line="128" column="18" />
+        <mark key="[" line="105" column="25" />
+        <mark key="]" line="105" column="26" />
+        <mark key="." line="105" column="26" />
+        <mark key="^" line="105" column="26" />
       </file>
       <file name="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" timestamp="1545093769367">
         <mark key="[" line="151" column="97" />
@@ -316,6 +315,7 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="75" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/2.1.0/spark-core_2.10-2.1.0.pom" timestamp="1545113481373" />
       <file name="$USER_HOME$/code/bus-status/src/test/java/com/miras/bus/busstatus/BusStatusApplicationTests.java" timestamp="1545103826260">
         <mark key="[" line="37" column="69" />
         <mark key="]" line="38" column="39" />
@@ -524,7 +524,7 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545112859016">
+      <file name="/Dummy.txt" timestamp="1545113217639">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
@@ -689,10 +689,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>year</text>
@@ -701,32 +701,32 @@
         <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBTdHJpbmcgYWVzRW5jb2RlID0gYnVzU3RhdHVzQXBwbGljYXRpb24uYWVzRW5jb2RlKCIyODI2MDIxMDgiKTsKICAgICAgICAgICAgYXNzZXJ0ICJaeFhjVEYzTTB0dGoxQ0ZpOFMzYWZ3PT0iLmVxdWFscyhhZXNFbmNvZGUpOwogICAgICAgIH0gY2F0Y2ggKEdlbmVyYWxTZWN1cml0eUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS43LjE2PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>I&quot;, &quot;&quot;);
             params.put(&quot;strSession</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNYXRjaGVyIG1hdGNoZXIgPSBSQU5ET01fTlVNQkVSX1BBVFRFUk4ubWF0Y2hlcih4bWxSZXNwKTsKICAgICAgICAgICAgICAgICAgICBpZiAobWF0Y2hlci5maW5kKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgTC5pbmZvKCLojrflj5YgcmFuZG9tTnVtYmVyIOaIkOWKnzoiICsgcmFuZG9tTnVtYmVyKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSU9FeGNlcHRpb24oIuivt+axguiOt+WPliByYW5kb20g5pWw5o2u5pe25byC5bi45pyN5Yqh5Zmo6L+U5Zue5pWw5o2u5pegIHJhbmRvbU51bWJlciwgcmVzcDoiICsgeG1sUmVzcCk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHJhbmRvbU51bWJlciA9IG1hdGNoZXIuZ3JvdXAoInJhbmRvbU51bWJlciIpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHJhbmRvbU51bWJlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHJhbmRvbU51bWJlciA9IG1hdGNoZXIuZ3JvdXAoInJhbmRvbU51bWJlciIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/year/day/g</text>
