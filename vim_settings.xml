@@ -164,6 +164,7 @@
         <mark key="^" line="51" column="20" />
         <mark key="." line="51" column="20" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch-hadoop/5.4.0/elasticsearch-hadoop-5.4.0.pom" timestamp="1545112595748" />
       <file name="C:/code/BIGDATA/sso-test/src/main/java/com/miras/LoginInfoRegisterImpl.java" timestamp="1541053650964">
         <mark key="[" line="21" column="82" />
         <mark key="]" line="21" column="81" />
@@ -194,14 +195,15 @@
         <mark key="^" line="68" column="41" />
         <mark key="." line="93" column="0" />
       </file>
+      <file name="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/src/main/java/com/miras/mapreduce/CarActivity288.java" timestamp="1545112786076" />
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-zone/src/main/java/com/miras/mapreduce/CarRouteCombine.java" timestamp="1543815540179">
         <mark key="[" line="151" column="63" />
         <mark key="]" line="152" column="54" />
         <mark key="." line="152" column="54" />
         <mark key="^" line="152" column="54" />
       </file>
-      <file name="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/pom.xml" timestamp="1544778360704">
-        <mark key="'" line="116" column="18" />
+      <file name="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/pom.xml" timestamp="1545112818468">
+        <mark key="'" line="122" column="18" />
         <mark key="[" line="79" column="21" />
         <mark key="]" line="79" column="38" />
         <mark key="." line="79" column="38" />
@@ -522,7 +524,7 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545093773003">
+      <file name="/Dummy.txt" timestamp="1545112859016">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
