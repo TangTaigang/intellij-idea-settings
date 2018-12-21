@@ -22,6 +22,14 @@
   <action id="Maven.ExecuteGoal">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="QuickList.My Operations">
     <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
