@@ -13,6 +13,7 @@
     <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="PRESENTATION_MODE_FONT_SIZE" value="22" />
     <option name="SHOW_TABS_TOOLTIPS" value="false" />
     <option name="smoothScrolling" value="true" />
   </component>
