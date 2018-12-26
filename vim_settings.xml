@@ -278,6 +278,12 @@
         <mark key="." line="11" column="71" />
         <mark key="^" line="11" column="71" />
       </file>
+      <file name="$USER_HOME$/code/clj-test/src/clj_test/core.clj" timestamp="1545806461346">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="9" />
+        <mark key="." line="10" column="19" />
+        <mark key="^" line="9" column="9" />
+      </file>
       <file name="$USER_HOME$/code/WEIHAI/MDH_PASSINF_DATA_WH/pom.xml" timestamp="1544680896733">
         <mark key="[" line="37" column="43" />
         <mark key="]" line="37" column="43" />
@@ -697,11 +703,11 @@
       <jump line="32" column="18" filename="$USER_HOME$/code/BIGDATA/MagicSquareV1/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>huitong2018</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">KGZvbyA6amFjaykK</text>
       </register>
       <register name="-" type="4">
-        <text>huitong2018</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>year</text>
@@ -710,34 +716,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSAoQ29ubmVjdGlvbiBjb25uZWN0aW9uID0gRHJpdmVyTWFuYWdlci5nZXRDb25uZWN0aW9uKHVybCwgInJvb3QiLCAiaHVpdG9uZzIwMTgiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtleS50b1N0cmluZygpLAo=</text>
+        <text encoding="base64">KGZvbyA6amFjaykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L3Byb3BlcnRpZXM+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtleS50b1N0cmluZygpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvcGVydGllcz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L3Byb3BlcnRpZXM+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMi52ZXJzaW9uPjEuNC4xOTY8L2gyLnZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydGllcz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPlVURi04PC9wcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPgogICAgICAgICAgICAgICAgPHNwcmluZy52ZXJzaW9uPjQuMy43LlJFTEVBU0U8L3NwcmluZy52ZXJzaW9uPgogICAgICAgICAgICAgICAgPHNwcmluZy1zZWN1cml0eS52ZXJzaW9uPjQuMS4wLlJFTEVBU0U8L3NwcmluZy1zZWN1cml0eS52ZXJzaW9uPgogICAgICAgICAgICAgICAgPG15YmF0aXMudmVyc2lvbj4zLjMuMTwvbXliYXRpcy52ZXJzaW9uPgogICAgICAgICAgICAgICAgPG15YmF0aXNzcHJpbmcudmVyc2lvbj4xLjEuMTwvbXliYXRpc3NwcmluZy52ZXJzaW9uPgogICAgICAgICAgICAgICAgPGpkay52ZXJzaW9uPjEuODwvamRrLnZlcnNpb24+CiAgICAgICAgICAgICAgICA8cHJlc3RvLnZlcnNpb24+MC4xNjE8L3ByZXN0by52ZXJzaW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/year/day/g</text>
