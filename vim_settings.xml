@@ -242,6 +242,13 @@
         <mark key="^" line="147" column="24" />
         <mark key="." line="89" column="0" />
       </file>
+      <file name="$USER_HOME$/code/clj-test/src/main/clojure/clj_test/core.clj" timestamp="1545884948529">
+        <mark key="'" line="1" column="7" />
+        <mark key="[" line="19" column="7" />
+        <mark key="]" line="19" column="7" />
+        <mark key="." line="19" column="7" />
+        <mark key="^" line="19" column="7" />
+      </file>
       <file name="C:/code/demo/pom.xml" timestamp="1542962031662">
         <mark key="[" line="23" column="23" />
         <mark key="]" line="23" column="23" />
@@ -542,11 +549,11 @@
         <mark key="^" line="372" column="13" />
         <mark key="." line="372" column="13" />
       </file>
-      <file name="$USER_HOME$/code/clj-test/project.clj" timestamp="1545875935425">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="45" />
-        <mark key="^" line="6" column="45" />
-        <mark key="." line="6" column="48" />
+      <file name="$USER_HOME$/code/clj-test/project.clj" timestamp="1545885081650">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="24" />
+        <mark key="." line="9" column="21" />
       </file>
       <file name="C:/code/BIGDATA/sso-test/src/main/webapp/index.jsp" timestamp="1541053420733">
         <mark key="[" line="13" column="0" />
@@ -611,7 +618,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="93" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/bolt/DuplicateIllegalFilterBolt.java" />
       <jump line="232" column="0" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/CheckControl3Bolt.java" />
       <jump line="327" column="24" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/CheckControl3Bolt.java" />
       <jump line="96" column="0" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/bolt/IllegalCheckBolt.java" />
@@ -711,49 +717,50 @@
       <jump line="32" column="18" filename="$USER_HOME$/code/BIGDATA/MagicSquareV1/pom.xml" />
       <jump line="17" column="21" filename="$USER_HOME$/code/clj-test/src/clj_test/core.clj" />
       <jump line="16" column="8" filename="$USER_HOME$/code/clj-test/src/clj_test/core.clj" />
+      <jump line="1" column="7" filename="$USER_HOME$/code/clj-test/src/main/clojure/clj_test/core.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>C</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>year</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAoLmV4cGlyZUFmdGVyQWNjZXNzIChDYWNoZUJ1aWxkZXIvbmV3QnVpbGRlcikgMTAgVGltZVVuaXQvTUlOVVRFUykK</text>
+        <text encoding="base64">ICA6c291cmNlLXBhdGhzIFsic3JjL21haW4vY2xvanVyZSJdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBnLWNhY2hlCg==</text>
+        <text encoding="base64">KG11bHRpRm4pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBnLWNhY2hlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA6amF2YS1yZXNvdWNlcyBbc3JjL2phdmFdCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA6amF2YS1yZXNvdWNlcyBbc3JjL2phdmFdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KGRlZm4gZm9vCiAgIkkgZG9uJ3QgZG8gYSB3aG9sZSBsb3QuIgogIFt4XQogIChwcmludGxuIHggIkhlbGxvLCBXb3JsZCEiKSkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">KGRlZm4gZm9vCiAgIkkgZG9uJ3QgZG8gYSB3aG9sZSBsb3QuIgogIFt4XQogIChwcmludGxuIHggIkhlbGxvLCBXb3JsZCEiKSkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>s/year/day/g</text>
