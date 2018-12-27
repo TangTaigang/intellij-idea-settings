@@ -278,12 +278,12 @@
         <mark key="." line="11" column="71" />
         <mark key="^" line="11" column="71" />
       </file>
-      <file name="$USER_HOME$/code/clj-test/src/clj_test/core.clj" timestamp="1545872786817">
-        <mark key="'" line="15" column="8" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="16" column="2" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/code/clj-test/src/clj_test/core.clj" timestamp="1545874036155">
+        <mark key="'" line="10" column="8" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="11" column="2" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/code/WEIHAI/MDH_PASSINF_DATA_WH/pom.xml" timestamp="1544680896733">
         <mark key="[" line="37" column="43" />
@@ -723,28 +723,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">KGRlZm4gZm9vCiAgIkkgZG9uJ3QgZG8gYSB3aG9sZSBsb3QuIgogIFt4XQogIChwcmludGxuIHggIkhlbGxvLCBXb3JsZCEiKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/year/day/g</text>
