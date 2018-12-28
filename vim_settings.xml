@@ -382,11 +382,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/code/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1544758825120">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="11" />
-        <mark key="." line="14" column="11" />
-        <mark key="^" line="14" column="11" />
+      <file name="$USER_HOME$/code/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1545901273277">
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="22" column="33" />
+        <mark key="." line="22" column="33" />
+        <mark key="^" line="22" column="33" />
       </file>
       <file name="$USER_HOME$/code/clj-test/src/main/java/sun/kischn/Test.java" timestamp="1545876770521">
         <mark key="[" line="5" column="19" />
@@ -561,7 +561,7 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545876775996">
+      <file name="/Dummy.txt" timestamp="1545901515525">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -721,46 +721,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>year</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA6c291cmNlLXBhdGhzIFsic3JjL21haW4vY2xvanVyZSJdCg==</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiciIpCiAgICBwdWJsaWMgU3RyaW5nIHJlZGlyZWN0VGVzdCgpIHsKICAgICAgICByZXR1cm4gInJlZGlyZWN0Omh0dHA6Ly9sb2NhbGhvc3Q6ODA4MC90ZXN0Mj9oZWxsbz0xIy9hYWEiOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KG11bHRpRm4pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBnLWNhY2hlCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBoZWxsb1Rlc3Quc2F5SGVsbG8oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA6amF2YS1yZXNvdWNlcyBbc3JjL2phdmFdCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBleGVjdXRlKCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KG11bHRpRm4pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KGRlZm4gZm9vCiAgIkkgZG9uJ3QgZG8gYSB3aG9sZSBsb3QuIgogIFt4XQogIChwcmludGxuIHggIkhlbGxvLCBXb3JsZCEiKSkK</text>
+        <text encoding="base64">ICBnLWNhY2hlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICA6amF2YS1yZXNvdWNlcyBbc3JjL2phdmFdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/year/day/g</text>
