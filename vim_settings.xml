@@ -298,6 +298,12 @@
         <mark key="." line="18" column="8" />
         <mark key="^" line="18" column="8" />
       </file>
+      <file name="$USER_HOME$/code/phoenixtest/src/main/java/Test.java" timestamp="1546587327290">
+        <mark key="[" line="10" column="72" />
+        <mark key="]" line="10" column="87" />
+        <mark key="^" line="10" column="87" />
+        <mark key="." line="10" column="87" />
+      </file>
       <file name="$USER_HOME$/code/WEIHAI/MDH_PASSINF_DATA_WH/pom.xml" timestamp="1544680896733">
         <mark key="[" line="37" column="43" />
         <mark key="]" line="37" column="43" />
@@ -733,10 +739,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ApplicationKt</text>
+        <text>z</text>
       </register>
       <register name="-" type="4">
-        <text>ApplicationKt</text>
+        <text>z</text>
       </register>
       <register name="/" type="4">
         <text>year</text>
