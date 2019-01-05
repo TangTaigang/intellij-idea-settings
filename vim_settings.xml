@@ -187,11 +187,30 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="75" />
       </file>
+      <file name="$USER_HOME$/code/BIGDATA/upload-ws-api-laishanfenju/src/main/java/com/miras/uploadwsapi/Controller.java" timestamp="1546677952428">
+        <mark key="'" line="73" column="19" />
+        <mark key="[" line="48" column="50" />
+        <mark key="]" line="48" column="59" />
+        <mark key="." line="48" column="59" />
+        <mark key="^" line="48" column="59" />
+      </file>
+      <file name="$USER_HOME$/code/BIGDATA/upload-ws-api-laishanfenju/src/main/resources/logback.xml" timestamp="1546678190312">
+        <mark key="[" line="40" column="27" />
+        <mark key="]" line="40" column="38" />
+        <mark key="." line="40" column="38" />
+        <mark key="^" line="40" column="38" />
+      </file>
       <file name="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/bolt/PassportCheckBolt.java" timestamp="1542182818655">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
         <mark key="^" line="41" column="90" />
+      </file>
+      <file name="$USER_HOME$/code/BIGDATA/upload-ws-api-laishanfenju/src/main/java/com/miras/uploadwsapi/VehicleService.java" timestamp="1546677832710">
+        <mark key="[" line="59" column="30" />
+        <mark key="]" line="59" column="49" />
+        <mark key="^" line="59" column="49" />
+        <mark key="." line="59" column="49" />
       </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_monitor/pom.xml" timestamp="1541579633524">
         <mark key="[" line="93" column="0" />
@@ -451,7 +470,6 @@
         <mark key="^" line="43" column="25" />
         <mark key="." line="43" column="25" />
       </file>
-      <file name="$USER_HOME$/code/phoenixtest/src/main/resources/application.properties" timestamp="1546573656609" />
       <file name="$USER_HOME$/Downloads/fast-test/pom.xml" timestamp="1543969983700">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="15" column="25" />
@@ -579,7 +597,7 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546574336633">
+      <file name="/Dummy.txt" timestamp="1546678194615">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -636,7 +654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="232" column="0" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/CheckControl3Bolt.java" />
       <jump line="327" column="24" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/CheckControl3Bolt.java" />
       <jump line="96" column="0" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/bolt/IllegalCheckBolt.java" />
       <jump line="117" column="16" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/bolt/IllegalCheckBolt.java" />
@@ -736,49 +753,50 @@
       <jump line="17" column="21" filename="$USER_HOME$/code/clj-test/src/clj_test/core.clj" />
       <jump line="16" column="8" filename="$USER_HOME$/code/clj-test/src/clj_test/core.clj" />
       <jump line="1" column="7" filename="$USER_HOME$/code/clj-test/src/main/clojure/clj_test/core.clj" />
+      <jump line="66" column="19" filename="$USER_HOME$/code/BIGDATA/upload-ws-api-laishanfenju/src/main/java/com/miras/uploadwsapi/Controller.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>z</text>
+        <text>jczh-upload-fix</text>
       </register>
       <register name="-" type="4">
-        <text>z</text>
+        <text>jczh-upload-fix</text>
       </register>
       <register name="/" type="4">
         <text>year</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiciIpCiAgICBwdWJsaWMgU3RyaW5nIHJlZGlyZWN0VGVzdCgpIHsKICAgICAgICByZXR1cm4gInJlZGlyZWN0Omh0dHA6Ly9sb2NhbGhvc3Q6ODA4MC90ZXN0Mj9oZWxsbz0xIy9hYWEiOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTC5pbmZvKCJhY3Rpb246bG9naW5BY3Rpb24sIGlwOiIgKyByZXF1ZXN0LmdldFJlbW90ZUFkZHIoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTC5pbmZvKCJhY3Rpb246bG9naW5BY3Rpb24sIGlwOiIgKyByZXF1ZXN0LmdldFJlbW90ZUFkZHIoKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Z29hbD4KICAgICAgICAgICAgICAgICAgICAgICAgPAogICAgICAgICAgICAgICAgICAgIDwvZ29hbD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgTC5pbmZvKCJhY3Rpb246aW5zZXJ0VmVoaWNsZUluZm8sIGlwOiIgKyByZXF1ZXN0LmdldFJlbW90ZUFkZHIoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8eAo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBMLmVycm9yKCLlpITnkIbov4fovabmlbDmja7ml7blvILluLgiICsgZS5nZXRNZXNzYWdlKCksIGUpOwogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBMLmVycm9yKCLlpITnkIbov4fovabmlbDmja7ml7blvILluLgiICsgZS5nZXRNZXNzYWdlKCksIGUpOwogICAgICAgIH0KICAgICAgICAvLyByZXNwb25zZQogICAgICAgIHRyeSAoUHJpbnRXcml0ZXIgd3JpdGVyID0gcmVzcG9uc2UuZ2V0V3JpdGVyKCkpIHsKICAgICAgICAgICAgd3JpdGVyLnByaW50bG4oc3VjY2VzcyA/IFZFSElDTEVfUkVTUF9TVUNDRVNTIDogVkVISUNMRV9SRVNQX0ZBSUxFRCk7CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0KICAgIH0KCn0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJlcGFyZWRTdGF0ZW1lbnQgcHJlcGFyZWRTdGF0ZW1lbnQgPSBjb25uZWN0aW9uLnByZXBhcmVTdGF0ZW1lbnQoIiF0YWJsZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkZQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oeG1sKTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/year/day/g</text>
