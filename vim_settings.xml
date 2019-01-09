@@ -660,11 +660,11 @@
         <mark key="." line="27" column="38" />
         <mark key="^" line="27" column="38" />
       </file>
-      <file name="$USER_HOME$/code/BIGDATA/MDHTrafficDataSync/db-pull-sync/src/main/java/com/miras/datasync/Application.kt" timestamp="1547003104080">
-        <mark key="[" line="76" column="52" />
-        <mark key="]" line="76" column="52" />
-        <mark key="." line="76" column="52" />
-        <mark key="^" line="76" column="45" />
+      <file name="$USER_HOME$/code/BIGDATA/MDHTrafficDataSync/db-pull-sync/src/main/java/com/miras/datasync/Application.kt" timestamp="1547003179780">
+        <mark key="[" line="75" column="81" />
+        <mark key="]" line="76" column="70" />
+        <mark key="." line="76" column="70" />
+        <mark key="^" line="76" column="70" />
       </file>
       <file name="$USER_HOME$/Downloads/hibernate-demo/src/main/java/com/example/hibernatedemo/dao/BookInfoDao.java" timestamp="1547001462873">
         <mark key="[" line="25" column="0" />
@@ -696,9 +696,9 @@
         <mark key="." line="22" column="81" />
       </file>
       <file name="$USER_HOME$/Downloads/hibernate-demo/src/main/java/com/example/hibernatedemo/controller/BookInfoController.java" timestamp="1547002196496">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/code/WEIHAI/MDH_PASSINF_DATA_WH/mdh_data_passinf_es/src/main/java/com/miras/data/passinf/es/ESBolt.java" timestamp="1544057808750">
         <mark key="[" line="35" column="0" />
@@ -730,7 +730,7 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546997670990">
+      <file name="/Dummy.txt" timestamp="1547003173738">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -928,10 +928,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Name</text>
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>Name</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>\.</text>
