@@ -30,14 +30,6 @@
         <mark key="." line="168" column="25" />
         <mark key="^" line="168" column="25" />
       </file>
-      <file name="$USER_HOME$/Downloads/hibernate-demo/src/main/java/com/example/hibernatedemo/HibernateDemoApplication.java" timestamp="1547000431407">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.1.3.RELEASE/spring-data-jpa-2.1.3.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java" timestamp="1547011124073">
-        <mark key="'" line="406" column="19" />
-      </file>
       <file name="/applicationContext.xml" timestamp="1547019947485" />
       <file name="$USER_HOME$/Downloads/hibernate-demo/src/main/resources/application.yaml" timestamp="1547014491920">
         <mark key="'" line="9" column="4" />
@@ -63,6 +55,13 @@
       <file name="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/org/slf4j/impl/StaticLoggerBinder.java" timestamp="1547016756063" />
       <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/resources/mapper/RcVersionDao.xml" timestamp="1546998264396" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.1.3.RELEASE/spring-data-commons-2.1.3.RELEASE-sources.jar!/org/springframework/data/domain/PageRequest.java" timestamp="1547012642929" />
+      <file name="$USER_HOME$/code/fast-test/pom.xml" timestamp="1547027284997">
+        <mark key="'" line="10" column="17" />
+        <mark key="[" line="33" column="31" />
+        <mark key="]" line="35" column="25" />
+        <mark key="." line="35" column="25" />
+        <mark key="^" line="35" column="25" />
+      </file>
       <file name="$USER_HOME$/code/BIGDATA/MDHTrafficDataSync/db-pull-sync/src/main/java/com/miras/datasync/Application.kt" timestamp="1547003179780">
         <mark key="[" line="75" column="81" />
         <mark key="]" line="76" column="70" />
@@ -77,11 +76,6 @@
         <mark key="^" line="55" column="57" />
       </file>
       <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/pom.xml" timestamp="1547018525013" />
-      <file name="$USER_HOME$/Downloads/hibernate-demo/src/main/java/com/example/hibernatedemo/service/BookInfoService.java" timestamp="1547011276393">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/hibernate-demo/src/main/java/com/example/hibernatedemo/controller/BookInfoController.java" timestamp="1547019365249">
         <mark key="[" line="40" column="31" />
         <mark key="]" line="41" column="19" />
@@ -97,12 +91,18 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.1.3.RELEASE/spring-data-jpa-2.1.3.RELEASE-sources.jar!/org/springframework/data/jpa/provider/HibernateUtils.java" timestamp="1547002565923" />
       <file name="$USER_HOME$/code/BIGDATA/MDHTrafficDataSync/mdh_data_6in1_cdc_hdfs/src/main/java/com/miras/data/cdc/hdfs/DateHdfsPartitioner.java" timestamp="1547002643235" />
-      <file name="$USER_HOME$/Downloads/hibernate-demo/src/main/java/com/example/hibernatedemo/entity/BookInfo.java" timestamp="1547013069593">
-        <mark key="'" line="95" column="0" />
-        <mark key="[" line="22" column="12" />
-        <mark key="]" line="22" column="19" />
-        <mark key="^" line="22" column="19" />
-        <mark key="." line="22" column="19" />
+      <file name="$USER_HOME$/code/fast-test/src/main/java/EntityGenerator.java" timestamp="1547027910284">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="40" column="69" />
+        <mark key="]" line="40" column="72" />
+        <mark key="." line="40" column="72" />
+        <mark key="^" line="40" column="72" />
+      </file>
+      <file name="$USER_HOME$/Downloads/hibernate-demo/src/main/java/com/example/hibernatedemo/entity/BookInfo.java" timestamp="1547027951687">
+        <mark key="'" line="97" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/resources/application-local.yml" timestamp="1547014782254">
         <mark key="[" line="11" column="49" />
@@ -114,10 +114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="32" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/bolt/IllegalCheckBolt.java" />
-      <jump line="27" column="0" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/utils/JdbcUtils.java" />
-      <jump line="0" column="0" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/CheckControl3Bolt.java" />
-      <jump line="137" column="28" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_common/src/main/java/com/miras/data/passinf/common/enums/PassinfDataField.java" />
       <jump line="138" column="0" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/bolt/PointLimitFilterBolt.java" />
       <jump line="202" column="29" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/storm/bolt/IllegalCheckBolt.java" />
       <jump line="37" column="10" filename="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/Application.java" />
@@ -214,49 +210,53 @@
       <jump line="406" column="19" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.1.3.RELEASE/spring-data-jpa-2.1.3.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java" />
       <jump line="32" column="19" filename="$USER_HOME$/Downloads/hibernate-demo/src/main/java/com/example/hibernatedemo/dao/BookInfoDao.java" />
       <jump line="37" column="0" filename="$USER_HOME$/code/BIGDATA/MqToKafkaDataTransfer/src/main/production-resources/activeMQ63.xml" />
+      <jump line="10" column="17" filename="$USER_HOME$/code/fast-test/pom.xml" />
+      <jump line="38" column="0" filename="$USER_HOME$/code/fast-test/src/main/java/EntityGenerator.java" />
+      <jump line="37" column="31" filename="$USER_HOME$/code/fast-test/src/main/java/EntityGenerator.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/fast-test/src/main/java/EntityGenerator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPHByb3BlcnR5IG5hbWU9ImR1cmFibGVTdWJzY3JpcHRpb25OYW1lIiB2YWx1ZT0ibXEya2Fma2E2My1wYXNzaW5mIi8+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAqIGhlbGxvCg==</text>
       </register>
       <register name="-" type="4">
-        <text>PASSINF</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>\.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iZGVzdGluYXRpb25OYW1lIiByZWY9IkhJQVRNUC5ISVNFTlNFLlBBU1MuUEFTU0lORiIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdFNldC5nZXRTdHJpbmcoIkNPTFVNTl9LRVkiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPHByb3BlcnR5IG5hbWU9ImR1cmFibGVTdWJzY3JpcHRpb25OYW1lIiB2YWx1ZT0ibXEya2Fma2E2My1wYXNzaW5mIi8+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAqIGhlbGxvCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPHByb3BlcnR5IG5hbWU9InN1YnNjcmlwdGlvbkR1cmFibGUiIHZhbHVlPSJ0cnVlIi8+LS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iZGVzdGluYXRpb25OYW1lIiByZWY9IkhJQVRNUC5ISVNFTlNFLklMTEVHQUwiLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPHByb3BlcnR5IG5hbWU9InN1YnNjcmlwdGlvbkR1cmFibGUiIHZhbHVlPSJ0cnVlIi8+LS0+CiAgICAgICAgPCEtLTxwcm9wZXJ0eSBuYW1lPSJkdXJhYmxlU3Vic2NyaXB0aW9uTmFtZSIgdmFsdWU9Im1xMmthZmthNjMtaWxsZWdhbCIvPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJpbnB1dCBkYXRhYmFzZU5hbWU6Iik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iZGVzdGluYXRpb25OYW1lIiByZWY9IkhJQVRNUC5ISVNFTlNFLlBBU1MuUEFTU0lORiIvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0tPgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uZGVwbG95LnV0aWwuU3RyaW5nVXRpbHM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwhLS0tCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1sYW5nMzwvYXJ0aWZhY3RJZD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPHByb3BlcnR5IG5hbWU9InN1YnNjcmlwdGlvbkR1cmFibGUiIHZhbHVlPSJ0cnVlIi8+LS0+Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uU3RyZWFtOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0ibWVzc2FnZUxpc3RlbmVyIiByZWY9InF1ZXVlTWVzc2FnZUxpc3RlbmVyIi8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/\./:/g</text>
