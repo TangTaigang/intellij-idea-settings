@@ -661,10 +661,11 @@
         <mark key="." line="27" column="38" />
         <mark key="^" line="27" column="38" />
       </file>
-      <file name="$USER_HOME$/Downloads/hibernate-demo/src/main/java/com/example/hibernatedemo/dao/BookInfoDao.java" timestamp="1546956096770">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Downloads/hibernate-demo/src/main/java/com/example/hibernatedemo/dao/BookInfoDao.java" timestamp="1546993658580">
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="15" column="19" />
+        <mark key="^" line="15" column="19" />
+        <mark key="." line="15" column="19" />
       </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_hdfs/src/main/resources/application.properties" timestamp="1541579506814">
         <mark key="[" line="1" column="6" />
