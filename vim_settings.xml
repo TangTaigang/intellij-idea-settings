@@ -113,6 +113,12 @@
         <mark key="^" line="1" column="75" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/code/BIGDATA/MqToKafkaDataTransfer/src/main/production-resources/log4j.properties" timestamp="1547016896107">
+        <mark key="[" line="3" column="41" />
+        <mark key="]" line="3" column="53" />
+        <mark key="." line="3" column="53" />
+        <mark key="^" line="3" column="53" />
+      </file>
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapduce/PassInfo.java" timestamp="1543038231653">
         <mark key="[" line="8" column="31" />
         <mark key="]" line="9" column="35" />
@@ -143,12 +149,11 @@
         <mark key="." line="28" column="65" />
         <mark key="^" line="28" column="65" />
       </file>
-      <file name="$USER_HOME$/code/BIGDATA/MqToKafkaDataTransfer/pom.xml" timestamp="1547005672210">
-        <mark key="'" line="159" column="0" />
-        <mark key="[" line="162" column="23" />
-        <mark key="]" line="162" column="25" />
-        <mark key="." line="162" column="25" />
-        <mark key="^" line="162" column="25" />
+      <file name="$USER_HOME$/code/BIGDATA/MqToKafkaDataTransfer/pom.xml" timestamp="1547017051041">
+        <mark key="[" line="164" column="21" />
+        <mark key="]" line="168" column="25" />
+        <mark key="." line="168" column="25" />
+        <mark key="^" line="168" column="25" />
       </file>
       <file name="$USER_HOME$/Downloads/hibernate-demo/src/main/java/com/example/hibernatedemo/HibernateDemoApplication.java" timestamp="1547000431407">
         <mark key="[" line="11" column="0" />
@@ -520,6 +525,7 @@
         <mark key="." line="7" column="38" />
         <mark key="^" line="7" column="38" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/org/slf4j/impl/StaticLoggerBinder.java" timestamp="1547016756063" />
       <file name="$USER_HOME$/code/OLAP/single-car-regularity/passinfo-mr-288/pom.xml" timestamp="1544688995787">
         <mark key="[" line="23" column="21" />
         <mark key="]" line="23" column="38" />
@@ -743,7 +749,7 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547015371201">
+      <file name="/Dummy.txt" timestamp="1547017648784">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -944,10 +950,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZXhjbHVzaW9uPgogICAgICAgICAgICA8L2V4Y2x1c2lvbnM+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>magicsquare</text>
       </register>
       <register name="/" type="4">
         <text>\.</text>
@@ -956,34 +962,34 @@
         <text encoding="base64">ICAgICAgICAgICAgYm9va0luZm9EYW8uZmluZEJ5Q3JlYXRlVGltZUJldHdlZW5BbmRCTmFtZSgKICAgICAgICAgICAgICAgICAgICBkYXRlU3RhcnQsCiAgICAgICAgICAgICAgICAgICAgZGF0ZUVuZCwKICAgICAgICAgICAgICAgICAgICBQYWdlUmVxdWVzdC5vZigwLCAxMCkKICAgICAgICAgICAgKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZXhjbHVzaW9uPgogICAgICAgICAgICA8L2V4Y2x1c2lvbnM+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRXhhbXBsZU1hdGNoZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGV4Y2x1c2lvbnM+CiAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmxvZzRqPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDxncm91cElkPmxvZzRqPC9ncm91cElkPgogICAgICAgICAgICAgICAgPC9leGNsdXNpb24+CiAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNsZjRqLWxvZzRqMTI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNsZjRqPC9ncm91cElkPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwhLS0g5pS55oiQIERFQlVHIOWwseWPr+S7peafpeeciyBIaWJlcm5hdGUgU1FMIEFTVCDkv6Hmga/nrYkgLS0+CiAgICA8bG9nZ2VyIG5hbWU9Im9yZy5oaWJlcm5hdGUuaHFsLmludGVybmFsLmFzdC5RdWVyeVRyYW5zbGF0b3JJbXBsIiBsZXZlbD0iV0FSTiIvPgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArICIlIiwK</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5sb2dnaW5nLmxvZzRqPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5sb2c0ai1zbGY0ai1pbXBsPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4yLjExLjE8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICIlIiArIAo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y2gucW9zLmxvZ2JhY2s8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmxvZ2JhY2stY2xhc3NpYzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS4wLjA8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBudWxsIDogYm9va05hbWUsCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y2gucW9zLmxvZ2JhY2s8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmxvZ2JhY2stY2xhc3NpYzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS4yLjM8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmdVdGlscy5pc0VtcHR5KGJvb2tOYW1lKSA/IG51bGwgOiBib29rTmFtZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBiTmFtZSAgICBleGFtcGxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRXhhbXBsZU1hdGNoZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQm9va0luZm8gYm9va0luZm8gPSBuZXcgQm9va0luZm8oKTsKICAgICAgICAgICAgaWYgKCFTdHJpbmdVdGlscy5pc0VtcHR5KGJvb2tOYW1lKSkgewogICAgICAgICAgICAgICAgYm9va0luZm8uc2V0Qk5hbWUoYm9va05hbWUpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0g5pS55oiQIERFQlVHIOWwseWPr+S7peafpeeciyBIaWJlcm5hdGUgU1FMIEFTVCDkv6Hmga/nrYkgLS0+CiAgICA8bG9nZ2VyIG5hbWU9Im9yZy5oaWJlcm5hdGUuaHFsLmludGVybmFsLmFzdC5RdWVyeVRyYW5zbGF0b3JJbXBsIiBsZXZlbD0iV0FSTiIvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/\./:/g</text>
