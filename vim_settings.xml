@@ -76,6 +76,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/hibernate-demo/src/main/resources/logback.xml" timestamp="1546956682541">
+        <mark key="[" line="29" column="18" />
+        <mark key="]" line="29" column="30" />
+        <mark key="." line="29" column="30" />
+        <mark key="^" line="29" column="30" />
+      </file>
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/resources/config.properties" timestamp="1545449543050">
         <mark key="[" line="10" column="49" />
         <mark key="]" line="10" column="49" />
@@ -141,6 +147,12 @@
         <mark key="]" line="78" column="20" />
         <mark key="." line="78" column="20" />
         <mark key="^" line="78" column="20" />
+      </file>
+      <file name="$USER_HOME$/Downloads/hibernate-demo/src/main/java/com/example/hibernatedemo/HibernateDemoApplication.java" timestamp="1546956491577">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="20" />
+        <mark key="." line="16" column="20" />
+        <mark key="^" line="16" column="20" />
       </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_es/pom.xml" timestamp="1541579740880">
         <mark key="[" line="111" column="35" />
@@ -220,11 +232,12 @@
         <mark key="^" line="51" column="20" />
         <mark key="." line="51" column="20" />
       </file>
-      <file name="$USER_HOME$/Downloads/hibernate-demo/src/main/resources/application.yaml" timestamp="1546955726988">
+      <file name="$USER_HOME$/Downloads/hibernate-demo/src/main/resources/application.yaml" timestamp="1546956835495">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+        <mark key="^" line="3" column="19" />
       </file>
       <file name="C:/code/BIGDATA/sso-test/src/main/java/com/miras/LoginInfoRegisterImpl.java" timestamp="1541053650964">
         <mark key="[" line="21" column="82" />
@@ -274,6 +287,7 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="41" column="90" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2-sources.jar!/javax/persistence/GenerationType.java" timestamp="1546956590705" />
       <file name="$USER_HOME$/code/BIGDATA/upload-ws-api-laishanfenju/src/main/java/com/miras/uploadwsapi/VehicleService.java" timestamp="1546677832710">
         <mark key="[" line="59" column="30" />
         <mark key="]" line="59" column="49" />
@@ -647,6 +661,11 @@
         <mark key="." line="27" column="38" />
         <mark key="^" line="27" column="38" />
       </file>
+      <file name="$USER_HOME$/Downloads/hibernate-demo/src/main/java/com/example/hibernatedemo/dao/BookInfoDao.java" timestamp="1546956096770">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_hdfs/src/main/resources/application.properties" timestamp="1541579506814">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="21" />
@@ -756,6 +775,12 @@
         <mark key="]" line="10" column="28" />
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
+      </file>
+      <file name="$USER_HOME$/Downloads/hibernate-demo/src/main/java/com/example/hibernatedemo/entity/BookInfo.java" timestamp="1546956604330">
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="38" />
+        <mark key="." line="14" column="38" />
+        <mark key="^" line="14" column="38" />
       </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_hdfs/src/main/java/com/miras/data/passinf/hdfs/BlankCharacterFilterBolt.java" timestamp="1541645666321">
         <mark key="[" line="45" column="32" />
@@ -891,47 +916,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/hibernate-demo/src/main/resources/application.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHVybDogamRiYzpteXNxbDovL2xvY2FsaG9zdDozMzA2L3JjX2FwcAo=</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>db_example</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>\.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVybDogamRiYzpteXNxbDovL2xvY2FsaG9zdDozMzA2L3JjX2FwcD91c2VDaGFyYWN0ZXJFbmNvZGluZz1VVEYtOCZ1c2VTU0w9ZmFsc2Umc2VydmVyVGltZXpvbmU9QXNpYS9TaGFuZ2hhaQo=</text>
+        <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZT0iY29tLmV4YW1wbGUuZGVtbyIgbGV2ZWw9IkRFQlVHIi8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVybDogamRiYzpteXNxbDovL2xvY2FsaG9zdDozMzA2L3JjX2FwcAo=</text>
+        <text encoding="base64">ICAgIEBDb25kaXRpb25hbE9uRW5hYmxlZFJlc291cmNlQ2hhaW4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3ByaW5nOgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8ZmlsZT4ke2xvZy5wYXRofTwvZmlsZT4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIDxmaWx0ZXIgY2xhc3M9ImNoLnFvcy5sb2diYWNrLmNsYXNzaWMuZmlsdGVyLlRocmVzaG9sZEZpbHRlciIgPgogICAgICAgICAgICAgPGxldmVsPldBUk48L2xldmVsPgogICAgICAgICA8L2ZpbHRlcj4tLT4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZT0iLiIgbGV2ZWw9IkRFQlVHIi8+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDwhLS08bG9nZ2VyIG5hbWU9ImNvbS5odC5qb2IuZXhlY3V0b3IubWFwcGVyIiBsZXZlbD0iREVCVUciPjwvbG9nZ2VyPi0tPgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDwhLS08bG9nZ2VyIG5hbWU9ImNvbS54eGwuam9iLmV4ZWN1dG9yLnNlcnZpY2UuaW5mbyIgbGV2ZWw9IldBUk4iIGFkZGl0aXZpdHk9ImZhbHNlIj4KICAgICAgICA8YXBwZW5kZXItcmVmIHJlZj0iY29uc29sZSIvPgogICAgICAgIDxhcHBlbmRlci1yZWYgcmVmPSJmaWxlIi8+CiAgICA8L2xvZ2dlcj4tLT4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIExpc3Q8Pgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CXByaXZhdGUgSnBhUmUK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIHBhZ2VObyA9IDA7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHVybDogamRiYzpteXNxbDovL2xvY2FsaG9zdDozMzA2L3JjX2FwcAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/\./:/g</text>
