@@ -84,12 +84,12 @@
         <mark key="^" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/code/BIGDATA/kafka-offset-monitor/src/main/java/com/miras/monitor/kafkaoffsetmonitor/KafkaOffsetMonitorApplication.java" timestamp="1547191372109">
+      <file name="$USER_HOME$/code/BIGDATA/kafka-offset-monitor/src/main/java/com/miras/monitor/kafkaoffsetmonitor/KafkaOffsetMonitorApplication.java" timestamp="1547192364756">
         <mark key="'" line="77" column="14" />
-        <mark key="[" line="202" column="45" />
-        <mark key="]" line="202" column="45" />
-        <mark key="." line="202" column="45" />
-        <mark key="^" line="202" column="45" />
+        <mark key="[" line="204" column="87" />
+        <mark key="]" line="204" column="111" />
+        <mark key="." line="204" column="111" />
+        <mark key="^" line="204" column="111" />
       </file>
       <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/service/impl/PublicityInfoServiceImpl.java" timestamp="1547034531096">
         <mark key="[" line="19" column="0" />
@@ -144,7 +144,7 @@
         <mark key="." line="40" column="20" />
         <mark key="^" line="40" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547191402823">
+      <file name="/Dummy.txt" timestamp="1547192392824">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -291,46 +291,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>getOffset</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>getOffset</text>
       </register>
       <register name="/" type="4">
         <text>Client</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiJHthcHBsaWNhdGlvbi56b29rZWVwZXIuc2VydmVyc30iKQogICAgcHJpdmF0ZSBTdHJpbmcgemtTZXJ2ZXJzOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGZhbGNvbkRhdGFFbnRyeS5zZXRNZXRyaWMob2Zmc2V0LmdldENvbnN1bWVySWQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGZhbGNvbkRhdGFFbnRyeS5zZXRFbmRwb2ludChvZmZzZXQuZ2V0VG9waWMoKSk7Ci8vICAgICAgICAgICAgICAgICAgICBmYWxjb25EYXRhRW50cnkuc2V0TWV0cmljKG9mZnNldC5nZXRDb25zdW1lcklkKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9leGNsdXNpb25zPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGV4Y2x1c2lvbnM+CiAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNsZjRqLWxvZzRqMTI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNsZjRqPC9ncm91cElkPgogICAgICAgICAgICAgICAgPC9leGNsdXNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9leGNsdXNpb25zPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGV4Y2x1c2lvbnM+CiAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNsZjRqLWxvZzRqMTI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNsZjRqPC9ncm91cElkPgogICAgICAgICAgICAgICAgPC9leGNsdXNpb24+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGh0dHBSZXNwb25zZS5nZXRFbnRpdHkoKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGh0dHBSZXNwb25zZS5nZXRFbnRpdHkoKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50LnRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/Client//g</text>
