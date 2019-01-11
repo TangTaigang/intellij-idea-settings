@@ -62,12 +62,12 @@
         <mark key="^" line="48" column="26" />
         <mark key="." line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/domain/PublicityInfoController.java" timestamp="1547095912314">
-        <mark key="'" line="97" column="0" />
-        <mark key="[" line="71" column="5" />
-        <mark key="]" line="71" column="8" />
-        <mark key="^" line="71" column="8" />
-        <mark key="." line="71" column="8" />
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/domain/PublicityInfoController.java" timestamp="1547207132516">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="85" column="51" />
+        <mark key="]" line="85" column="51" />
+        <mark key="^" line="69" column="48" />
+        <mark key="." line="85" column="51" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.0.1/kafka-clients-2.0.1-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java" timestamp="1547178527028" />
       <file name="$USER_HOME$/code/OLAP/zk-logger/src/main/java/com/miras/zklogger/Application.java" timestamp="1547110748564" />
@@ -303,10 +303,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, User user</text>
+        <text>(&quot;id&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>, User user</text>
+        <text>(&quot;id&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>Client</text>
