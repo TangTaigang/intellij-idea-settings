@@ -253,11 +253,11 @@
         <mark key="." line="13" column="24" />
         <mark key="^" line="16" column="28" />
       </file>
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/service/HdActivityServiceImpl.java" timestamp="1547275768082">
-        <mark key="[" line="61" column="13" />
-        <mark key="]" line="61" column="23" />
-        <mark key="." line="61" column="23" />
-        <mark key="^" line="61" column="23" />
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/service/HdActivityServiceImpl.java" timestamp="1547279084256">
+        <mark key="[" line="91" column="82" />
+        <mark key="]" line="91" column="89" />
+        <mark key="." line="91" column="89" />
+        <mark key="^" line="91" column="89" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" timestamp="1547170819032" />
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/MailService.java" timestamp="1544166788037">
@@ -385,6 +385,12 @@
         <mark key="]" line="7" column="38" />
         <mark key="." line="7" column="38" />
         <mark key="^" line="7" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dao/HdPeriodDao.java" timestamp="1547278716980">
+        <mark key="[" line="22" column="11" />
+        <mark key="]" line="23" column="3" />
+        <mark key="^" line="23" column="3" />
+        <mark key="." line="23" column="3" />
       </file>
       <file name="$USER_HOME$/code/OLAP/single-car-regularity/passinfo-mr-288/pom.xml" timestamp="1544688995787">
         <mark key="[" line="23" column="21" />
@@ -632,11 +638,11 @@
         <mark key="." line="19" column="34" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.0.1/kafka-clients-2.0.1-sources.jar!/org/apache/kafka/clients/consumer/ConsumerConfig.java" timestamp="1547168363516" />
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dao/HdActivityRegistersignDao.java" timestamp="1547275491557">
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="9" column="17" />
-        <mark key="^" line="9" column="17" />
-        <mark key="." line="9" column="17" />
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dao/HdActivityRegistersignDao.java" timestamp="1547279040065">
+        <mark key="[" line="37" column="4" />
+        <mark key="]" line="37" column="35" />
+        <mark key="^" line="37" column="35" />
+        <mark key="." line="37" column="35" />
       </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_firstincity/pom.xml" timestamp="1541579756200">
         <mark key="[" line="108" column="35" />
@@ -851,11 +857,11 @@
         <mark key="^" line="33" column="57" />
         <mark key="." line="33" column="57" />
       </file>
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/service/HdActivityService.java" timestamp="1547275699898">
-        <mark key="[" line="28" column="39" />
-        <mark key="]" line="28" column="45" />
-        <mark key="." line="28" column="45" />
-        <mark key="^" line="28" column="45" />
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/service/HdActivityService.java" timestamp="1547278653817">
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="25" column="26" />
+        <mark key="." line="25" column="26" />
+        <mark key="^" line="25" column="26" />
       </file>
       <file name="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/enums/LimitType.java" timestamp="1542855262387">
         <mark key="[" line="17" column="0" />
@@ -1141,11 +1147,11 @@
         <mark key="." line="37" column="64" />
         <mark key="^" line="37" column="64" />
       </file>
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/domain/ActivityController.java" timestamp="1547275698064">
-        <mark key="[" line="53" column="46" />
-        <mark key="]" line="53" column="50" />
-        <mark key="." line="53" column="50" />
-        <mark key="^" line="53" column="50" />
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/domain/ActivityController.java" timestamp="1547278628175">
+        <mark key="[" line="55" column="57" />
+        <mark key="]" line="55" column="64" />
+        <mark key="." line="55" column="64" />
+        <mark key="^" line="55" column="64" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/1.0.2/kafka_2.11-1.0.2.jar!/kafka/javaapi/OffsetRequest.class" timestamp="1547176304853" />
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_hdfs/src/main/java/com/miras/data/passinf/hdfs/BlankCharacterFilterBolt.java" timestamp="1541645666321">
@@ -1273,46 +1279,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>setCreateTime</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>setCreateTime</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzaWduLnNldENyZWF0ZVRpbWUobmV3IERhdGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IERhdGFOb3RGb3VuZEV4Y2VwdGlvbigi5LiN5a2Y5Zyo5q2k5rS75YqoIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzaWduLmdldElzQXBwbHkoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyDnnIvnnIvmtLvliqjmmK/lkKblrZjlnKgKICAgICAgICBIZEFjdGl2aXR5IGFjdGl2aXR5ID0gaGRBY3Rpdml0eURhby5nZXRCeUlkKHBlcmlvZElkKTsKICAgICAgICBpZiAoYWN0aXZpdHkgPT0gbnVsbCkgewogICAgICAgICAgICB0aHJvdyBuZXcgRGF0YU5vdEZvdW5kRXhjZXB0aW9uKCLkuI3lrZjlnKjmraTmtLvliqgiKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzaWduLnNldAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBIZEFjdGl2aXR5UmVnaXN0ZXJzaWduIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmn6Xor6Llh7rmtLvliqjmnaUK</text>
+        <text encoding="base64">ICAgICAgICBzaWduLmdldElzQXBwbHkoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGhpcyBtZXRob2Qgd2FzIGdlbmVyYXRlZCBieSBNeUJhdGlzIEdlbmVyYXRvci4KICAgICAqIFRoaXMgbWV0aG9kIGNvcnJlc3BvbmRzIHRvIHRoZSBkYXRhYmFzZSB0YWJsZSBoZF9hY3Rpdml0eV9yZWdpc3RlcnNpZ24KICAgICAqCiAgICAgKiBAbWJnLmdlbmVyYXRlZAogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGhpcyBtZXRob2Qgd2FzIGdlbmVyYXRlZCBieSBNeUJhdGlzIEdlbmVyYXRvci4KICAgICAqIFRoaXMgbWV0aG9kIGNvcnJlc3BvbmRzIHRvIHRoZSBkYXRhYmFzZSB0YWJsZSBoZF9hY3Rpdml0eV9yZWdpc3RlcnNpZ24KICAgICAqCiAgICAgKiBAbWJnLmdlbmVyYXRlZAogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICBzaWduLnNldAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBEYXRhTm90Rm91bmRFeGNlcHRpb24oKSB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBIZEFjdGl2aXR5UmVnaXN0ZXJzaWduIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoZAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDmn6Xor6Llh7rmtLvliqjmnaUK</text>
       </register>
       <register name=":" type="4">
         <text>s/Client//g</text>
