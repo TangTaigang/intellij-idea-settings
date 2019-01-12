@@ -74,6 +74,7 @@
         <mark key="." line="3" column="53" />
         <mark key="^" line="3" column="53" />
       </file>
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/resources/mapper/PublicityNoticeLookDao.xml" timestamp="1547261369318" />
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapduce/PassInfo.java" timestamp="1543038231653">
         <mark key="[" line="8" column="31" />
         <mark key="]" line="9" column="35" />
@@ -97,11 +98,6 @@
         <mark key="]" line="168" column="25" />
         <mark key="." line="168" column="25" />
         <mark key="^" line="168" column="25" />
-      </file>
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/resources/mapper/PublicityInfoDao.xml" timestamp="1547213593168">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/controller/ExcelController.java" timestamp="1543988249038">
         <mark key="[" line="116" column="83" />
@@ -158,11 +154,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="55" />
       </file>
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/domain/PublicityNoticeController.java" timestamp="1547218065893">
-        <mark key="[" line="38" column="61" />
-        <mark key="]" line="38" column="64" />
-        <mark key="." line="38" column="64" />
-        <mark key="^" line="38" column="64" />
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/domain/PublicityNoticeController.java" timestamp="1547263079126">
+        <mark key="[" line="41" column="90" />
+        <mark key="]" line="41" column="91" />
+        <mark key="." line="41" column="91" />
+        <mark key="^" line="41" column="91" />
       </file>
       <file name="C:/code/BIGDATA/sso-test/src/main/java/com/miras/LoginInfoRegisterImpl.java" timestamp="1541053650964">
         <mark key="[" line="21" column="82" />
@@ -236,6 +232,13 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dao/PublicityNoticeLookDao.kt" timestamp="1547261476244">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="32" />
+        <mark key="." line="13" column="24" />
+        <mark key="^" line="16" column="28" />
+      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" timestamp="1547170819032" />
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/MailService.java" timestamp="1544166788037">
         <mark key="[" line="72" column="98" />
@@ -256,11 +259,6 @@
         <mark key="^" line="36" column="49" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.2.RELEASE/spring-web-5.1.2.RELEASE-sources.jar!/org/springframework/web/method/annotation/ModelAttributeMethodProcessor.java" timestamp="1547205732890" />
-      <file name="$USER_HOME$/code/BIGDATA/kafka-offset-monitor/mvnw" timestamp="1547179033889">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
-      </file>
       <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dto/IntWrapper.java" timestamp="1547096771812">
         <mark key="[" line="8" column="22" />
         <mark key="]" line="8" column="21" />
@@ -339,6 +337,12 @@
         <mark key="]" line="22" column="172" />
         <mark key="." line="22" column="172" />
         <mark key="^" line="22" column="172" />
+      </file>
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dao/PublicityNoticeLookDao.java" timestamp="1547261336676">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="63" />
+        <mark key="^" line="0" column="63" />
+        <mark key="." line="0" column="63" />
       </file>
       <file name="$USER_HOME$/code/fasttest/src/main/java/com/miras/Application.java" timestamp="1543969866766">
         <mark key="[" line="5" column="26" />
@@ -497,7 +501,7 @@
         <mark key="^" line="372" column="13" />
         <mark key="." line="372" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547217767766">
+      <file name="/Dummy.txt" timestamp="1547261757484">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -659,11 +663,11 @@
         <mark key="^" line="13" column="36" />
         <mark key="." line="13" column="36" />
       </file>
-      <file name="$USER_HOME$/code/fast-test/src/main/java/Application.java" timestamp="1545215598221">
-        <mark key="[" line="19" column="43" />
-        <mark key="]" line="19" column="54" />
-        <mark key="." line="19" column="54" />
-        <mark key="^" line="19" column="54" />
+      <file name="$USER_HOME$/code/fast-test/src/main/java/Application.java" timestamp="1547262420832">
+        <mark key="[" line="18" column="27" />
+        <mark key="]" line="18" column="50" />
+        <mark key="." line="18" column="50" />
+        <mark key="^" line="18" column="50" />
       </file>
       <file name="$USER_HOME$/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_mq_datasource/src/main/production-resources/IBMMQ60-XINLUWEI.xml" timestamp="1546931065059">
         <mark key="[" line="28" column="56" />
@@ -740,11 +744,11 @@
         <mark key="." line="24" column="36" />
         <mark key="^" line="24" column="36" />
       </file>
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/service/PublicityNoticeServiceImpl.java" timestamp="1547217957714">
-        <mark key="[" line="20" column="46" />
-        <mark key="]" line="20" column="65" />
-        <mark key="^" line="20" column="65" />
-        <mark key="." line="20" column="65" />
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/service/PublicityNoticeServiceImpl.java" timestamp="1547261723347">
+        <mark key="[" line="30" column="13" />
+        <mark key="]" line="32" column="47" />
+        <mark key="." line="32" column="47" />
+        <mark key="^" line="32" column="47" />
       </file>
       <file name="$USER_HOME$/code/WEIHAI/MDH_PASSINF_DATA_WH/mdh_data_passinf_firstincity/pom.xml" timestamp="1544681325792">
         <mark key="[" line="89" column="0" />
@@ -833,13 +837,18 @@
         <mark key="." line="38" column="39" />
         <mark key="^" line="38" column="39" />
       </file>
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dao/PublicityNoticeDao.java" timestamp="1547217652657">
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dao/PublicityNoticeDao.java" timestamp="1547262887645">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dao/BookInfoAnnexDao.java" timestamp="1547208055268" />
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/resources/mapper/PublicityNoticeDao.xml" timestamp="1547217981638" />
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/resources/mapper/PublicityNoticeDao.xml" timestamp="1547262964493">
+        <mark key="[" line="73" column="36" />
+        <mark key="]" line="74" column="32" />
+        <mark key="^" line="74" column="32" />
+        <mark key="." line="74" column="32" />
+      </file>
       <file name="$USER_HOME$/code/BIGDATA/MqToKafkaDataTransfer/build-scripts/build-production.bat" timestamp="1546933955616">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -878,11 +887,6 @@
         <mark key="]" line="3" column="77" />
         <mark key="^" line="3" column="76" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/service/impl/PublicityInfoServiceImpl.java" timestamp="1547034531096">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.2.RELEASE/spring-web-5.1.2.RELEASE-sources.jar!/org/springframework/web/bind/annotation/PostMapping.java" timestamp="1547205087557" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.2.RELEASE/spring-web-5.1.2.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java" timestamp="1547205830555" />
@@ -946,11 +950,11 @@
         <mark key="." line="162" column="26" />
         <mark key="^" line="162" column="26" />
       </file>
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dao/PublicityNoticeDao.kt" timestamp="1547218124295">
-        <mark key="[" line="13" column="60" />
-        <mark key="]" line="13" column="60" />
-        <mark key="." line="13" column="60" />
-        <mark key="^" line="15" column="34" />
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dao/PublicityNoticeDao.kt" timestamp="1547262950536">
+        <mark key="[" line="15" column="14" />
+        <mark key="]" line="15" column="15" />
+        <mark key="." line="15" column="15" />
+        <mark key="^" line="15" column="14" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/HttpEntityMethodProcessor.java" timestamp="1547206056606" />
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/pom.xml" timestamp="1543471680119">
@@ -1068,8 +1072,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="474" column="34" filename="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/webapp/starter.html" />
-      <jump line="119" column="5" filename="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/webapp/org/magicsquare/controller/dashboard/dashboardViewCtrl.js" />
       <jump line="15" column="8" filename="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/webapp/org/magicsquare/service/data/dataService.js" />
       <jump line="373" column="54" filename="$USER_HOME$/code/BIGDATA/MagicSquareV1/pom.xml" />
       <jump line="66" column="0" filename="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/persist/excel/XlsProcessService.java" />
@@ -1168,49 +1170,51 @@
       <jump line="65" column="12" filename="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/service/PartyMemberMineServiceImpl.java" />
       <jump line="6" column="10" filename="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dao/LikeDao.kt" />
       <jump line="151" column="16" filename="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/service/PublicityInfoServiceImpl.java" />
+      <jump line="21" column="70" filename="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dao/PublicityNoticeLookDao.kt" />
+      <jump line="22" column="0" filename="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dao/PublicityNoticeLookDao.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9ImdldEJ5VHlwZSI+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>resultType</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBQdWJsaWNpdHlJbmZvIHB1YmxpY2l0eUluZm8gPSBwdWJsaWNpdHlJbmZvRGFvLmdldEJ5SWQoaWQpOwogICAgICAgIGlmIChwdWJsaWNpdHlJbmZvID09IG51bGwpIHsKICAgICAgICAgICAgbWVzc2FnZSA9ICLml6DmraTmlofnq6AiOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9ImdldEJ5SWQiIHJlc3VsdE1hcD0iQmFzZVJlc3VsdE1hcCI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9ImdldEJ5VHlwZSI+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGhpcyBtZXRob2Qgd2FzIGdlbmVyYXRlZCBieSBNeUJhdGlzIEdlbmVyYXRvci4KICAgICAqIFRoaXMgbWV0aG9kIGNvcnJlc3BvbmRzIHRvIHRoZSBkYXRhYmFzZSB0YWJsZSBwdWJsaWNpdHlfbm90aWNlCiAgICAgKgogICAgICogQG1iZy5nZW5lcmF0ZWQKICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbGluZSA9IHNjYW5uZXIubmV4dExpbmUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGhpcyBtZXRob2Qgd2FzIGdlbmVyYXRlZCBieSBNeUJhdGlzIEdlbmVyYXRvci4KICAgICAqIFRoaXMgbWV0aG9kIGNvcnJlc3BvbmRzIHRvIHRoZSBkYXRhYmFzZSB0YWJsZSBwdWJsaWNpdHlfbm90aWNlCiAgICAgKgogICAgICogQG1iZy5nZW5lcmF0ZWQKICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgbWVzc2FnZSA9ICLml6DmraTlhoXlrrkiOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBTY2FubmVyIHNjYW5uZXIgPSBuZXcgU2Nhbm5lcihTeXN0ZW0uaW4pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpID4gMCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nc1tpXSA9IHN0cmluZ3NbaV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBpID0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTQgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBpID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/Client//g</text>
