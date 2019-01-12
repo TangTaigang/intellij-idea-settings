@@ -9,8 +9,11 @@
         <mark key="^" line="101" column="41" />
         <mark key="." line="101" column="41" />
       </file>
-      <file name="/a.dummy" timestamp="1547096890214">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/resources/mapper/HdPeriodDao.xml" timestamp="1547282415261">
+        <mark key="[" line="59" column="26" />
+        <mark key="]" line="59" column="27" />
+        <mark key="^" line="59" column="27" />
+        <mark key="." line="59" column="27" />
       </file>
       <file name="C:/code/BIGDATA/sso-test/src/main/webapp/WEB-INF/web.xml" timestamp="1541058510901">
         <mark key="[" line="18" column="0" />
@@ -35,15 +38,6 @@
         <mark key="]" line="26" column="66" />
         <mark key="." line="26" column="66" />
         <mark key="^" line="26" column="66" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.13/zookeeper-3.4.13-sources.jar!/org/apache/zookeeper/ZooKeeper.java" timestamp="1547187534361" />
-      <file name="/DemocraticAppraisalController.java" timestamp="1547204635498" />
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dao/PublicityNoticeAnnexDao.java" timestamp="1547264048526">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="30" column="14" />
-        <mark key="]" line="30" column="22" />
-        <mark key="^" line="30" column="22" />
-        <mark key="." line="30" column="22" />
       </file>
       <file name="$USER_HOME$/code/gradle-project/build.gradle" timestamp="1544511412370">
         <mark key="[" line="17" column="0" />
@@ -81,7 +75,12 @@
         <mark key="." line="3" column="53" />
         <mark key="^" line="3" column="53" />
       </file>
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/resources/mapper/PublicityNoticeLookDao.xml" timestamp="1547261369318" />
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dto/DateRange.java" timestamp="1547284254786">
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="7" column="4" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+      </file>
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/src/main/java/com/miras/mapduce/PassInfo.java" timestamp="1543038231653">
         <mark key="[" line="8" column="31" />
         <mark key="]" line="9" column="35" />
@@ -123,7 +122,6 @@
         <mark key="^" line="42" column="29" />
         <mark key="." line="42" column="29" />
       </file>
-      <file name="/PartyMemberMineServiceImpl.java" timestamp="1547213866530" />
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/PersistService.java" timestamp="1544167243643">
         <mark key="[" line="56" column="16" />
         <mark key="]" line="56" column="19" />
@@ -148,7 +146,6 @@
         <mark key="." line="1" column="54" />
         <mark key="^" line="1" column="54" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/annotations/SelectKey.java" timestamp="1547265452307" />
       <file name="C:/code/BIGDATA/Miras_ChecksystemTwo/src/main/resources/spring-context-shiro.xml" timestamp="1541407199527">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -166,13 +163,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="55" />
-      </file>
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/domain/PublicityNoticeController.java" timestamp="1547268533581">
-        <mark key="'" line="67" column="20" />
-        <mark key="[" line="72" column="15" />
-        <mark key="]" line="72" column="35" />
-        <mark key="." line="72" column="35" />
-        <mark key="^" line="72" column="35" />
       </file>
       <file name="C:/code/BIGDATA/sso-test/src/main/java/com/miras/LoginInfoRegisterImpl.java" timestamp="1541053650964">
         <mark key="[" line="21" column="82" />
@@ -246,20 +236,13 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dao/PublicityNoticeLookDao.kt" timestamp="1547261476244">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="13" column="24" />
-        <mark key="]" line="13" column="32" />
-        <mark key="." line="13" column="24" />
-        <mark key="^" line="16" column="28" />
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/service/HdActivityServiceImpl.java" timestamp="1547285058018">
+        <mark key="'" line="120" column="7" />
+        <mark key="[" line="60" column="47" />
+        <mark key="]" line="60" column="46" />
+        <mark key="." line="60" column="46" />
+        <mark key="^" line="60" column="46" />
       </file>
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/service/HdActivityServiceImpl.java" timestamp="1547279084256">
-        <mark key="[" line="91" column="82" />
-        <mark key="]" line="91" column="89" />
-        <mark key="." line="91" column="89" />
-        <mark key="^" line="91" column="89" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" timestamp="1547170819032" />
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/MailService.java" timestamp="1544166788037">
         <mark key="[" line="72" column="98" />
         <mark key="]" line="72" column="99" />
@@ -277,7 +260,6 @@
         <mark key="." line="36" column="49" />
         <mark key="^" line="36" column="49" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.2.RELEASE/spring-web-5.1.2.RELEASE-sources.jar!/org/springframework/web/method/annotation/ModelAttributeMethodProcessor.java" timestamp="1547205732890" />
       <file name="$USER_HOME$/code/BIGDATA/kafka-offset-monitor/mvnw" timestamp="1547179033889">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
@@ -289,12 +271,12 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/code/BIGDATA/kafka-offset-monitor/src/main/java/com/miras/monitor/kafkaoffsetmonitor/ConsumerOffset.java" timestamp="1547109435466">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="6" column="3" />
-        <mark key="]" line="7" column="4" />
-        <mark key="^" line="7" column="4" />
-        <mark key="." line="7" column="4" />
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/model/HdActivity.java" timestamp="1547285019216">
+        <mark key="'" line="14" column="13" />
+        <mark key="[" line="67" column="22" />
+        <mark key="]" line="67" column="29" />
+        <mark key="." line="67" column="29" />
+        <mark key="^" line="67" column="29" />
       </file>
       <file name="$USER_HOME$/code/phoenixtest/src/main/java/Test.java" timestamp="1546587327290">
         <mark key="[" line="10" column="72" />
@@ -386,11 +368,17 @@
         <mark key="." line="7" column="38" />
         <mark key="^" line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dao/HdPeriodDao.java" timestamp="1547278716980">
-        <mark key="[" line="22" column="11" />
-        <mark key="]" line="23" column="3" />
-        <mark key="^" line="23" column="3" />
-        <mark key="." line="23" column="3" />
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/util/UserUtils.java" timestamp="1547282537147">
+        <mark key="[" line="49" column="82" />
+        <mark key="]" line="50" column="18" />
+        <mark key="^" line="50" column="18" />
+        <mark key="." line="50" column="18" />
+      </file>
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dao/HdPeriodDao.java" timestamp="1547280296346">
+        <mark key="[" line="31" column="14" />
+        <mark key="]" line="29" column="24" />
+        <mark key="^" line="29" column="24" />
+        <mark key="." line="29" column="24" />
       </file>
       <file name="$USER_HOME$/code/OLAP/single-car-regularity/passinfo-mr-288/pom.xml" timestamp="1544688995787">
         <mark key="[" line="23" column="21" />
@@ -463,7 +451,6 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="9" column="9" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/builder/xml/mybatis-3-mapper.dtd" timestamp="1547268569690" />
       <file name="$USER_HOME$/Downloads/demo/src/main/resources/application.yaml" timestamp="1546955724735">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="112" />
@@ -541,11 +528,11 @@
         <mark key="^" line="372" column="13" />
         <mark key="." line="372" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547274212799">
+      <file name="/Dummy.txt" timestamp="1547283693993">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="27" />
       </file>
       <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/resources/application.yml" timestamp="1547274193745">
@@ -572,7 +559,6 @@
         <mark key="." line="12" column="53" />
         <mark key="^" line="12" column="53" />
       </file>
-      <file name="/PartyMemberMineDao.kt" timestamp="1547214044059" />
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-timerange/src/main/java/com/miras/mapreduce/car/CarRouteCombineMR.java" timestamp="1543029791619">
         <mark key="[" line="16" column="38" />
         <mark key="]" line="16" column="39" />
@@ -585,12 +571,12 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/resources/mapper/HdActivityDao.xml" timestamp="1547273996634">
-        <mark key="'" line="55" column="35" />
-        <mark key="[" line="74" column="17" />
-        <mark key="]" line="74" column="17" />
-        <mark key="." line="74" column="17" />
-        <mark key="^" line="77" column="32" />
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/resources/mapper/HdActivityDao.xml" timestamp="1547284817039">
+        <mark key="'" line="50" column="89" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="35" />
+        <mark key="." line="35" column="35" />
+        <mark key="^" line="35" column="3" />
       </file>
       <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/resources/application-local.yml" timestamp="1547274273726">
         <mark key="[" line="51" column="19" />
@@ -616,9 +602,6 @@
         <mark key="." line="141" column="35" />
         <mark key="^" line="141" column="35" />
       </file>
-      <file name="/fragment.java" timestamp="1547273018495">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/BIGDATA/MDHTrafficDataSync/mdh_data_6in1_cdc_kafka/src/main/java/com/miras/data/ct2kafka/dao/RowIdDao.java" timestamp="1545215057858">
         <mark key="[" line="44" column="68" />
         <mark key="]" line="44" column="68" />
@@ -637,12 +620,11 @@
         <mark key="^" line="15" column="41" />
         <mark key="." line="19" column="34" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.0.1/kafka-clients-2.0.1-sources.jar!/org/apache/kafka/clients/consumer/ConsumerConfig.java" timestamp="1547168363516" />
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dao/HdActivityRegistersignDao.java" timestamp="1547279040065">
-        <mark key="[" line="37" column="4" />
-        <mark key="]" line="37" column="35" />
-        <mark key="^" line="37" column="35" />
-        <mark key="." line="37" column="35" />
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dao/HdActivityRegistersignDao.java" timestamp="1547282638918">
+        <mark key="[" line="51" column="89" />
+        <mark key="]" line="51" column="93" />
+        <mark key="^" line="51" column="93" />
+        <mark key="." line="51" column="93" />
       </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_firstincity/pom.xml" timestamp="1541579756200">
         <mark key="[" line="108" column="35" />
@@ -680,7 +662,7 @@
         <mark key="^" line="26" column="40" />
         <mark key="." line="26" column="40" />
       </file>
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dao/HdActivityDao.java" timestamp="1547275276704">
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dao/HdActivityDao.java" timestamp="1547281646583">
         <mark key="[" line="40" column="14" />
         <mark key="]" line="39" column="26" />
         <mark key="^" line="39" column="26" />
@@ -698,12 +680,16 @@
         <mark key="." line="6" column="29" />
         <mark key="^" line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/resources/application-dev.yml" timestamp="1547274264365" />
       <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dto/IdWrapper.java" timestamp="1547205210743">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="8" column="23" />
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dto/IDWrapper.java" timestamp="1547283263385">
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="16" column="26" />
+        <mark key="." line="16" column="26" />
       </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_fakenocars/pom.xml" timestamp="1541579726665">
         <mark key="[" line="21" column="0" />
@@ -759,7 +745,6 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="17" column="73" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.2.RELEASE/spring-web-5.1.2.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestParam.java" timestamp="1547205067164" />
       <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/service/PublicityNoticeService.java" timestamp="1547265065811">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -788,7 +773,6 @@
         <mark key="^" line="68" column="41" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.0.1/kafka-clients-2.0.1-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java" timestamp="1547178527028" />
       <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/common/LikeType.java" timestamp="1547213467712">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="18" column="10" />
@@ -825,7 +809,6 @@
         <mark key="^" line="147" column="24" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/code/OLAP/zk-logger/src/main/java/com/miras/zklogger/Application.java" timestamp="1547110748564" />
       <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dao/PublicityInfoDao.kt" timestamp="1547271263023">
         <mark key="[" line="69" column="16" />
         <mark key="]" line="69" column="22" />
@@ -844,7 +827,6 @@
         <mark key="." line="12" column="15" />
         <mark key="^" line="12" column="15" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/0.10.0.2.5.0.0-1245/kafka_2.11-0.10.0.2.5.0.0-1245.jar!/kafka/api/OffsetRequest.class" timestamp="1547176911178" />
       <file name="$USER_HOME$/code/BIGDATA/MDH_TRAFFIC_OLAP/mdh_traffic_olap_5min/src/main/java/com/miras/data/mr/Application.java" timestamp="1545274279444">
         <mark key="[" line="45" column="120" />
         <mark key="]" line="45" column="120" />
@@ -857,11 +839,11 @@
         <mark key="^" line="33" column="57" />
         <mark key="." line="33" column="57" />
       </file>
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/service/HdActivityService.java" timestamp="1547278653817">
-        <mark key="[" line="25" column="25" />
-        <mark key="]" line="25" column="26" />
-        <mark key="." line="25" column="26" />
-        <mark key="^" line="25" column="26" />
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/service/HdActivityService.java" timestamp="1547284386377">
+        <mark key="[" line="53" column="28" />
+        <mark key="]" line="53" column="30" />
+        <mark key="." line="53" column="30" />
+        <mark key="^" line="53" column="30" />
       </file>
       <file name="C:/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_control/src/main/java/com/miras/data/passinf/enums/LimitType.java" timestamp="1542855262387">
         <mark key="[" line="17" column="0" />
@@ -899,13 +881,6 @@
         <mark key="^" line="76" column="41" />
         <mark key="." line="76" column="41" />
       </file>
-      <file name="$USER_HOME$/code/BIGDATA/kafka-offset-monitor/src/main/java/com/miras/monitor/kafkaoffsetmonitor/KafkaOffsetMonitorApplication.java" timestamp="1547192364756">
-        <mark key="'" line="77" column="14" />
-        <mark key="[" line="204" column="87" />
-        <mark key="]" line="204" column="111" />
-        <mark key="." line="204" column="111" />
-        <mark key="^" line="204" column="111" />
-      </file>
       <file name="$USER_HOME$/code/BIGDATA/MqToKafkaDataTransfer/src/main/production-resources/IBMMQ60.xml" timestamp="1546935137085">
         <mark key="[" line="51" column="66" />
         <mark key="]" line="51" column="74" />
@@ -929,7 +904,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dao/BookInfoAnnexDao.java" timestamp="1547208055268" />
       <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/resources/mapper/PublicityNoticeDao.xml" timestamp="1547270440694">
         <mark key="[" line="65" column="8" />
         <mark key="]" line="66" column="24" />
@@ -941,9 +915,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
-      </file>
-      <file name="/Kotlin Console" timestamp="1547090052739">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/resources/phantom.js" timestamp="1544166743536">
         <mark key="[" line="37" column="4" />
@@ -980,8 +951,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.2.RELEASE/spring-web-5.1.2.RELEASE-sources.jar!/org/springframework/web/bind/annotation/PostMapping.java" timestamp="1547205087557" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.2.RELEASE/spring-web-5.1.2.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java" timestamp="1547205830555" />
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/BoardService.java" timestamp="1544166670934">
         <mark key="[" line="129" column="73" />
         <mark key="]" line="129" column="83" />
@@ -1048,7 +1017,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="44" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/HttpEntityMethodProcessor.java" timestamp="1547206056606" />
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/pom.xml" timestamp="1543471680119">
         <mark key="[" line="60" column="21" />
         <mark key="]" line="64" column="26" />
@@ -1072,14 +1040,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/Date.java" timestamp="1547089884404" />
       <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/domain/PartyMemberMineController.java" timestamp="1547212699825">
         <mark key="[" line="68" column="35" />
         <mark key="]" line="68" column="46" />
         <mark key="^" line="68" column="46" />
         <mark key="." line="68" column="46" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.0.1/kafka-clients-2.0.1.jar!/META-INF/services/org.apache.kafka.common.config.provider.ConfigProvider" timestamp="1547106960535" />
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_hdfs/src/main/resources/application.properties" timestamp="1541579506814">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="21" />
@@ -1091,13 +1057,6 @@
         <mark key="]" line="385" column="91" />
         <mark key="." line="385" column="91" />
         <mark key="^" line="385" column="91" />
-      </file>
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/resources/mapper/CollectionDao.xml" timestamp="1547264358187">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="12" column="7" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="C:/code/fasttest/pom.xml" timestamp="1543555497162">
         <mark key="[" line="31" column="39" />
@@ -1135,6 +1094,13 @@
         <mark key="." line="98" column="28" />
         <mark key="^" line="98" column="28" />
       </file>
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/resources/mapper/HdActivityRegistersignDao.xml" timestamp="1547283161586">
+        <mark key="'" line="42" column="2" />
+        <mark key="[" line="21" column="116" />
+        <mark key="]" line="21" column="138" />
+        <mark key="." line="21" column="138" />
+        <mark key="^" line="21" column="138" />
+      </file>
       <file name="$USER_HOME$/code/BIGDATA/MDH_PASSINF_DATA/mdh_data_passinf_mq_datasource/src/main/production-resources/activeMQ63.xml" timestamp="1546930345453">
         <mark key="[" line="26" column="41" />
         <mark key="]" line="26" column="57" />
@@ -1147,48 +1113,26 @@
         <mark key="." line="37" column="64" />
         <mark key="^" line="37" column="64" />
       </file>
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/domain/ActivityController.java" timestamp="1547278628175">
-        <mark key="[" line="55" column="57" />
-        <mark key="]" line="55" column="64" />
-        <mark key="." line="55" column="64" />
-        <mark key="^" line="55" column="64" />
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/domain/ActivityController.java" timestamp="1547284419726">
+        <mark key="'" line="49" column="20" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/1.0.2/kafka_2.11-1.0.2.jar!/kafka/javaapi/OffsetRequest.class" timestamp="1547176304853" />
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_hdfs/src/main/java/com/miras/data/passinf/hdfs/BlankCharacterFilterBolt.java" timestamp="1541645666321">
         <mark key="[" line="45" column="32" />
         <mark key="]" line="45" column="32" />
         <mark key="." line="45" column="32" />
         <mark key="^" line="44" column="11" />
       </file>
-      <file name="/pom.xml" timestamp="1547211715554" />
       <file name="C:/code/BIGDATA/MDHTrafficMapReduce/car-route-combine/pom.xml" timestamp="1543815706098">
         <mark key="[" line="60" column="21" />
         <mark key="]" line="63" column="30" />
         <mark key="." line="63" column="30" />
         <mark key="^" line="63" column="30" />
       </file>
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dao/PartyMemberMineDao.java" timestamp="1547208152493">
-        <mark key="'" line="55" column="25" />
-        <mark key="[" line="54" column="66" />
-        <mark key="]" line="54" column="67" />
-        <mark key="." line="54" column="67" />
-        <mark key="^" line="54" column="67" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="57" filename="$USER_HOME$/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/web/PassAnalyzeController.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/web/PassAnalyzeController.java" />
-      <jump line="212" column="22" filename="$USER_HOME$/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/web/PassAnalyzeController.java" />
-      <jump line="180" column="65" filename="$USER_HOME$/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/web/PassAnalyzeController.java" />
-      <jump line="226" column="0" filename="/PassAnalyzeController.java" />
-      <jump line="310" column="29" filename="$USER_HOME$/code/BIGDATA/MDHTrafficDB/src/main/java/com/htsite/modules/basic_data/web/PassAnalyzeController.java" />
-      <jump line="243" column="38" filename="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" />
-      <jump line="111" column="6" filename="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" />
-      <jump line="264" column="0" filename="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/src/main/java/com/miras/mapreduce/CarRouteCombine.java" />
-      <jump line="2343" column="54" filename="$USER_HOME$/Downloads/Hybrid Assistant_V2.246.2/classes-dex2jar/priusfan/info/bthsd10/scanner.class" />
-      <jump line="62" column="26" filename="$USER_HOME$/code/BIGDATA/MDHTrafficMapReduce/car-route-combine-tag/pom.xml" />
-      <jump line="141" column="47" filename="$USER_HOME$/code/BIGDATA/MDHTrafficDB/src/main/resources/spring-context.xml" />
       <jump line="76" column="47" filename="$USER_HOME$/code/BIGDATA/MDHTrafficDB/src/main/production-resources/htsite.properties" />
       <jump line="26" column="20" filename="$USER_HOME$/code/fast-test/src/main/java/Application.java" />
       <jump line="27" column="20" filename="$USER_HOME$/code/fast-test/src/main/java/Application.java" />
@@ -1276,66 +1220,78 @@
       <jump line="27" column="0" filename="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/resources/mapper/CollectionDao.xml" />
       <jump line="67" column="20" filename="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/domain/PublicityNoticeController.java" />
       <jump line="56" column="35" filename="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/resources/mapper/HdActivityDao.xml" />
+      <jump line="46" column="2" filename="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/resources/mapper/HdActivityRegistersignDao.xml" />
+      <jump line="51" column="49" filename="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/service/HdActivityServiceImpl.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/service/HdActivityServiceImpl.java" />
+      <jump line="49" column="20" filename="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/domain/ActivityController.java" />
+      <jump line="5" column="13" filename="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/model/HdActivity.java" />
+      <jump line="56" column="0" filename="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/model/HdActivity.java" />
+      <jump line="8" column="4" filename="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/model/HdActivity.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/model/HdActivity.java" />
+      <jump line="10" column="21" filename="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/model/HdActivity.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/model/HdActivity.java" />
+      <jump line="111" column="7" filename="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/service/HdActivityServiceImpl.java" />
+      <jump line="49" column="89" filename="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/resources/mapper/HdActivityDao.xml" />
+      <jump line="14" column="13" filename="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/model/HdActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>getDateRange</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>getDateRange</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpXD4=</text>
+        <text>Apply</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IERhdGFOb3RGb3VuZEV4Y2VwdGlvbigi5LiN5a2Y5Zyo5q2k5rS75YqoIik7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRGF0ZVJhbmdlIGpvaW5EYXRlUmFuZ2U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlR2VuZXJhdGVkS2V5cz0idHJ1ZSIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDnnIvnnIvmtLvliqjmmK/lkKblrZjlnKgKICAgICAgICBIZEFjdGl2aXR5IGFjdGl2aXR5ID0gaGRBY3Rpdml0eURhby5nZXRCeUlkKHBlcmlvZElkKTsKICAgICAgICBpZiAoYWN0aXZpdHkgPT0gbnVsbCkgewogICAgICAgICAgICB0aHJvdyBuZXcgRGF0YU5vdEZvdW5kRXhjZXB0aW9uKCLkuI3lrZjlnKjmraTmtLvliqgiKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRlUmFuZ2Uuc2UK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoQ29sbGVjdGlvbnMuaXMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzaWduLmdldElzQXBwbHkoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaGRBY3Rpdml0eS5nZXREYXRlUmFuZ2VMaXN0KCkgPT0gbnVsbCB8fCBoZEFjdGl2aXR5LmdldCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzaWduLnNldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBIZEFjdGl2aXR5UmVnaXN0ZXJzaWduIAo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcGFyYW0gaGRBY3Rpdml0eQogICAgICogQHJldHVybgogICAgICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmn6Xor6Llh7rmtLvliqjmnaUK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcGFyYW0gaGRBY3Rpdml0eQogICAgICogQHJldHVybgogICAgICovCiAgICBIZEFjdGl2aXR5IHNhdmUoSGRBY3Rpdml0eSBoZEFjdGl2aXR5KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>s/Client//g</text>
+        <text>s/Apply/Sign/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpXD4=</last-search>
+      <last-search>Apply</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpXD4=</last-pattern>
-      <last-replace />
-      <last-substitute>Client</last-substitute>
+      <last-pattern>Apply</last-pattern>
+      <last-replace>Sign</last-replace>
+      <last-substitute>Apply</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>&quot;m</entry>
         <entry>Type</entry>
         <entry>font</entry>
         <entry>value.dcoll</entry>
@@ -1355,9 +1311,9 @@
         <entry>\.</entry>
         <entry>Client</entry>
         <entry encoding="base64">XDxpXD4=</entry>
+        <entry>Apply</entry>
       </history-search>
       <history-cmd>
-        <entry>/s/Type/Loca/g</entry>
         <entry>s/Type/Loca/g</entry>
         <entry>s/font/span/g</entry>
         <entry encoding="base64">PDE5LDI5PnMvXi8j</entry>
@@ -1377,6 +1333,7 @@
         <entry>s/year/day/g</entry>
         <entry>s/\./:/g</entry>
         <entry>s/Client//g</entry>
+        <entry>s/Apply/Sign/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
