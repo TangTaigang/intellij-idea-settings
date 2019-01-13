@@ -206,9 +206,9 @@
         <mark key="." line="40" column="38" />
         <mark key="^" line="40" column="38" />
       </file>
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/domain/SuggestController.java" timestamp="1547344310705">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/domain/SuggestController.java" timestamp="1547347107508">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="36" column="103" />
         <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/code/BIGDATA/upload-ws-api-laishanfenju/src/main/java/com/miras/uploadwsapi/VehicleService.java" timestamp="1546677832710">
@@ -305,6 +305,12 @@
         <mark key="]" line="76" column="0" />
         <mark key="^" line="71" column="41" />
         <mark key="." line="76" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/domain/JoinHandController.java" timestamp="1547347119181">
+        <mark key="[" line="26" column="43" />
+        <mark key="]" line="26" column="43" />
+        <mark key="^" line="26" column="64" />
+        <mark key="." line="26" column="43" />
       </file>
       <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/DuplicateActionException.java" timestamp="1547274760844">
         <mark key="[" line="2" column="3" />
@@ -1274,46 +1280,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CgoK5ZKo6K+i44CB5bu66K6u5Zue5aSN</text>
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>Apply</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BFbnRpdHkub2soc3VnZ2VzdFNlcnZpY2UucmVwbHkoc3VnZ2VzdCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJwYWdlU2l6ZSIsIGRlZmF1bHRWYWx1ZSA9ICIxMCIpIGludCBwYWdlU2l6ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJwYWdlIiwgZGVmYXVsdFZhbHVlID0gIjEiKSBpbnQgcGFnZSkgewo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgoK5ZKo6K+i44CB5bu66K6u5Zue5aSN</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdWdnZXN0RGFvLnJlcGx5KHN1Z2dlc3QuZ2V0KTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHVzZXJJZCA9IFVzZXJVdGlscy5nZXRVc2VySWQoKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text encoding="base64">CgoK5ZKo6K+i44CB5bu66K6u5Zue5aSN</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzdWdnZXN0RGFvLnJlcGx5KHN1Z2dlc3QuZ2V0KTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzdQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhaWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHVzZXJJZCA9IFVzZXJVdGlscy5nZXRVc2VySWQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/Apply/Sign/g</text>
