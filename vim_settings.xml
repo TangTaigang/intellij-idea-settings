@@ -257,12 +257,12 @@
         <mark key="." line="13" column="24" />
         <mark key="^" line="16" column="28" />
       </file>
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/service/HdActivityServiceImpl.java" timestamp="1547368271365">
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/service/HdActivityServiceImpl.java" timestamp="1547370527522">
         <mark key="'" line="157" column="6" />
-        <mark key="[" line="51" column="54" />
-        <mark key="]" line="51" column="76" />
-        <mark key="." line="51" column="76" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="93" />
         <mark key="^" line="51" column="76" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/code/BIGDATA/MagicSquareV1/src/main/java/com/huitong/miras/magicsquare/services/MailService.java" timestamp="1544166788037">
         <mark key="[" line="72" column="98" />
@@ -574,9 +574,9 @@
         <mark key="^" line="372" column="13" />
         <mark key="." line="372" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547367554057">
+      <file name="/Dummy.txt" timestamp="1547370716904">
         <mark key="a" line="0" column="2" />
-        <mark key="[" line="0" column="10" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="27" />
@@ -624,11 +624,12 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/resources/mapper/HdActivityDao.xml" timestamp="1547368288209">
-        <mark key="'" line="35" column="35" />
-        <mark key="[" line="94" column="13" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/resources/mapper/HdActivityDao.xml" timestamp="1547370680218">
+        <mark key="'" line="89" column="7" />
+        <mark key="[" line="103" column="14" />
+        <mark key="]" line="103" column="23" />
+        <mark key="." line="103" column="23" />
+        <mark key="^" line="103" column="23" />
       </file>
       <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/resources/application-local.yml" timestamp="1547274273726">
         <mark key="[" line="51" column="19" />
@@ -722,7 +723,7 @@
         <mark key="^" line="26" column="40" />
         <mark key="." line="26" column="40" />
       </file>
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dao/HdActivityDao.java" timestamp="1547368256372">
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/dao/HdActivityDao.java" timestamp="1547370537166">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="28" />
         <mark key="." line="47" column="0" />
@@ -1189,12 +1190,11 @@
         <mark key="." line="37" column="64" />
         <mark key="^" line="37" column="64" />
       </file>
-      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/domain/ActivityController.java" timestamp="1547368114589">
+      <file name="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/domain/ActivityController.java" timestamp="1547371266296">
         <mark key="'" line="79" column="76" />
-        <mark key="[" line="68" column="51" />
-        <mark key="]" line="68" column="70" />
-        <mark key="." line="68" column="70" />
-        <mark key="^" line="68" column="70" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="C:/code/WEIHAI/MDH_PASSINF_DATA-master/mdh_data_passinf_hdfs/src/main/java/com/miras/data/passinf/hdfs/BlankCharacterFilterBolt.java" timestamp="1541645666321">
         <mark key="[" line="45" column="32" />
@@ -1223,7 +1223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="39" filename="$USER_HOME$/code/BIGDATA/MagicSquareV1/pom.xml" />
       <jump line="487" column="37" filename="$USER_HOME$/code/BIGDATA/MagicSquareV1/pom.xml" />
       <jump line="21" column="0" filename="$USER_HOME$/code/BIGDATA/MagicSquareV1/pom.xml" />
       <jump line="368" column="52" filename="$USER_HOME$/code/BIGDATA/MagicSquareV1/pom.xml" />
@@ -1323,66 +1322,66 @@
       <jump line="27" column="0" filename="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/resources/mapper/JoinHandDao.xml" />
       <jump line="50" column="76" filename="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/java/com/sooc/domain/ActivityController.java" />
       <jump line="35" column="35" filename="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/resources/mapper/HdActivityDao.xml" />
+      <jump line="89" column="7" filename="$USER_HOME$/code/rencai/cyrc_mobile_server/src/main/resources/mapper/HdActivityDao.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpc19zdGF0ZSBpbiAoMiwzLDQsNSkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>页大小</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>a\.?</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB1c2VySWQgICDnlKjmiLcgaWQK</text>
+        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCJ2aWV3L3tpZH0iKQogICAgcHVibGljIFJlc3BFbnRpdHk8SGRBY3Rpdml0eT4gdmlldyhAUGF0aFZhcmlhYmxlIGludCBpZCkgewogICAgICAgIHJldHVybiBSZXNwRW50aXR5Lm9rKGhkQWN0aXZpdHlTZXJ2aWNlLmdldEJ5SWQoaWQpKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpc19zdGF0ZSBpbiAoMiwzLDQsNSkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExpc3Q8SGRBY3Rpdml0eT4gbGlzdFVzZXJDcmVhdGVkQWN0aXZpdHkoaW50IHBhZ2VTaXplLCBpbnQgcGFnZSk7Cg==</text>
+        <text encoding="base64">CiAgICBAR2V0TWFwcGluZygidmlldy97aWR9IikKICAgIHB1YmxpYyBSZXNwRW50aXR5PEhkQWN0aXZpdHk+IHZpZXdKb2luZWQoQFBhdGhWYXJpYWJsZSBpbnQgaWQpIHsKICAgICAgICByZXR1cm4gUmVzcEVudGl0eS5vayhoZEFjdGl2aXR5U2VydmljZS5nZXRCeUlkKGlkKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIExpc3Q8SGRBY3Rpdml0eT4gcXVlcnlVc2VyQ3JlYXRlZEFjdGl2aXR5KGludCBwYWdlU2l6ZSwgaW50IHBhZ2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaGRBY3Rpdml0eURhby5xdWVyeVVzZXJDcmVhdGVkQWN0aXZpdHkoVXNlclV0aWxzLmdldFVzZXJJZCgpLCBwYWdlU2l6ZSwgcGFnZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIExpc3Q8SGRBY3Rpdml0eT4gbGlzdFVzZXJKb2luZWRBY3Rpdml0eShpbnQgcGFnZVNpemUsIGludCBwYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaGRBY3Rpdml0eURhby5xdWVyeVVzZXJDcmVhdGVkQWN0aXZpdHkoVXNlclV0aWxzLmdldFVzZXJJZCgpLCBwYWdlU2l6ZSwgcGFnZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaGRBY3Rpdml0eURhby5xdWVyeVVzZXJKb2luZWRBY3Rpdml0eShVc2VyVXRpbHMuZ2V0VXNlcklkKCksIHBhZ2VTaXplLCBwYWdlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBwYWdlU2l6ZQogICAgICogQHBhcmFtIHBhZ2UK</text>
+        <text encoding="base64">ICAgICAgICBXSEVSRSBvcmdfaW5mb19pZCA9ICN7dXNlcklkfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXNwRW50aXR5PExpc3Q8SGRBY3Rpdml0eT4+ICBsaXN0Sm9pbmVkKCl7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpc19zdGF0ZSBpbiAoMiwzLDQsNSkK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgoK5LqS5biu5LqS5Yqp77ya</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIExpc3Q8SGRBY3Rpdml0eT4gbGlzdFVzZXJDcmVhdGVkQWN0aXZpdHkoaW50IHBhZ2VTaXplLCBpbnQgcGFnZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExpc3Q8SGRBY3Rpdml0eT4gcXVlcnlVc2VyQ3JlYXRlZEFjdGl2aXR5KGludCBwYWdlU2l6ZSwgaW50IHBhZ2UpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/a\.?/g</text>
+        <text>s/, /, a\./g</text>
       </register>
     </registers>
     <search>
-      <last-search>a\.?</last-search>
+      <last-search encoding="base64">LCA=</last-search>
       <last-offset />
-      <last-pattern>a\.?</last-pattern>
-      <last-replace>g</last-replace>
-      <last-substitute>a\.?</last-substitute>
+      <last-pattern encoding="base64">LCA=</last-pattern>
+      <last-replace>, a\.</last-replace>
+      <last-substitute encoding="base64">LCA=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>kk</entry>
         <entry>ccarnumber</entry>
         <entry>topic</entry>
         <entry>clientId</entry>
@@ -1402,9 +1401,9 @@
         <entry>a(\.?)</entry>
         <entry>a.?</entry>
         <entry>a\.?</entry>
+        <entry encoding="base64">LCA=</entry>
       </history-search>
       <history-cmd>
-        <entry>s/kk/dj/g</entry>
         <entry>s/ccarnumber/carNumber/g</entry>
         <entry>s/topic/bootstrapServers</entry>
         <entry>s/clientId/autoResetConfig/g</entry>
@@ -1424,6 +1423,7 @@
         <entry>s/a(\.?)//g</entry>
         <entry>s/a.?/g</entry>
         <entry>s/a\.?/g</entry>
+        <entry>s/, /, a\./g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
